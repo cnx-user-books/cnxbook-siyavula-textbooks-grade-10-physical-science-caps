@@ -1,0 +1,596 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Speed and velocity</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38791</md:content-id>
+  <md:title>Speed and velocity</md:title>
+  <md:abstract/>
+  <md:uuid>39309f45-1a3e-479b-be62-1ea0d32994fc</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid5">
+      <title>Speed, Average Velocity and Instantaneous Velocity</title>
+<definition id="fhsst_id518"><term id="termfhsst_id518"> Velocity </term> <meaning id="meaningfhsst_id518">
+      <para id="id64209">Velocity is the rate of change of displacement. </para>
+      </meaning></definition>
+<definition id="fhsst_id521"><term id="termfhsst_id521"> Instantaneous velocity </term> <meaning id="meaningfhsst_id521">
+      <para id="id64227">Instantaneous velocity is the velocity of a body at a specific instant in time. </para>
+      </meaning></definition>
+<definition id="fhsst_id524"><term id="termfhsst_id524"> Average velocity </term> <meaning id="meaningfhsst_id524">
+      <para id="id64246">Average velocity is the total displacement of a body over a time interval. </para>
+      </meaning></definition>
+      <para id="id64258">Velocity is the rate of change of position. It tells us how much an object's position changes in time. This is the same as the displacement divided by the time taken. Since displacement is a vector and time taken is a scalar, velocity is also a vector. We use the symbol <m:math overflow="scroll"><m:mi>v</m:mi></m:math> for velocity. If we have a displacement of <m:math overflow="scroll"><m:mrow><m:mi>Δ</m:mi><m:mi>x</m:mi></m:mrow></m:math> and a time taken of <m:math overflow="scroll"><m:mrow><m:mi>Δ</m:mi><m:mi>t</m:mi></m:mrow></m:math>, <m:math overflow="scroll"><m:mi>v</m:mi></m:math> is then defined as:</para>
+      <equation id="id64307"><m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mi> velocity </m:mi>
+                    <m:mspace width="4pt"/><m:mrow>
+              <m:mo>(</m:mo>
+              <m:mi> in </m:mi>
+              <m:mspace width="4pt"/>
+              <m:mi mathvariant="normal">m</m:mi>
+              <m:mo>·</m:mo>
+              <m:msup>
+                <m:mi mathvariant="normal">s</m:mi>
+                <m:mrow>
+                  <m:mo>-</m:mo>
+                  <m:mn>1</m:mn>
+                </m:mrow>
+              </m:msup>
+              <m:mo>)</m:mo>
+            </m:mrow>
+</m:mrow></m:mrow>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mfrac>
+                  <m:mrow>
+                    <m:mi> change </m:mi>
+                    <m:mspace width="4pt"/>
+                    <m:mi> in </m:mi>
+                    <m:mspace width="4pt"/>
+                    <m:mi> displacement </m:mi>
+                    <m:mspace width="4pt"/>
+                    <m:mo>(</m:mo>
+                    <m:mi> in </m:mi>
+                    <m:mspace width="4pt"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mi> change </m:mi>
+                    <m:mspace width="4pt"/>
+                    <m:mi> in </m:mi>
+                    <m:mspace width="4pt"/>
+                    <m:mi> time </m:mi>
+                    <m:mspace width="4pt"/>
+                    <m:mo>(</m:mo>
+                    <m:mi> in </m:mi>
+                    <m:mspace width="4pt"/>
+                    <m:mi mathvariant="normal">s</m:mi>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                </m:mfrac>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>v</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mfrac>
+                  <m:mrow>
+                    <m:mi>Δ</m:mi>
+                    <m:mi>x</m:mi>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mi>Δ</m:mi>
+                    <m:mi>t</m:mi>
+                  </m:mrow>
+                </m:mfrac>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      <para id="id64460">Velocity can be positive or negative. Positive values of velocity mean that the object is moving away from the reference point or origin and negative values mean that the object is moving towards the reference point or origin.</para>
+<note id="notfhsst_id615" type="tip">An instant in time is different from the time taken or the time interval. It is therefore useful to use the symbol <m:math overflow="scroll"><m:mi>t</m:mi></m:math> for an instant in time (for example during the 4<sup>th</sup> second) and the symbol <m:math overflow="scroll"><m:mrow><m:mi>Δ</m:mi><m:mi>t</m:mi></m:mrow></m:math> for the time taken (for example during the first 5 seconds of the motion).</note>
+      <para id="id64500">Average velocity (symbol <m:math overflow="scroll"><m:mi>v</m:mi></m:math>) is the displacement for the whole motion divided by the time taken for the whole motion. Instantaneous velocity is the velocity at a specific instant in time.</para>
+      <para id="eip-536">This is terminology that occurs quite often and it is important to always remember that instantaneous and average quantities are not always the same. In fact, they can be very different. The magnitude of the instantaneous velocity is the same as the slope of the line which is a tangent to the displacement curve at the time of measurement. The magnitude of the average velocity is the same as the slope of the line between the start and end points of the interval. </para><para id="eip-668">If you want to think about why the tangent at a particular time gives us the velocity remember that the velocity is the slope of the displacement curve. Now, a simple why to start thinking about it is to image you could zoom (magnify) the displacement curve at the point. The more you zoom in the more it will look like a straight line at the point and that straight line will be very similar to the tangent line at the point. This isn't a mathematical proof but you will learn one later on in mathematics about limits and slopes. </para><para id="id64514">(Average) Speed (symbol <m:math overflow="scroll"><m:mi>s</m:mi></m:math>) is the distance travelled (<m:math overflow="scroll"><m:mi>D</m:mi></m:math>) divided by the time taken (<m:math overflow="scroll"><m:mrow><m:mi>Δ</m:mi><m:mi>t</m:mi></m:mrow></m:math>) for the journey. Distance and time are scalars and therefore speed will also be a scalar. Speed is calculated as follows:</para>
+      <equation id="id64549">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi> speed </m:mi>
+            <m:mspace width="4pt"/>
+            <m:mrow>
+              <m:mo>(</m:mo>
+              <m:mi> in </m:mi>
+              <m:mspace width="4pt"/>
+              <m:mi mathvariant="normal">m</m:mi>
+              <m:mo>·</m:mo>
+              <m:msup>
+                <m:mi mathvariant="normal">s</m:mi>
+                <m:mrow>
+                  <m:mo>-</m:mo>
+                  <m:mn>1</m:mn>
+                </m:mrow>
+              </m:msup>
+              <m:mo>)</m:mo>
+            </m:mrow>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mrow>
+                <m:mi> distance </m:mi>
+                <m:mspace width="4pt"/>
+                <m:mo>(</m:mo>
+                <m:mi> in </m:mi>
+                <m:mspace width="4pt"/>
+                <m:mi mathvariant="normal">m</m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+              <m:mrow>
+                <m:mi> time </m:mi>
+                <m:mspace width="4pt"/>
+                <m:mo>(</m:mo>
+                <m:mi> in </m:mi>
+                <m:mspace width="4pt"/>
+                <m:mi mathvariant="normal">s</m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+            </m:mfrac>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <equation id="id64639"><m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>s</m:mi>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mi>D</m:mi>
+              <m:mrow>
+                <m:mi>Δ</m:mi>
+                <m:mi>t</m:mi>
+              </m:mrow>
+            </m:mfrac>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id64664">Instantaneous speed is the magnitude of instantaneous velocity. It has the same value, but no direction.</para>
+<exercise id="secfhsst_id678"><title> Average speed and average velocity </title>
+      <problem id="probfhsst_id679">
+      <para id="id64681">James walks 2 km away from home in 30 minutes. He then turns around and walks back home along the same path, also in 30 minutes. Calculate James' average speed and average velocity.</para>
+      <para id="id64689">
+        <figure id="id64693"><media id="id64693_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C2_009.png" id="id64693_onlineimage" width="108"><!-- NOTE: attribute width changes image size online (pixels). original width is 68. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C2_009.eps" id="id64693_printimage"/>
+          </media>
+        </figure>
+      </para>
+      
+      </problem>
+      <solution id="solfhsst_id691"> <list id="listfhsst_id691" list-type="enumerated" number-style="arabic" class="stepwise"><item> <label> Identify what information is given and what is asked for </label>
+      <para id="id64721">The question explicitly gives</para>
+      <list id="id64724" display="block" list-type="bulleted">
+        <item id="uid29">the distance and time out (2 km in 30 minutes)
+</item>
+        <item id="uid30">the distance and time back (2 km in 30 minutes)
+</item>
+      </list>
+      </item> <item> <label> Check that all units are SI units. </label>
+      <para id="id64758">The information is not in SI units and must therefore be converted.</para>
+      <para id="id64762">To convert km to m, we know that:</para>
+      <equation id="id64767"><m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mrow>
+                  <m:mn>1</m:mn>
+                  <m:mspace width="4pt"/>
+                  <m:mi> km </m:mi>
+                </m:mrow>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>1</m:mn>
+                  <m:mspace width="4pt"/>
+                  <m:mn>000</m:mn>
+                  <m:mspace width="4pt"/>
+                  <m:mi mathvariant="normal">m</m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mrow>
+                  <m:mo>∴</m:mo>
+                  <m:mspace width="1.em"/>
+                  <m:mn>2</m:mn>
+                  <m:mspace width="4pt"/>
+                  <m:mi> km </m:mi>
+                </m:mrow>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>2</m:mn>
+                  <m:mspace width="4pt"/>
+                  <m:mn>000</m:mn>
+                  <m:mspace width="4pt"/>
+                  <m:mi mathvariant="normal">m</m:mi>
+                  <m:mspace width="1.em"/>
+                  <m:mrow>
+                    <m:mo>(</m:mo>
+                    <m:mi> multiply both sides by</m:mi><m:mspace width="1pt"/>
+                    <m:mn>2</m:mn>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      <para id="id64905">Similarly, to convert 30 minutes to seconds,</para>
+      <equation id="id64911"><m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mrow>
+                  <m:mn>1</m:mn>
+                  <m:mspace width="4pt"/>
+                  <m:mi> min </m:mi>
+                </m:mrow>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>60</m:mn><m:mspace width="2pt"/>
+                  <m:mi mathvariant="normal">s</m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mrow>
+                  <m:mo>∴</m:mo>
+                  <m:mspace width="1.em"/>
+                  <m:mn>30</m:mn>
+                  <m:mspace width="4pt"/>
+                  <m:mi> min </m:mi>
+                </m:mrow>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>1</m:mn>
+                  <m:mspace width="4pt"/>
+                  <m:mn>800</m:mn>
+                  <m:mspace width="4pt"/>
+                  <m:mi mathvariant="normal">s</m:mi>
+                  <m:mspace width="1.em"/>
+                  <m:mrow>
+                    <m:mo>(</m:mo>
+                    <m:mi> multiply both sides by </m:mi><m:mspace width="1pt"/>
+                    <m:mn> 30</m:mn>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      </item> <item> <label> Determine James' displacement and distance. </label>
+      <para id="id65016">James started at home and returned home, so his displacement is 0 m.</para>
+      <equation id="id65020">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>Δ</m:mi>
+            <m:mi>x</m:mi>
+            <m:mo>=</m:mo>
+            <m:mn>0</m:mn>
+            <m:mspace width="4pt"/>
+            <m:mi mathvariant="normal">m</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id65046">James walked a total distance of 4 000 m (2 000 m out and 2 000 m back).</para>
+      <equation id="id65052"><m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>D</m:mi>
+            <m:mo>=</m:mo>
+            <m:mn>4</m:mn>
+            <m:mspace width="4pt"/>
+            <m:mn>000</m:mn>
+            <m:mspace width="0.277778em"/>
+            <m:mi mathvariant="normal">m</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+      </item> <item> <label> Determine his total time. </label>
+      <para id="id65086">James took 1 800 s to walk out and 1 800 s to walk back.</para>
+      <equation id="id65090">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>Δ</m:mi>
+            <m:mi>t</m:mi>
+            <m:mo>=</m:mo>
+            <m:mn>3</m:mn>
+            <m:mspace width="4pt"/>
+            <m:mn>600</m:mn>
+            <m:mspace width="0.277778em"/>
+            <m:mi mathvariant="normal">s</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+      </item> <item> <label> Determine his average speed </label>
+      <equation id="id65125">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>s</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mfrac>
+                  <m:mi>D</m:mi>
+                  <m:mrow>
+                    <m:mi>Δ</m:mi>
+                    <m:mi>t</m:mi>
+                  </m:mrow>
+                </m:mfrac>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mfrac>
+                  <m:mrow>
+                    <m:mn>4</m:mn>
+                    <m:mspace width="4pt"/>
+                    <m:mn>000</m:mn>
+                    <m:mspace width="4pt"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mn>3</m:mn>
+                    <m:mspace width="4pt"/>
+                    <m:mn>600</m:mn>
+                    <m:mspace width="4pt"/>
+                    <m:mi mathvariant="normal">s</m:mi>
+                  </m:mrow>
+                </m:mfrac>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>1</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>11</m:mn>
+                  <m:mspace width="4pt"/>
+                  <m:mspace width="0.166667em"/>
+                  <m:mi mathvariant="normal">m</m:mi>
+                  <m:mo>·</m:mo>
+                  <m:msup>
+                    <m:mi mathvariant="normal">s</m:mi>
+                    <m:mrow>
+                      <m:mo>-</m:mo>
+                      <m:mn>1</m:mn>
+                    </m:mrow>
+                  </m:msup>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      </item> <item> <label> Determine his average velocity </label>
+      <equation id="id65249">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>v</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mfrac>
+                  <m:mrow>
+                    <m:mi>Δ</m:mi>
+                    <m:mi>x</m:mi>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mi>Δ</m:mi>
+                    <m:mi>t</m:mi>
+                  </m:mrow>
+                </m:mfrac>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mfrac>
+                  <m:mrow>
+                    <m:mn>0</m:mn>
+                    <m:mspace width="4pt"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mn>3</m:mn>
+                    <m:mspace width="4pt"/>
+                    <m:mn>600</m:mn>
+                    <m:mspace width="4pt"/>
+                    <m:mi mathvariant="normal">s</m:mi>
+                  </m:mrow>
+                </m:mfrac>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>0</m:mn>
+                  <m:mspace width="4pt"/>
+                  <m:mspace width="0.166667em"/>
+                  <m:mi mathvariant="normal">m</m:mi>
+                  <m:mo>·</m:mo>
+                  <m:msup>
+                    <m:mi mathvariant="normal">s</m:mi>
+                    <m:mrow>
+                      <m:mo>-</m:mo>
+                      <m:mn>1</m:mn>
+                    </m:mrow>
+                  </m:msup>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      
+      </item> </list> </solution>
+</exercise>
+
+      <section id="uid37">
+        <title>Differences between Speed and Velocity</title>
+        <para id="id66482">The differences between speed and velocity can be summarised as:</para>
+        <table id="id66486" summary="">
+          <tgroup cols="2">
+            <tbody>
+              <row>
+                <entry>
+                  <emphasis effect="bold">Speed</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">Velocity</emphasis>
+                </entry>
+              </row>
+              <row>
+                <entry>1. depends on the path taken</entry>
+                <entry>1. independent of path taken</entry>
+              </row>
+              <row>
+                <entry>2. always positive</entry>
+                <entry>2. can be positive or negative</entry>
+              </row>
+              <row>
+                <entry>3. is a scalar</entry>
+                <entry>3. is a vector</entry>
+              </row>
+              <row>
+                <entry>4. no dependence on direction and so is only positive</entry>
+                <entry>4. direction can be guessed from the sign (i.e. positive or negative)</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <!--empty paragraphs get left behind.-->
+        <para id="id66611">Additionally, an object that makes a round trip, i.e. travels away from its starting point and then returns to the same point has zero velocity but travels a non-zero speed.</para>
+<section id="secfhsst_id1252"><title> Displacement and related quantities </title>
+        <list id="id66624" display="block" list-type="enumerated"><item id="uid38">Theresa has to walk to the shop to buy some milk. After walking <m:math><m:mn>100</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi></m:math>, she realises that she does not have enough money, and goes back home. If it took her two minutes to leave and come back, calculate the following:
+<list id="id66641" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid39">How long was she out of the house (the time interval <m:math overflow="scroll"><m:mrow><m:mi>Δ</m:mi><m:mi>t</m:mi></m:mrow></m:math> in seconds)?
+</item><item id="uid40">How far did she walk (distance (D))?
+</item><item id="uid41">What was her displacement (<m:math overflow="scroll"><m:mrow><m:mi>Δ</m:mi><m:mi>x</m:mi></m:mrow></m:math>)?
+</item><item id="uid42">What was her average velocity (in m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>)?
+</item><item id="uid43">What was her average speed (in m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>)?
+</item></list><figure id="id66785"><media id="id66785_media" alt=""><image mime-type="image/png" src="../../media/PG10C2_016.png" id="id66785_onlineimage" width="347"><!-- NOTE: attribute width changes image size online (pixels). original width is 347. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C2_016.eps" id="id66785_printimage"/></media></figure><link class="fullmarks" window="new" url="http://www.fhsst.org/laH">Click here for the solution</link></item>
+          <item id="uid44">Desmond is watching a straight stretch of road from his classroom window. He can see two poles which he earlier measured to be <m:math><m:mn>50</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi></m:math> apart. Using his stopwatch, Desmond notices that it takes <m:math><m:mn>3</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">s</m:mi></m:math> for most cars to travel from the one pole to the other.
+<list id="id66815" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid45">Using the equation for velocity (<m:math overflow="scroll"><m:mi>v</m:mi></m:math> = <m:math overflow="scroll"><m:mfrac><m:mrow><m:mi>Δ</m:mi><m:mi>x</m:mi></m:mrow><m:mrow><m:mi>Δ</m:mi><m:mi>t</m:mi></m:mrow></m:mfrac></m:math>), show all the working needed to calculate the velocity of a car travelling from the left to the right.
+</item><item id="uid46">If Desmond measures the velocity of a red Golf to be <m:math><m:mo>-</m:mo><m:mn>16,67</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>, in which direction was the Gold travelling?
+Desmond leaves his stopwatch running, and notices that at <m:math><m:mi>t</m:mi><m:mo>=</m:mo><m:mn>5,0</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">s</m:mi></m:math>, a taxi passes the left pole at the same time as a bus passes the right pole. At time <m:math><m:mi>t</m:mi><m:mo>=</m:mo><m:mn>7,5</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">s</m:mi></m:math> the taxi passes the right pole. At time <m:math><m:mi>t</m:mi><m:mo>=</m:mo><m:mn>9,0</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">s</m:mi></m:math>, the bus passes the left pole.
+</item><item id="uid47">How long did it take the taxi and the bus to travel the distance between the poles?
+(Calculate the time interval (<m:math overflow="scroll"><m:mrow><m:mi>Δ</m:mi><m:mi>t</m:mi></m:mrow></m:math>) for both the taxi and the bus).
+</item><item id="uid48">What was the velocity of the taxi and the bus?
+</item><item id="uid49">What was the speed of the taxi and the bus?
+</item><item id="uid50">What was the speed of taxi and the bus in <m:math><m:mi mathvariant="normal">km</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">h</m:mi><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>?
+</item></list><figure id="id66998"><media id="id66998_media" alt=""><image mime-type="image/png" src="../../media/PG10C2_018.png" id="id66998_onlineimage" width="292"><!-- NOTE: attribute width changes image size online (pixels). original width is 192. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C2_018.eps" id="id66998_printimage"/></media></figure><link class="fullmarks" window="new" url="http://www.fhsst.org/la6">Click here for the solution</link></item>
+          <item id="uid51">A rabbit runs across a freeway. There is a car, <m:math><m:mn>100</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi></m:math> away travelling towards the rabbit.
+<figure id="id671892"><media id="id671892_media" alt="">
+              <image mime-type="image/png" src="../../media/PG10C2_019.png" id="id671892_onlineimage" width="271"><!-- NOTE: attribute width changes image size online (pixels). original width is 171. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG10C2_019.eps" id="id671892_printimage"/>
+            </media>
+          </figure>
+<list id="id67018" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid52">If the car is travelling at <m:math><m:mn>120</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">km</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">h</m:mi><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>, what is the car's speed in <m:math overflow="scroll"><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>.
+</item><item id="uid53">How long will it take the a car to travel <m:math><m:mn>100</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi></m:math>?
+</item><item id="uid54">If the rabbit is running at <m:math><m:mn>10</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">km</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">h</m:mi><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>, what is its speed in <m:math overflow="scroll"><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>?
+</item><item id="uid55">If the freeway has 3 lanes, and each lane is <m:math><m:mn>3</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi></m:math> wide, how long will it take for the rabbit to cross all three lanes?
+</item><item id="uid56">If the car is travelling in the furthermost lane from the rabbit, will the rabbit be able to cross all 3 lanes of the freeway safely?
+</item></list><link class="fullmarks" window="new" url="http://www.fhsst.org/laF">Click here for the solution</link></item>
+        </list>
+        
+        
+</section>
+<section id="secfhsst_id1289"><title> Investigation : An Exercise in Safety </title>
+        <para id="id67213">Divide into groups of 4 and perform the following investigation. Each group will be performing the same investigation, but the aim for each group will be different.</para>
+        <list id="id67220" display="block" list-type="enumerated"><item id="uid57">Choose an aim for your investigation from the following list and formulate a hypothesis:
+<list id="id67236" display="block" list-type="bulleted"><item id="uid58">Do cars travel at the correct speed limit?
+</item><item id="uid59">Is is safe to cross the road outside of a pedestrian crossing?
+</item><item id="uid60">Does the colour of your car determine the speed you are travelling at?
+</item><item id="uid61">Any other relevant question that you would like to investigate.
+</item></list></item>
+          <item id="uid62">On a road that you often cross, measure out <m:math><m:mn>50</m:mn><m:mspace width="2pt"/>
+<m:mi mathvariant="normal">m</m:mi></m:math> along a straight section, far away from traffic lights or intersections.
+</item>
+          <item id="uid63">Use a stopwatch to record the time each of 20 cars take to travel the <m:math><m:mn>50</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi></m:math> section you measured.
+</item>
+          <item id="uid64">Design a table to represent your results. Use the results to answer the question posed in the aim of the investigation. You might need to do some more measurements for your investigation. Plan in your group what else needs to be done.
+</item>
+          <item id="uid65">Complete any additional measurements and write up your investigation under the following headings:
+<list id="id67343" display="block" list-type="bulleted"><item id="uid66">Aim and Hypothesis
+</item><item id="uid67">Apparatus
+</item><item id="uid68">Method
+</item><item id="uid69">Results
+</item><item id="uid70">Discussion
+</item><item id="uid71">Conclusion
+</item></list></item>
+          <item id="uid72">Answer the following questions:
+<list id="id67432" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid73">How many cars took less than <m:math><m:mn>3</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">s</m:mi></m:math> to travel <m:math><m:mn>50</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi></m:math>?
+</item><item id="uid74">What was the shortest time a car took to travel <m:math><m:mn>50</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi></m:math>?
+</item><item id="uid75">What was the average time taken by the 20 cars?
+</item><item id="uid76">What was the average speed of the 20 cars?
+</item><item id="uid77">Convert the average speed to <m:math overflow="scroll"><m:mi mathvariant="normal">km</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">h</m:mi><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>.
+</item></list></item>
+        </list>
+        
+</section>
+      </section>
+    </section>
+
+  </content>
+</document>

@@ -1,0 +1,53 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Safety in the laboratory</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38491</md:content-id>
+  <md:title>Safety in the laboratory</md:title>
+  <md:abstract>General safety guidelines for lab work</md:abstract>
+  <md:uuid>3e1106f1-6e99-4a72-b0fc-42ba7ce023c0</md:uuid>
+</metadata>
+
+<content>
+<section id="cid1"><title>Introduction</title>
+<para id="id5632">A laboratory (be it for physics, chemistry or other sciences) can be a very dangerous and daunting place. However, if you follow a few simple guidelines you can safely carry out experiments in the lab without endangering yourself or others around you.
+</para>
+</section>
+<section id="cid2"><title>General safety rules</title>
+<para id="id7342">The following are some of the general guidelines and rules that you should always observe when working in a laboratory.
+<list id="id634222" list-type="enumerated"><item id="id632">Do not eat or drink in the lab. Do not use lab glassware to eat or drink from.
+</item>
+<item id="id6124">Always behave responsibly in the lab. Do not run around or play practical jokes.
+</item>
+<item id="id6342">In case of accidents or chemical spills call your teacher at once.
+</item>
+<item id="id7324">Always check with your teacher how to dispose of waste. Chemicals should not be disposed of down the sink.
+</item>
+<item id="id632324">Only perform the experiments that your teacher instructs you to. Never mix chemicals for fun.
+</item>
+<item id="id6242313">Never perform experiments alone. 
+</item>
+<item id="id5512">Always check the safety data of any chemicals you are going to use. 
+</item>
+<item id="id523465">Follow the given instructions exactly. Do not mix up steps or try things in a different order.
+</item>
+<item id="id73221">Be alert and careful when handling chemicals, hot glassware, etc.  
+</item>
+<item id="id5621">Ensure all bunsen burners are turned off at the end of the practical and all chemical containers are sealed.
+</item></list>
+
+</para>
+</section><section id="eip-411"><title>Hazard signs</title><para id="eip-990">The image below lists some of the common hazards signs that you may encounter. You should know what all of these mean.
+<figure id="id63458">
+            <media id="id63458_media" alt="">
+            <image mime-type="image/png" src="../../media/safety.png" id="id63458_onlineimage" width="350"><!-- NOTE: attribute width changes image size online (pixels). original width is 	350. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/safety.eps" id="id63458_printimage"/>
+            </media>
+            </figure></para></section><section id="eip-475"><title>Notes and information</title><para id="eip-86">
+You can find safety data sheets at <link window="new" url="http://www.merck-chemicals.co.za/safety-data-sheets/c_O_Sb.s1LQz0AAAEWVOYfVhTo">Merck</link>. You should always look at these data sheets anytime you work with a new chemical.
+</para>
+<para id="id7322">You should always try dispose of chemicals correctly and safely. Many chemicals cannot simply be washed down the sink. 
+</para></section>
+</content>
+
+</document>

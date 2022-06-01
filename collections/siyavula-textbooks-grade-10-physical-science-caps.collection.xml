@@ -1,0 +1,162 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11305</md:content-id>
+    <md:title>Siyavula textbooks: Grade 10 Physical Science [CAPS]</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>dfe0228f-b99c-46e0-ab4e-19945ec83d97</md:uuid>
+<md:slug>siyavula-textbooks-grade-10-physical-science-caps</md:slug>
+</metadata>
+  <col:content>
+    <col:module document="m30853"/>
+    <col:subcollection>
+      <md:title>Classification of matter</md:title>
+      <col:content>
+        <col:module document="m38708"/>
+        <col:module document="m38706"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>States of matter and the kinetic molecular theory</md:title>
+      <col:content>
+        <col:module document="m38736"/>
+        <col:module document="m38734"/>
+        <col:module document="m38730"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>The atom</md:title>
+      <col:content>
+        <col:module document="m38756"/>
+        <col:module document="m38745"/>
+        <col:module document="m38753"/>
+        <col:module document="m38741"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>The periodic table</md:title>
+      <col:content>
+        <col:module document="m38760"/>
+        <col:module document="m38757"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Chemical bonding</md:title>
+      <col:content>
+        <col:module document="m38704"/>
+        <col:module document="m38701"/>
+        <col:module document="m38684"/>
+        <col:module document="m38694"/>
+        <col:module document="m38689"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Transverse pulses</md:title>
+      <col:content>
+        <col:module document="m38801"/>
+        <col:module document="m38802"/>
+      </col:content>
+    </col:subcollection>
+    <col:module document="m38806"/>
+    <col:subcollection>
+      <md:title>Longitudinal waves</md:title>
+      <col:content>
+        <col:module document="m38782"/>
+        <col:module document="m38783"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Sound</md:title>
+      <col:content>
+        <col:module document="m38799"/>
+        <col:module document="m38800"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Electromagnetic radiation</md:title>
+      <col:content>
+        <col:module document="m38777"/>
+        <col:module document="m38778"/>
+        <col:module document="m38779"/>
+      </col:content>
+    </col:subcollection>
+    <col:module document="m38120"/>
+    <col:subcollection>
+      <md:title>Physical and chemical change</md:title>
+      <col:content>
+        <col:module document="m38709"/>
+        <col:module document="m38711"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Representing chemical change</md:title>
+      <col:content>
+        <col:module document="m38721"/>
+        <col:module document="m38726"/>
+        <col:module document="m38727"/>
+      </col:content>
+    </col:subcollection>
+    <col:module document="m37830"/>
+    <col:subcollection>
+      <md:title>Electrostatics</md:title>
+      <col:content>
+        <col:module document="m38780"/>
+        <col:module document="m38781"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Electric circuits</md:title>
+      <col:content>
+        <col:module document="m38771"/>
+        <col:module document="m38772"/>
+        <col:module document="m38773"/>
+        <col:module document="m38776"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Reactions in aqueous solution</md:title>
+      <col:content>
+        <col:module document="m38720"/>
+        <col:module document="m38719"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Quantitative aspects of chemical change</md:title>
+      <col:content>
+        <col:module document="m38717"/>
+        <col:module document="m38712"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Vectors and scalars</md:title>
+      <col:content>
+        <col:module document="m38812"/>
+        <col:module document="m38813"/>
+        <col:module document="m38815"/>
+        <col:module document="m38816"/>
+        <col:module document="m38819"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Motion in one dimension</md:title>
+      <col:content>
+        <col:module document="m38787"/>
+        <col:module document="m38788"/>
+        <col:module document="m38791"/>
+        <col:module document="m38794"/>
+        <col:module document="m38795"/>
+        <col:module document="m38796"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Mechanical energy</md:title>
+      <col:content>
+        <col:module document="m38784"/>
+        <col:module document="m38785"/>
+        <col:module document="m38786"/>
+      </col:content>
+    </col:subcollection>
+    <col:module document="m38138"/>
+    <col:module document="m38491"/>
+  </col:content>
+</col:collection>

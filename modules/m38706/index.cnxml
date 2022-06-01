@@ -1,0 +1,378 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Properties</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38706</md:content-id>
+  <md:title>Properties</md:title>
+  <md:abstract/>
+  <md:uuid>d04667d4-90a0-4ea0-b18d-5044fc47de35</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid6"><title>Electrical conductors, semi-conductors and insulators</title><para id="id66058">An <emphasis effect="bold">electrical conductor</emphasis> is a substance that allows an electrical current to pass through it. Electrical conductors are usually metals. <emphasis effect="italics">Copper</emphasis> is one of the best electrical conductors, and this is why it is used to make conducting wire. In reality, <emphasis effect="italics">silver</emphasis> actually has an even higher electrical conductivity than copper, but because silver is so expensive, it is not practical to use it for electrical wiring because such large amounts are needed. In the overhead power lines that we see above us, <emphasis effect="italics">aluminium</emphasis> is used. The aluminium usually surrounds a steel core which adds tensile strength to the metal so that it doesn't break when it is stretched across distances. Occasionally gold is used to make wire, not because it is a particularly good conductor, but because it is very resistant to surface corrosion. <emphasis effect="italics">Corrosion</emphasis> is when a material starts to deteriorate at the surface because of its reactions with the surroundings, for example oxygen and water in the air.</para>
+      <para id="id66098">An <emphasis effect="bold">insulator</emphasis> is a non-conducting material that does not carry any charge. Examples of insulators would be plastic and wood. Do you understand now why electrical wires are normally covered with plastic insulation? <emphasis effect="bold">Semi-conductors</emphasis> behave like insulators when they are cold, and like conductors when they are hot. The elements silicon and germanium are examples of semi-conductors.</para>
+<definition id="fhsst_id354"><term id="termfhsst_id354"> Conductors and insulators </term> <meaning id="meaningfhsst_id354">
+      <para id="id66124">A conductor allows the easy movement or flow of something such as heat or electrical charge through it. Insulators are the opposite to conductors because they <emphasis effect="italics">inhibit</emphasis> or reduce the flow of heat, electrical charge, sound etc through them. </para>
+
+      </meaning></definition>
+<para id="id0522">Think about the materials around you. Are they electrical conductors or not? Why are different materials used? Think about the use of semiconductors in electronics? Can you think of why they are used there?</para>
+<section id="secfhsst_id357"><title>Experiment : Electrical conductivity </title><para id="id66151">
+        <title>Aim:</title><newline/>
+To investigate the electrical conductivity of a number of substances</para>
+      <para id="id66166">
+        <title>Apparatus:</title><newline/>
+      <list id="id66175" display="block" list-type="bulleted"><item id="uid95">two or three cells
+</item>
+        <item id="uid96">light bulb
+</item>
+        <item id="uid97">crocodile clips
+</item>
+        <item id="uid98">wire leads
+</item>
+        <item id="uid99">a selection of test substances (e.g. a piece of plastic, aluminium can, metal pencil sharpener, magnet, wood, chalk).
+</item>
+      </list></para>
+      <para id="id66241">
+        <figure id="id66244"><media id="id66244_media" alt="">
+            <image mime-type="image/png" src="../../media/CG10C1_006.png" id="id66244_onlineimage" width="314"><!-- NOTE: attribute width changes image size online (pixels). original width is 214. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG10C1_006.eps" id="id66244_printimage"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id66251">
+        <title>Method:</title><newline/>
+      <list id="id66260" display="block" list-type="enumerated">
+        <item id="uid100">Set up the circuit as shown above, so that the test substance is held between the two crocodile clips. The wire leads should be connected to the cells and the light bulb should also be connected into the circuit.
+</item>
+        <item id="uid101">Place the test substances one by one between the crocodile clips and see what happens to the light bulb.
+</item>
+      </list></para>
+      <para id="id66291">
+        <title>Results:</title><newline/>
+      Record your results in the table below:
+      <table id="id66304" summary="results">
+<tgroup cols="4"><tbody>
+            <row>
+              <entry>
+                <emphasis effect="bold">Test substance</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">Metal/non-metal</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">Does the light bulb glow?</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">Conductor or insulator</emphasis>
+              </entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        
+</tgroup>
+</table></para>
+      <!--empty paragraphs get left behind.-->
+      <para id="id66494">
+        <title>Conclusions:</title><newline/>
+  In the substances that were tested, the metals were able to conduct electricity and the non-metals were not. Metals are good electrical conductors and non-metals are not.</para>
+      
+</section><para id="eip-316">The following simulation allows you to work through the above activity. For this simulation use the grab bag option to get materials to test. Set up the circuit as described in the activity.
+
+<figure id="id873294"><media id="id873294_media" alt="">
+            <image mime-type="image/png" src="../../media/circuits_test.png" id="id873294_onlineimage" width="200"><!-- NOTE: attribute width changes image size online (pixels). original width is 	149. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/circuits_test.eps" id="id873294_printimage"/>
+            </media>
+            </figure>
+<link class="phetsim" window="new" url="http://phet.colorado.edu/sims/circuit-construction-kit/circuit-construction-kit-dc_en.jnlp">run demo</link></para>
+    </section>
+    <section id="cid7">
+      <title>Thermal Conductors and Insulators</title>
+      <para id="id66527">A <emphasis effect="bold">thermal conductor</emphasis> is a material that allows energy in the form of heat, to be transferred within the material, without any movement of the material itself. An easy way to understand this concept is through a simple demonstration.</para>
+<section id="secfhsst_id453"><title>Demonstration : Thermal conductivity       </title><para id="id66568"><title>Aim: </title><newline/>To demonstrate the ability of different substances to conduct heat.</para>
+      <para id="id66588"><title>Apparatus: </title><newline/>You will need two cups (made from the same material e.g. plastic); a metal spoon and a plastic spoon.</para>
+      <para id="id66592">
+       <title>Method: </title>
+      <list id="id66609" display="block" list-type="bulleted">
+        <item id="uid102">Pour boiling water into the two cups so that they are about half full.
+</item>
+        <item id="uid103">At the same time, place a metal spoon into one cup and a plastic spoon in the other.
+</item>
+        <item id="uid104">Note which spoon heats up more quickly
+</item>
+      </list></para>
+<note id="eip-270" type="warning">Be careful when working with boiling water and when you touch the spoons as you can easily burn yourself.</note><para id="id66666"><title>Results: </title><newline/>The metal spoon heats up faster than the plastic spoon. In other words, the metal conducts heat well, but the plastic does not.</para>
+<para id="id66687"><title>Conclusion: </title>Metal is a good thermal conductor, while plastic is a poor thermal conductor. This explains why cooking pots are metal, but their handles are often plastic or wooden. The pot itself must be metal so that heat from the cooking surface can heat up the pot to cook the food inside it, but the handle is made from a poor thermal conductor so that the heat does not burn the hand of the person who is cooking.
+ </para>
+</section>
+      <para id="id66699">An <emphasis effect="bold">insulator</emphasis> is a material that does not allow a transfer of electricity or energy. Materials that are poor thermal conductors can also be described as being good thermal insulators.</para>
+<note id="notfhsst_id490"><title>Interesting Fact </title>Water is a better thermal conductor than air and conducts heat away from the body about 20 times more efficiently than air. A person who is not wearing a wetsuit, will lose heat very quickly to the water around them and can be vulnerable to hypothermia (this is when the body temperature drops very low). Wetsuits help to preserve body heat by trapping a layer of water against the skin. This water is then warmed by body heat and acts as an insulator. Wetsuits are made out of closed-cell, foam neoprene. Neoprene is a synthetic rubber that contains small bubbles of nitrogen gas when made for use as wetsuit material. Nitrogen gas has very low thermal conductivity, so it does not allow heat from the body (or the water trapped between the body and the wetsuit) to be lost to the water outside of the wetsuit. In this way a person in a wetsuit is able to keep their body temperature much higher than they would otherwise.
+</note>
+<section id="secfhsst_id492"><title> Investigation : A closer look at thermal conductivity
+      </title>
+      <para id="id66744">Look at the table below, which shows the thermal conductivity of a number of different materials, and then answer the questions that follow. The higher the number in the second column, the better the material is at conducting heat (i.e. it is a good thermal conductor). Remember that a material that conducts heat efficiently, will also lose heat more quickly than an insulating material.</para>
+      <table id="id66753" summary="Thermal conductivity">
+<tgroup cols="2"><tbody>
+            <row>
+              <entry>
+                <emphasis effect="bold">Material</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">Thermal Conductivity (<m:math overflow="scroll"><m:mi mathvariant="normal">W</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">m</m:mi><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup><m:mo>·</m:mo><m:mi mathvariant="normal">K</m:mi><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>
+) </emphasis>
+              </entry>
+            </row>
+
+            <row>
+              <entry>Silver</entry>
+              <entry>429</entry>
+            </row>
+            <row>
+              <entry>Stainless steel</entry>
+              <entry>16</entry>
+            </row>
+            <row>
+              <entry>Standard glass</entry>
+              <entry>1.05</entry>
+            </row>
+            <row>
+              <entry>Concrete</entry>
+              <entry>0.9 - 2</entry>
+            </row>
+            <row>
+              <entry>Red brick</entry>
+              <entry>0.69</entry>
+            </row>
+            <row>
+              <entry>Water</entry>
+              <entry>0.58</entry>
+            </row>
+            <row>
+              <entry>Snow</entry>
+              <entry>0.25 - 0.5</entry>
+            </row>
+            <row>
+              <entry>Wood</entry>
+              <entry>0.04 - 0.12</entry>
+            </row>
+            <row>
+              <entry>Polystyrene</entry>
+              <entry>0.03</entry>
+            </row>
+            <row>
+              <entry>Air</entry>
+              <entry>0.024</entry>
+            </row>
+          </tbody>
+        
+
+
+
+</tgroup>
+</table>
+      <!--empty paragraphs get left behind.-->
+      <para id="id67009">Use this information to answer the following questions:</para>
+      <list id="id67013" display="block" list-type="enumerated">
+        <item id="uid105">Name two materials that are good thermal conductors.
+</item>
+        <item id="uid106">Name two materials that are good insulators.
+</item>
+        <item id="uid107">Explain why:
+<list id="id67053" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid108">cooler boxes are often made of polystyrene
+</item><item id="uid109">homes that are made from wood need less internal heating during the winter months.
+</item><item id="uid110">igloos (homes made from snow) are so good at maintaining warm temperatures, even in freezing conditions.
+</item></list></item>
+      </list>
+      
+</section>
+<note id="notfhsst_id564"><title>Interesting Fact </title>It is a known fact that well-insulated buildings need less energy for heating than do buildings that have no insulation. Two building materials that are being used more and more worldwide, are <emphasis effect="bold">mineral wool</emphasis> and <emphasis effect="bold">polystyrene</emphasis>. Mineral wool is a good insulator because it holds air still in the matrix of the wool so that heat is not lost. Since air is a poor conductor and a good insulator, this helps to keep energy within the building. Polystyrene is also a good insulator and is able to keep cool things cool and hot things hot. It has the added advantage of being resistant to moisture, mould and mildew.</note>
+      <para id="id67129">Remember that concepts such as conductivity and insulation are not only relevant in the building, industrial and home environments. Think for example of the layer of blubber or fat that is found in some animals. In very cold environments, fat and blubber not only provide protection, but also act as an insulator to help the animal keep its body temperature at the right level. This is known as <emphasis effect="italics">thermoregulation</emphasis>.</para>
+    </section>
+    <section id="cid8">
+      <title>Magnetic and Non-magnetic Materials</title>
+      <para id="id67151">We have now looked at a number of ways in which matter can be grouped, such as into metals, semi-metals and non-metals; electrical conductors and insulators, and thermal conductors and insulators. One way in which we can further group metals, is to divide them into those that are <emphasis effect="bold">magnetic</emphasis> and those that are <emphasis effect="bold">non-magnetic.</emphasis></para>
+<definition id="fhsst_id570"><term id="termfhsst_id570"> Magnetism </term> <meaning id="meaningfhsst_id570">
+      <para id="id67174">Magnetism is one of the phenomena by which materials exert attractive or repulsive forces on other materials. </para>
+      </meaning></definition>
+      <para id="id67186">A metal is said to be <emphasis effect="bold">ferromagnetic</emphasis> if it can be magnetised (i.e. made into a magnet). If you hold a magnet very close to a metal object, it may happen that its own electrical field will be induced and the object becomes magnetic. Some metals keep their magnetism for longer than others. Look at iron and steel for example. Iron loses its magnetism quite quickly if it is taken away from the magnet. Steel on the other hand will stay magnetic for a longer time. Steel is often used to make permanent magnets that can be used for a variety of purposes.</para>
+      <para id="id67200">Magnets are used to sort the metals in a scrap yard, in compasses to find direction, in the magnetic strips of video tapes and ATM cards where information must be stored, in computers and TV's, as well as in generators and electric motors.</para>
+<section id="secfhsst_id575"><title> Investigation : Magnetism
+      </title>
+      <para id="id67220">You can test whether an object is magnetic or not by holding another magnet close to it. If the object is attracted to the magnet, then it too is magnetic.</para>
+      <para id="id67227">Find some objects in your classroom or your home and test whether they are magnetic or not. Then complete the table below:</para>
+      <table id="id67234" summary="">
+        <tgroup cols="2">
+          <tbody>
+            <row>
+              <entry>
+                <emphasis effect="bold">Object</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">Magnetic or non-magnetic</emphasis>
+              </entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <!--empty paragraphs get left behind.-->
+      
+</section>
+<section id="secfhsst_id616"><title> Group Discussion : Properties of materials
+      </title>
+      <para id="id67392">In groups of 4-5, discuss how our knowledge of the properties of materials has allowed society to:</para>
+      <list id="id67398" display="block" list-type="bulleted">
+        <item id="uid111">develop advanced computer technology
+</item>
+        <item id="uid112">provide homes with electricity
+</item>
+        <item id="uid113">find ways to conserve energy
+</item>
+      </list>
+      
+</section>
+    </section>
+    
+
+<section id="cid9">
+      <title>Summary</title>
+      <list id="id67458" display="block" list-type="bulleted"><item id="uid114">All the objects and substances that we see in the world are made of <emphasis effect="bold">matter</emphasis>.
+</item>
+        <item id="uid115">This matter can be classified according to whether it is a <emphasis effect="bold">mixture</emphasis> or a <emphasis effect="bold">pure substance</emphasis>.
+</item>
+        <item id="uid116">A <emphasis effect="bold">mixture</emphasis> is a combination of one or more substances that are not chemically bonded to each other. Examples of mixtures are air (a mixture of different gases) and blood (a mixture of cells, platelets and plasma).
+</item>
+        <item id="uid117">The main <emphasis effect="bold">characteristics</emphasis> of mixtures are that the substances that make them up are not in a fixed ratio, they keep their individual properties and they can be separated from each other using mechanical means.
+</item>
+        <item id="uid118">A <emphasis effect="bold">heterogeneous mixture</emphasis> is non-uniform and the different parts of the mixture can be seen. An example would be a mixture of sand and water.
+</item>
+        <item id="uid119">A <emphasis effect="bold">homogeneous mixture</emphasis> is uniform, and the different components of the mixture can't be seen. An example would be a salt solution. A salt solution is a mixture of salt and water. The salt dissolves in the water, meaning that you can't see the individual salt particles. They are interspersed between the water molecules. Another example is a metal <emphasis effect="bold">alloy</emphasis> such as steel.
+</item>
+        <item id="uid120">Mixtures can be <emphasis effect="bold">separated</emphasis> using a number of methods such as filtration, heating, evaporation, centrifugation and dialysis.
+</item>
+        <item id="uid121">Pure substances can be further divided into <emphasis effect="bold">elements</emphasis> and <emphasis effect="bold">compounds</emphasis>.
+</item>
+        <item id="uid122">An <emphasis effect="bold">element</emphasis> is a substance that can't be broken down into simpler substances through chemical means.
+</item>
+        <item id="uid123">All the elements are recorded in the <emphasis effect="bold">Periodic Table of the Elements</emphasis>. Each element has its own chemical symbol. Examples are iron (<m:math><m:mi mathvariant="normal">Fe</m:mi></m:math>), sulphur (<m:math><m:mi mathvariant="normal">S</m:mi></m:math>), calcium (<m:math><m:mi mathvariant="normal">Ca</m:mi></m:math>), magnesium (<m:math><m:mi mathvariant="normal">Mg</m:mi></m:math>) and fluorine (<m:math><m:mi mathvariant="normal">F</m:mi></m:math>).
+</item>
+        <item id="uid124">A <emphasis effect="bold">compound</emphasis> is a substance that is made up of two or more elements that are chemically bonded to each other in a fixed ratio. Examples of compounds are sodium chloride (<m:math><m:mi mathvariant="normal">NaCl</m:mi></m:math>), iron sulphide (<m:math><m:mi mathvariant="normal">FeS</m:mi></m:math>), calcium carbonate (<m:math><m:msub><m:mi mathvariant="normal">CaCO</m:mi><m:mn>3</m:mn></m:msub></m:math>) and water (<m:math><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi></m:math>).
+</item>
+        <item id="uid125">When <emphasis effect="bold">naming compounds</emphasis> and writing their <emphasis effect="bold">chemical formula</emphasis>, it is important to know the elements that are in the compound, how many atoms of each of these elements will combine in the compound and where the elements are in the Periodic Table. A number of rules can then be followed to name the compound.
+</item>
+        <item id="uid126">Another way of classifying matter is into <emphasis effect="bold">metals</emphasis> (e.g. iron, gold, copper), <emphasis effect="bold">semi-metals</emphasis> (e.g. silicon and germanium) and <emphasis effect="bold">non-metals</emphasis> (e.g. sulphur, phosphorus and nitrogen).
+</item>
+        <item id="uid127"><emphasis effect="bold">Metals</emphasis> are good electrical and thermal conductors, they have a shiny lustre, they are malleable and ductile, and they have a high melting point. These properties make metals very useful in electrical wires, cooking utensils, jewellery and many other applications.
+</item>
+        <item id="uid128">A further way of classifying matter is into <emphasis effect="bold">electrical conductors</emphasis>, <emphasis effect="bold">semi-conductors</emphasis> and <emphasis effect="bold">insulators</emphasis>.
+</item>
+        <item id="uid129">An <emphasis effect="bold">electrical conductor</emphasis> allows an electrical current to pass through it. Most metals are good electrical conductors.
+</item>
+        <item id="uid130">An <emphasis effect="bold">electrical insulator</emphasis> is not able to carry an electrical current. Examples are plastic, wood, cotton material and ceramic.
+</item>
+        <item id="uid131">Materials may also be classified as <emphasis effect="bold">thermal conductors</emphasis> or <emphasis effect="bold">thermal insulators</emphasis> depending on whether or not they are able to conduct heat.
+</item>
+        <item id="uid132">Materials may also be either <emphasis effect="bold">magnetic</emphasis> or <emphasis effect="bold">non-magnetic</emphasis>.
+</item>
+      </list>
+
+<section id="secfhsst_id672"><title> Summary
+      </title>
+      <list id="id67920" display="block" list-type="enumerated"><item id="uid133">For each of the following <emphasis effect="bold">multiple choice</emphasis> questions, choose <emphasis effect="italics">one</emphasis> correct answer from the list provided.
+<list id="id67947" display="block" list-type="enumerated"><item id="uid134">Which of the following can be classified as a mixture:
+<list id="id67963" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid135">sugar
+</item><item id="uid136">table salt
+</item><item id="uid137">air
+</item><item id="uid138">iron
+
+</item></list><link window="new" class="fullmarks" url="http://www.fhsst.org/ll6">Click here for the solution</link></item><item id="uid139">An element can be defined as:
+<list id="id68029" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid140">A substance that cannot be separated into two or more substances by ordinary chemical (or physical) means
+</item><item id="uid141">A substance with constant composition
+</item><item id="uid142">A substance that contains two or more substances, in definite proportion by weight
+</item><item id="uid143">A uniform substance
+</item></list><link window="new" class="fullmarks" url="http://www.fhsst.org/llF">Click here for the solution</link></item></list>
+
+</item>
+        <item id="uid144">Classify each of the following substances as an <emphasis effect="italics">element</emphasis>, a <emphasis effect="italics">compound</emphasis>, a <emphasis effect="italics">solution</emphasis> (homogeneous mixture), or a <emphasis effect="italics">heterogeneous mixture</emphasis>: salt, pure water, soil, salt water, pure air, carbon dioxide, gold and bronze.<newline/>
+<link window="new" class="fullmarks" url="http://www.fhsst.org/llG">Click here for the solution</link>
+</item>
+        <item id="uid145">Look at the table below. In the first column (A) is a list of substances. In the second column (B) is a description of the group that each of these substances belongs in. Match up the <emphasis effect="italics">substance</emphasis> in Column A with the <emphasis effect="italics">description</emphasis> in Column B.
+<table id="id68147" summary=""><tgroup cols="2"><tbody><row><entry><emphasis effect="bold">Column A</emphasis></entry><entry><emphasis effect="bold">Column B</emphasis></entry></row><row><entry>iron</entry><entry>a compound containing 2 elements</entry></row><row><entry>H<sub>2</sub>S</entry><entry>a heterogeneous mixture</entry></row><row><entry>sugar solution</entry><entry>a metal alloy</entry></row><row><entry>sand and stones</entry><entry>an element</entry></row><row><entry>steel</entry><entry>a homogeneous mixture</entry></row></tbody></tgroup></table>
+<link window="new" class="fullmarks" url="http://www.fhsst.org/ll7">Click here for the solution</link>
+</item>
+        <item id="uid146">You are given a test tube that contains a mixture of iron filings and sulphur. You are asked to weigh the amount of iron in the sample.
+<list id="id68262" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid147">Suggest one method that you could use to separate the iron filings from the sulphur.
+</item><item id="uid148">What property of metals allows you to do this?
+</item></list>
+<link window="new" class="fullmarks" url="http://www.fhsst.org/llA">Click here for the solution</link>
+</item>
+        <item id="uid149">Given the following descriptions, write the chemical formula for each of the following substances:
+<list id="id68304" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid150">silver metal
+</item><item id="uid151">a compound that contains only potassium and bromine
+</item><item id="uid152">a gas that contains the elements carbon and oxygen in a ratio of 1:2
+</item></list>
+<link window="new" class="fullmarks" url="http://www.fhsst.org/llo">Click here for the solution</link>
+</item>
+        <item id="uid153">Give the names of each of the following compounds:
+<list id="id68358" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid154"><m:math><m:mi mathvariant="normal">NaBr</m:mi></m:math>
+</item><item id="uid155"><m:math><m:msub><m:mi mathvariant="normal">BaSO</m:mi><m:mn>4</m:mn></m:msub></m:math></item><item id="uid156"><m:math><m:msub><m:mi mathvariant="normal">SO</m:mi><m:mn>2</m:mn></m:msub></m:math> </item></list>
+<link window="new" class="fullmarks" url="http://www.fhsst.org/lls">Click here for the solution</link>
+</item>
+        <item id="uid157">For each of the following materials, say what properties of the material make it important in carrying out its particular function.
+<list id="id68436" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid158"><emphasis effect="bold">tar</emphasis> on roads
+</item><item id="uid159"><emphasis effect="bold">iron</emphasis> burglar bars
+</item><item id="uid160"><emphasis effect="bold">plastic</emphasis> furniture
+</item><item id="uid161"><emphasis effect="bold">metal</emphasis> jewellery
+</item><item id="uid162"><emphasis effect="bold">clay</emphasis> for building
+</item><item id="uid163"><emphasis effect="bold">cotton</emphasis> clothing
+</item></list>
+<link window="new" class="fullmarks" url="http://www.fhsst.org/llH">Click here for the solution</link>
+
+</item>
+
+      </list>
+      
+</section>
+    </section>
+  </content>
+</document>

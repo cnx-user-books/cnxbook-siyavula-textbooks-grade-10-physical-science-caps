@@ -1,0 +1,70 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Metallic Bonding</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38694</md:content-id>
+  <md:title>Metallic Bonding</md:title>
+  <md:abstract/>
+  <md:uuid>ccd4c6d8-9aa3-40a7-95b7-820415c8d926</md:uuid>
+</metadata>
+
+<content>
+
+    <section id="cid9">
+      <title>Metallic bonds</title>
+      <section id="uid77">
+        <title>The nature of the metallic bond</title>
+        <para id="id142901">The structure of a metallic bond is quite different from covalent and ionic bonds. In a metal bond, the valence electrons are <emphasis effect="italics">delocalised</emphasis>, meaning that an atom's electrons do not stay around that one nucleus. In a metallic bond, the positive atomic nuclei (sometimes called the 'atomic kernels') are surrounded by a sea of delocalised electrons which are attracted to the nuclei (<link target-id="uid78"/>).</para>
+<definition id="fhsst_id582"><term id="termfhsst_id582"> Metallic bond </term> <meaning id="meaningfhsst_id582">
+        Metallic bonding is the electrostatic attraction between the positively charged atomic nuclei of metal atoms and the delocalised electrons in the metal.
+ 
+        </meaning></definition>
+        <figure id="uid78">
+          <media id="uid78_media" alt="">
+            <image mime-type="image/png" src="../../media/CG11C1_022.png" id="uid78_onlineimage" width="295"><!-- NOTE: attribute width changes image size online (pixels). original width is 295. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG11C1_022.eps" id="uid78_printimage"/>
+          </media>
+          <caption>Positive atomic nuclei (+) surrounded by delocalised electrons (<m:math overflow="scroll"><m:mo>•</m:mo></m:math>)</caption>
+        </figure>
+      </section>
+      
+        <section id="id754"><title>Activity: Building models</title>
+        <para id="id87434">Using coloured balls and sticks (or any other suitable materials) build models of each type of bonding. Think about how to represent each kind of bonding. For example, covalent bonding could be represented by simply connecting the balls with sticks to represent the molecules, while for ionic bonding you may wish to construct part of the crystal lattice. Do some research on types of crystal lattices (although the section on ionic bonding only showed the crystal lattice for sodium chloride, many other types of lattices exist) and try to build some of these. Share your findings with your class and compare notes to see what types of crystal lattices they found. How would you show metallic bonding?</para>
+        <para id="id8754">You should spend some time doing this activity as it will really help you to understand how atoms combine to form molecules and what the differences are between the types of bonding. </para>
+        </section>
+<para id="eip-515"><figure id="bonds-1" class="khanacademy">
+	  <title>Khan academy video on bonding - 1</title>
+	  <media id="yt-media1" display="block" alt="video on circuits 1">
+	  <flash id="yt-video1" mime-type="application/x-shockwave-flash" src="http://www.youtube.com/v/CGA8sRwqIFg&amp;rel=0" width="425" height="344">
+	  <param name="allowscriptaccess" value="always"/>
+	  <param name="allowsfullscreen" value="true"/>
+	  </flash>
+	  </media>
+	  </figure></para><section id="secfhsst_id617"><title> Chemical bonding
+        </title>
+        <list id="id143111" display="block" list-type="enumerated"><item id="uid86">Give two examples of everyday objects that contain..
+<list id="id143127" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid87">covalent bonds
+</item><item id="uid88">ionic bonds
+</item><item id="uid89">metallic bonds
+</item></list><link window="new" class="fullmarks" url="http://www.fhsst.org/l3h">Click here for the solution</link></item>
+          <item id="uid90">Complete the table which compares the different types of bonding:
+<table id="id143180" summary=""><tgroup cols="4"><tbody><row><entry/><entry><emphasis effect="bold">Covalent</emphasis></entry><entry><emphasis effect="bold">Ionic</emphasis></entry><entry><emphasis effect="bold">Metallic</emphasis></entry></row><row><entry>Types of atoms involved</entry><entry/><entry/><entry/></row><row><entry>Nature of bond between atoms</entry><entry/><entry/><entry/></row><row><entry>Melting Point (high/low)</entry><entry/><entry/><entry/></row><row><entry>Conducts electricity? (yes/no)</entry><entry/><entry/><entry/></row><row><entry>Other properties</entry><entry/><entry/><entry/></row></tbody></tgroup></table><link window="new" class="fullmarks" url="http://www.fhsst.org/l3u">Click here for the solution</link></item>
+          <item id="uid91">Complete the table below by identifying the type of bond (covalent, ionic or metallic) in each of the compounds:
+<table id="id143418" summary="Table to be completed for exercise">
+<tgroup cols="2"><tbody><row><entry><emphasis effect="bold">Molecular formula</emphasis></entry><entry><emphasis effect="bold">Type of bond</emphasis></entry></row><row><entry><m:math overflow="scroll"><m:mi mathvariant="normal">H</m:mi><m:msub><m:mrow/><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">SO</m:mi><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math></entry><entry/></row><row><entry><m:math><m:mi mathvariant="normal">FeS</m:mi></m:math></entry><entry/></row><row><entry><m:math><m:mi mathvariant="normal">NaI</m:mi></m:math></entry><entry/></row><row><entry><m:math><m:mi mathvariant="normal">MgCl</m:mi><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math></entry><entry/></row><row><entry><m:math><m:mi mathvariant="normal">Zn</m:mi></m:math></entry><entry/></row></tbody>
+</tgroup>
+</table><link window="new" class="fullmarks" url="http://www.fhsst.org/l3J">Click here for the solution</link></item>
+          <item id="uid92">Which of these substances will conduct electricity most effectively? Give a reason for your answer.<newline/><link window="new" class="fullmarks" url="http://www.fhsst.org/l3J">Click here for the 	solution</link>
+</item>
+          <item id="uid93">Use your knowledge of the different types of bonding to explain the following statements:
+<list id="id143618" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid94">Swimming during an electric storm (i.e. where there is lightning) can be very dangerous.
+</item><item id="uid95">Most jewellery items are made from metals.
+</item><item id="uid96">Plastics are good insulators.
+</item></list><link window="new" class="fullmarks" url="http://www.fhsst.org/l3S">Click here for the solution</link></item>
+        </list>
+        
+</section>
+
+    </section>
+ 
+  </content>
+</document>

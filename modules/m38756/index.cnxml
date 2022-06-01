@@ -1,0 +1,179 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Introduction and models</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38756</md:content-id>
+  <md:title>Introduction and models</md:title>
+  <md:abstract/>
+  <md:uuid>f55b0443-f030-40fb-8041-b967a19e72b3</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid1">
+      <title>Introduction</title><para id="eip-794">The following video covers some of the properties of an atom.
+<figure id="the-atom-1" class="veritasium"><title>Veritasium video on the atom - 1</title><media id="yt-media10" display="block" alt="video on the atom 1">
+	  <flash id="yt-video10" mime-type="application/x-shockwave-flash" src="http://www.youtube.com/v/SeDaOigLBTU;rel=0" width="425" height="344">
+	  <param name="allowscriptaccess" value="always"/>
+	  <param name="allowsfullscreen" value="true"/>
+	  </flash>
+	  </media>
+	  </figure></para><para id="id254141">We have now looked at many examples of the types of matter and materials that exist around us and we have investigated some of the ways that materials are classified. But what is it that makes up these materials? And what makes one material different from another? In order to understand this, we need to take a closer look at the building block of matter - the <emphasis effect="bold">atom</emphasis>. Atoms are the basis of all the structures and organisms in the universe. The planets, sun, grass, trees, air we breathe and people are all made up of different combinations of atoms.</para>
+    </section>
+    <section id="eip-613"><title>Project: Models of the atom</title><para id="eip-3">
+Our current understanding of the atom came about over a long period of time, with many different people playing a role. Conduct some research into the development of the different ideas of the atom and the people who contributed to it. Some suggested people to look at are: JJ Thomson, Ernest Rutherford, Marie Curie, JC Maxwell, Max Planck, Albert Einstein, Niels Bohr, Lucretius, LV de Broglie, CJ Davisson, LH Germer, Chadwick, Werner Heisenberg, Max Born, Erwin Schrodinger, John Dalton, Empedocles, Leucippus, Democritus, Epicurus, Zosimos, Maria the Jewess, Geber, Rhazes, Robert Boyle, Henry Cavendish, A Lavoisier and H Becquerel. You do not need to find information on all these people, but try to find information about as many of them as possible.
+</para>
+<para id="id7342">Make a list of the key contributions to a model of the atom that each of these people made and then make a timeline of this information. (You can use an online tool such as <link window="new" url="http://www.dipity.com/">Dipity</link> to make a timeline.) Try to get a feel for how it all eventually fit together into the modern understanding of the atom. 
+</para></section><section id="cid2">
+      <title>Models of the Atom</title>
+      <para id="id254164">It is important to realise that a lot of what we know about the structure of atoms has been developed over a long period of time. This is often how scientific knowledge develops, with one person building on the ideas of someone else. We are going to look at how our modern understanding of the atom has evolved over time.</para>
+      <para id="id254508">The idea of atoms was invented by two Greek philosophers, Democritus and Leucippus in the fifth century BC. The Greek word <m:math overflow="scroll"><m:mrow><m:mi>ατoμoν</m:mi></m:mrow></m:math> <space/> (atom) means <emphasis effect="bold">indivisible</emphasis> because they believed that atoms could not be broken into smaller pieces.</para>
+      <para id="id254540">Nowadays, we know that atoms are made up of a <emphasis effect="bold">positively charged nucleus</emphasis> in the centre
+surrounded by <emphasis effect="bold">negatively charged electrons</emphasis>. However, in the past, before the structure of the atom was properly understood, scientists came up with lots of different <emphasis effect="bold">models</emphasis> or <emphasis effect="bold">pictures</emphasis> to describe what atoms look like.</para>
+<definition id="fhsst_id72"><term id="termfhsst_id72"> Model </term> <meaning id="meaningfhsst_id72">
+      <para id="id254584">A model is a representation of a system in the real world. Models help us to understand systems and their properties. For example, an <emphasis effect="italics">atomic model</emphasis> represents what the structure of an atom <emphasis effect="italics">could</emphasis> look like, based on what we know about how atoms behave. It is not necessarily a true picture of the exact structure of an atom. </para>
+      </meaning></definition>
+      <section id="uid1">
+        <title>The Plum Pudding Model</title>
+        <para id="id254616">After the electron was discovered by J.J. Thomson in 1897, people realised that atoms were made up of even smaller particles than they had previously thought. However, the atomic nucleus had not been discovered yet and so the 'plum pudding model' was put forward in 1904. In this model, the atom is made up of negative electrons that float in a soup of positive charge, much like plums in a pudding or raisins in a fruit cake (<link target-id="uid2"/>). In 1906, Thomson was awarded the Nobel Prize for his work in this field. However, even with the Plum Pudding Model, there was still no understanding of how these electrons in the atom were arranged.</para>
+        <figure id="uid2">
+          <media id="uid2_media" alt="">
+            <image mime-type="image/png" src="../../media/CG10C3_001.png" id="uid2_onlineimage" width="320"><!-- NOTE: attribute width changes image size online (pixels). original width is 320. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG10C3_001.eps" id="uid2_printimage"/>
+          </media>
+          <caption>A schematic diagram to show what the atom looks like according to the Plum Pudding model</caption>
+        </figure>
+        <para id="id254642">The discovery of <emphasis effect="bold">radiation</emphasis> was the next step along the path to building an accurate picture of atomic structure. In the early twentieth century, Marie Curie and her husband Pierre,  discovered that some elements (the <emphasis effect="italics">radioactive</emphasis> elements) emit particles, which are able to pass through matter in a similar way to X-rays (read more about this in Grade 11). It was Ernest Rutherford who, in 1911, used this discovery to revise the model of the atom.</para>
+      </section>
+      <note id="eip-956"><title>Interesting fact</title>Two other models proposed for the atom were the cubic model and the Saturnian model. In the cubic model, the electrons were imagined to lie at the corners of a cube. In the Saturnian model, the electrons were imagined to orbit a very big, heavy nucleus.</note><section id="uid3"><title>Rutherford's model of the atom</title><para id="id254751">Rutherford carried out some experiments which led to a change in ideas around the atom. His new model described the atom as a tiny, dense, positively charged core called a nucleus surrounded by lighter, negatively charged electrons. Another way of thinking about this model was that the atom was seen to be like a mini solar system where the electrons orbit the nucleus like planets orbiting around the sun. A simplified picture of this is shown in <link target-id="uid5"/>. This model is sometimes known as the planetary model of the atom.</para>
+        <figure id="uid5">
+          <media id="uid5_media" alt="">
+            <image mime-type="image/png" src="../../media/CG10C3_003.png" id="uid5_onlineimage" width="309"><!-- NOTE: attribute width changes image size online (pixels). original width is 309. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG10C3_003.eps" id="uid5_printimage"/>
+          </media>
+          <caption>Rutherford's model of the atom</caption>
+        </figure>
+      </section>
+      <section id="uid6">
+        <title>The Bohr Model</title>
+        <para id="id254784">There were, however, some problems with this model: for example it could not explain the very interesting
+observation that atoms only emit light at certain wavelengths or frequencies. Niels Bohr solved
+this problem by proposing that the electrons could only orbit the nucleus in certain special orbits
+at different energy levels around the nucleus. The exact energies of the orbitals in each energy level depends on
+the type of atom. Helium for example, has different energy levels to Carbon. If an electron jumps down
+from a higher energy level to a lower energy level, then light is emitted from
+the atom. The energy of the light emitted is the same as the gap in the energy between the two
+energy levels. You can read more about this in <link target-id="cid7" window="new">"Energy quantisation and electron configuration"</link>. The distance between the nucleus and the electron in the lowest energy level of a hydrogen atom is known as the <emphasis effect="bold">Bohr radius</emphasis>.</para>
+<note id="notfhsst_id119"><title> Interesting Fact </title>
+        <para id="id254816">Light has the properties of both a particle <emphasis effect="bold">and</emphasis> a wave! Einstein discovered
+that light comes in energy packets which are called <emphasis effect="bold">photons</emphasis>. When an electron in an atom
+changes energy levels, a photon of light is emitted. This photon has the same energy as
+the difference between the two electron energy levels.</para>
+</note>
+      </section><section id="eip-279"><title>Other models of the atom</title><para id="eip-993">
+Although the most common model of the atom is the Bohr model, scientists have not stopped thinking about other ways to describe atoms. One of the most important contributions to atomic theory (the field of science that looks at atoms) was the development of quantum theory. Schrodinger, Heisenberg, Born and many others have had a role in developing quantum theory. The description of an atom by quantum theory is very complex and is only covered at university level.  
+</para></section><section id="eip-179"><title>Models of the atom</title><para id="eip-786">Match the information in column A, with the key discoverer in column B.
+
+<table id="eip-551" summary="table of key discoverers of atomic models">
+<tgroup cols="2"><tbody>
+ <row>
+    <entry>Column A</entry>
+    <entry>Column B</entry>
+  </row>
+  <row>
+    <entry>Discovery of electrons and the plum pudding model</entry>
+    <entry>Niels Bohr</entry>
+  </row>
+  <row>
+    <entry>Arrangement of electrons</entry>
+    <entry>Marie Curie and her husband, Pierre</entry>
+  </row>
+  <row>
+    <entry>Atoms as the smallest building block of matter</entry>
+    <entry>Ancient Greeks</entry>
+  </row>
+  <row>
+    <entry>Discovery of the nucleus</entry>
+    <entry>JJ Thomson</entry>
+  </row>
+  <row>
+    <entry>Discovery of radiation</entry>
+    <entry>Rutherford</entry>
+  </row>
+</tbody>
+
+
+</tgroup>
+</table>
+<link class="fullmarks" window="new" url="http://www.fhsst.org/l4g">Click here for the solution</link></para></section>
+    </section>
+    <section id="cid3"><title>Atomic mass and diameter</title><para id="id254850">It is difficult sometimes to imagine the size of an atom, or its mass, because we cannot see an atom and also because we are not used to working with such small measurements.</para>
+      <section id="uid7">
+        <title>How heavy is an atom?</title>
+        <para id="id254863">It is possible to determine the mass of a single atom in kilograms. But to do this, you would need very modern <emphasis effect="italics">mass spectrometers</emphasis> and the values you would get would be very clumsy and difficult to use. The mass of a carbon atom, for example, is about <m:math overflow="scroll"><m:mn>1</m:mn><m:mo>,</m:mo><m:mn>99</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>26</m:mn></m:mrow></m:msup><m:mspace width="2pt"/><m:mi>kg</m:mi></m:math>, while the mass of an atom of hydrogen is about <m:math overflow="scroll"><m:mn>1</m:mn><m:mo>,</m:mo><m:mn>67</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>27</m:mn></m:mrow></m:msup><m:mspace width="2pt"/><m:mi>kg</m:mi></m:math>. Looking at these very small numbers makes it difficult to compare how much bigger the mass of one atom is when compared to another.</para>
+        <para id="id254908">To make the situation simpler, scientists use a different unit of mass when they are describing the mass of an atom. This unit is called the <emphasis effect="bold">atomic mass unit</emphasis> (amu). We can abbreviate (shorten) this unit to just 'u'. Scientists use the <emphasis effect="bold">carbon standard</emphasis> to determine amu. The carbon standard assigns carbon an atomic mass of 12 u. Using the carbon standard the mass of an atom of hydrogen will be 1 u. You can check this by dividing the mass of a carbon atom in kilograms (see above) by the mass of a hydrogen atom in kilograms (you will need to use a calculator for this!). If you do this calculation, you will see that the mass of a carbon atom is twelve times greater than the mass of a hydrogen atom. When we use atomic mass units instead of kilograms, it becomes easier to see this. Atomic mass units are therefore not giving us the <emphasis effect="italics">actual</emphasis> mass of an atom, but rather its mass <emphasis effect="italics">relative</emphasis> to the mass of one (carefully chosen) atom in the Periodic Table. Although carbon is the usual element to compare other elements to, oxygen and hydrogen have also been used. The important thing to remember here is that the atomic mass unit is relative to one (carefully chosen) element. The atomic masses of some elements are shown in the <link target-id="uid8"> table </link> below.</para>
+        <table id="uid8" summary="Atomic mass numbers">
+<tgroup cols="2"><tbody>
+              <row>
+                <entry>
+                  <emphasis effect="bold">Element</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">Atomic mass (u)</emphasis>
+                </entry>
+              </row>
+<row>
+                <entry>Carbon (<m:math><m:mi mathvariant="normal">C</m:mi></m:math>)</entry>
+                <entry>12</entry>
+              </row>
+              <row>
+                <entry>Nitrogen (<m:math><m:mi mathvariant="normal">N</m:mi></m:math>)</entry>
+                <entry>14</entry>
+              </row>
+              <row>
+                <entry>Bromine (<m:math><m:mi mathvariant="normal">Br</m:mi></m:math>)</entry>
+                <entry>80</entry>
+              </row>
+              <row>
+                <entry>Magnesium (<m:math><m:mi mathvariant="normal">Mg</m:mi></m:math>)</entry>
+                <entry>24</entry>
+              </row>
+              <row>
+                <entry>Potassium (<m:math><m:mi mathvariant="normal">K</m:mi></m:math>)</entry>
+                <entry>39</entry>
+              </row>
+              <row>
+                <entry>Calcium (<m:math><m:mi mathvariant="normal">Ca</m:mi></m:math>)</entry>
+                <entry>40</entry>
+              </row>
+              <row>
+                <entry>Oxygen (<m:math><m:mi mathvariant="normal">O</m:mi></m:math>)</entry>
+                <entry>16</entry>
+              </row>
+            </tbody>
+          
+</tgroup><caption>The atomic mass number of some of the elements</caption>
+</table>
+        <para id="id255096">The actual value of 1 atomic mass unit is <m:math overflow="scroll"><m:mn>1</m:mn><m:mo>,</m:mo><m:mn>67</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>24</m:mn></m:mrow></m:msup><m:mspace width="2pt"/><m:mi mathvariant="normal">g</m:mi></m:math> or <m:math overflow="scroll"><m:mn>1</m:mn><m:mo>,</m:mo><m:mn>67</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>27</m:mn></m:mrow></m:msup><m:mspace width="2pt"/><m:mi>kg</m:mi></m:math>. This is a very tiny mass!</para>
+      </section>
+      <section id="uid9">
+        <title>How big is an atom?</title>
+<note id="notfhsst_id177" type="tip"><emphasis effect="italics">pm</emphasis> stands for <emphasis effect="italics">picometres</emphasis>. <m:math overflow="scroll"><m:mn>1</m:mn><m:mspace width="2pt"/><m:mi>pm</m:mi><m:mo>=</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>12</m:mn></m:mrow></m:msup><m:mspace width="2pt"/> <m:mi mathvariant="normal">m</m:mi></m:math></note>
+        <para id="id255173">Atomic radius also varies depending on the element. On average, the radius of an atom ranges from <m:math><m:mn>32</m:mn><m:mspace width="2pt"/><m:mi>pm</m:mi></m:math> (Helium) to <m:math><m:mn>225</m:mn><m:mspace width="2pt"/><m:mi>pm</m:mi></m:math> (Caesium). Using different units, <m:math><m:mn>100</m:mn><m:mspace width="2pt"/><m:mi>pm</m:mi><m:mo>=</m:mo><m:mn>1</m:mn><m:mspace width="2pt"/><m:mi>Angstrom</m:mi></m:math>, and <m:math><m:mn>1</m:mn><m:mspace width="2pt"/><m:mi>Angstrom</m:mi><m:mo>=</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>10</m:mn></m:mrow></m:msup><m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi></m:math>. That is the same as saying that <m:math overflow="scroll"><m:mn>1</m:mn><m:mspace width="2pt"/><m:mi>Angstrom</m:mi><m:mo>=</m:mo><m:mrow><m:mn>0</m:mn><m:mo>,</m:mo><m:mn>0000000010</m:mn></m:mrow><m:mspace width="2pt"/> <m:mi mathvariant="normal">m</m:mi></m:math> or that <m:math overflow="scroll"><m:mn>100</m:mn><m:mspace width="2pt"/><m:mi>pm</m:mi><m:mo>=</m:mo><m:mrow><m:mn>0</m:mn><m:mo>,</m:mo><m:mn>0000000010</m:mn></m:mrow><m:mspace width="2pt"/> <m:mi mathvariant="normal">m</m:mi></m:math>! In other words, the diameter of an atom ranges from <m:math><m:mn>0</m:mn><m:mo>,</m:mo><m:mn>0000000010</m:mn><m:mspace width="2pt"/><m:mi>m</m:mi></m:math> to <m:math><m:mn>0</m:mn><m:mo>,</m:mo><m:mn>0000000067</m:mn><m:mspace width="2pt"/><m:mi>m</m:mi></m:math>. This is very small indeed.</para><para id="eip-30">The atomic radii given above are for the whole atom (nucleus and electrons). The nucleus itself is even smaller than this by a factor of about 23 000 in uranium and 145 000 in hydrogen. If the nucleus were the size of a golf ball, then the nearest electrons would be about one kilometer away! This should help you realise that the atom is mostly made up of empty space. </para><section id="eip-320"><title>Rutherfords alpha-particle scattering experiment</title><para id="id254668">Radioactive elements emit different types of particles. Some of these are positively charged alpha (<m:math overflow="scroll"><m:mi>α</m:mi></m:math>) particles.
+Rutherford carried out a series of experiments where he bombarded sheets of gold foil with these particles, to try to get a better understanding of where the positive charge in the atom was. A simplified diagram of his experiment is shown in <link target-id="uid4"/>.</para>
+        <figure id="uid4"><media id="uid4_media" alt="">
+            <image mime-type="image/png" src="../../media/CG10C3_002.png" id="uid4_onlineimage" width="667"><!-- NOTE: attribute width changes image size online (pixels). original width is 667. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG10C3_002.eps" id="uid4_printimage"/>
+          </media>
+          
+        <caption>Rutherford's gold foil experiment. Figure (a) shows the path of the <m:math overflow="scroll"><m:mi>α</m:mi></m:math> particles after they hit the gold sheet. Figure (b) shows the arrangement of atoms in the gold sheets and the path of the <m:math overflow="scroll"><m:mi>α</m:mi></m:math> particles in relation to this.</caption></figure>
+        <para id="id254715">Rutherford set up his experiment so that a beam of alpha particles was directed at the gold sheets. Behind the gold sheets was a screen made of zinc sulphide. This screen allowed Rutherford to see where the alpha particles were landing. Rutherford knew that the <emphasis effect="italics">electrons</emphasis> in the gold atoms would not really affect the path of the alpha particles, because the mass of an electron is so much smaller than that of a proton. He reasoned that the positively charged <emphasis effect="italics">protons</emphasis> would be the ones to <emphasis effect="italics">repel</emphasis> the positively charged alpha particles and alter their path.</para>
+        <para id="id254738">What he discovered was that most of the alpha particles passed through the foil undisturbed and could be detected on the screen directly behind the foil (A). Some of the particles ended up being slightly deflected onto other parts of the screen (B). But what was even more interesting was that some of the particles were deflected straight back in the direction from where they had come (C)! These were the particles that had been repelled by the positive protons in the gold atoms. If the Plum Pudding model of the atom were true then Rutherford would have expected much more repulsion, since the positive charge according to that model is distributed throughout the atom. But this was not the case. The fact that most particles passed straight through suggested that the positive charge was concentrated in one part of the atom only.</para></section>
+      </section><section id="eip-491"><title>Relative atomic mass</title><definition id="eip-890">
+<term id="termfhsst_id598"> Relative atomic mass </term> <meaning id="meaningfhsst_id598">
+        <para id="id258580">Relative atomic mass is the average mass of one atom of all the naturally occurring isotopes of a particular chemical element, expressed in atomic mass units.
+ </para>
+        </meaning>
+</definition><para id="eip-933">The relative atomic mass of an element is the number you will find on the periodic table. </para></section>
+    </section>
+ 
+  </content>
+</document>

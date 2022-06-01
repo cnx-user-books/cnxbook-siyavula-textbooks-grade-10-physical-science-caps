@@ -1,0 +1,257 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>The kinetic molecular theory</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38730</md:content-id>
+  <md:title>The kinetic molecular theory</md:title>
+  <md:abstract/>
+  <md:uuid>c827d123-7eb1-4907-a5e5-f442cc2054f4</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid5">
+      <title>The Kinetic Theory of Matter</title>
+      <para id="id308618">The <emphasis effect="bold">kinetic theory of 
+matter</emphasis> helps us to explain why matter exists in different <emphasis effect="italics">phases</emphasis> (i.e. solid, liquid and gas), and how matter 
+can change from one phase to the next. The kinetic theory of matter also helps 
+us to understand other properties of matter. It is important to realise that 
+what we will go on to describe is only a <emphasis effect="italics">theory</emphasis>. It cannot be proved beyond doubt, but the 
+fact that it helps us to explain our observations of changes in phase, and other 
+properties of matter, suggests that it probably is more than just a theory.
+</para>
+      <para id="id308641">Broadly, the Kinetic Theory of Matter says that:
+</para>
+      <list id="id308647" display="block" list-type="bulleted"><item id="uid34">Matter is made up of <emphasis effect="bold">particles</emphasis> 
+that are constantly moving.
+</item>
+        <item id="uid35">All particles have <emphasis effect="bold">energy</emphasis>, but the energy varies depending on whether the 
+substance is a solid, liquid or gas. Solid particles have the least amount of 
+energy and gas particles have the greatest amount of energy.
+</item>
+        <item id="uid36">The <emphasis effect="bold">temperature</emphasis> of a 
+substance is a measure of the <emphasis effect="italics">average kinetic 
+energy</emphasis> of the particles.
+</item>
+        <item id="uid37">A change in <emphasis effect="bold">phase</emphasis> 
+may occur when the energy of the particles is changed.
+</item>
+        <item id="uid38">There are <emphasis effect="bold">spaces</emphasis> 
+between the particles of matter.
+</item>
+        <item id="uid39">There are <emphasis effect="bold">attractive 
+forces</emphasis> between particles and these become stronger as the particles 
+move closer together. These attractive forces will either be intramolecular 
+forces (if the particles are atoms) or intermolecular forces (if the particles 
+are molecules). When the particles are extremely close, repulsive forces start 
+to act.
+</item>
+      </list>
+      <para id="id308767"><link target-id="uid40"/> summarises the 
+characteristics of the particles that are in each phase of matter.</para>
+      <table id="uid40" summary="Summary of properties">
+<tgroup cols="4"><tbody>
+            <row>
+              <entry>
+                <emphasis effect="bold">Property of matter</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">Solid</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">Liquid</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">Gas</emphasis>
+              </entry>
+            </row>
+            <row>
+              <entry>Particles</entry>
+              <entry>Atoms or molecules</entry>
+              <entry>Atoms or molecules</entry>
+              <entry>Atoms or molecules</entry>
+            </row>
+            <row>
+              <entry>Energy and movement of particles</entry>
+              <entry>Low energy - particles vibrate around a fixed point</entry>
+              <entry>Particles have less energy than in the gas phase</entry>
+              <entry>Particles have high energy and are constantly 
+moving</entry>
+            </row>
+            <row>
+              <entry>Spaces between particles</entry>
+              <entry>Very little space between particles. Particles are tightly 
+packed together</entry>
+              <entry>Smaller spaces than in gases, but larger spaces than in 
+solids</entry>
+              <entry>Large spaces because of high energy</entry>
+            </row>
+            <row>
+              <entry>Attractive forces between particles</entry>
+             <entry>Very strong forces. Solids have a fixed volume.</entry>
+              <entry>Stronger forces than in gas. Liquids can be poured.</entry>
+              <entry>Weak forces because of the large distance between 
+particles</entry>
+            </row>
+            <row>
+              <entry>Changes in phase</entry>
+<entry>Solids become liquids if their temperature is increased. In some cases a 
+solid may become a gas if the temperature is increased.</entry>
+              <entry>A liquid becomes a gas if its temperature is increased. It 
+becomes a solid if its temperature decreases.</entry>
+              <entry>In general a gas becomes a liquid when it is cooled. (In a 
+few cases a gas becomes a solid when cooled). Particles have less energy and 
+therefore move closer together so that the attractive forces become stronger, 
+and the gas becomes a liquid (or a solid.)</entry>
+            </row>
+          </tbody>
+        
+
+</tgroup><caption>Table summarising the general features of solids, liquids and 
+gases.</caption>
+</table>
+      <para id="eip-933">The following presentation is a brief summary of the 
+above. Try to fill in the blank spaces before clicking onto the next slide.
+
+<figure id="slidesharefigure" class="slideshare">
+    	<media id="slidesharemedia" alt="Powerpoint presentation on the kinetic      molecular theory">
+    	             <flash id="slideshareflash" height="355" width="425" mime-type="application/x-shockwave-flash" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=kinetictheory-done-100510040904-phpapp02&amp;stripped_title=kinetic-theory-done">
+    	<param name="allowScriptAccess" value="always"/>
+    	<param name="allowFullScreen" value="true"/>
+    	</flash>
+    	</media>
+    	</figure></para><para id="id309036">Let's look at an example that 
+involves the three phases of water: ice (solid), water (liquid) and water vapour 
+(gas). Note that in the <link target-id="uid41"/> below the 
+molecules in the solid phase are represented by single spheres, but they would 
+in reality look like the molecules in the liquid and gas phase. Sometimes we 
+represent molecules as single spheres in the solid phase to emphasise the small 
+amount of space between them and to make the drawing simpler.</para>
+      <figure id="uid41"><media id="uid41_media" alt="">
+          <image mime-type="image/png" src="../../media/CG10C2_008-4c4f.png" id="uid41_onlineimage" width="386"><!-- NOTE: attribute width changes image size 
+online (pixels). original width is 286. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/CG10C2_008-0a62.eps" id="uid41_printimage"/>
+        </media>
+        
+      <caption>The three phases of matter</caption></figure>
+      <para id="id309053">Taking water as an example we find that in the solid 
+phase the water molecules have very little energy and can't move away from each 
+other. The molecules are held closely together in a regular pattern called a 
+<emphasis effect="italics">lattice</emphasis>. If the ice is heated, the energy 
+of the molecules increases. This means that some of the water molecules are able 
+to overcome the intermolecular forces that are holding them together, and the 
+molecules move further apart to form <emphasis effect="italics">liquid 
+water</emphasis>. This is why liquid water is able to flow, because the 
+molecules are more free to move than they were in the solid lattice. If the 
+molecules are heated further, the liquid water will become water vapour, which 
+is a gas. Gas particles have lots of energy and are far away from each other. 
+That is why it is difficult to keep a gas in a specific area! The attractive 
+forces between the particles are very weak and they are only loosely held 
+together. <link target-id="uid42"/> shows the changes in phase that may occur in 
+matter, and the names that describe these processes.</para>
+      <figure id="uid42"><media id="uid42_media" alt="">
+          <image mime-type="image/png" src="../../media/CG10C2_009-f47a.png" id="uid42_onlineimage" width="395"><!-- NOTE: attribute width changes image size 
+online (pixels). original width is 295. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/CG10C2_009-4f58.eps" id="uid42_printimage"/>
+        </media>
+        
+      <caption>Changes in phase</caption></figure>
+    </section>
+<section id="cid7">
+      <title>Summary</title>
+<list id="id311034" display="block" list-type="bulleted"><item id="id973">There are three states of matter: solid, liquid and gas.</item>
+<item id="id872">Diffusion is the movement of particles from a high concentration to a low concentration. Brownian motion is the diffusion of many particles.</item>
+<item id="uid80">The <emphasis effect="bold">kinetic theory of 
+matter</emphasis> attempts to explain the behaviour of matter in different 
+phases.
+</item>
+        <item id="uid81">The kinetic theory of matter says that all matter is 
+composed of <emphasis effect="bold">particles</emphasis> which have a certain 
+amount of <emphasis effect="bold">energy</emphasis> which allows them to 
+<emphasis effect="bold">move</emphasis> at different speeds depending on the 
+temperature (energy). There are <emphasis effect="bold">spaces</emphasis> 
+between the particles and also <emphasis effect="bold">attractive 
+forces</emphasis> between particles when they come close together.
+</item>
+<item id="id643">Intramolecular force is the force between the atoms of a molecule, which holds 
+them together. Intermolecular force is a force between molecules, which holds them together. </item>
+        <item id="uid82">Understanding chemical bonds, intermolecular forces and 
+the kinetic theory of matter can help to explain many of the <emphasis effect="bold">macroscopic properties</emphasis> of matter.
+</item>
+        <item id="uid83"><emphasis effect="bold">Melting point</emphasis> is the 
+temperature at which a <emphasis effect="italics">solid</emphasis> changes its 
+phase to become a <emphasis effect="italics">liquid</emphasis>. The reverse 
+process (change in phase from liquid to solid) is called <emphasis effect="bold">freezing</emphasis>. The stronger the chemical bonds and 
+intermolecular forces in a substance, the higher the melting point will be.
+</item>
+        <item id="uid84"><emphasis effect="bold">Boiling point</emphasis> is the 
+temperature at which a liquid changes phase to become a gas. The reverse 
+process (change in phase from gas to liquid) is called <emphasis effect="bold">condensing</emphasis>. The stronger the 
+chemical bonds and intermolecular forces in a substance, the higher the boiling 
+point will be.
+</item>
+        <item id="uid85"><emphasis effect="bold">Density</emphasis> is a measure 
+of the mass of a substance per unit volume.
+</item>
+        <item id="uid86"><emphasis effect="bold">Viscosity</emphasis> is a 
+measure of how resistant a liquid is to flowing.
+</item>
+</list>
+</section>
+<section id="cid9">
+<title>End of chapter exercises</title>
+<list id="id311490" display="block" list-type="enumerated"><item id="uid87">Give one word or term for each of the following 
+descriptions.
+<list id="id311506" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid88">The 
+property that determines how easily a liquid flows.
+</item><item id="uid89">The change in phase from liquid to gas.
+</item>
+</list><link window="new" class="fullmarks" url="http://www.fhsst.org/l2t">Click here for the solution</link>
+</item>
+<item id="uid92">If one substance A has a melting point that is <emphasis effect="italics">lower</emphasis> than the melting point of substance B, this 
+suggests that...
+<list id="id311675" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid99">A 
+will be a liquid at room temperature.
+</item><item id="uid100">The chemical bonds in substance A are weaker than those 
+in substance B.
+</item><item id="uid101">The chemical bonds in substance A are stronger than 
+those in substance B.
+</item><item id="uid102">B will be a gas at room temperature.
+</item></list><link window="new" class="fullmarks" url="http://www.fhsst.org/lip">Click here for the solution</link></item><item id="uid103">Boiling point is an important concept to understand.
+<list id="id311744" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid104">Define 'boiling point'.
+</item><item id="uid105">What change in phase takes place when a liquid reaches 
+its boiling point?
+</item><item id="uid106">What is the boiling point of water?
+</item><item id="uid107">Use the kinetic theory of matter and your knowledge of 
+intermolecular forces to explain why water changes phase at this temperature.
+</item></list><link window="new" class="fullmarks" url="http://www.fhsst.org/lim">Click here for the solution</link>
+</item>
+<item id="id762">Describe a solid in terms of the kinetic molecular theory. <newline/><link window="new" class="fullmarks" url="http://www.fhsst.org/lgf">Click here for the solution</link></item> 
+ <item id="uid108">Refer to the table below which gives the melting and 
+boiling points of a number of elements and then answer the questions that 
+follow. (<emphasis effect="italics">Data from 
+http://www.chemicalelements.com</emphasis>)
+<table id="id311817" summary="Melting and boiling points">
+<tgroup cols="3"><tbody><row><entry><emphasis effect="bold">Element</emphasis></entry><entry><emphasis effect="bold">Melting 
+point</emphasis></entry><entry><emphasis effect="bold">Boiling point (<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>°</m:mo></m:msup><m:mi mathvariant="normal">C</m:mi></m:math>)</emphasis>
+</entry></row><row><entry>copper</entry><entry>1083</entry><entry>2567</entry>
+</row><row><entry>magnesium</entry><entry>650</entry><entry>1107</entry></row>
+<row><entry>oxygen</entry><entry>-218,4</entry><entry>-183</entry></row><row>
+<entry>carbon</entry><entry>3500</entry><entry>4827</entry></row><row>
+<entry>helium</entry><entry>-272</entry><entry>-268,6</entry></row><row>
+<entry>sulphur</entry><entry>112,8</entry><entry>444,6</entry></row></tbody>
+
+
+
+</tgroup>
+</table><list id="id312057" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid109">What state of matter (i.e. solid, liquid or gas) will each of 
+these elements be in at room temperature?
+</item><item id="uid110">Which of these elements has the strongest forces 
+between its atoms? Give a reason for your answer.
+</item><item id="uid111">Which of these elements has the weakest forces between 
+its atoms? Give a reason for your answer.
+</item></list><link window="new" class="fullmarks" url="http://www.fhsst.org/liy">Click here for the solution</link></item></list>
+</section>
+
+</content>
+
+</document>

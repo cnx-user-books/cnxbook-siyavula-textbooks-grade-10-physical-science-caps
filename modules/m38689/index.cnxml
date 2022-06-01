@@ -1,0 +1,340 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Writing formulae</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38689</md:content-id>
+  <md:title>Writing formulae</md:title>
+  <md:abstract/>
+  <md:uuid>98e0b41e-1da6-4232-9ecf-c49e87c99719</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid10">
+      <title>Writing chemical formulae</title>
+      <section id="uid97">
+        <title>The formulae of covalent compounds</title>
+        <para id="id143689">To work out the formulae of covalent compounds, we need to use the valency of the atoms in the compound. This is because the valency tells us how many bonds each atom can form. This in turn can help to work out how many atoms of each element are in the compound, and therefore what its formula is. The following are some examples where this information is used to write the chemical formula of a compound.</para>
+<exercise id="secfhsst_id646"><title> Formulae of covalent compounds </title>
+        <problem id="probfhsst_id647">
+        <para id="id143709">Write the chemical formula for water</para>
+        
+        </problem>
+        <solution id="solfhsst_id651"> <list id="listfhsst_id651" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Write down the elements that make up the compound. </label>
+        <para id="id143739">A molecule of water contains the elements <emphasis effect="italics">hydrogen</emphasis> and <emphasis effect="italics">oxygen</emphasis>.</para>
+        </item> <item> <label> Determine the valency of each element </label>
+        <para id="id143758">The valency of hydrogen is 1 and the valency of oxygen is 2. This means that oxygen can form two bonds with other elements and each of the hydrogen atoms can form one.</para>
+        </item> <item> <label> Write the chemical formula </label>
+        <para id="id143766">Using the valencies of hydrogen and oxygen, we know that in a single water molecule, two hydrogen atoms will combine with one oxygen atom. The chemical formula for water is therefore:</para>
+        <para id="id143771"><m:math overflow="scroll"><m:mi mathvariant="normal">H</m:mi><m:msub><m:mrow/><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi></m:math>.</para>
+        
+        </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id662"><title> Formulae of covalent compounds </title>
+        <problem id="probfhsst_id663">
+        <para id="id143822">Write the chemical formula for magnesium oxide</para>
+        
+        </problem>
+        <solution id="solfhsst_id667"> <list id="listfhsst_id667" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Write down the elements that make up the compound. </label>
+        <para id="id143852">A molecule of magnesium oxide contains the elements <emphasis effect="italics">magnesium</emphasis> and <emphasis effect="italics">oxygen</emphasis>.</para>
+        </item> <item> <label> Determine the valency of each element </label>
+        <para id="id143871">The valency of magnesium is
+2, while the valency of oxygen is also 2. In a molecule of magnesium oxide, one atom of magnesium will combine with one atom
+of oxygen.</para>
+        </item> <item> <label> Write the chemical formula </label>
+        <para id="id143882">The chemical formula for magnesium oxide is therefore:</para>
+        <para id="id143885"><m:math><m:mi mathvariant="normal">MgO</m:mi></m:math>
+        </para>
+        
+        </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id682"><title> Formulae of covalent compounds </title>
+        <problem id="probfhsst_id683">
+        <para id="id143923">Write the chemical formula for copper (II) chloride.</para>
+        
+        </problem>
+        <solution id="solfhsst_id687"> <list id="listfhsst_id687" list-type="enumerated" number-style="arabic" class="stepwise">
+        
+       
+        <item> <label> Write down the elements that make up the compound. </label>
+        <para id="id143968">A molecule of copper (II) chloride contains the elements <emphasis effect="italics">copper</emphasis> and <emphasis effect="italics">chlorine</emphasis>.</para>
+        </item> <item> <label> Determine the valency of each element </label>
+        <para id="id143987">The valency of copper is 2, while
+the valency of chlorine is 1. In a molecule of copper (II) chloride, two atoms of chlorine will combine with one atom of copper.</para>
+        </item> <item> <label> Write the chemical formula </label>
+        <para id="id143995">The chemical formula for copper (II) chloride is therefore:</para>
+        <para id="id143999"><m:math overflow="scroll"><m:mi mathvariant="normal">CuCl</m:mi><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>
+        </para>
+ </item> </list> </solution>
+</exercise>
+      </section>
+      <section id="uid98">
+        <title>The formulae of ionic compounds</title>
+        <para id="id144031">The overall charge of an ionic compound will always be zero and so the negative and positive charge must be the same size. We can use this information to work out what the chemical formula of an ionic compound is if we know the charge on the individual ions. In the case of <m:math><m:mi mathvariant="normal">NaCl</m:mi></m:math> for example, the charge on the sodium is <m:math><m:mo>+</m:mo><m:mn>1</m:mn></m:math> and the charge on the chlorine is <m:math><m:mo>-</m:mo><m:mn>1</m:mn></m:math>. The charges balance (<m:math><m:mo>+</m:mo><m:mn>1</m:mn><m:mo>-</m:mo><m:mn>1</m:mn><m:mo>=</m:mo><m:mn>0</m:mn></m:math>) and therefore the ionic compound is neutral. In <m:math><m:mi mathvariant="normal">MgO</m:mi></m:math>, magnesium has a charge of <m:math><m:mo>+</m:mo><m:mn>2</m:mn></m:math> and oxygen has a charge of <m:math><m:mo>-</m:mo><m:mn>2</m:mn></m:math>. Again, the charges balance and the compound is neutral. Positive ions are called <emphasis effect="bold">cations</emphasis> and negative ions are called <emphasis effect="bold">anions</emphasis>.</para>
+        <para id="id144050">Some ions are made up of groups of atoms, and these are called <emphasis effect="bold">compound ions</emphasis>. It is a good idea to learn the compound ions that are shown in <link target-id="uid99"/></para>
+        <table id="uid99" summary="Table showing common compound ions and their formulae">
+<tgroup cols="4"><tbody>
+              <row>
+                <entry>
+                  <emphasis effect="bold">Name of compound ion</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">formula</emphasis>
+                </entry>
+                <entry><emphasis effect="bold">Name of compound ion</emphasis></entry>
+    <entry><emphasis effect="bold">formula</emphasis></entry>
+  </row>
+              <row>
+                <entry>Carbonate</entry>
+                <entry><m:math overflow="scroll"><m:mi mathvariant="normal">CO</m:mi><m:msubsup><m:mrow/><m:mrow><m:mn>3</m:mn></m:mrow><m:mrow><m:mn>2</m:mn><m:mo>-</m:mo></m:mrow></m:msubsup></m:math></entry>
+                <entry>Nitrite</entry>
+    <entry><m:math overflow="scroll"><m:msubsup><m:mi mathvariant="normal">NO</m:mi><m:mrow><m:mn>2</m:mn></m:mrow><m:mrow><m:mo>-</m:mo></m:mrow></m:msubsup></m:math></entry>
+  </row>
+              <row>
+                <entry>Sulphate</entry>
+                <entry><m:math overflow="scroll"><m:msubsup><m:mi mathvariant="normal">SO</m:mi><m:mrow><m:mn>4</m:mn></m:mrow><m:mrow><m:mn>2</m:mn><m:mo>-</m:mo></m:mrow></m:msubsup></m:math></entry>
+                <entry>Hydrogen sulphite</entry>
+    <entry><m:math overflow="scroll"><m:msubsup><m:mi mathvariant="normal">HSO</m:mi><m:mrow><m:mn>3</m:mn></m:mrow><m:mrow><m:mo>-</m:mo></m:mrow></m:msubsup></m:math></entry>
+  </row>
+              <row>
+                <entry>Hydroxide</entry>
+                <entry><m:math overflow="scroll"><m:msup><m:mi mathvariant="normal">OH</m:mi><m:mo>-</m:mo></m:msup></m:math></entry>
+                <entry>Hydrogen sulphate</entry>
+    <entry><m:math overflow="scroll"><m:msubsup><m:mi mathvariant="normal">HSO</m:mi><m:mrow><m:mn>4</m:mn></m:mrow><m:mrow><m:mo>-</m:mo></m:mrow></m:msubsup></m:math></entry>
+  </row>
+              <row>
+                <entry>Ammonium</entry>
+                <entry><m:math overflow="scroll"><m:msubsup><m:mi mathvariant="normal">NH</m:mi><m:mrow><m:mn>4</m:mn></m:mrow><m:mo>+</m:mo></m:msubsup></m:math></entry>
+                <entry>Dihydrogen phosphate</entry>
+    <entry><m:math overflow="scroll"><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:msubsup><m:mi mathvariant="normal">PO</m:mi><m:mrow><m:mn>4</m:mn></m:mrow><m:mrow><m:mo>-</m:mo></m:mrow></m:msubsup></m:math></entry>
+  </row>
+              <row>
+                <entry>Nitrate</entry>
+                <entry><m:math overflow="scroll"><m:msubsup><m:mi mathvariant="normal">NO</m:mi><m:mrow><m:mn>3</m:mn></m:mrow><m:mo>-</m:mo></m:msubsup></m:math></entry>
+                <entry>Hypochlorite</entry>
+    <entry><m:math overflow="scroll"><m:msup><m:mi mathvariant="normal">ClO</m:mi><m:mo>-</m:mo></m:msup></m:math></entry>
+  </row>
+              <row>
+                <entry>Hydrogen carbonate</entry>
+                <entry><m:math overflow="scroll"><m:msubsup><m:mi mathvariant="normal">HCO</m:mi><m:mrow><m:mn>3</m:mn></m:mrow><m:mo>-</m:mo></m:msubsup></m:math></entry>
+                <entry>Acetate (ethanoate)</entry>
+    <entry><m:math overflow="scroll"><m:msub><m:mi mathvariant="normal">CH</m:mi><m:mn>3</m:mn></m:msub><m:msup><m:mi mathvariant="normal">COO</m:mi><m:mrow><m:mo>-</m:mo></m:mrow></m:msup></m:math></entry>
+  </row>
+              <row>
+                <entry>Phosphate</entry>
+                <entry><m:math overflow="scroll"><m:msubsup><m:mi mathvariant="normal">PO</m:mi><m:mrow><m:mn>4</m:mn></m:mrow><m:mrow><m:mn>3</m:mn><m:mo>-</m:mo></m:mrow></m:msubsup></m:math></entry>
+                <entry>Oxalate</entry>
+    <entry><m:math overflow="scroll"><m:msub><m:mi mathvariant="normal">C</m:mi><m:mn>2</m:mn></m:msub><m:msubsup><m:mi mathvariant="normal">O</m:mi><m:mrow><m:mn>4</m:mn></m:mrow><m:mrow><m:mn>2</m:mn><m:mo>-</m:mo></m:mrow></m:msubsup></m:math></entry>
+  </row>
+              <row>
+                <entry>Chlorate</entry>
+                <entry><m:math overflow="scroll"><m:msubsup><m:mi mathvariant="normal">ClO</m:mi><m:mrow><m:mn>3</m:mn></m:mrow><m:mo>-</m:mo></m:msubsup></m:math></entry>
+                <entry>Oxide</entry>
+    <entry><m:math><m:msup><m:mi mathvariant="normal">O</m:mi><m:mrow><m:mn>2</m:mn><m:mo>-</m:mo></m:mrow></m:msup></m:math></entry>
+  </row>
+              <row>
+                <entry>Cyanide</entry>
+                <entry><m:math overflow="scroll"><m:msup><m:mi mathvariant="normal">CN</m:mi><m:mo>-</m:mo></m:msup></m:math></entry>
+                <entry>Peroxide</entry>
+    <entry><m:math overflow="scroll"><m:msubsup><m:mi mathvariant="normal">O</m:mi><m:mrow><m:mn>2</m:mn></m:mrow><m:mrow><m:mn>2</m:mn><m:mo>-</m:mo></m:mrow></m:msubsup></m:math></entry>
+  </row>
+              <row>
+                <entry>Chromate</entry>
+                <entry><m:math overflow="scroll"><m:msubsup><m:mi mathvariant="normal">CrO</m:mi><m:mrow><m:mn>4</m:mn></m:mrow><m:mrow><m:mn>2</m:mn><m:mo>-</m:mo></m:mrow></m:msubsup></m:math></entry>
+                <entry>Sulphide</entry>
+    <entry><m:math overflow="scroll"><m:msup><m:mi mathvariant="normal">S</m:mi><m:mrow><m:mn>2</m:mn><m:mo>-</m:mo></m:mrow></m:msup></m:math></entry>
+  </row>
+              <row>
+                <entry>Permanganate</entry>
+                <entry><m:math overflow="scroll"><m:msubsup><m:mi mathvariant="normal">MnO</m:mi><m:mrow><m:mn>4</m:mn></m:mrow><m:mo>-</m:mo></m:msubsup></m:math></entry>
+                <entry>Sulphite</entry>
+    <entry><m:math overflow="scroll"><m:msubsup><m:mi mathvariant="normal">SO</m:mi><m:mrow><m:mn>3</m:mn></m:mrow><m:mrow><m:mn>2</m:mn><m:mo>-</m:mo></m:mrow></m:msubsup></m:math></entry>
+  </row>
+              <row>
+    <entry>Thiosulphate</entry>
+    <entry><m:math overflow="scroll"><m:msub><m:mi mathvariant="normal">S</m:mi><m:mn>2</m:mn></m:msub><m:msubsup><m:mi mathvariant="normal">O</m:mi><m:mrow><m:mn>3</m:mn></m:mrow><m:mrow><m:mn>2</m:mn><m:mo>-</m:mo></m:mrow></m:msubsup></m:math></entry>
+    <entry>Manganate</entry>
+    <entry><m:math overflow="scroll"><m:msubsup><m:mi mathvariant="normal">MnO</m:mi><m:mrow><m:mn>4</m:mn></m:mrow><m:mrow><m:mn>2</m:mn><m:mo>-</m:mo></m:mrow></m:msubsup></m:math></entry>
+  </row>
+  <row>
+    <entry>Phosphide</entry>
+    <entry><m:math overflow="scroll"><m:msup><m:mi mathvariant="normal">P</m:mi><m:mrow><m:mn>3</m:mn><m:mo>-</m:mo></m:mrow></m:msup></m:math></entry>
+    <entry>Hydrogen phosphate</entry>
+    <entry><m:math overflow="scroll"><m:msubsup><m:mi mathvariant="normal">HPO</m:mi><m:mrow><m:mn>4</m:mn></m:mrow><m:mrow><m:mn>3</m:mn><m:mo>-</m:mo></m:mrow></m:msubsup></m:math></entry>
+  </row>
+
+</tbody>
+          
+
+
+
+
+
+
+
+
+
+</tgroup><caption>Table showing common compound ions and their formulae</caption>
+</table>
+        <para id="id144609">In the case of ionic compounds, the valency of an ion is the same as its charge (Note: valency is always expressed as a
+<emphasis effect="italics">positive</emphasis> number e.g. valency of the chloride ion is 1 and not -1). Since an ionic compound is always <emphasis effect="italics">neutral</emphasis>,
+the positive charges in the compound must balance out the negative. The following are some examples:</para>
+<exercise id="secfhsst_id768"><title> Formulae of ionic compounds </title>
+        <problem id="probfhsst_id769">
+        <para id="id144639">Write the chemical formula for potassium iodide.</para>
+        
+        </problem>
+        <solution id="solfhsst_id773"> <list id="listfhsst_id773" list-type="enumerated" number-style="arabic" class="stepwise">
+        
+        
+        <item> <label> Write down the ions that make up the compound. </label>
+        <para id="id144684">Potassium iodide contains potassium and iodide ions.</para>
+        </item> <item> <label> Determine the valency and charge of each ion. </label>
+        <para id="id144691">Potassium iodide contains the ions <m:math overflow="scroll"><m:mi mathvariant="normal">K</m:mi><m:msup><m:mrow/><m:mo>+</m:mo></m:msup></m:math> (<m:math><m:mi>valency</m:mi><m:mo>=</m:mo><m:mn>1</m:mn></m:math>; <m:math><m:mi>charge</m:mi><m:mo>=</m:mo><m:mo>+</m:mo><m:mn>1</m:mn></m:math>) and <m:math overflow="scroll"><m:mi mathvariant="normal">I</m:mi><m:msup><m:mrow/><m:mo>-</m:mo></m:msup></m:math> (<m:math><m:mi>valency</m:mi><m:mo>=</m:mo><m:mn>1</m:mn></m:math>; <m:math><m:mi>charge</m:mi><m:mo>=</m:mo><m:mo>-</m:mo><m:mn>1</m:mn></m:math>). In order to balance the charge in a single molecule, one atom of potassium will be needed for every one atom of iodine.</para>
+        </item> <item> <label> Write the chemical formula </label>
+        <para id="id144729">The chemical formula for potassium iodide is therefore:</para>
+        <para id="id144732"><m:math><m:mi mathvariant="normal">KI</m:mi></m:math>
+        </para>
+</item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id786"><title> Formulae of ionic compounds </title>
+        <problem id="probfhsst_id787">
+        <para id="id144754">Write the chemical formula for sodium sulphate.</para>
+        
+        </problem>
+        <solution id="solfhsst_id791"> <list id="listfhsst_id791" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Write down the ions that make up the compound. </label>
+        <para id="id144784">Sodium sulphate contains sodium ions and sulphate ions.</para>
+        </item> <item> <label> Determine the valency and charge of each ion. </label>
+        <para id="id144792"><m:math overflow="scroll"><m:mi mathvariant="normal">Na</m:mi><m:msup><m:mrow/><m:mo>+</m:mo></m:msup></m:math> (valency = 1; charge = +1) and <m:math overflow="scroll"><m:mi mathvariant="normal">SO</m:mi><m:msubsup><m:mrow/><m:mrow><m:mn>4</m:mn></m:mrow><m:mrow><m:mn>2</m:mn><m:mo>-</m:mo></m:mrow></m:msubsup></m:math>(<m:math><m:mi>valency</m:mi><m:mo>=</m:mo><m:mn>2</m:mn></m:math>; <m:math><m:mi>charge</m:mi><m:mo>=</m:mo><m:mo>-</m:mo><m:mn>2</m:mn></m:math>).</para>
+        </item> <item> <label> Write the chemical formula. </label>
+        <para id="id144849">Two sodium ions will be needed to balance the charge of the sulphate ion. The chemical formula for sodium sulphate is therefore:</para>
+        <para id="id144854"><m:math overflow="scroll"><m:mi mathvariant="normal">Na</m:mi><m:msub><m:mrow/><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">SO</m:mi><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math>
+        </para>
+        
+        </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id804"><title> Formulae of ionic compounds </title>
+        <problem id="probfhsst_id805">
+        <para id="id144915">Write the chemical formula for calcium hydroxide.</para>
+        
+        </problem>
+        <solution id="solfhsst_id809"> <list id="listfhsst_id809" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Write down the ions that make up the compound. </label>
+        <para id="id144945">Calcium hydroxide contains calcium ions and hydroxide ions.</para>
+        </item> <item> <label> Determine the valency and charge of each ion. </label>
+        <para id="id144953">Calcium hydroxide contains the ions <m:math overflow="scroll"><m:msup><m:mi mathvariant="normal">Ca</m:mi><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup></m:math> (<m:math><m:mi>charge</m:mi><m:mo>=</m:mo><m:mo>+</m:mo><m:mn>2</m:mn></m:math>) and <m:math overflow="scroll"><m:mi mathvariant="normal">OH</m:mi><m:msup><m:mrow/><m:mo>-</m:mo></m:msup></m:math> (<m:math><m:mi>charge</m:mi><m:mo>=</m:mo><m:mo>-</m:mo><m:mn>1</m:mn></m:math>). In order to balance the charge in a single molecule, two hydroxide ions will be needed for every ion of calcium.</para>
+        </item> <item> <label> Write the chemical formula. </label>
+        <para id="id145000">The chemical formula for calcium hydroxide is therefore:</para>
+        <para id="id145004"><m:math overflow="scroll"><m:mi mathvariant="normal">Ca(OH)</m:mi><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>
+        </para>
+        
+        </item> </list> </solution>
+</exercise>
+<note id="eip-682">Notice how in the last example we wrote <m:math><m:msup><m:mi mathvariant="normal">OH</m:mi><m:mo>-</m:mo></m:msup></m:math> inside brackets. We do this to indicate that <m:math><m:msup><m:mi mathvariant="normal">OH</m:mi><m:mo>-</m:mo></m:msup></m:math> is a complex ion and that there are two of these ions bonded to one calcium ion.</note><section id="secfhsst_id822"><title> Chemical formulae
+        </title>
+        <list id="id145052" display="block" list-type="enumerated"><item id="uid100">
+Copy and complete the table below:
+
+<table id="id145067" summary="table of ions">
+<tgroup cols="4"><tbody><row><entry><emphasis effect="bold">Compound</emphasis></entry><entry><emphasis effect="bold">Cation</emphasis></entry><entry><emphasis effect="bold">Anion</emphasis></entry><entry><emphasis effect="bold">Formula</emphasis></entry></row><row><entry/><entry><m:math overflow="scroll"><m:mi mathvariant="normal">Na</m:mi><m:msup><m:mrow/><m:mo>+</m:mo></m:msup></m:math></entry><entry><m:math overflow="scroll"><m:mi mathvariant="normal">Cl</m:mi><m:msup><m:mrow/><m:mo>-</m:mo></m:msup></m:math></entry><entry/></row>
+<row><entry>potassium bromide</entry><entry/><entry><m:math overflow="scroll"><m:mi mathvariant="normal">Br</m:mi><m:msup><m:mrow/><m:mo>-</m:mo></m:msup></m:math></entry>
+<entry/></row>
+<row><entry/><entry><m:math overflow="scroll"><m:mi mathvariant="normal">NH</m:mi><m:msubsup><m:mrow/><m:mrow><m:mn>4</m:mn></m:mrow><m:mo>+</m:mo></m:msubsup></m:math></entry><entry><m:math overflow="scroll"><m:mi mathvariant="normal">Cl</m:mi><m:msup><m:mrow/><m:mo>-</m:mo></m:msup></m:math></entry>
+<entry/></row><row>
+<entry>potassium chromate</entry><entry/><entry/><entry/></row><row><entry/><entry/><entry/><entry><m:math><m:mi mathvariant="normal">PbI</m:mi></m:math></entry></row><row><entry>potassium permanganate</entry><entry/><entry/><entry/></row><row><entry>calcium phosphate</entry><entry/><entry/><entry/></row></tbody>
+
+</tgroup>
+</table><link window="new" class="fullmarks" url="http://www.fhsst.org/l3t">Click here for the solution</link></item>
+          <item id="uid101">Write the chemical formula for each of the following compounds:
+<list id="id145444" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid102">hydrogen cyanide
+</item><item id="uid103">carbon dioxide
+</item><item id="uid104">sodium carbonate
+</item><item id="uid105">ammonium hydroxide
+</item><item id="uid106">barium sulphate
+</item></list><link window="new" class="fullmarks" url="http://www.fhsst.org/l3z">Click here for the solution</link></item>
+        </list>
+        
+</section>
+      </section>
+    </section>
+<section id="cid121">
+<title>Chemical compounds: names and masses</title>
+<para id="uid97124">In <link document="m38118" target-id="cid4" window="new">Giving names and formulae to substances</link> the names of chemical compounds was revised. The relative molecular mass for covalent molecules is simply the sum of the relative atomic masses of each of the individual atoms in that compound. For ionic compounds we use the formula of the compound to work out a relative formula mass. We ignore the fact that there are many molecules linked together to form a crystal lattice. For example <m:math><m:mi mathvariant="normal">NaCl</m:mi></m:math> has a relative formula mass of <m:math><m:mn>58</m:mn><m:mspace width="3pt"/><m:mi mathvariant="normal">g</m:mi><m:mo>·</m:mo><m:msup><m:mi>mol</m:mi><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math> .  
+</para>
+</section>
+    <para id="eip-891"><figure id="slidesharefigure" class="slideshare">
+    	<media id="slidesharemedia" alt="Powerpoint presentation on bonding">
+    	<flash id="slideshareflash" height="355" width="425" mime-type="application/x-shockwave-flash" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=bonding-100511043651-phpapp02&amp;stripped_title=bonding-4047232&amp;userName=kwarne">
+    	<param name="allowScriptAccess" value="always"/>
+    	<param name="allowFullScreen" value="true"/>
+    	</flash>
+    	</media>
+    	</figure></para><section id="cid13">
+      <title>Summary</title>
+      <list id="id147386" display="block" list-type="bulleted">
+        <item id="uid136">A <emphasis effect="bold">chemical bond</emphasis> is the physical process that causes atoms and molecules to be attracted together and to be bound in new compounds.
+</item>
+        <item id="uid137">Atoms are more <emphasis effect="bold">reactive</emphasis>, and therefore more likely to bond, when their outer electron orbitals are not full. Atoms are less reactive when these outer orbitals contain the maximum number of electrons. This explains why the noble gases do not combine to form molecules.
+</item>
+        <item id="uid142">When atoms bond, electrons are either shared or exchanged.
+</item>
+        <item id="uid143"><emphasis effect="bold">Covalent bonding</emphasis> occurs between the atoms of non-metals and involves a sharing of electrons so that the orbitals of the outermost energy levels in the atoms are filled.
+</item>
+        <item id="uid144">The <emphasis effect="bold">valency</emphasis> of an atom is the number of electrons in the outer shell of that atom and valence electrons are able to form bonds with other atoms.
+</item>
+        <item id="uid145">A <emphasis effect="bold">double</emphasis> or <emphasis effect="bold">triple bond</emphasis> occurs if there are two or three electron pairs that are shared between the same two atoms.
+</item>
+        <item id="uid146">A <emphasis effect="bold">dative covalent bond</emphasis> is a bond between two atoms in which both the electrons that are shared in the bond come from the same atom.
+</item>
+        <item id="uid147"><emphasis effect="bold">Lewis</emphasis> and <emphasis effect="bold">Couper</emphasis> notation are two ways of representing molecular structure. In Lewis notation, dots and crosses are used to represent the valence electrons around the central atom. In Couper notation, lines are used to represent the bonds between atoms.
+</item>
+        <item id="uid150">An <emphasis effect="bold">ionic bond</emphasis> occurs between atoms where the difference in electronegativity is greater than 1,7. An exchange of electrons takes place and the atoms are held together by the electrostatic force of attraction between oppositely-charged ions.
+</item>
+        <item id="uid151">Ionic solids are arranged in a <emphasis effect="bold">crystal lattice</emphasis> structure.
+</item>
+        <item id="uid152">Ionic compounds have a number of specific <emphasis effect="bold">properties</emphasis>, including their high melting and boiling points, brittle nature, the lattice structure of solids and the ability of ionic solutions to conduct electricity.
+</item>
+        <item id="uid153">A <emphasis effect="bold">metallic bond</emphasis> is the electrostatic attraction between the positively charged nuclei of metal atoms and the delocalised electrons in the metal.
+</item>
+        <item id="uid154">Metals also have a number of properties, including their ability to conduct heat and electricity, their metallic lustre, the fact that they are both malleable and ductile, and their high melting point and density.
+</item>
+        <item id="uid155">The valency of atoms, and the way they bond, can be used to determine the <emphasis effect="bold">chemical formulae</emphasis> of compounds.
+</item>
+      </list>
+<section id="secfhsst_id1181"><title>End of chapter exercises </title>
+      <list id="id147820" display="block" list-type="enumerated"><item id="uid158">Explain the meaning of each of the following terms
+<list id="id147842" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid159">Valency
+</item><item id="uid160">Covalent bond
+</item></list><link window="new" class="fullmarks" url="http://www.fhsst.org/lgV">Click here for the solution</link></item>
+        <item id="uid162">Which ONE of the following best describes the bond formed between an <m:math overflow="scroll"><m:mi mathvariant="normal">H</m:mi><m:msup><m:mrow/><m:mo>+</m:mo></m:msup></m:math> ion and the <m:math overflow="scroll"><m:mi mathvariant="normal">NH</m:mi><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math> molecule?
+<list id="id147923" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid163">Covalent bond
+</item><item id="uid164">Dative covalent (coordinate covalent) bond
+</item><item id="uid165">Ionic Bond
+</item><item id="uid166">Hydrogen Bond
+</item></list><link window="new" class="fullmarks" url="http://www.fhsst.org/l37">Click here for the solution</link></item>
+        <item id="uid171">Which of the following reactions will <emphasis effect="italics">not</emphasis> take place? Explain your answer.
+<list id="id148047" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid172"><m:math overflow="scroll"><m:mrow><m:mi mathvariant="normal">H</m:mi><m:mo>+</m:mo><m:mi mathvariant="normal">H</m:mi><m:mo>→</m:mo><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:math></item><item id="uid173"><m:math overflow="scroll"><m:mrow><m:mi> Ne </m:mi><m:mo>+</m:mo><m:mi> Ne </m:mi><m:mo>→</m:mo><m:msub><m:mi> Ne </m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:math></item><item id="uid174"><m:math overflow="scroll"><m:mrow><m:mi> Cl </m:mi><m:mo>+</m:mo><m:mi> Cl </m:mi><m:mo>→</m:mo><m:msub><m:mi> Cl </m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:math></item></list><link window="new" class="fullmarks" url="http://www.fhsst.org/l36">Click here for the solution</link></item>
+        <item id="uid175">Draw the Lewis structure for each of the following:
+<list id="id148172" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid176">calcium
+</item><item id="uid177">iodine (Hint: Which group is it in? It will be similar to others in that group)
+</item><item id="uid178">hydrogen bromide (<m:math><m:mi mathvariant="normal">HBr</m:mi></m:math>)
+</item><item id="uid179">nitrogen dioxide (<m:math overflow="scroll"><m:mi mathvariant="normal">NO</m:mi><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>)
+</item></list><link window="new" class="fullmarks" url="http://www.fhsst.org/l3H">Click here for the solution</link></item>
+        <item id="uid180">Given the following Lewis structure, where X and Y each represent a different element...
+<figure id="id148255"><media id="id148255_media" alt=""><image mime-type="image/png" src="../../media/CG11C1_027.png" id="id148255_onlineimage" width="90"><!-- NOTE: attribute width changes image size online (pixels). original width is 60. --></image><image mime-type="application/postscript" for="pdf" src="../../media/CG11C1_027.eps" id="id148255_printimage"/></media></figure><list id="id148261" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid181">What is the valency of <m:math><m:mi mathvariant="normal">X</m:mi></m:math>?
+</item><item id="uid182">What is the valency of <m:math><m:mi mathvariant="normal">Y</m:mi></m:math>?
+</item><item id="uid183">Which elements could <m:math><m:mi mathvariant="normal">X</m:mi></m:math> and <m:math><m:mi mathvariant="normal">Y</m:mi></m:math> represent?
+</item></list><link window="new" class="fullmarks" url="http://www.fhsst.org/l3s">Click here for the solution</link></item>
+        <item id="uid184">A molecule of ethane has the formula <m:math overflow="scroll"><m:mi mathvariant="normal">C</m:mi><m:msub><m:mrow/><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">H</m:mi><m:msub><m:mrow/><m:mn>6</m:mn></m:msub></m:math>. Which of the following diagrams (Couper notation) accurately represents this molecule?
+<figure id="id148343"><media id="id148343_media" alt=""><image mime-type="image/png" src="../../media/CG11C1_028.png" id="id148343_onlineimage" width="264"><!-- NOTE: attribute width changes image size online (pixels). original width is 264. --></image><image mime-type="application/postscript" for="pdf" src="../../media/CG11C1_028.eps" id="id148343_printimage"/></media></figure><link window="new" class="fullmarks" url="http://www.fhsst.org/l3o">Click here for the solution</link></item>
+        <item id="uid185">Potassium dichromate is dissolved in water.
+<list id="id148361" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid186">Give the name and chemical formula for each of the ions in solution.
+</item><item id="uid187">What is the chemical formula for potassium dichromate?
+</item></list><link window="new" class="fullmarks" url="http://www.fhsst.org/l3A">Click here for the solution</link></item>
+      </list>
+      
+</section>
+    </section>
+  </content>
+</document>

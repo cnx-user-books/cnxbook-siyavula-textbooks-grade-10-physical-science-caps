@@ -1,0 +1,1187 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Potential difference</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38772</md:content-id>
+  <md:title>Potential difference</md:title>
+  <md:abstract/>
+  <md:uuid>9a791047-1762-4e62-b248-1c677703f146</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid3">
+      <title>Potential Difference</title>
+      <section id="uid40">
+        <title>Potential Difference</title>
+        <para id="id63941">When a circuit is connected and complete, charge can move through the circuit. Charge will not move unless there is something to make it move. Think of it as though charge is at rest and something has to push it along. This means that work needs to be done to make charge move. A force acts on the charges, doing work, to make them move. The force is provided by the battery in the circuit.</para>
+        <para id="id63948">We call the moving charge "current" and we will talk about this later.</para>
+        <!--<para id="id63952">The position of the charge in the circuit tells you how much potential energy it has because of the force being exerted on it. This is like the force from gravity, the higher an object is above the ground (position) the more potential energy it has.</para>-->
+        <para id="id63957">The amount of work done to move a unit charge from one point to another point in a circuit is called the potential difference between those two points. You can think of it as a difference in the potential energy of the unit charge due to its position in the circuit. The difference in potential energy, called potential difference, is equal to the amount of work done to move the unit charge between the two points. Just like with gravity, when you raise an object above the ground it has gravitational potential energy due to its position, the same goes for a charge in a circuit and electrical potential energy. Potential difference is measured <emphasis effect="italics">between</emphasis> or <emphasis effect="italics">across</emphasis> two points. We do not say potential difference <emphasis effect="italics">through</emphasis> something.</para>
+<definition id="fhsst_id409"><term id="termfhsst_id409"> Potential Difference </term> <meaning id="meaningfhsst_id409">
+        <para id="id63970">Electrical potential difference is the difference in electrical potential energy per unit charge between two points. The unit of potential difference is the volt<footnote id="uid41">named after the Italian physicist Alessandro Volta (1745–1827)</footnote> (V). 
+The potential difference of a battery is the voltage measured across it when current is flowing through it.
+</para>
+        </meaning></definition>
+        <para id="id63994">The unit of potential difference is the volt (V), which is the same as 1 joule per coulomb, the amount of work done per unit charge. Electrical potential difference is also called voltage.</para>
+      </section>
+
+      <section id="s1">
+	<title>Potential difference and emf</title>
+	<para id="sp1">
+	  We use an instrument called a voltmeter to measure the potential difference between two points in a circuit. It must be connected across the two points, <emphasis effect="italics">in parallel</emphasis> to that portion of the circuit as shown in the diagram below.
+	</para>  
+        <figure id="uid73s1">
+          <media id="uid73s1_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C9_034.png" id="uid73s1_onlineimage" width="150"><!-- NOTE: attribute width changes image size online (pixels). original width is 150. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C9_034.eps" id="uid73s1_printimage"/>
+          </media>
+          <caption>A voltmeter should be connected in parallel in a circuit.</caption>
+        </figure>
+      <section id="uid45">
+        <title>EMF</title>
+        <para id="id64666">When you use a voltmeter to measure the potential difference across (or between) the terminals of a battery, when no current is flowing through the battery, you are measuring the <emphasis effect="bold">electromotive force (emf)</emphasis> of the battery. This is how much potential energy the battery has to make charges move through the circuit. It is a measure of how much chemical potential energy can be transferred to electrical energy in the battery. This driving potential energy is equal to the total potential energy drops in the circuit. This means that the voltage across the battery is equal to the sum of the voltages in the circuit.
+
+<definition id="emf">
+<term id="emfterm">emf</term>
+<meaning id="emf1meaning">
+The emf (electromotive force) is the voltage measured across the terminals of a battery when <emphasis effect="italics">no current is flowing</emphasis> through the battery.
+</meaning>
+</definition></para>
+
+	<para id="ffgfgfgf">
+	  You have now learnt that the emf is the voltage measured across the terminals of a battery when there is no current flowing through it and that the potential difference of a battery is the voltage measured across it when there is current flowing through it. So how do these two quantities compare with each other? 
+	</para>  
+
+	<section id="secfhsst_id1616s1"><title>Experiment : Investigate the emf and potential difference of a battery </title>
+	  <para id="parasar1"> <title>Aim:</title>To measure the emf and potential difference across a battery in a circuit</para>
+	  <para id="parasar11"> <title>Apparatus:</title>A battery, connecting wires, a light bulb, a switch, a voltmeter.</para>
+	  <para id="parasar111"> <title>Method: </title>Set up a circuit with a battery, a lightbulb and a switch connected in series.</para>
+	       <para id="parasar11111">First we will measure the emf of the battery when no current is flowing. Make sure that the switch is open and the lightbulb is not glowing. This is how we check that there is no current flowing through the circuit. Then connect the voltmeter across the terminals of the battery. Make sure that the voltmeter is set to the largest scale when you first start measuring. Write down the voltage you measure. This is the emf. Disconnect the voltmeter.</para>
+	       <para id="parasar15">Second we will measure the potential difference across the battery. This time, make sure the switch is closed and that the lightbulb is glowing. This means that there is current flowing through the circuit. Now connect the voltmeter again across the terminals of the battery. Again make sure that the voltmeter is set on its largest scale. Write down the voltage you measure. This is called the potential difference of the battery. How does it compare to the other value you measured when there was no current flowing?</para>
+	  <para id="parasar221"><title>Summary:</title>You will have noticed that the voltages you measured when there was no current flowing (emf) and when there was current flowing (potential difference) were different. The emf was a higher value than the potential difference. Discuss with your classmates and teacher why you think this might happen.</para>
+	</section>  
+
+	<para id="parasar13">
+	  Batteries all have some internal resistance to charges moving through them and therefore some work is required to move the charges through the battery itself. This internal resistance causes the potential difference across the battery terminals to be slightly less than the emf. 
+	</para>  
+
+<!-- SB SB Voltage exercises -->
+        <para id="id64677">In the following exercises, we will assume that we have 'perfect' batteries with no internal resistance. In this special case, the potential difference of the battery and its emf will be the same. We can use this information to solve problems in which the voltages across elements in a circuit add up to the emf.</para>
+        <equation id="id64681">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>E</m:mi>
+              <m:mi>M</m:mi>
+              <m:mi>F</m:mi>
+              <m:mo>=</m:mo>
+              <m:msub>
+                <m:mi>V</m:mi>
+                <m:mrow>
+                  <m:mi>t</m:mi>
+                  <m:mi>o</m:mi>
+                  <m:mi>t</m:mi>
+                  <m:mi>a</m:mi>
+                  <m:mi>l</m:mi>
+                </m:mrow>
+              </m:msub>
+            </m:mrow>
+          </m:math>
+        </equation>
+<exercise id="secfhsst_id616"><title> Voltages I </title>
+        <problem id="probfhsst_id617">
+        <para id="id64727">What is the voltage across the resistor in the circuit shown?
+
+
+<figure id="id64742"><media id="id64742_media" alt=""><image mime-type="image/png" src="../../media/PG10C9_021.png" id="id64742_onlineimage" width="235"/><image mime-type="application/postscript" for="pdf" src="../../media/PG10C9_021.eps" id="id64742_printimage"/></media></figure>
+
+
+ </para>
+        </problem>
+        <solution id="solfhsst_id626"> <list id="listfhsst_id626" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Check what you have and the units </label>
+        <para id="id64769">We have a circuit with a battery and one resistor. We know the voltage across the battery. We want to find the voltage across the resistor.</para>
+        <equation id="id64773">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:msub>
+                <m:mi>V</m:mi>
+                <m:mrow>
+                  <m:mi>b</m:mi>
+                  <m:mi>a</m:mi>
+                  <m:mi>t</m:mi>
+                  <m:mi>t</m:mi>
+                  <m:mi>e</m:mi>
+                  <m:mi>r</m:mi>
+                  <m:mi>y</m:mi>
+                </m:mrow>
+              </m:msub>
+              <m:mo>=</m:mo>
+              <m:mn>2</m:mn>
+              <m:mi mathvariant="normal">V</m:mi>
+            </m:mrow>
+          </m:math>
+        </equation>
+        </item> <item> <label> Applicable principles </label>
+        <para id="id64817">We know that the voltage across the battery must be equal to the total voltage across all other circuit components.</para>
+        <equation id="id64822">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:msub>
+                <m:mi>V</m:mi>
+                <m:mrow>
+                  <m:mi>b</m:mi>
+                  <m:mi>a</m:mi>
+                  <m:mi>t</m:mi>
+                  <m:mi>t</m:mi>
+                  <m:mi>e</m:mi>
+                  <m:mi>r</m:mi>
+                  <m:mi>y</m:mi>
+                </m:mrow>
+              </m:msub>
+              <m:mo>=</m:mo>
+              <m:msub>
+                <m:mi>V</m:mi>
+                <m:mrow>
+                  <m:mi>t</m:mi>
+                  <m:mi>o</m:mi>
+                  <m:mi>t</m:mi>
+                  <m:mi>a</m:mi>
+                  <m:mi>l</m:mi>
+                </m:mrow>
+              </m:msub>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id64872">There is only one other circuit component, the resistor.</para>
+        <equation id="id64878">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:msub>
+                <m:mi>V</m:mi>
+                <m:mrow>
+                  <m:mi>t</m:mi>
+                  <m:mi>o</m:mi>
+                  <m:mi>t</m:mi>
+                  <m:mi>a</m:mi>
+                  <m:mi>l</m:mi>
+                </m:mrow>
+              </m:msub>
+              <m:mo>=</m:mo>
+              <m:msub>
+                <m:mi>V</m:mi>
+                <m:mn>1</m:mn>
+              </m:msub>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id64915">This means that the voltage across the battery is the same as the voltage across the resistor.</para>
+        <equation id="id64921">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:msub>
+                <m:mi>V</m:mi>
+                <m:mrow>
+                  <m:mi>b</m:mi>
+                  <m:mi>a</m:mi>
+                  <m:mi>t</m:mi>
+                  <m:mi>t</m:mi>
+                  <m:mi>e</m:mi>
+                  <m:mi>r</m:mi>
+                  <m:mi>y</m:mi>
+                </m:mrow>
+              </m:msub>
+              <m:mo>=</m:mo>
+              <m:msub>
+                <m:mi>V</m:mi>
+                <m:mrow>
+                  <m:mi>t</m:mi>
+                  <m:mi>o</m:mi>
+                  <m:mi>t</m:mi>
+                  <m:mi>a</m:mi>
+                  <m:mi>l</m:mi>
+                </m:mrow>
+              </m:msub>
+              <m:mo>=</m:mo>
+              <m:msub>
+                <m:mi>V</m:mi>
+                <m:mn>1</m:mn>
+              </m:msub>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <equation id="id64981">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:msub>
+                <m:mi>V</m:mi>
+                <m:mrow>
+                  <m:mi>b</m:mi>
+                  <m:mi>a</m:mi>
+                  <m:mi>t</m:mi>
+                  <m:mi>t</m:mi>
+                  <m:mi>e</m:mi>
+                  <m:mi>r</m:mi>
+                  <m:mi>y</m:mi>
+                </m:mrow>
+              </m:msub>
+              <m:mo>=</m:mo>
+              <m:msub>
+                <m:mi>V</m:mi>
+                <m:mrow>
+                  <m:mi>t</m:mi>
+                  <m:mi>o</m:mi>
+                  <m:mi>t</m:mi>
+                  <m:mi>a</m:mi>
+                  <m:mi>l</m:mi>
+                </m:mrow>
+              </m:msub>
+              <m:mo>=</m:mo>
+              <m:msub>
+                <m:mi>V</m:mi>
+                <m:mn>1</m:mn>
+              </m:msub>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <equation id="id65041">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:msub>
+                <m:mi>V</m:mi>
+                <m:mn>1</m:mn>
+              </m:msub>
+              <m:mo>=</m:mo>
+              <m:mn>2</m:mn>
+              <m:mi mathvariant="normal">V</m:mi>
+            </m:mrow>
+          </m:math>
+        </equation>
+        
+        </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id788"><title> Voltages II </title>
+        <problem id="probfhsst_id789">
+        <para id="id65094">What is the voltage across the unknown resistor in the circuit shown?
+
+
+<figure id="id65109"><media id="id65109_media" alt=""><image mime-type="image/png" src="../../media/PG10C9_022.png" id="id65109_onlineimage" width="235"/><image mime-type="application/postscript" for="pdf" src="../../media/PG10C9_022.eps" id="id65109_printimage"/></media></figure>
+
+
+ </para>
+        </problem>
+        <solution id="solfhsst_id798"> <list id="listfhsst_id798" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Check what you have and the units </label>
+        <para id="id65136">We have a circuit with a battery and two resistors. We know the voltage across the battery and one of the resistors. We want to find that voltage across the resistor.</para>
+        <equation id="id65141">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:msub>
+                <m:mi>V</m:mi>
+                <m:mrow>
+                  <m:mi>b</m:mi>
+                  <m:mi>a</m:mi>
+                  <m:mi>t</m:mi>
+                  <m:mi>t</m:mi>
+                  <m:mi>e</m:mi>
+                  <m:mi>r</m:mi>
+                  <m:mi>y</m:mi>
+                </m:mrow>
+              </m:msub>
+              <m:mo>=</m:mo>
+              <m:mn>2</m:mn>
+              <m:mi mathvariant="normal">V</m:mi>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <equation id="id65181">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:msub>
+                <m:mi>V</m:mi>
+                <m:mi mathvariant="normal">A</m:mi>
+              </m:msub>
+              <m:mo>=</m:mo>
+              <m:mn>1</m:mn>
+              <m:mi mathvariant="normal">V</m:mi>
+            </m:mrow>
+          </m:math>
+        </equation>
+        </item> <item> <label> Applicable principles </label>
+        <para id="id65213">We know that the voltage across the battery must be equal to the total voltage across all other circuit components that are in series.</para>
+        <equation id="id65217">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:msub>
+                <m:mi>V</m:mi>
+                <m:mrow>
+                  <m:mi>b</m:mi>
+                  <m:mi>a</m:mi>
+                  <m:mi>t</m:mi>
+                  <m:mi>t</m:mi>
+                  <m:mi>e</m:mi>
+                  <m:mi>r</m:mi>
+                  <m:mi>y</m:mi>
+                </m:mrow>
+              </m:msub>
+              <m:mo>=</m:mo>
+              <m:msub>
+                <m:mi>V</m:mi>
+                <m:mrow>
+                  <m:mi>t</m:mi>
+                  <m:mi>o</m:mi>
+                  <m:mi>t</m:mi>
+                  <m:mi>a</m:mi>
+                  <m:mi>l</m:mi>
+                </m:mrow>
+              </m:msub>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id65268">The total voltage in the circuit is the sum of the voltages across the individual resistors</para>
+        <equation id="id65274">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:msub>
+                <m:mi>V</m:mi>
+                <m:mrow>
+                  <m:mi>t</m:mi>
+                  <m:mi>o</m:mi>
+                  <m:mi>t</m:mi>
+                  <m:mi>a</m:mi>
+                  <m:mi>l</m:mi>
+                </m:mrow>
+              </m:msub>
+              <m:mo>=</m:mo>
+              <m:msub>
+                <m:mi>V</m:mi>
+                <m:mi mathvariant="normal">A</m:mi>
+              </m:msub>
+              <m:mo>+</m:mo>
+              <m:msub>
+                <m:mi>V</m:mi>
+                <m:mi mathvariant="normal">B</m:mi>
+              </m:msub>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id65325">Using the relationship between the voltage across the battery and total voltage across the resistors</para>
+        <equation id="id65331">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:msub>
+                <m:mi>V</m:mi>
+                <m:mrow>
+                  <m:mi>b</m:mi>
+                  <m:mi>a</m:mi>
+                  <m:mi>t</m:mi>
+                  <m:mi>t</m:mi>
+                  <m:mi>e</m:mi>
+                  <m:mi>r</m:mi>
+                  <m:mi>y</m:mi>
+                </m:mrow>
+              </m:msub>
+              <m:mo>=</m:mo>
+              <m:msub>
+                <m:mi>V</m:mi>
+                <m:mrow>
+                  <m:mi>t</m:mi>
+                  <m:mi>o</m:mi>
+                  <m:mi>t</m:mi>
+                  <m:mi>a</m:mi>
+                  <m:mi>l</m:mi>
+                </m:mrow>
+              </m:msub>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <equation id="id65382">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>V</m:mi>
+                    <m:mrow>
+                      <m:mi>b</m:mi>
+                      <m:mi>a</m:mi>
+                      <m:mi>t</m:mi>
+                      <m:mi>t</m:mi>
+                      <m:mi>e</m:mi>
+                      <m:mi>r</m:mi>
+                      <m:mi>y</m:mi>
+                    </m:mrow>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>V</m:mi>
+                      <m:mn>1</m:mn>
+                    </m:msub>
+                    <m:mo>+</m:mo>
+                    <m:msub>
+                      <m:mi>V</m:mi>
+                      <m:mrow>
+                        <m:mi>r</m:mi>
+                        <m:mi>e</m:mi>
+                        <m:mi>s</m:mi>
+                        <m:mi>i</m:mi>
+                        <m:mi>s</m:mi>
+                        <m:mi>t</m:mi>
+                        <m:mi>o</m:mi>
+                        <m:mi>r</m:mi>
+                      </m:mrow>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mn>2</m:mn>
+                    <m:mi mathvariant="normal">V</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>V</m:mi>
+                      <m:mn>1</m:mn>
+                    </m:msub>
+                    <m:mo>+</m:mo>
+                    <m:mn>1</m:mn>
+                    <m:mi mathvariant="normal">V</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>V</m:mi>
+                    <m:mn>1</m:mn>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>1</m:mn>
+                    <m:mi mathvariant="normal">V</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        
+        </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id1012"><title> Voltages III </title>
+        <problem id="probfhsst_id1013">
+        <para id="id65553">What is the voltage across the unknown resistor in the circuit shown?
+
+
+<figure id="id65568"><media id="id65568_media" alt=""><image mime-type="image/png" src="../../media/PG10C9_023.png" id="id65568_onlineimage" width="218"/><image mime-type="application/postscript" for="pdf" src="../../media/PG10C9_023.eps" id="id65568_printimage"/></media></figure>
+
+
+ </para>
+        </problem>
+        <solution id="solfhsst_id1022"> <list id="listfhsst_id1022" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Check what you have and the units </label>
+        <para id="id65595">We have a circuit with a battery and three resistors. We know the voltage across the battery and two of the resistors. We want to find that voltage across the unknown resistor.</para>
+        <equation id="id65600">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:msub>
+                <m:mi>V</m:mi>
+                <m:mrow>
+                  <m:mi>b</m:mi>
+                  <m:mi>a</m:mi>
+                  <m:mi>t</m:mi>
+                  <m:mi>t</m:mi>
+                  <m:mi>e</m:mi>
+                  <m:mi>r</m:mi>
+                  <m:mi>y</m:mi>
+                </m:mrow>
+              </m:msub>
+              <m:mo>=</m:mo>
+              <m:mn>7</m:mn>
+              <m:mi mathvariant="normal">V</m:mi>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <equation id="id65640">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>V</m:mi>
+                    <m:mrow>
+                      <m:mi>k</m:mi>
+                      <m:mi>n</m:mi>
+                      <m:mi>o</m:mi>
+                      <m:mi>w</m:mi>
+                      <m:mi>n</m:mi>
+                    </m:mrow>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>V</m:mi>
+                      <m:mi mathvariant="normal">A</m:mi>
+                    </m:msub>
+                    <m:mo>+</m:mo>
+                    <m:msub>
+                      <m:mi>V</m:mi>
+                      <m:mi mathvariant="normal">C</m:mi>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>1</m:mn>
+                    <m:mi mathvariant="normal">V</m:mi>
+                    <m:mo>+</m:mo>
+                    <m:mn>4</m:mn>
+                    <m:mi mathvariant="normal">V</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        </item> <item> <label> Applicable principles </label>
+        <para id="id65732">We know that the voltage across the battery must be equal to the total voltage across all other circuit components that are in series.</para>
+        <equation id="id65736">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:msub>
+                <m:mi>V</m:mi>
+                <m:mrow>
+                  <m:mi>b</m:mi>
+                  <m:mi>a</m:mi>
+                  <m:mi>t</m:mi>
+                  <m:mi>t</m:mi>
+                  <m:mi>e</m:mi>
+                  <m:mi>r</m:mi>
+                  <m:mi>y</m:mi>
+                </m:mrow>
+              </m:msub>
+              <m:mo>=</m:mo>
+              <m:msub>
+                <m:mi>V</m:mi>
+                <m:mrow>
+                  <m:mi>t</m:mi>
+                  <m:mi>o</m:mi>
+                  <m:mi>t</m:mi>
+                  <m:mi>a</m:mi>
+                  <m:mi>l</m:mi>
+                </m:mrow>
+              </m:msub>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id65787">The total voltage in the circuit is the sum of the voltages across the individual resistors</para>
+        <equation id="id65794">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:msub>
+                <m:mi>V</m:mi>
+                <m:mrow>
+                  <m:mi>t</m:mi>
+                  <m:mi>o</m:mi>
+                  <m:mi>t</m:mi>
+                  <m:mi>a</m:mi>
+                  <m:mi>l</m:mi>
+                </m:mrow>
+              </m:msub>
+              <m:mo>=</m:mo>
+              <m:msub>
+                <m:mi>V</m:mi>
+                <m:mi mathvariant="normal">B</m:mi>
+              </m:msub>
+              <m:mo>+</m:mo>
+              <m:msub>
+                <m:mi>V</m:mi>
+                <m:mrow>
+                  <m:mi>k</m:mi>
+                  <m:mi>n</m:mi>
+                  <m:mi>o</m:mi>
+                  <m:mi>w</m:mi>
+                  <m:mi>n</m:mi>
+                </m:mrow>
+              </m:msub>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id65851">Using the relationship between the voltage across the battery and total voltage across the resistors</para>
+        <equation id="id65858">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:msub>
+                <m:mi>V</m:mi>
+                <m:mrow>
+                  <m:mi>b</m:mi>
+                  <m:mi>a</m:mi>
+                  <m:mi>t</m:mi>
+                  <m:mi>t</m:mi>
+                  <m:mi>e</m:mi>
+                  <m:mi>r</m:mi>
+                  <m:mi>y</m:mi>
+                </m:mrow>
+              </m:msub>
+              <m:mo>=</m:mo>
+              <m:msub>
+                <m:mi>V</m:mi>
+                <m:mrow>
+                  <m:mi>t</m:mi>
+                  <m:mi>o</m:mi>
+                  <m:mi>t</m:mi>
+                  <m:mi>a</m:mi>
+                  <m:mi>l</m:mi>
+                </m:mrow>
+              </m:msub>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <equation id="id65908">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>V</m:mi>
+                    <m:mrow>
+                      <m:mi>b</m:mi>
+                      <m:mi>a</m:mi>
+                      <m:mi>t</m:mi>
+                      <m:mi>t</m:mi>
+                      <m:mi>e</m:mi>
+                      <m:mi>r</m:mi>
+                      <m:mi>y</m:mi>
+                    </m:mrow>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>V</m:mi>
+                      <m:mi mathvariant="normal">B</m:mi>
+                    </m:msub>
+                    <m:mo>+</m:mo>
+                    <m:msub>
+                      <m:mi>V</m:mi>
+                      <m:mrow>
+                        <m:mi>k</m:mi>
+                        <m:mi>n</m:mi>
+                        <m:mi>o</m:mi>
+                        <m:mi>w</m:mi>
+                        <m:mi>n</m:mi>
+                      </m:mrow>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mn>7</m:mn>
+                    <m:mi mathvariant="normal">V</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>V</m:mi>
+                      <m:mi mathvariant="normal">B</m:mi>
+                    </m:msub>
+                    <m:mo>+</m:mo>
+                    <m:mn>5</m:mn>
+                    <m:mi mathvariant="normal">V</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>V</m:mi>
+                    <m:mi mathvariant="normal">B</m:mi>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>2</m:mn>
+                    <m:mi mathvariant="normal">V</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        
+        </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id1277"><title> Voltages IV </title>
+        <problem id="probfhsst_id1278">
+        <para id="id66079">What is the voltage across the parallel resistor combination in the circuit shown? Hint: the rest of the circuit is the same as the previous problem.
+
+
+<figure id="id66094"><media id="id66094_media" alt=""><image mime-type="image/png" src="../../media/PG10C9_024.png" id="id66094_onlineimage" width="246"/><image mime-type="application/postscript" for="pdf" src="../../media/PG10C9_024.eps" id="id66094_printimage"/></media></figure>
+
+
+ </para>
+        </problem>
+        <solution id="solfhsst_id1287"> <list id="listfhsst_id1287" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Quick Answer </label>
+        <para id="id66121">The circuit is the same as the previous example and we know that the voltage difference between two points in a circuit does not depend on what is between them so the answer is the same as above <m:math overflow="scroll"><m:mrow><m:msub><m:mi>V</m:mi><m:mrow><m:mi>p</m:mi><m:mi>a</m:mi><m:mi>r</m:mi><m:mi>a</m:mi><m:mi>l</m:mi><m:mi>l</m:mi><m:mi>e</m:mi><m:mi>l</m:mi></m:mrow></m:msub><m:mo>=</m:mo><m:mn>2</m:mn><m:mi mathvariant="normal">V</m:mi></m:mrow></m:math>.</para>
+        </item> <item> <label> Check what you have and the units - long answer </label>
+        <para id="id66171">We have a circuit with a battery and five resistors (two in series and three in parallel). We know the voltage across the battery and two of the resistors. We want to find that voltage across the parallel resistors, <m:math overflow="scroll"><m:msub><m:mi>V</m:mi><m:mrow><m:mi>p</m:mi><m:mi>a</m:mi><m:mi>r</m:mi><m:mi>a</m:mi><m:mi>l</m:mi><m:mi>l</m:mi><m:mi>e</m:mi><m:mi>l</m:mi></m:mrow></m:msub></m:math>.</para>
+        <equation id="id66206">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:msub>
+                <m:mi>V</m:mi>
+                <m:mrow>
+                  <m:mi>b</m:mi>
+                  <m:mi>a</m:mi>
+                  <m:mi>t</m:mi>
+                  <m:mi>t</m:mi>
+                  <m:mi>e</m:mi>
+                  <m:mi>r</m:mi>
+                  <m:mi>y</m:mi>
+                </m:mrow>
+              </m:msub>
+              <m:mo>=</m:mo>
+              <m:mn>7</m:mn>
+              <m:mi mathvariant="normal">V</m:mi>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <equation id="id66245">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:msub>
+                <m:mi>V</m:mi>
+                <m:mrow>
+                  <m:mi>k</m:mi>
+                  <m:mi>n</m:mi>
+                  <m:mi>o</m:mi>
+                  <m:mi>w</m:mi>
+                  <m:mi>n</m:mi>
+                </m:mrow>
+              </m:msub>
+              <m:mo>=</m:mo>
+              <m:mn>1</m:mn>
+              <m:mi mathvariant="normal">V</m:mi>
+              <m:mo>+</m:mo>
+              <m:mn>4</m:mn>
+              <m:mi mathvariant="normal">V</m:mi>
+            </m:mrow>
+          </m:math>
+        </equation>
+        </item> <item> <label> Applicable principles </label>
+        <para id="id66293">We know that the voltage across the battery must be equal to the total voltage across all other circuit components.</para>
+        <equation id="id66297">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:msub>
+                <m:mi>V</m:mi>
+                <m:mrow>
+                  <m:mi>b</m:mi>
+                  <m:mi>a</m:mi>
+                  <m:mi>t</m:mi>
+                  <m:mi>t</m:mi>
+                  <m:mi>e</m:mi>
+                  <m:mi>r</m:mi>
+                  <m:mi>y</m:mi>
+                </m:mrow>
+              </m:msub>
+              <m:mo>=</m:mo>
+              <m:msub>
+                <m:mi>V</m:mi>
+                <m:mrow>
+                  <m:mi>t</m:mi>
+                  <m:mi>o</m:mi>
+                  <m:mi>t</m:mi>
+                  <m:mi>a</m:mi>
+                  <m:mi>l</m:mi>
+                </m:mrow>
+              </m:msub>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id66348">Voltages only add for components in series. The resistors in parallel can be thought of as a single component which is in series with the other components and then the voltages can be added.</para>
+        <equation id="id66355">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:msub>
+                <m:mi>V</m:mi>
+                <m:mrow>
+                  <m:mi>t</m:mi>
+                  <m:mi>o</m:mi>
+                  <m:mi>t</m:mi>
+                  <m:mi>a</m:mi>
+                  <m:mi>l</m:mi>
+                </m:mrow>
+              </m:msub>
+              <m:mo>=</m:mo>
+              <m:msub>
+                <m:mi>V</m:mi>
+                <m:mrow>
+                  <m:mi>p</m:mi>
+                  <m:mi>a</m:mi>
+                  <m:mi>r</m:mi>
+                  <m:mi>a</m:mi>
+                  <m:mi>l</m:mi>
+                  <m:mi>l</m:mi>
+                  <m:mi>e</m:mi>
+                  <m:mi>l</m:mi>
+                </m:mrow>
+              </m:msub>
+              <m:mo>+</m:mo>
+              <m:msub>
+                <m:mi>V</m:mi>
+                <m:mrow>
+                  <m:mi>k</m:mi>
+                  <m:mi>n</m:mi>
+                  <m:mi>o</m:mi>
+                  <m:mi>w</m:mi>
+                  <m:mi>n</m:mi>
+                </m:mrow>
+              </m:msub>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id66427">Using the relationship between the voltage across the battery and total voltage across the resistors</para>
+        <equation id="id66433">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:msub>
+                <m:mi>V</m:mi>
+                <m:mrow>
+                  <m:mi>b</m:mi>
+                  <m:mi>a</m:mi>
+                  <m:mi>t</m:mi>
+                  <m:mi>t</m:mi>
+                  <m:mi>e</m:mi>
+                  <m:mi>r</m:mi>
+                  <m:mi>y</m:mi>
+                </m:mrow>
+              </m:msub>
+              <m:mo>=</m:mo>
+              <m:msub>
+                <m:mi>V</m:mi>
+                <m:mrow>
+                  <m:mi>t</m:mi>
+                  <m:mi>o</m:mi>
+                  <m:mi>t</m:mi>
+                  <m:mi>a</m:mi>
+                  <m:mi>l</m:mi>
+                </m:mrow>
+              </m:msub>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <equation id="id66483">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>V</m:mi>
+                    <m:mrow>
+                      <m:mi>b</m:mi>
+                      <m:mi>a</m:mi>
+                      <m:mi>t</m:mi>
+                      <m:mi>t</m:mi>
+                      <m:mi>e</m:mi>
+                      <m:mi>r</m:mi>
+                      <m:mi>y</m:mi>
+                    </m:mrow>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>V</m:mi>
+                      <m:mrow>
+                        <m:mi>p</m:mi>
+                        <m:mi>a</m:mi>
+                        <m:mi>r</m:mi>
+                        <m:mi>a</m:mi>
+                        <m:mi>l</m:mi>
+                        <m:mi>l</m:mi>
+                        <m:mi>e</m:mi>
+                        <m:mi>l</m:mi>
+                      </m:mrow>
+                    </m:msub>
+                    <m:mo>+</m:mo>
+                    <m:msub>
+                      <m:mi>V</m:mi>
+                      <m:mrow>
+                        <m:mi>k</m:mi>
+                        <m:mi>n</m:mi>
+                        <m:mi>o</m:mi>
+                        <m:mi>w</m:mi>
+                        <m:mi>n</m:mi>
+                      </m:mrow>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mn>7</m:mn>
+                    <m:mi mathvariant="normal">V</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>V</m:mi>
+                      <m:mn>1</m:mn>
+                    </m:msub>
+                    <m:mo>+</m:mo>
+                    <m:mn>5</m:mn>
+                    <m:mi mathvariant="normal">V</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>V</m:mi>
+                    <m:mrow>
+                      <m:mi>p</m:mi>
+                      <m:mi>a</m:mi>
+                      <m:mi>r</m:mi>
+                      <m:mi>a</m:mi>
+                      <m:mi>l</m:mi>
+                      <m:mi>l</m:mi>
+                      <m:mi>e</m:mi>
+                      <m:mi>l</m:mi>
+                    </m:mrow>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>2</m:mn>
+                    <m:mi mathvariant="normal">V</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        
+        </item> </list> </solution>
+</exercise>
+      </section> 
+
+ 
+      </section>
+
+
+
+
+<!--      <section id="uid42">
+        
+      </section>
+      <section id="uid43">
+        <title>Potential Difference and Series Resistors</title>
+        
+	</section>
+-->
+
+<!-- KHAN VIDEO 
+<figure id="circuits-1">
+ <title>Khan academy video on circuits - 1</title>
+ <media id="yt-media1" display="block" alt="video on circuits 1">
+  <flash id="yt-video1" mime-type="application/x-shockwave-flash" src="http://www.youtube.com/v/3o8_EARoMtg&amp;rel=0" width="425" height="344">
+   <param name="allowscriptaccess" value="always"/>
+   <param name="allowsfullscreen" value="true"/>
+  </flash>
+ </media>
+</figure> -->
+
+
+<!-- SB SB SB Ohm's Law has been moved to Grade 11 -->
+<!--      <section id="uid44">
+        <title>Ohm's Law</title>
+
+<figure id="Ohms-Law"><title>Phet simulation for Ohm's Law</title><media id="phet_sim" display="block" alt="ohm's law phet simulation">
+  <flash id="phet-simulation" mime-type="application/x-shockwave-flash" src="ohms-law.swf" width="425" height="344">
+  </flash>
+ </media>
+</figure>
+
+        <para id="id64119">The voltage is the change in potential energy or work done when charge moves between two points in the circuit. The greater the resistance to charge moving the more work that needs to be done. The work done or voltage thus depends on the resistance. The potential difference is proportional to the resistance.</para>
+<definition id="fhsst_id463"><term id="termfhsst_id463"> Ohm's Law </term> <meaning id="meaningfhsst_id463">
+        <para id="id64131">Voltage across a circuit component is proportional to the resistance of the component. </para>
+        </meaning></definition>
+        <para id="id64143">Use the fact that voltage is proportional to resistance to calculate what proportion of the total voltage of a circuit will be found across each circuit element.</para>
+        <para id="id64148">
+          <figure id="id64151"><media id="id64151_media" alt="">
+              <image mime-type="image/png" src="PG10C9_020.png" id="id64151_onlineimage" width="490"></image>
+              <image mime-type="application/postscript" for="pdf" src="PG10C9_020.eps" id="id64151_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id64158">We know that the total voltage is equal to <m:math overflow="scroll"><m:msub><m:mi mathvariant="normal">V</m:mi><m:mn>1</m:mn></m:msub></m:math> in the first circuit, to <m:math overflow="scroll"><m:msub><m:mi mathvariant="normal">V</m:mi><m:mn>1</m:mn></m:msub></m:math> + <m:math overflow="scroll"><m:msub><m:mi mathvariant="normal">V</m:mi><m:mn>2</m:mn></m:msub></m:math> in the second circuit and <m:math overflow="scroll"><m:msub><m:mi mathvariant="normal">V</m:mi><m:mn>1</m:mn></m:msub></m:math> + <m:math overflow="scroll"><m:msub><m:mi mathvariant="normal">V</m:mi><m:mn>2</m:mn></m:msub></m:math> + <m:math overflow="scroll"><m:msub><m:mi mathvariant="normal">V</m:mi><m:mn>3</m:mn></m:msub></m:math> in the third circuit.</para>
+        <para id="id64262">We know that the potential energy lost across a resistor is proportional to the resistance of the component. The total potential difference is shared evenly across the total resistance of the circuit. This means that the potential difference per unit of resistance is</para>
+        <equation id="id64268">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:msub>
+                <m:mi>V</m:mi>
+                <m:mrow>
+                  <m:mi>p</m:mi>
+                  <m:mi>e</m:mi>
+                  <m:mi>r</m:mi>
+                  <m:mspace width="4pt"/>
+                  <m:mi>u</m:mi>
+                  <m:mi>n</m:mi>
+                  <m:mi>i</m:mi>
+                  <m:mi>t</m:mi>
+                  <m:mspace width="4pt"/>
+                  <m:mi>o</m:mi>
+                  <m:mi>f</m:mi>
+                  <m:mspace width="4pt"/>
+                  <m:mi>r</m:mi>
+                  <m:mi>e</m:mi>
+                  <m:mi>s</m:mi>
+                  <m:mi>i</m:mi>
+                  <m:mi>s</m:mi>
+                  <m:mi>t</m:mi>
+                  <m:mi>a</m:mi>
+                  <m:mi>n</m:mi>
+                  <m:mi>c</m:mi>
+                  <m:mi>e</m:mi>
+                </m:mrow>
+              </m:msub>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:msub>
+                  <m:mi>V</m:mi>
+                  <m:mrow>
+                    <m:mi>t</m:mi>
+                    <m:mi>o</m:mi>
+                    <m:mi>t</m:mi>
+                    <m:mi>a</m:mi>
+                    <m:mi>l</m:mi>
+                  </m:mrow>
+                </m:msub>
+                <m:msub>
+                  <m:mi>R</m:mi>
+                  <m:mrow>
+                    <m:mi>t</m:mi>
+                    <m:mi>o</m:mi>
+                    <m:mi>t</m:mi>
+                    <m:mi>a</m:mi>
+                    <m:mi>l</m:mi>
+                  </m:mrow>
+                </m:msub>
+              </m:mfrac>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id64553">Then the voltage across a resistor is just the resistance times the potential difference per unit of resistance</para>
+        <equation id="id64559">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:msub>
+                <m:mi>V</m:mi>
+                <m:mrow>
+                  <m:mi>r</m:mi>
+                  <m:mi>e</m:mi>
+                  <m:mi>s</m:mi>
+                  <m:mi>i</m:mi>
+                  <m:mi>s</m:mi>
+                  <m:mi>t</m:mi>
+                  <m:mi>o</m:mi>
+                  <m:mi>r</m:mi>
+                </m:mrow>
+              </m:msub>
+              <m:mo>=</m:mo>
+              <m:msub>
+                <m:mi>R</m:mi>
+                <m:mrow>
+                  <m:mi>r</m:mi>
+                  <m:mi>e</m:mi>
+                  <m:mi>s</m:mi>
+                  <m:mi>i</m:mi>
+                  <m:mi>s</m:mi>
+                  <m:mi>t</m:mi>
+                  <m:mi>o</m:mi>
+                  <m:mi>r</m:mi>
+                </m:mrow>
+              </m:msub>
+              <m:mo>&#183;</m:mo>
+              <m:mfrac>
+                <m:msub>
+                  <m:mi>V</m:mi>
+                  <m:mrow>
+                    <m:mi>t</m:mi>
+                    <m:mi>o</m:mi>
+                    <m:mi>t</m:mi>
+                    <m:mi>a</m:mi>
+                    <m:mi>l</m:mi>
+                  </m:mrow>
+                </m:msub>
+                <m:msub>
+                  <m:mi>R</m:mi>
+                  <m:mrow>
+                    <m:mi>t</m:mi>
+                    <m:mi>o</m:mi>
+                    <m:mi>t</m:mi>
+                    <m:mi>a</m:mi>
+                    <m:mi>l</m:mi>
+                  </m:mrow>
+                </m:msub>
+              </m:mfrac>
+              <m:mo>.</m:mo>
+            </m:mrow>
+          </m:math>
+        </equation>
+      </section> -->
+
+    </section> 
+
+  </content>
+</document>

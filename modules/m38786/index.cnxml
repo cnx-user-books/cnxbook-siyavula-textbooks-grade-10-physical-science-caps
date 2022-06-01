@@ -1,0 +1,1136 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Conservation of energy</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38786</md:content-id>
+  <md:title>Conservation of energy</md:title>
+  <md:abstract/>
+  <md:uuid>7c00f65e-876b-47fd-b23f-59e62bce80ba</md:uuid>
+</metadata>
+
+<content>
+
+    <section id="cid6">
+      <title>Mechanical Energy</title>
+<note id="notfhsst_id1510" type="tip">Mechanical energy is the sum of the gravitational potential energy and the kinetic energy.</note>
+      <para id="id68299">Mechanical energy, <m:math overflow="scroll"><m:msub><m:mi>E</m:mi><m:mi>M</m:mi></m:msub></m:math>, is simply the sum of gravitational potential energy (<m:math overflow="scroll"><m:mrow><m:msub><m:mi>E</m:mi><m:mi>P</m:mi></m:msub></m:mrow></m:math>) and the kinetic energy (<m:math overflow="scroll"><m:mrow><m:msub><m:mi>E</m:mi><m:mi>K</m:mi></m:msub></m:mrow></m:math>). Mechanical energy is defined as:</para>
+      <equation id="uid76"><m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:msub><m:mi>E</m:mi><m:mi>M</m:mi></m:msub>
+            <m:mo>=</m:mo>
+            <m:msub><m:mi>E</m:mi><m:mi>P</m:mi></m:msub>
+            <m:mo>+</m:mo>
+            <m:msub><m:mi>E</m:mi><m:mi>K</m:mi></m:msub>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <equation id="uid77"><m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:msub><m:mi>E</m:mi><m:mi>M</m:mi></m:msub>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:msub><m:mi>E</m:mi><m:mi>P</m:mi></m:msub>
+                  <m:mo>+</m:mo>
+                  <m:msub><m:mi>E</m:mi><m:mi>K</m:mi></m:msub>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:msub><m:mi>E</m:mi><m:mi>M</m:mi></m:msub>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mi>m</m:mi>
+                  <m:mi>g</m:mi>
+                  <m:mi>h</m:mi>
+                  <m:mo>+</m:mo>
+                  <m:mfrac>
+                    <m:mn>1</m:mn>
+                    <m:mn>2</m:mn>
+                  </m:mfrac>
+                  <m:mi>m</m:mi>
+                  <m:msup>
+                    <m:mi>v</m:mi>
+                    <m:mn>2</m:mn>
+                  </m:msup>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      <note id="eip-384" type="tip">You may see mechanical energy written as <m:math><m:mi>U</m:mi></m:math>. We will not use this notation in this book, but you should be aware that this notation is sometimes used.</note><section id="uid78">
+        <title>Conservation of Mechanical Energy</title>
+        <para id="id68454">The Law of Conservation of Energy states:</para>
+        <para id="id68458">
+          <quote id="id68458_quote" display="block">Energy cannot be created or destroyed, but is merely changed from one form into another.</quote>
+        </para>
+<definition id="fhsst_id1579"><term id="termfhsst_id1579"> Conservation of Energy </term> <meaning id="meaningfhsst_id1579">
+        <para id="id68470">The Law of Conservation of Energy: Energy cannot be created or destroyed, but is merely changed from one form into another. </para>
+        </meaning></definition>
+        <para id="id68483">So far we have looked at two types of energy: gravitational potential energy and kinetic energy. The sum of the gravitational potential energy and kinetic energy is called the mechanical energy. In a closed system, one where there are no external forces acting, the mechanical energy will remain constant. In other words, it will not change (become more or less). This is called the Law of Conservation of Mechanical Energy and it states:</para>
+        <para id="id68494">
+          <quote id="id68494_quote" display="block">The total amount of mechanical energy in a closed system remains constant.</quote>
+        </para>
+<definition id="fhsst_id1586"><term id="termfhsst_id1586"> Conservation of Mechanical Energy </term> <meaning id="meaningfhsst_id1586">
+        <para id="id68506">Law of Conservation of Mechanical Energy: The total amount of mechanical energy in a closed system remains constant. </para>
+        </meaning></definition>
+        <para id="id68519">This means that potential energy can become kinetic energy, or vice versa, but energy cannot 'disappear'. The mechanical energy of an object moving in the Earth's gravitational field (or accelerating as a result of gravity) is constant or conserved, unless external forces, like air resistance, acts on the object.</para>
+        <para id="id68525">We can now use the conservation of mechanical energy to calculate the velocity of a body in freefall and show that the velocity is independent of mass.</para>
+        <para id="id68529">Show by using the law of conservation of energy that the velocity of a body in free fall is independent of its mass.</para>
+<note id="notfhsst_id1592" type="tip">In problems involving the use of conservation of energy, the path taken by the object can be ignored. The only important quantities are the object's velocity (which gives its kinetic energy) and height above the reference point (which gives its gravitational potential energy).</note>
+<note id="notfhsst_id1593" type="tip">In the absence of friction, mechanical energy is conserved and
+        <equation id="id68548"><m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:msub>
+               <m:mi>E</m:mi>
+                <m:mi>M before </m:mi>
+              </m:msub>
+              <m:mo>=</m:mo>
+              <m:msub>
+                <m:mi>E</m:mi>
+                <m:mi>M after </m:mi>
+              </m:msub>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id68576">In the presence of friction, mechanical energy is <emphasis effect="bold">not</emphasis> conserved. The mechanical energy lost is equal to the work done against friction.</para>
+        <equation id="id68588"><m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>Δ</m:mi>
+              <m:msub><m:mi>E</m:mi><m:mi>M</m:mi></m:msub>
+              <m:mo>=</m:mo>
+              <m:msub>
+                <m:mi>E</m:mi>
+                <m:mi>M before </m:mi>
+              </m:msub>
+              <m:mo>-</m:mo>
+              <m:msub>
+                <m:mi>E</m:mi>
+                <m:mi>M after </m:mi>
+              </m:msub>
+              <m:mo>=</m:mo>
+              <m:mrow>
+                <m:mi> work done against friction</m:mi>
+              </m:mrow>
+            </m:mrow>
+          </m:math>
+        </equation>
+</note>
+        <para id="id68640">In general, mechanical energy is conserved in the absence of external forces. Examples of external forces are: applied forces, frictional forces and air resistance.</para>
+        <para id="id68645">In the presence of internal forces like the force due to gravity or the force in a spring, mechanical energy is conserved.</para><para id="eip-385">The following simulation covers the law of conservation of energy. <newline/>
+<link class="phetsim" window="new" url="http://phet.colorado.edu/sims/energy-skate-park/energy-skate-park_en.jnlp">run demo</link>
+<figure id="id634528"><media id="id634528_media" alt="">
+            <image mime-type="image/png" src="../../media/energy-skate-park-screenshot.png" id="id63458_onlineimage" width="250"><!-- NOTE: attribute width changes image size online (pixels). original width is 	149. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/energy-skate-park-screenshot.eps" id="id634528_printimage"/>
+            </media>
+            </figure></para>
+      </section>
+      <section id="uid79">
+        <title>Using the Law of Conservation of Energy</title>
+        <para id="id68660">Mechanical energy is conserved (in the absence of friction). Therefore we can say that the sum of the <m:math overflow="scroll"><m:mrow><m:msub><m:mi>E</m:mi><m:mi>P</m:mi></m:msub></m:mrow></m:math> and the <m:math overflow="scroll"><m:mrow><m:msub><m:mi>E</m:mi><m:mi>K</m:mi></m:msub></m:mrow></m:math> anywhere during the motion must be equal to the sum of the <m:math overflow="scroll"><m:mrow><m:msub><m:mi>E</m:mi><m:mi>P</m:mi></m:msub></m:mrow></m:math> and the <m:math overflow="scroll"><m:mrow><m:msub><m:mi>E</m:mi><m:mi>K</m:mi></m:msub></m:mrow></m:math> anywhere else in the motion.</para>
+        <para id="id68713">We can now apply this to the example of the suitcase on the cupboard. Consider the mechanical energy of the suitcase at the top and at the bottom. We can say:</para>
+        <para id="id68720">
+          <figure id="id68723">
+            <media id="id68723_media" alt="">
+              <image mime-type="image/png" src="../../media/PG10C3_009.png" id="id68723_onlineimage" width="433"><!-- NOTE: attribute width changes image size online (pixels). original width is 433. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG10C3_009.eps" id="id68723_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <equation id="id68729"><m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>E</m:mi>
+                      <m:mi>M top</m:mi>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:msub>
+                    <m:mi>E</m:mi>
+                      <m:mi>M bottom</m:mi>
+                  </m:msub>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>E</m:mi>
+                        <m:mi>P top</m:mi>
+                    </m:msub>
+                    <m:mo>+</m:mo>
+                    <m:msub>
+                      <m:mi>E</m:mi>
+                      <m:mrow>
+                        <m:mi>K top</m:mi>
+                      </m:mrow>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>E</m:mi>
+                      <m:mrow>
+                        <m:mi>P bottom</m:mi>
+                      </m:mrow>
+                    </m:msub>
+                    <m:mo>+</m:mo>
+                    <m:msub>
+                      <m:mi>E</m:mi>
+                      <m:mrow>
+                        <m:mi>K bottom</m:mi>
+                      </m:mrow>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mi>m</m:mi>
+                    <m:mi>g</m:mi>
+                    <m:mi>h</m:mi>
+                    <m:mo>+</m:mo>
+                    <m:mfrac>
+                      <m:mn>1</m:mn>
+                      <m:mn>2</m:mn>
+                    </m:mfrac>
+                    <m:mi>m</m:mi>
+                    <m:msup>
+                      <m:mi>v</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mi>m</m:mi>
+                    <m:mi>g</m:mi>
+                    <m:mi>h</m:mi>
+                    <m:mo>+</m:mo>
+                    <m:mfrac>
+                      <m:mn>1</m:mn>
+                      <m:mn>2</m:mn>
+                    </m:mfrac>
+                    <m:mi>m</m:mi>
+                    <m:msup>
+                      <m:mi>v</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mo>(</m:mo>
+                    <m:mn>1</m:mn>
+                    <m:mo>)</m:mo>
+                    <m:mo>(</m:mo>
+                    <m:mn>9</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>8</m:mn>
+                    <m:mo>)</m:mo>
+                    <m:mo>(</m:mo>
+                    <m:mn>2</m:mn>
+                    <m:mo>)</m:mo>
+                    <m:mo>+</m:mo>
+                    <m:mn>0</m:mn>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>0</m:mn>
+                    <m:mo>+</m:mo>
+                    <m:mfrac>
+                      <m:mn>1</m:mn>
+                      <m:mn>2</m:mn>
+                    </m:mfrac>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>1</m:mn>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:msup>
+                        <m:mi>v</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msup>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mn>19</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>6</m:mn>
+                    <m:mspace width="3.33333pt"/>
+                    <m:mi mathvariant="normal">J</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mn>1</m:mn>
+                      <m:mn>2</m:mn>
+                    </m:mfrac>
+                    <m:msup>
+                      <m:mi>v</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mn>39</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>2</m:mn>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:msup>
+                    <m:mi>v</m:mi>
+                    <m:mn>2</m:mn>
+                  </m:msup>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>v</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>6</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>26</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:msup>
+                      <m:mi mathvariant="normal">s</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id69118">The suitcase will strike the ground with a velocity of <m:math overflow="scroll"><m:mn>6,26</m:mn> <m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>.</para>
+        <para id="id69148">From this we see that when an object is lifted, like the suitcase in our example, it gains potential energy. As it falls back to the ground, it will lose this potential energy, but gain kinetic energy. We know that energy cannot be created or destroyed, but only changed from one form into another. In our example, the potential energy that the suitcase loses is changed to kinetic energy.</para>
+        <para id="id69157">The suitcase will have maximum potential energy at the top of the cupboard and maximum kinetic energy at the bottom of the cupboard. Halfway down it will have half kinetic energy and half potential energy. As it moves down, the potential energy will be converted (changed) into kinetic energy until all the potential energy is gone and only kinetic energy is left. The <m:math><m:mn>19,6</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">J</m:mi></m:math> of potential energy at the top will become <m:math><m:mn>19,6</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">J</m:mi></m:math> of kinetic energy at the bottom.</para>
+<exercise id="secfhsst_id1898"><title> Using the Law of Conservation of Mechanical Energy </title>
+        <problem id="probfhsst_id1899">
+        <para id="id69178">During a flood a tree truck of mass <m:math><m:mn>100</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">kg</m:mi></m:math> falls down a waterfall. The waterfall is <m:math><m:mn>5</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi></m:math> high. If air resistance is ignored, calculate</para>
+        <list id="id69185" display="block" list-type="enumerated">
+          <item id="uid80">the potential energy of the tree trunk at the top of the waterfall.
+</item>
+          <item id="uid81">the kinetic energy of the tree trunk at the bottom of the waterfall.
+</item>
+          <item id="uid82">the magnitude of the velocity of the tree trunk at the bottom of the waterfall.
+</item>
+        </list>
+        <para id="id69227">
+          <figure id="id69228"><media id="id69228_media" alt="">
+              <image mime-type="image/png" src="../../media/PG10C3_005.png" id="id69228_onlineimage" width="242"><!-- NOTE: attribute width changes image size online (pixels). original width is 142. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG10C3_005.eps" id="id69228_printimage"/>
+            </media>
+          </figure>
+        </para>
+        
+        </problem>
+        <solution id="solfhsst_id1919"> <list id="listfhsst_id1919" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Analyse the question to determine what information is provided </label>
+        <list id="id69257" display="block" list-type="bulleted"><item id="uid83">The mass of the tree trunk <m:math overflow="scroll"><m:mi>m</m:mi><m:mo>=</m:mo><m:mn>100</m:mn><m:mspace width="2pt"/><m:mi>kg</m:mi></m:math>
+</item>
+          <item id="uid84">The height of the waterfall <m:math overflow="scroll"><m:mi>h</m:mi><m:mo>=</m:mo><m:mn>5</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi></m:math>.
+These are all in SI units so we do not have to convert.
+</item>
+        </list>
+        </item> <item> <label> Analyse the question to determine what is being asked </label>
+        <list id="id69314" display="block" list-type="bulleted">
+          <item id="uid85">Potential energy at the top
+</item>
+          <item id="uid86">Kinetic energy at the bottom
+</item>
+          <item id="uid87">Velocity at the bottom
+</item>
+        </list>
+        </item> <item> <label> Calculate the potential energy. </label>
+        <equation id="id69358"><m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow><m:msub>
+                    <m:mi>E</m:mi>
+                    <m:mi>P</m:mi></m:msub>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mi>m</m:mi>
+                    <m:mi>g</m:mi>
+                    <m:mi>h</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:msub>
+                    <m:mi>E</m:mi>
+                    <m:mi>P</m:mi></m:msub>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mo>(</m:mo>
+                    <m:mn>100</m:mn>
+                    <m:mo>)</m:mo>
+                    <m:mo>(</m:mo>
+                    <m:mn>9</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>8</m:mn>
+                    <m:mo>)</m:mo>
+                    <m:mo>(</m:mo>
+                    <m:mn>5</m:mn>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow><m:msub>
+                    <m:mi>E</m:mi>
+                    <m:mi>P</m:mi></m:msub>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>4900</m:mn>
+                    <m:mspace width="3.33333pt"/>
+                    <m:mi mathvariant="normal">J</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        </item> <item> <label> Calculate the kinetic energy. </label>
+        <para id="id69467">The kinetic energy of the tree trunk at the bottom of the waterfall is equal to the potential energy it had at the top of the waterfall. Therefore <m:math overflow="scroll"><m:mrow><m:mi>K</m:mi><m:mi>E</m:mi></m:mrow><m:mo>=</m:mo><m:mn>4 900</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">J</m:mi></m:math>.</para>
+        </item> <item> <label> Calculate the velocity. </label>
+        <para id="id69490">To calculate the velocity of the tree trunk we need to use the equation for kinetic energy.</para>
+        <equation id="id69494"><m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+<m:msub>
+                    <m:mi>E</m:mi>
+                    <m:mi>K</m:mi></m:msub>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mn>1</m:mn>
+                      <m:mn>2</m:mn>
+                    </m:mfrac>
+                    <m:mi>m</m:mi>
+                    <m:msup>
+                      <m:mi>v</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mn>4900</m:mn>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mn>1</m:mn>
+                      <m:mn>2</m:mn>
+                    </m:mfrac>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>100</m:mn>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:msup>
+                        <m:mi>v</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msup>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mn>98</m:mn>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:msup>
+                    <m:mi>v</m:mi>
+                    <m:mn>2</m:mn>
+                  </m:msup>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>v</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>9</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>899</m:mn>
+                    <m:mo>.</m:mo>
+                    <m:mo>.</m:mo>
+                    <m:mo>.</m:mo>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>v</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>9</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>90</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:msup>
+                      <m:mi mathvariant="normal">s</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                    <m:mi> downwards </m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        
+        </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id2130"><title> Pendulum </title>
+        <problem id="probfhsst_id2131">
+        <para id="id69704">A <m:math><m:mn>2</m:mn><m:mspace width="2pt"/><m:mi>kg</m:mi></m:math> metal ball is suspended from a rope. If it is released from point <m:math overflow="scroll"><m:mi>A</m:mi></m:math> and swings down to the point <m:math overflow="scroll"><m:mi>B</m:mi></m:math> (the bottom of its arc):</para>
+        <list id="id69730" display="block" list-type="enumerated">
+          <item id="uid88">Show that the velocity of the ball is independent of it mass.
+</item>
+          <item id="uid89">Calculate the velocity of the ball at point <m:math overflow="scroll"><m:mi>B</m:mi></m:math>.
+</item>
+        </list>
+        <para id="id69768">
+          <figure id="id69771">
+            <media id="id69771_media" alt="">
+              <image mime-type="image/png" src="../../media/PG10C3_006.png" id="id69771_onlineimage" width="100"><!-- NOTE: attribute width changes image size online (pixels). original width is 100. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG10C3_006.eps" id="id69771_printimage"/>
+            </media>
+          </figure>
+        </para>
+        
+        </problem>
+        <solution id="solfhsst_id2149"> <list id="listfhsst_id2149" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Analyse the question to determine what information is provided </label>
+        <list id="id69799" display="block" list-type="bulleted"><item id="uid90">The mass of the metal ball is <m:math overflow="scroll"><m:mi>m</m:mi><m:mo>=</m:mo><m:mn>2</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">kg</m:mi></m:math>
+</item>
+          <item id="uid91">The change in height going from point <m:math overflow="scroll"><m:mi>A</m:mi></m:math> to point <m:math overflow="scroll"><m:mi>B</m:mi></m:math> is <m:math overflow="scroll"><m:mi>h</m:mi><m:mo>=</m:mo><m:mn>0,5</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi></m:math>
+</item>
+          <item id="uid92">The ball is released from point <m:math overflow="scroll"><m:mi>A</m:mi></m:math> so the velocity at point, <m:math overflow="scroll"><m:msub><m:mi>v</m:mi><m:mi>A</m:mi></m:msub><m:mo>=</m:mo><m:mn>0</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>.
+</item>
+        </list>
+        <para id="id69924">All quantities are in SI units.</para>
+        </item> <item> <label> Analyse the question to determine what is being asked </label>
+        <list id="id69934" display="block" list-type="bulleted">
+          <item id="uid93">Prove that the velocity is independent of mass.
+</item>
+          <item id="uid94">Find the velocity of the metal ball at point <m:math overflow="scroll"><m:mi>B</m:mi></m:math>.
+</item>
+        </list>
+        </item> <item> <label> Apply the Law of Conservation of Mechanical Energy to the situation </label>
+        <para id="id69976">As there is no friction, mechanical energy is conserved. Therefore:</para>
+        <equation id="id69980"><m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>E</m:mi>
+                    <m:mrow><m:msub><m:mi>M</m:mi><m:mi>A</m:mi></m:msub></m:mrow>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:msub>
+                    <m:mi>E</m:mi>
+                    <m:mrow><m:msub><m:mi>M</m:mi><m:mi>A</m:mi></m:msub></m:mrow>
+                  </m:msub>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>E</m:mi>
+                      <m:mrow><m:msub><m:mi>P</m:mi><m:mi>A</m:mi></m:msub></m:mrow>
+                    </m:msub>
+                    <m:mo>+</m:mo>
+                    <m:msub>
+                      <m:mi>E</m:mi>
+                      <m:mrow><m:msub><m:mi>K</m:mi><m:mi>A</m:mi></m:msub></m:mrow>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>E</m:mi>
+                     <m:mrow><m:msub><m:mi>P</m:mi><m:mi>A</m:mi></m:msub></m:mrow>
+                    </m:msub>
+                    <m:mo>+</m:mo>
+                    <m:msub>
+                      <m:mi>E</m:mi>
+                     <m:mrow><m:msub><m:mi>K</m:mi><m:mi>A</m:mi></m:msub></m:mrow>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mi>m</m:mi>
+                    <m:mi>g</m:mi>
+                    <m:msub>
+                      <m:mi>h</m:mi>
+                      <m:mi>A</m:mi>
+                    </m:msub>
+                    <m:mo>+</m:mo>
+                    <m:mfrac>
+                      <m:mn>1</m:mn>
+                      <m:mn>2</m:mn>
+                    </m:mfrac>
+                    <m:mi>m</m:mi>
+                    <m:msup>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:msub>
+                          <m:mi>v</m:mi>
+                          <m:mi>A</m:mi>
+                        </m:msub>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mi>m</m:mi>
+                    <m:mi>g</m:mi>
+                    <m:msub>
+                      <m:mi>h</m:mi>
+                      <m:mi>B</m:mi>
+                    </m:msub>
+                    <m:mo>+</m:mo>
+                    <m:mfrac>
+                      <m:mn>1</m:mn>
+                      <m:mn>2</m:mn>
+                    </m:mfrac>
+                    <m:mi>m</m:mi>
+                    <m:msup>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:msub>
+                          <m:mi>v</m:mi>
+                          <m:mi>B</m:mi>
+                        </m:msub>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mi>m</m:mi>
+                    <m:mi>g</m:mi>
+                    <m:msub>
+                      <m:mi>h</m:mi>
+                      <m:mi>A</m:mi>
+                    </m:msub>
+                    <m:mo>+</m:mo>
+                    <m:mn>0</m:mn>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>0</m:mn>
+                    <m:mo>+</m:mo>
+                    <m:mfrac>
+                      <m:mn>1</m:mn>
+                      <m:mn>2</m:mn>
+                    </m:mfrac>
+                    <m:mi>m</m:mi>
+                    <m:msup>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:msub>
+                          <m:mi>v</m:mi>
+                          <m:mi>B</m:mi>
+                        </m:msub>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mi>m</m:mi>
+                    <m:mi>g</m:mi>
+                    <m:msub>
+                      <m:mi>h</m:mi>
+                      <m:mi>A</m:mi>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mn>1</m:mn>
+                      <m:mn>2</m:mn>
+                    </m:mfrac>
+                    <m:mi>m</m:mi>
+                    <m:msup>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:msub>
+                          <m:mi>v</m:mi>
+                          <m:mi>B</m:mi>
+                        </m:msub>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id70278">As the mass of the ball <m:math overflow="scroll"><m:mi>m</m:mi></m:math> appears on both sides of the equation, it can be eliminated so that the equation becomes:</para>
+        <equation id="id70294">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>g</m:mi>
+              <m:msub>
+                <m:mi>h</m:mi>
+                <m:mi>A</m:mi>
+              </m:msub>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mn>1</m:mn>
+                <m:mn>2</m:mn>
+              </m:mfrac>
+              <m:msup>
+                <m:mrow>
+                  <m:mo>(</m:mo>
+                  <m:msub>
+                    <m:mi>v</m:mi>
+                    <m:mi>B</m:mi>
+                  </m:msub>
+                  <m:mo>)</m:mo>
+                </m:mrow>
+                <m:mn>2</m:mn>
+              </m:msup>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <equation id="id70340">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mn>2</m:mn>
+              <m:mi>g</m:mi>
+              <m:msub>
+                <m:mi>h</m:mi>
+                <m:mi>A</m:mi>
+              </m:msub>
+              <m:mo>=</m:mo>
+              <m:msup>
+                <m:mrow>
+                  <m:mo>(</m:mo>
+                  <m:msub>
+                    <m:mi>v</m:mi>
+                    <m:mi>B</m:mi>
+                  </m:msub>
+                  <m:mo>)</m:mo>
+                </m:mrow>
+                <m:mn>2</m:mn>
+              </m:msup>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id70382">This proves that the velocity of the ball is independent of its mass. It does not matter what its mass is, it will always have the same velocity when it falls through this height.</para>
+        </item> <item> <label> Calculate the velocity of the ball </label>
+        <para id="id70393">We can use the equation above, or do the calculation from 'first principles':</para>
+        <equation id="id70397">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msup>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:msub>
+                        <m:mi>v</m:mi>
+                        <m:mi>B</m:mi>
+                      </m:msub>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mn>2</m:mn>
+                  </m:msup>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>2</m:mn>
+                    <m:mi>g</m:mi>
+                    <m:msub>
+                      <m:mi>h</m:mi>
+                      <m:mi>A</m:mi>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msup>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:msub>
+                        <m:mi>v</m:mi>
+                        <m:mi>B</m:mi>
+                      </m:msub>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mn>2</m:mn>
+                  </m:msup>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mo>(</m:mo>
+                    <m:mn>2</m:mn>
+                    <m:mo>)</m:mo>
+                    <m:mo>(</m:mo>
+                    <m:mn>9</m:mn>
+                    <m:mo>.</m:mo>
+                    <m:mn>8</m:mn>
+                    <m:mo>)</m:mo>
+                    <m:mo>(</m:mo>
+                    <m:mn>0</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>5</m:mn>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msup>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:msub>
+                        <m:mi>v</m:mi>
+                        <m:mi>B</m:mi>
+                      </m:msub>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mn>2</m:mn>
+                  </m:msup>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>9</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>8</m:mn>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>v</m:mi>
+                    <m:mi>B</m:mi>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msqrt>
+                      <m:mrow>
+                        <m:mn>9</m:mn>
+                        <m:mo>,</m:mo>
+                        <m:mn>8</m:mn>
+                      </m:mrow>
+                    </m:msqrt>
+                    <m:mspace width="3.33333pt"/>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:msup>
+                      <m:mi mathvariant="normal">s</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        
+        </item> </list> </solution>
+</exercise>
+<section id="secfhsst_id2545"><title>Potential Energy </title><list id="id70623" display="block" list-type="enumerated"><item id="uid95">A tennis ball, of mass <m:math><m:mn>120</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">g</m:mi></m:math>, is dropped from a height of <m:math><m:mn>5</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi></m:math>. Ignore air friction.
+<list id="id70639" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid96">What is the potential energy of the ball when it has fallen <m:math><m:mn>3</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi></m:math>?
+</item><item id="uid97">What is the velocity of the ball when it hits the ground?
+</item></list><link class="fullmarks" window="new" url="http://www.fhsst.org/lxV">Click here for the solution</link></item>
+          <item id="uid98">A bullet, mass <m:math><m:mn>50</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">g</m:mi></m:math>, is shot vertically up in the air with a muzzle velocity of <m:math><m:mn>200</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. Use the Principle of Conservation of Mechanical Energy to determine the height that the bullet will reach. Ignore air friction.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lxp">Click here for the solution</link>
+</item>
+          <item id="uid99">A skier, mass <m:math><m:mn>50</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">kg</m:mi></m:math>, is at the top of a <m:math><m:mn>6,4</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi></m:math> ski slope.
+<list id="id70721" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid100">Determine the maximum velocity that she can reach when she skies to the bottom of the slope.
+</item><item id="uid101">Do you think that she will reach this velocity? Why/Why not?
+</item></list><link class="fullmarks" window="new" url="http://www.fhsst.org/lxd">Click here for the solution</link></item>
+          <item id="uid102">A pendulum bob of mass <m:math><m:mn>1,5</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">kg</m:mi></m:math>, swings from a height A to the bottom of its arc at B. The velocity of the bob at B is <m:math><m:mn>4</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. Calculate the height A from which the bob was released. Ignore the effects of air friction.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lxv">Click here for the solution</link>
+</item>
+          <item id="uid103">Prove that the velocity of an object, in free fall, in a closed system, is independent of its mass.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lxw">Click here for the solution</link>
+</item>
+        </list>
+        
+</section>
+      </section>
+    </section>
+    
+    <section id="cid8">
+      <title>Summary</title>
+      <list id="id70947" display="block" list-type="bulleted"><item id="uid111">The potential energy of an object is the energy the object has due to his position above a reference point.
+</item>
+        <item id="uid112">The kinetic energy of an object is the energy the object has due to its motion.
+</item>
+        <item id="uid113">Mechanical energy of an object is the sum of the potential energy and kinetic energy of the object.
+</item>
+        <item id="uid114">The unit for energy is the joule (J).
+</item>
+        <item id="uid115">The Law of Conservation of Energy states that energy cannot be created or destroyed, but can only be changed from one form into another.
+</item>
+        <item id="uid116">The Law of Conservation of Mechanical Energy states that the total mechanical energy of an isolated system remains constant.
+</item>
+        <item id="uid117">The table below summarises the most important equations:
+</item>
+      </list>
+      <table id="id71092" summary="summary table">
+<tgroup cols="2"><tbody>
+            <row>
+              <entry>Potential Energy</entry>
+              <entry>
+                <m:math overflow="scroll">
+                  <m:mrow><m:msub>
+                    <m:mi>E</m:mi>
+                    <m:mi>P</m:mi></m:msub>
+                    <m:mo>=</m:mo>
+                    <m:mi>m</m:mi>
+                    <m:mi>g</m:mi>
+                    <m:mi>h</m:mi>
+                  </m:mrow>
+                </m:math>
+              </entry>
+            </row>
+            <row>
+              <entry>Kinetic Energy</entry>
+              <entry>
+                <m:math overflow="scroll">
+                  <m:mrow><m:msub>
+                    <m:mi>E</m:mi>
+                    <m:mi>K</m:mi></m:msub>
+                    <m:mo>=</m:mo>
+                    <m:mfrac>
+                      <m:mn>1</m:mn>
+                      <m:mn>2</m:mn>
+                    </m:mfrac>
+                    <m:mi>m</m:mi>
+                    <m:msup>
+                      <m:mi>v</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                  </m:mrow>
+                </m:math>
+              </entry>
+            </row>
+            <row>
+              <entry>Mechanical Energy</entry>
+              <entry>
+                <m:math overflow="scroll">
+                  <m:mrow><m:msub>
+                    <m:mi>E</m:mi><m:mi>M</m:mi></m:msub>
+                    <m:mo>=</m:mo><m:msub>
+                    <m:mi>E</m:mi>
+                    <m:mi>K</m:mi></m:msub>
+                    <m:mo>+</m:mo><m:msub>
+                    <m:mi>E</m:mi>
+                    <m:mi>P</m:mi></m:msub>
+                  </m:mrow>
+                </m:math>
+              </entry>
+            </row>
+          </tbody>
+        
+</tgroup>
+</table>
+      <!--empty paragraphs get left behind.-->
+    </section>
+    <section id="cid9">
+      <title>End of Chapter Exercises: Gravity and Mechanical Energy</title>
+      <list id="id71520" display="block" list-type="enumerated"><item id="uid118">Give one word/term for the following descriptions.
+<list id="id71536" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid119">The force with which the Earth attracts a body.
+</item><item id="uid120">The unit for energy.
+</item><item id="uid121">The movement of a body in the Earth's gravitational field when no other forces act on it.
+</item><item id="uid122">The sum of the potential and kinetic energy of a body.
+</item><item id="uid123">The amount of matter an object is made up of.
+</item></list><link class="fullmarks" window="new" url="http://www.fhsst.org/lxf">Click here for the solution</link></item>
+        <item id="uid124">Consider the situation where an apple falls from a tree. Indicate whether the following statements regarding this situation are TRUE or FALSE. Write only 'true' or 'false'. If the statement is false, write down the correct statement.
+<list id="id71616" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid125">The potential energy of the apple is a maximum when the apple lands on the ground.
+</item><item id="uid126">The kinetic energy remains constant throughout the motion.
+</item><item id="uid127">To calculate the potential energy of the apple we need the mass of the apple and the height of the tree.
+</item><item id="uid128">The mechanical energy is a maximum only at the beginning of the motion.
+</item><item id="uid129">The apple falls at an acceleration of <m:math overflow="scroll"><m:mn>9,8</m:mn> <m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>2</m:mn></m:mrow></m:msup></m:math>.
+</item></list><link class="fullmarks" window="new" url="http://www.fhsst.org/lxG">Click here for the solution</link></item>
+                <item id="uid131">A man fires a rock out of a slingshot directly upward. The rock has an initial velocity of <m:math overflow="scroll"><m:mn>15</m:mn> <m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>.
+<list id="id71971" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid133">What is the maximum height that the rock will reach?
+</item><item id="uid134">Draw graphs to show how the potential energy, kinetic energy and mechanical energy of the rock changes as it moves to its highest point.
+</item></list><link class="fullmarks" window="new" url="http://www.fhsst.org/lbW">  Click here for the solution</link></item>
+        <item id="uid135">A metal ball of mass <m:math><m:mn>200</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">g</m:mi></m:math> is tied to a light string to make a pendulum. The ball is pulled to the side to a height (A), <m:math><m:mn>10</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">cm</m:mi></m:math> above the lowest point of the swing (B). Air friction and the mass of the string can be ignored. The ball is let go to swing freely.
+<list id="id72026" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid136">Calculate the potential energy of the ball at point A.
+</item><item id="uid137">Calculate the kinetic energy of the ball at point B.
+</item><item id="uid138">What is the maximum velocity that the ball will reach during its motion?
+</item></list><link class="fullmarks" window="new" url="http://www.fhsst.org/lxo">Click here for the solution</link></item>
+        <item id="uid139">A truck of mass <m:math><m:mn>1,2</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">tons</m:mi></m:math> is parked at the top of a hill, <m:math><m:mn>150</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi></m:math> high. The truck driver lets the truck run freely down the hill to the bottom.
+<list id="id72082" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid140">What is the maximum velocity that the truck can achieve at the bottom of the hill?
+</item><item id="uid141">Will the truck achieve this velocity? Why/why not?
+</item></list><link class="fullmarks" window="new" url="http://www.fhsst.org/lxs">Click here for the solution</link></item>
+        <item id="uid142">A stone is dropped from a window, <m:math><m:mn>6</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi></m:math> above the ground. The mass of the stone is <m:math><m:mn>25</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">g</m:mi></m:math>.
+Use the Principle of Conservation of Energy to determine the speed with which the stone strikes the ground.
+<link class="fullmarks" window="new" url="http://www.fhsst.org/lbZ">   Click here for the solution</link></item>
+      </list>
+    </section>
+  </content>
+</document>

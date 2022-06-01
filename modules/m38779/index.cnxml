@@ -1,0 +1,131 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Penetrating ability</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38779</md:content-id>
+  <md:title>Penetrating ability</md:title>
+  <md:abstract/>
+  <md:uuid>2b650cfb-c880-406e-a1e6-cf38bbf19bcf</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid7">
+      <title>Penetrating ability of electromagnetic radiation</title>
+      <para id="id189450">Different kinds of electromagnetic radiation have different penetrabilities. For example, if we take the human body as the object. Infrared light is emitted by the human body. Visible light is reflected off the surface of the human body, ultra-violet light (from sunlight) damages the skin, but X-rays are able to penetrate the skin and bone and allow for pictures of the inside of the human body to be taken.</para>
+      <para id="id189457">If we compare the energy of visible light to the energy of X-rays, we find that X-rays have a much higher energy. Usually, kinds of electromagnetic radiation with higher energy have higher penetrabilities than those with low energies.</para>
+      <para id="id189462">Certain kinds of electromagnetic radiation such as ultra-violet radiation, X-rays and gamma rays are very dangerous. Radiation such as these are called ionising radiation. Ionising radiation transfers energy as it passes through matter, breaking molecular bonds and creating ions.</para>
+      <para id="id189468">Excessive exposure to radiation, including sunlight, X-rays and all nuclear radiation, can cause destruction of biological tissue. Luckily, the Earth's atmosphere protects us and other living beings on Earth from most of the harmful EM radiation.</para>
+      <section id="uid17">
+        <title>Ultraviolet(UV) radiation and the skin</title>
+        <para id="id189482">UVA and UVB are different ranges of frequencies for ultraviolet (UV) light. UVA and UVB can damage collagen fibres which results in the speeding up skin aging. In general, UVA is the least harmful, but it can contribute to the aging of skin, DNA damage and possibly skin cancer. It penetrates deeply and does not cause sunburn. Because it does not cause reddening of the skin (erythema) it cannot be measured in the SPF testing. There is no good clinical measurement of the blocking of UVA radiation, but it is important that sunscreen block both UVA and UVB.</para>
+        <para id="id189490">UVB light can cause skin cancer. The radiation excites DNA molecules in skin cells, resulting in possible mutations, which can cause cancer. In particular, the layer of ozone in the atmosphere protects us from UVB radiation. The connection between UVB radiation and cancer is one of the reasons for concern about the depletion of ozone in the atmosphere.</para>
+        <para id="id189495">As a defense against UV radiation, the body tans when exposed to moderate (depending on skin type) levels of radiation by releasing the brown pigment melanin. This helps to block UV penetration and prevent damage to the vulnerable skin tissue deeper down. Sun-tan lotion, often referred to as sunblock or sunscreen, partly blocks UV radiation and is widely available. These products have a sun protection factor (SPF) rating (usually indicated on the container) that indicate how much protection the product provides against UVB radiation. The SPF rating does not specify protection against UVA radiation, which penetrates deeper into the skin and cause damage to the underlying tissue, which can (in turn) cause wrinkles and increases the risk of cancer. Some sunscreen lotion now includes compounds such as titanium dioxide which helps protect against UVA rays. Other UVA blocking compounds found in sunscreen include zinc oxide and avobenzone.</para>
+<section id="secfhsst_id701"><title> What makes a good sunscreen? </title>
+        <list id="id189518" display="block" list-type="bulleted">
+          <item id="uid18">UVB protection: Padimate O, Homosalate, Octisalate (octyl salicylate), Octinoxate (octyl methoxycinnamate)
+</item>
+          <item id="uid19">UVA protection: Avobenzone
+</item>
+          <item id="uid20">UVA/UVB protection: Octocrylene, titanium dioxide, zinc oxide, Mexoryl (ecamsule)
+</item>
+        </list>
+        <para id="id189561">Another means to block UV is by wearing sun protective clothing. This is clothing that has a UPF rating that describes the protection given against both UVA and UVB. </para>
+</section>
+      </section>
+      <section id="uid21">
+        <title>Ultraviolet radiation and the eyes</title>
+        <para id="id189581">High intensity UVB light can cause damage to the eyes and exposure can cause welder's flash (photo keratitis or arc eye) and may lead to cataracts, pterygium and pinguecula formation.</para>
+        <para id="id189586">Protective eyewear is beneficial to those who are working with or those who might be exposed to ultraviolet radiation, particularly short wave UV. Given that light may reach the eye from the sides, full coverage eye protection is usually warranted if there is an increased risk of exposure, as in high altitude mountaineering. Mountaineers are exposed to higher than ordinary levels of UV radiation, both because there is less atmospheric filtering and because of reflection from snow and ice.</para>
+        <para id="id189594">Ordinary, untreated eyeglasses give some protection. Most plastic lenses give more protection than glass lenses. Some plastic lens materials, such as polycarbonate, block most UV. There are protective treatments available for eyeglass lenses that need it which will give better protection. But even a treatment that completely blocks UV will not protect the eye from light that arrives around the lens. To convince yourself of the potential dangers of stray UV light, cover your lenses with something opaque, like aluminum foil, stand next to a bright light, and consider how much light you see, despite the complete blockage of the lenses. Most contact lenses help to protect the retina by absorbing UV radiation.</para>
+      </section>
+      <section id="uid22">
+        <title>X-rays</title>
+        <para id="id189613">While x-rays are used significantly in medicine, prolonged exposure to X-rays can lead to cell damage and cancer.</para>
+        <para id="id189617">For example, a mammogram is an x-ray of the human breast to detect breast cancer, but if a woman starts having regular mammograms when she is too young, her chances of getting breast cancer increases.</para>
+      </section>
+      <section id="uid23">
+        <title>Gamma-rays</title>
+        <para id="id189632">Due to the high energy of gamma-rays, they are able to cause serious damage when absorbed by living cells.</para>
+        <para id="id189636">Gamma-rays are not stopped by the skin and can induce DNA alteration by interfering with the genetic material of the cell. DNA double-strand breaks are generally accepted to be the most biologically significant lesion by which ionising radiation causes cancer and hereditary disease.</para>
+        <para id="id189642">A study done on Russian nuclear workers exposed to external whole-body gamma-radiation at high cumulative doses shows a link between radiation exposure and death from leukaemia, lung, liver, skeletal and other solid cancers.</para>
+
+      </section>
+      <section id="eip-665"><title>Cellphones and Microwave Radiation</title><para id="id189654">Cellphone radiation and health concerns have been raised, especially following the enormous increase in the use of wireless mobile telephony throughout the world. This is because mobile phones use electromagnetic waves in the microwave range. These concerns have induced a large body of research. Concerns about effects on health have also been raised regarding other digital wireless systems, such as data communication networks.
+In 2009 the World Health Organisation announced that they have found a link between brain cancer and cellphones. However, there is still no firm evidence for this and the link is tenuous at best. You can find out more at <link url="http://www.who.int/mediacentre/factsheets/fs193/en/">http://www.who.int/mediacentre/factsheets/fs193/en/</link></para>
+        <para id="id189664">Cellphone users are recommended to minimise their exposure to the radiation, by for example:</para>
+        <list id="id189668" display="block" list-type="enumerated">
+          <item id="uid24">Use hands-free to decrease the radiation to the head.
+</item>
+          <item id="uid25">Keep the mobile phone away from the body.
+</item>
+          <item id="uid26">Do not telephone in a car without an external antenna.
+</item>
+        </list></section><section id="uid27">
+        <title>Exercise - Penetrating ability of EM radiation</title>
+        <list id="id189729" display="block" list-type="enumerated"><item id="uid28">Indicate the penetrating ability of the different kinds of EM radiation and relate it to energy of the radiation.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/l2l">Click here for the solution</link>
+</item>
+          <item id="uid29">Describe the dangers of gamma rays, X-rays and the damaging effect of ultra-violet radiation on skin.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/l2q">Click here for the solution</link>
+</item>
+        </list>
+      </section>
+    </section>
+    <section id="cid8">
+      <title>Summary</title>
+      <list id="id189769" display="block" list-type="enumerated"><item id="uid30">Electromagnetic radiation has both a wave and a particle nature.
+</item>
+        <item id="uid31">Electromagnetic waves travel at a speed of <m:math overflow="scroll"><m:mrow><m:mn>3</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>8</m:mn></m:msup><m:mspace width="3.33333pt"/><m:mi>m</m:mi><m:mo>·</m:mo><m:msup><m:mi>s</m:mi><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:math> in a vacuum.
+</item>
+        <item id="uid32">The Electromagnetic spectrum consists of the follwing types of radiation: radio waves, microwaves, infrared, visible, ultraviolet, X-rays, gamma-rays.
+</item>
+        <item id="uid33">Gamma-rays have the most energy and are the most penetrating, while radio waves have the lowest energy and are the least penetrating.
+</item>
+      </list>
+    </section>
+    <section id="eip-745"><title>Indigenous Knowledge Systems: Animal Behaviour</title><para id="id1164126080746">People have believed that animals can predict earthquakes and other natural disasters for centuries. As early as 373 B.C., historians recorded a massive exodus of animals, including rats, snakes and weasels, from the Greek city of Helice days before a quake struck causing massive devastation.</para>
+      <para id="id1164126439136">This topic is much debated and there are people that claim different behaviours for different kinds of animals, for example:</para>
+      <list id="id1164132827593" list-type="bulleted">
+        <item><emphasis effect="bold">Dogs and cats</emphasis>: are believed by some to howl or bite their owners before natural disasters, they cite factors like a much stronger sense of smell.</item>
+        <item><emphasis effect="bold">Sharks</emphasis>: have been reported to move to deeper water before hurricanes, possibly because a sensitivity to changes in the air pressure preceding the hurricane.</item>
+        <item><emphasis effect="bold">Elephants</emphasis>: will allegedly trumpet and flee to higher ground before a tsunami arrived.</item>
+      </list>
+      <para id="id1164121170251">Others argue that many animals detect certain natural signals, such as the early tremblings of an earthquake, long before humans. This means they have opportunity to react before we can but argue that they exhibit no special understanding, they just flee as would any person hearing a shout of fire.</para>
+      <para id="id6489198">Another problem cited with these seemingly clairvoyant animals is that their psychic powers often are based on behaviors that people only recall after the event. Some animal behaviors happen frequently, but are not remembered unless an earthquake, tsunami, or mud slide follows. For example, if you see a dog cross a road, you just remember you saw a dog cross the road. But if an earthquake shook your neighborhood five minutes later, would you say the dog was fleeing? </para>
+      <section id="id1553831">
+        <title>Project: Indigenous Knowledge: Animals and Natural Disasters.</title>
+        <para id="id1164119615164">Carry out research on the behavior of animals before natural disasters. </para>
+        <para id="id1164121934705">Pick one type of natural disaster (earthquake, flood, tsunami, etc.) and see what you can find about animals reacting to that type of disaster. Ask people you know about what they have heard to get a sense of folklore.</para>
+        <para id="id1164121037612">Then research the topic to find more information and remember to critically assess all information. Things to consider:</para>
+        <list id="id1164128014077" list-type="bulleted">
+          <item>What scientific research has been conducted? </item>
+          <item>Which countries does that type of disaster usually occur in?</item>
+          <item>Do any of the native people of that country have legends/ideas about animals reacting to the disaster? </item>
+          <item>What do people believe leads to this behavior? i.e. do the animals have some mystic ability or are they more sensitive to anything then we are (such as low frequency radiation)</item>
+        </list>
+        <para id="id1164121076422">Present your findings to your class. Critically analyze all the information you collect and decide what you believe. </para>
+      </section></section><section id="cid9">
+      <title>End of chapter exercise</title>
+      <list id="id189872" display="block" list-type="enumerated"><item id="uid34">What is the energy of a photon of EM radiation with a frequency of <m:math overflow="scroll"><m:mrow><m:mn>3</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>8</m:mn></m:msup></m:mrow></m:math> Hz?<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/l4J">Click here for the solution</link>
+</item>
+        <item id="uid35">What is the energy of a photon of light with a wavelength of 660 nm?<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/l4u">Click here for the solution</link>
+</item>
+        <item id="uid36">List the main types of electromagnetic radiation in order of increasing wavelength.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/l2r">Click here for the solution</link>
+</item>
+        <item id="uid37">List the main uses of:
+<list id="id189946" display="block" list-type="enumerated"><item id="uid38">radio waves
+</item><item id="uid39">infrared
+</item><item id="uid40">gamma rays
+</item><item id="uid41">X-rays
+</item></list><link class="fullmarks" window="new" url="http://www.fhsst.org/l21">Click here for the solution</link></item>
+        <item id="uid42">Explain why we need to protect ourselves from ultraviolet radiation from the Sun.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/l2Y">Click here for the solution</link>
+</item>
+        <item id="uid43">List some advantages and disadvantages of using X-rays.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/l4h">Click here for the solution</link>
+</item>
+        <item id="uid44">What precautions should we take when using cell phones?<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/l4S">Click here for the solution</link>
+</item>
+        <item id="uid45">Write a short essay on a type of electromagnetic waves. You should look at uses, advantages and disadvantages of your chosen radiation.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/l24">Click here for the solution</link>
+</item>
+        <item id="uid46">Explain why some types of electromagnetic radiation are more penetrating than others.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/l2g">Click here for the solution</link>
+</item>
+      </list>
+    </section>
+  </content>
+</document>

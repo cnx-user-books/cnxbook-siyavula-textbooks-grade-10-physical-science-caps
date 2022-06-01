@@ -1,0 +1,324 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Isotopes</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38753</md:content-id>
+  <md:title>Isotopes</md:title>
+  <md:abstract/>
+  <md:uuid>0487d0ca-bb1b-4ba0-b55b-60ad8825342f</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid6"><title>Isotopes</title><section id="uid40"><title>What is an isotope?</title><para id="id257359">The chemical properties of an element depend on the number of protons and electrons inside the atom. So if a neutron or two is added or removed from the nucleus, then the chemical properties will not change. This means that such an atom would remain in the same place in the Periodic Table. For example, no matter how many neutrons we add or subtract from a nucleus with 6 protons, that element will <emphasis effect="bold">always</emphasis> be called carbon and have the
+element symbol <m:math><m:mi mathvariant="normal">C</m:mi></m:math> (see the Table of Elements). Atoms which have the same number of protons, but a different number of neutrons, are called <emphasis effect="bold">isotopes</emphasis>.</para>
+<definition id="fhsst_id386"><term id="termfhsst_id386"> Isotope </term> <meaning id="meaningfhsst_id386">
+        <para id="id257386">The <emphasis effect="bold">isotope</emphasis> of a particular element is made up of atoms which have the same number of protons as the atoms in the original element, but a different number of neutrons.  </para>
+        </meaning></definition>
+        <para id="id257405">The different isotopes of an element have the same atomic
+number <m:math overflow="scroll"><m:mi>Z</m:mi></m:math> but different mass numbers <m:math overflow="scroll"><m:mi>A</m:mi></m:math> because they have a different
+number of neutrons <m:math overflow="scroll"><m:mi>N</m:mi></m:math>. The chemical properties of the different
+isotopes of an element are the same, but they might vary in how stable their nucleus is. Note that we can also write elements as <m:math><m:mi>X - A</m:mi></m:math> where the X is the element symbol and the A is the atomic mass of that element. For example, <m:math><m:mi>C-</m:mi><m:mn>12</m:mn></m:math> has an atomic mass of 12 and <m:math><m:mi>Cl-</m:mi><m:mn>35</m:mn></m:math> has an atomic mass of 35 u, while <m:math><m:mi>Cl-</m:mi><m:mn>37</m:mn></m:math> has an atomic mass of 37 u.</para>
+<note id="notfhsst_id393"><title> Interesting Fact </title>
+        <para id="id257445">In Greek, “same place” reads as
+<m:math overflow="scroll"><m:mrow><m:mover accent="true"><m:mi>ι</m:mi><m:mo>`</m:mo></m:mover><m:mi>σ</m:mi><m:mi>o</m:mi><m:mi>ς</m:mi></m:mrow></m:math><m:math overflow="scroll"><m:mrow><m:mi>τ</m:mi><m:mover accent="true"><m:mi>o</m:mi><m:mo>`</m:mo></m:mover><m:mi>π</m:mi><m:mi>o</m:mi><m:mi>ς</m:mi></m:mrow></m:math><space/>
+(isos topos). This is why atoms which have the same number of protons, but
+different numbers of neutrons, are called <emphasis effect="italics">isotopes</emphasis>. They are in the same place on the Periodic Table!</para>
+</note>
+<para id="id248557">It is important to realise that the atomic mass of isotopes of the same element will be different because they have a different number of nucleons. Chlorine, for example, has two common isotopes which are chlorine-35 and chlorine-37. Chlorine-35 has an atomic mass of 35 u, while chlorine-37 has an atomic mass of 37 u. In the world around us, both of these isotopes occur naturally. It doesn't make sense to say that the element chlorine has an atomic mass of 35 u, or that it has an atomic mass of 37 u. Neither of these are absolutely true since the mass varies depending on the form in which the element occurs. We need to look at how much more common one is than the other in order to calculate the <emphasis effect="bold">relative atomic mass</emphasis> for the element chlorine. This is the number that you find on the Periodic Table.</para>
+
+<note id="eip-8228"><title>Interesting fact</title><para id="id9742331">The relative atomic mass of some elements depends on where on Earth the element is found. This is because the isotopes can be found in varying ratios depending on certain factors such as geological composition, etc. The International Union of Pure and Applied Chemistry (IUPAC) has decided to give the relative atomic mass of some elements as a range to better represent the varying isotope ratios on the Earth. For the calculations that you will do at high school, it is enough to simply use one number without worrying about these ranges.</para></note><exercise id="secfhsst_id2602"><title> The relative atomic mass of an isotopic element </title>
+        <problem id="probfhsst_id6203">
+        <para id="id2586016">The element chlorine has two isotopes, chlorine-35 and chlorine-37. The abundance of these isotopes when they occur naturally is 75% chlorine-35 and 25% chlorine-37. Calculate the <emphasis effect="italics">average</emphasis> relative atomic mass for chlorine.
+ </para>
+        </problem>
+        <solution id="solfhsst_id6207"> <list id="listfhsst_id6107" list-type="enumerated" number-style="arabic" class="stepwise"><item> <label> Calculate the mass contribution of chlorine-35 to the average relative atomic mass </label>
+        <para id="id2582637">Contribution of <m:math><m:mi>Cl-</m:mi><m:mn>35</m:mn><m:mo>=</m:mo><m:mo>(</m:mo><m:mfrac><m:mn>75</m:mn><m:mn>100</m:mn></m:mfrac><m:mo>×</m:mo><m:mn>35</m:mn><m:mo>)</m:mo><m:mo>=</m:mo><m:mn>26</m:mn><m:mo>,</m:mo><m:mn>25</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">u</m:mi></m:math>
+ </para>
+        </item> 
+        <item> <label> Calculate the contribution of chlorine-37 to the average relative atomic mass </label>
+        <para id="id2528657">Contribution of <m:math><m:mi>Cl-</m:mi><m:mn>37</m:mn><m:mo>=</m:mo><m:mo>(</m:mo><m:mfrac><m:mn>25</m:mn><m:mn>100</m:mn></m:mfrac><m:mo>×</m:mo><m:mn>37</m:mn><m:mo>)</m:mo><m:mo>=</m:mo><m:mn>9</m:mn><m:mo>,</m:mo><m:mn>25</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">u</m:mi></m:math></para>
+        </item> <item> <label> Add the two values to arrive at the <emphasis effect="italics">average relative atomic mass</emphasis> of chlorine </label>
+        <para id="id2586730"><m:math><m:mi>Relative atomic mass of chlorine</m:mi><m:mo>=</m:mo><m:mn>26</m:mn><m:mo>,</m:mo><m:mn>25</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">u</m:mi><m:mo>+</m:mo><m:mn>9</m:mn><m:mo>,</m:mo><m:mn>25</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">u</m:mi><m:mo>=</m:mo><m:mn>35</m:mn><m:mo>,</m:mo><m:mn>5</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">u</m:mi></m:math></para>
+        <para id="id2586714">If you look on the periodic table, the average relative atomic mass for chlorine is <m:math><m:mn>35</m:mn><m:mo>,</m:mo><m:mn>5</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">u</m:mi></m:math>. You will notice that for many elements, the relative atomic mass that is shown is not a whole number. You should now understand that this number is the <emphasis effect="italics">average</emphasis> relative atomic mass for those elements that have naturally occurring isotopes.</para>
+</item></list> </solution>
+</exercise>
+<para id="eip-8129">This simulation allows you to see how isotopes and relative atomic mass are inter related.
+<figure id="id79742"><media id="id792242" alt="">
+<image mime-type="image/png" src="../../media/isotope.png" id="id634582_onlineimage" width="350"><!-- NOTE: attribute width changes image size online (pixels). original width is 	350. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/isotope.eps" id="id634582_printimage"/>
+</media>
+</figure>
+<link class="phetsim" window="new" url="http://phet.colorado.edu/sims/build-an-atom/isotopes-and-atomic-mass_en.jnlp">run demo</link></para><section id="secfhsst_id6128"><title> Isotopes </title>
+        
+        <list id="id25862299" display="block" list-type="enumerated"><item id="uid619">Complete the table below:
+<table id="id25871115" summary=""><tgroup cols="6"><tbody><row><entry><emphasis effect="bold">Isotope</emphasis></entry><entry><emphasis effect="bold">Z</emphasis></entry><entry><emphasis effect="bold">A</emphasis></entry><entry><emphasis effect="bold">Protons</emphasis></entry><entry><emphasis effect="bold">Neutrons</emphasis></entry><entry><emphasis effect="bold">Electrons</emphasis></entry></row><row><entry>Carbon-12</entry><entry/><entry/><entry/><entry/><entry/></row><row><entry>Carbon-14</entry><entry/><entry/><entry/><entry/><entry/></row><row><entry>Chlorine-35</entry><entry/><entry/><entry/><entry/><entry/></row><row><entry>Chlorine-37</entry><entry/><entry/><entry/><entry/><entry/></row></tbody></tgroup></table><link window="new" class="fullmarks" url="http://www.fhsst.org/llj">Click here for the solution</link></item>
+<item id="uid7170">If a sample contains 90% carbon-12 and 10% carbon-14, calculate the relative atomic mass of an atom in that sample.
+<space/><link window="new" class="fullmarks" url="http://www.fhsst.org/llb">Click here for the solution</link></item><item id="uid7100">If a sample contains 22,5% Cl-37 and 77,5% Cl-35, calculate the relative atomic mass of an atom in that sample.<space/><link window="new" class="fullmarks" url="http://www.fhsst.org/llT">Click here for the solution</link>
+</item>
+        </list>
+        
+</section>
+      <para id="id255886">Standard notation shows the chemical symbol, the atomic mass number
+and the atomic number of an element as follows:</para>
+      <para id="id255890">
+        <figure id="id255893">
+          <media id="id255893_media" alt="">
+            <image mime-type="image/png" src="../../media/atom_sym.png" id="id255893_onlineimage" width="453"><!-- NOTE: attribute width changes image size online (pixels). original width is 453. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/atom_sym.eps" id="id255893_printimage"/>
+          </media>
+        </figure>
+      </para>
+      <note id="eip-741">A nuclide is a distinct kind of atom or nucleus characterized by the number of protons and neutrons in the atom. To be absolutely correct, when we represent atoms like we do here, then we should call them nuclides. </note><para id="id255900">For example, the iron nucleus which has 26 protons and 30 neutrons, is
+denoted as:</para>
+      <equation id="id255904">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:msubsup>
+              <m:mrow/>
+              <m:mn>26</m:mn>
+              <m:mn>56</m:mn>
+            </m:msubsup>
+            <m:mi mathvariant="normal"> Fe </m:mi>
+            <m:mspace width="4pt"/>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id255929">where the atomic number is <m:math overflow="scroll"><m:mrow><m:mi>Z</m:mi><m:mo>=</m:mo><m:mn>26</m:mn></m:mrow></m:math><space/> and the mass number <m:math overflow="scroll"><m:mrow><m:mi>A</m:mi><m:mo>=</m:mo><m:mn>56</m:mn></m:mrow></m:math>.
+The number of neutrons is simply the difference <m:math overflow="scroll"><m:mrow><m:mi>N</m:mi><m:mo>=</m:mo><m:mi>A</m:mi><m:mo>-</m:mo><m:mi>Z</m:mi></m:mrow></m:math>.</para>
+        <para id="id257512">The following worked examples will help you to understand the concept of an isotope better.</para>
+<exercise id="secfhsst_id400"><title> Isotopes  </title>
+        <problem id="probfhsst_id401">
+        <para id="id257529">For the element <m:math overflow="scroll"><m:mrow><m:msubsup><m:mrow/><m:mn>92</m:mn><m:mn>234</m:mn></m:msubsup><m:mi mathvariant="normal">U</m:mi></m:mrow></m:math> (uranium), use standard notation to describe:</para>
+        <list id="id257558" display="block" list-type="enumerated">
+          <item id="uid41">the isotope with 2 fewer neutrons
+</item>
+          <item id="uid42">the isotope with 4 more neutrons
+</item>
+        </list>
+        
+        </problem>
+        <solution id="solfhsst_id411"> <list id="listfhsst_id411" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Go over the definition of isotope </label>
+        <para id="id257607">We know that isotopes of any element have the <emphasis effect="bold">same</emphasis> number
+of protons (same atomic number)
+in each atom, which means that they have the same chemical symbol. However, they have a different number of neutrons, and therefore a different mass number.</para>
+        
+        </item>
+        <item> <label> Rewrite the notation for the isotopes </label>
+        <para id="id257640">Therefore, any isotope of uranium will have the symbol:</para>
+        <equation id="id257644">
+          <m:math overflow="scroll" mode="display">
+            <m:mi mathvariant="normal">U</m:mi>
+          </m:math>
+        </equation>
+        <para id="id257657">Also, since the number of protons in uranium isotopes is always the same, we can write
+down the atomic number:</para>
+        <equation id="id257664">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:msub>
+                <m:mrow/>
+                <m:mn>92</m:mn>
+              </m:msub>
+              <m:mi mathvariant="normal">U</m:mi>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id257684">Now, if the isotope we want has 2 fewer neutrons than <m:math overflow="scroll"><m:mrow><m:msubsup><m:mrow/><m:mn>92</m:mn><m:mn>234</m:mn></m:msubsup><m:mi mathvariant="normal">U</m:mi></m:mrow></m:math>,
+then we take the original mass number and subtract 2, which gives:</para>
+        <equation id="id257713">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:msubsup>
+                <m:mrow/>
+                <m:mn>92</m:mn>
+                <m:mn>232</m:mn>
+              </m:msubsup>
+              <m:mi mathvariant="normal">U</m:mi>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id257736">Following the steps above, we can write the isotope with 4 more neutrons as:</para>
+        <equation id="id257740">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:msubsup>
+                <m:mrow/>
+                <m:mn>92</m:mn>
+                <m:mn>238</m:mn>
+              </m:msubsup>
+              <m:mi mathvariant="normal">U</m:mi>
+            </m:mrow>
+          </m:math>
+        </equation>
+ </item></list> </solution>
+</exercise>
+<exercise id="secfhsst_id466"><title> Isotopes </title>
+        <problem id="probfhsst_id467">
+        <para id="id257776">Which of the following are isotopes of <m:math overflow="scroll"><m:mrow><m:msubsup><m:mrow/><m:mn>20</m:mn><m:mn>40</m:mn></m:msubsup><m:mi> Ca </m:mi></m:mrow></m:math>?</para>
+        <list id="id257802" display="block" list-type="bulleted">
+          <item id="uid43">
+            <m:math overflow="scroll">
+              <m:mrow>
+                <m:msubsup>
+                  <m:mrow/>
+                  <m:mn>19</m:mn>
+                  <m:mn>40</m:mn>
+                </m:msubsup>
+                <m:mi mathvariant="normal">K</m:mi>
+              </m:mrow>
+            </m:math>
+          </item>
+          <item id="uid44">
+            <m:math overflow="scroll">
+              <m:mrow>
+                <m:msubsup>
+                  <m:mrow/>
+                  <m:mn>20</m:mn>
+                  <m:mn>42</m:mn>
+                </m:msubsup>
+                <m:mi> Ca </m:mi>
+              </m:mrow>
+            </m:math>
+          </item>
+          <item id="uid45">
+            <m:math overflow="scroll">
+              <m:mrow>
+                <m:msubsup>
+                  <m:mrow/>
+                  <m:mn>18</m:mn>
+                  <m:mn>40</m:mn>
+                </m:msubsup>
+                <m:mi> Ar </m:mi>
+              </m:mrow>
+            </m:math>
+          </item>
+        </list>
+        
+        </problem>
+        <solution id="solfhsst_id509"> <list id="listfhsst_id509" list-type="enumerated" number-style="arabic" class="stepwise">
+         <item> <label> Go over the definition of isotope: </label>
+        <para id="id257917">We know that isotopes have the same atomic number but different mass numbers.</para>
+        
+        </item> 
+        <item> <label> Determine which of the elements listed fits the definition of an isotope. </label>
+        <para id="id257943">You need to look for the element that has the same atomic number but a different atomic mass number. The only element is <m:math overflow="scroll"><m:msubsup><m:mrow/><m:mn>20</m:mn><m:mn>42</m:mn></m:msubsup><m:mi>Ca</m:mi></m:math>. What is different is that there are 2 more neutrons than in the original element.</para>
+</item>
+</list> </solution>
+</exercise>
+<exercise id="secfhsst_id517"><title> Isotopes </title>
+        <problem id="probfhsst_id518">
+        <para id="id257977">For the sulphur isotope <m:math overflow="scroll"><m:msubsup><m:mrow/><m:mn>16</m:mn><m:mn>33</m:mn></m:msubsup><m:mi mathvariant="normal">S</m:mi></m:math>, give the number of...</para>
+        <list id="id258000" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid46">protons
+</item>
+          <item id="uid47">nucleons
+</item>
+          <item id="uid48">electrons
+</item>
+          <item id="uid49">neutrons
+</item>
+        </list>
+        
+        </problem>
+        <solution id="solfhsst_id532"> <list id="listfhsst_id532" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Determine the number of protons by looking at the atomic number, Z. </label>
+        <para id="id258074"><m:math><m:mi>Z</m:mi><m:mo>=</m:mo><m:mn>16</m:mn></m:math>, therefore the number of protons is 16 (answer to (a)).
+ </para>
+        </item> 
+        <item> <label> Determine the number of nucleons by looking at the atomic mass number, A. </label>
+        <para id="id258094"><m:math><m:mi>A</m:mi><m:mo>=</m:mo><m:mn>33</m:mn></m:math>, therefore the number of nucleons is 33 (answer to (b)).</para>
+        </item> <item> <label> Determine the number of electrons </label>
+        <para id="id258102">The atom is neutral, and therefore the number of electrons is the same as the number of protons. The number of electrons is 16 (answer to (c)).</para>
+        </item> <item> <label> Calculate the number of neutrons </label>
+        <equation id="id258110">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mi>N</m:mi>
+                    <m:mo>=</m:mo>
+                    <m:mi>A</m:mi>
+                    <m:mo>-</m:mo>
+                    <m:mi>Z</m:mi>
+                    <m:mo>=</m:mo>
+                    <m:mn>33</m:mn>
+                    <m:mo>-</m:mo>
+                    <m:mn>16</m:mn>
+                    <m:mo>=</m:mo>
+                    <m:mn>17</m:mn>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id258151">The number of neutrons is 17 (answer to (d)).</para>
+</item></list> </solution>
+</exercise>
+<section id="secfhsst_id567"><title> Isotopes </title>
+        <list id="id258162" display="block" list-type="enumerated"><item id="uid50">Atom A has 5 protons and 5 neutrons, and atom B has 6 protons and 5 neutrons. These atoms are...
+<list id="id258178" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid51">allotropes
+</item><item id="uid52">isotopes
+</item><item id="uid53">isomers
+</item><item id="uid54">atoms of different elements
+</item></list><link window="new" class="fullmarks" url="http://www.fhsst.org/ll4">Click here for the solution</link></item>
+          <item id="uid55">For the sulphur isotopes, <m:math overflow="scroll"><m:msubsup><m:mrow/><m:mn>16</m:mn><m:mn>32</m:mn></m:msubsup><m:mi mathvariant="normal">S</m:mi></m:math> and <m:math overflow="scroll"><m:msubsup><m:mrow/><m:mn>16</m:mn><m:mn>34</m:mn></m:msubsup><m:mi mathvariant="normal">S</m:mi></m:math>, give the number of...
+<list id="id258277" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid56">protons
+</item><item id="uid57">nucleons
+</item><item id="uid58">electrons
+</item><item id="uid59">neutrons
+</item></list><link window="new" class="fullmarks" url="http://www.fhsst.org/llZ">Click here for the solution</link></item>
+          <item id="uid60">Which of the following are isotopes of <m:math overflow="scroll"><m:msubsup><m:mrow/><m:mn>17</m:mn><m:mn>35</m:mn></m:msubsup><m:mi mathvariant="normal">Cl</m:mi></m:math>?
+<list id="id258355" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid61"><m:math overflow="scroll"><m:msubsup><m:mrow/><m:mn>35</m:mn><m:mn>17</m:mn></m:msubsup><m:mi mathvariant="normal">Cl</m:mi></m:math>
+</item><item id="uid62"><m:math overflow="scroll"><m:msubsup><m:mrow/><m:mn>17</m:mn><m:mn>35</m:mn></m:msubsup><m:mi mathvariant="normal">Cl</m:mi></m:math>
+</item><item id="uid63"><m:math overflow="scroll"><m:msubsup><m:mrow/><m:mn>17</m:mn><m:mn>37</m:mn></m:msubsup><m:mi mathvariant="normal">Cl</m:mi></m:math>
+</item></list><link window="new" class="fullmarks" url="http://www.fhsst.org/llW">Click here for the solution</link></item>
+          <item id="uid64">Which of the following are isotopes of <m:math><m:mi>U-</m:mi><m:mn>235</m:mn></m:math>? (X represents an element symbol)
+<list id="id258452" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid65"><m:math overflow="scroll"><m:msubsup><m:mrow/><m:mn>92</m:mn><m:mn>238</m:mn></m:msubsup><m:mi mathvariant="normal">X</m:mi></m:math>
+</item><item id="uid66"><m:math overflow="scroll"><m:msubsup><m:mrow/><m:mn>90</m:mn><m:mn>238</m:mn></m:msubsup><m:mi mathvariant="normal">X</m:mi></m:math>
+</item><item id="uid67"><m:math overflow="scroll"><m:msubsup><m:mrow/><m:mn>92</m:mn><m:mn>235</m:mn></m:msubsup><m:mi mathvariant="normal">X</m:mi></m:math>
+</item></list><link window="new" class="fullmarks" url="http://www.fhsst.org/llD">Click here for the solution</link></item>
+        </list>
+        
+</section>
+      </section>
+      <section id="uid68"><title>Relative atomic mass</title><para id="id258557">It is important to realise that the atomic mass of isotopes of the same element will be different because they have a different number of nucleons. Chlorine, for example, has two common isotopes which are chlorine-35 and chlorine-37. Chlorine-35 has an atomic mass of 35 u, while chlorine-37 has an atomic mass of 37 u. In the world around us, both of these isotopes occur naturally. It doesn't make sense to say that the element chlorine has an atomic mass of 35 u, or that it has an atomic mass of 37 u. Neither of these are absolutely true since the mass varies depending on the form in which the element occurs. We need to look at how much more common one is than the other in order to calculate the <emphasis effect="bold">relative atomic mass</emphasis> for the element chlorine. This is the number that you find on the Periodic Table.</para>
+
+<note id="eip-828"><title>Interesting fact</title><para id="id97421">The relative atomic mass of some elements depends on where on Earth the element is found. This is because the isotopes can be found in varying ratios depending on certain factors such as geological composition, etc. The International Union of Pure and Applied Chemistry (IUPAC) has decided to give the relative atomic mass of some elements as a range to better represent the varying isotope ratios on the Earth. For the calculations that you will do at high school, it is enough to simply use one number without worrying about these ranges.</para></note><exercise id="secfhsst_id602"><title> The relative atomic mass of an isotopic element </title>
+        <problem id="probfhsst_id603">
+        <para id="id258606">The element chlorine has two isotopes, chlorine-35 and chlorine-37. The abundance of these isotopes when they occur naturally is 75% chlorine-35 and 25% chlorine-37. Calculate the <emphasis effect="italics">average</emphasis> relative atomic mass for chlorine.
+ </para>
+        </problem>
+        <solution id="solfhsst_id607"> <list id="listfhsst_id607" list-type="enumerated" number-style="arabic" class="stepwise"><item> <label> Calculate the mass contribution of chlorine-35 to the average relative atomic mass </label>
+        <para id="id258637">Contribution of <m:math><m:mi>Cl-</m:mi><m:mn>35</m:mn><m:mo>=</m:mo><m:mo>(</m:mo><m:mfrac><m:mn>75</m:mn><m:mn>100</m:mn></m:mfrac><m:mo>×</m:mo><m:mn>35</m:mn><m:mo>)</m:mo><m:mo>=</m:mo><m:mn>26</m:mn><m:mo>,</m:mo><m:mn>25</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">u</m:mi></m:math>
+ </para>
+        </item> 
+        <item> <label> Calculate the contribution of chlorine-37 to the average relative atomic mass </label>
+        <para id="id258657">Contribution of <m:math><m:mi>Cl-</m:mi><m:mn>37</m:mn><m:mo>=</m:mo><m:mo>(</m:mo><m:mfrac><m:mn>25</m:mn><m:mn>100</m:mn></m:mfrac><m:mo>×</m:mo><m:mn>37</m:mn><m:mo>)</m:mo><m:mo>=</m:mo><m:mn>9</m:mn><m:mo>,</m:mo><m:mn>25</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">u</m:mi></m:math></para>
+        </item> <item> <label> Add the two values to arrive at the <emphasis effect="italics">average relative atomic mass</emphasis> of chlorine </label>
+        <para id="id258670"><m:math><m:mi>Relative atomic mass of chlorine</m:mi><m:mo>=</m:mo><m:mn>26</m:mn><m:mo>,</m:mo><m:mn>25</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">u</m:mi><m:mo>+</m:mo><m:mn>9</m:mn><m:mo>,</m:mo><m:mn>25</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">u</m:mi><m:mo>=</m:mo><m:mn>35</m:mn><m:mo>,</m:mo><m:mn>5</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">u</m:mi></m:math></para>
+        <para id="id258674">If you look on the periodic table, the average relative atomic mass for chlorine is <m:math><m:mn>35</m:mn><m:mo>,</m:mo><m:mn>5</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">u</m:mi></m:math>. You will notice that for many elements, the relative atomic mass that is shown is not a whole number. You should now understand that this number is the <emphasis effect="italics">average</emphasis> relative atomic mass for those elements that have naturally occurring isotopes.</para>
+</item></list> </solution>
+</exercise>
+<para id="eip-819">This simulation allows you to see how isotopes and relative atomic mass are inter related.
+<figure id="id7972"><media id="id7942" alt="">
+<image mime-type="image/png" src="../../media/isotope.png" id="id63458_onlineimage" width="350"><!-- NOTE: attribute width changes image size online (pixels). original width is 	350. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/isotope.eps" id="id63458_printimage"/>
+</media>
+</figure>
+<link class="phetsim" window="new" url="http://phet.colorado.edu/sims/build-an-atom/isotopes-and-atomic-mass_en.jnlp">run demo</link></para><section id="secfhsst_id618"><title> Isotopes </title>
+        
+        <list id="id258699" display="block" list-type="enumerated"><item id="uid69">Complete the table below:
+<table id="id258715" summary=""><tgroup cols="6"><tbody><row><entry><emphasis effect="bold">Isotope</emphasis></entry><entry><emphasis effect="bold">Z</emphasis></entry><entry><emphasis effect="bold">A</emphasis></entry><entry><emphasis effect="bold">Protons</emphasis></entry><entry><emphasis effect="bold">Neutrons</emphasis></entry><entry><emphasis effect="bold">Electrons</emphasis></entry></row><row><entry>Carbon-12</entry><entry/><entry/><entry/><entry/><entry/></row><row><entry>Carbon-14</entry><entry/><entry/><entry/><entry/><entry/></row><row><entry>Chlorine-35</entry><entry/><entry/><entry/><entry/><entry/></row><row><entry>Chlorine-37</entry><entry/><entry/><entry/><entry/><entry/></row></tbody></tgroup></table><link window="new" class="fullmarks" url="http://www.fhsst.org/llj">Click here for the solution</link></item>
+<item id="uid70">If a sample contains 90% carbon-12 and 10% carbon-14, calculate the relative atomic mass of an atom in that sample.
+<space/><link window="new" class="fullmarks" url="http://www.fhsst.org/llb">Click here for the solution</link></item><item id="uid71">If a sample contains 22,5% Cl-37 and 77,5% Cl-35, calculate the relative atomic mass of an atom in that sample.<space/><link window="new" class="fullmarks" url="http://www.fhsst.org/llT">Click here for the solution</link>
+</item>
+        </list>
+        
+</section>
+
+      </section>
+    </section>
+
+  </content>
+</document>

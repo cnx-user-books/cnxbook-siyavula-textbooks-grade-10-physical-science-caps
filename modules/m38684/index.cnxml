@@ -1,0 +1,125 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Ionic bonding</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38684</md:content-id>
+  <md:title>Ionic bonding</md:title>
+  <md:abstract/>
+  <md:uuid>a1fb5520-d6b1-4d4c-9cb0-59905b04ec12</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid8">
+      <title>Ionic Bonding</title>
+      <section id="uid54">
+        <title>The nature of the ionic bond</title>
+        <para id="id142190">You will remember that when atoms bond, electrons are either <emphasis effect="italics">shared</emphasis> or they are <emphasis effect="italics">transferred</emphasis> between the atoms that are bonding. In covalent bonding, electrons are shared between the atoms. There is another type of bonding, where electrons are <emphasis effect="italics">transferred</emphasis> from one atom to another. This is called <emphasis effect="bold">ionic bonding</emphasis>.</para>
+        <para id="id142218">Ionic bonding takes place when the difference in electronegativity between the two atoms is more than 1,7. This usually happens when a metal atom bonds with a non-metal atom. When the difference in electronegativity is large, one atom will attract the shared electron pair much more strongly than the other, causing electrons to be transferred from one atom to the other.</para>
+<definition id="fhsst_id456"><term id="termfhsst_id456"> Ionic bond </term> <meaning id="meaningfhsst_id456">
+        An ionic bond is a type of chemical bond based on the electrostatic forces between two oppositely-charged ions. When ionic bonds form, a metal donates one or more electrons, due to having a low electronegativity, to form a positive ion or cation. The non-metal atom has a high electronegativity, and therefore readily gains electrons to form a negative ion or anion. The two ions are then attracted to each other by electrostatic forces.
+ 
+        </meaning></definition>
+        <para id="id142248">
+          <emphasis effect="bold">Example 1:</emphasis>
+        </para>
+        <para id="id142255">In the case of <m:math><m:mi mathvariant="normal">NaCl</m:mi></m:math>, the difference in electronegativity is 2,1. Sodium has only one valence electron, while chlorine has seven. Because the electronegativity of chlorine is higher than the electronegativity of sodium, chlorine will attract the valence electron of the sodium atom very strongly. This electron from sodium is transferred to chlorine. Sodium loses an electron and forms an <m:math overflow="scroll"><m:mrow><m:msup><m:mi mathvariant="normal">Na</m:mi><m:mo>+</m:mo></m:msup></m:mrow></m:math> ion. Chlorine gains an electron and forms an <m:math overflow="scroll"><m:mrow><m:msup><m:mi>Cl</m:mi><m:mo>-</m:mo></m:msup></m:mrow></m:math> ion. The attractive force between the positive and negative ion holds the molecule together.</para>
+        <para id="id142300">The balanced equation for the reaction is:</para>
+        <equation id="id142305"><m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi mathvariant="normal">Na</m:mi>
+              <m:mo>+</m:mo>
+              <m:mi mathvariant="normal">Cl</m:mi>
+              <m:mo>→</m:mo>
+              <m:mi mathvariant="normal">NaCl</m:mi>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id142337">This can be represented using Lewis notation:</para>
+        <figure id="uid55"><media id="uid55_media" alt="">
+            <image mime-type="image/png" src="../../media/CG11C1_019.png" id="uid55_onlineimage" width="273"><!-- NOTE: attribute width changes image size online (pixels). original width is 243. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG11C1_019.eps" id="uid55_printimage"/>
+          </media>
+          
+        <caption>Ionic bonding in sodium chloride</caption></figure>
+        <para id="id142353">
+          <emphasis effect="bold">Example 2:</emphasis>
+        </para>
+        <para id="id142360">Another example of ionic bonding takes place between magnesium (<m:math><m:mi mathvariant="normal">Mg</m:mi></m:math>) and oxygen (<m:math><m:mi mathvariant="normal">O</m:mi></m:math>) to form magnesium oxide (<m:math><m:mi mathvariant="normal">MgO</m:mi></m:math>). Magnesium has two valence electrons and an electronegativity of 1,2, while oxygen has six valence electrons and an electronegativity of 3,5. Since oxygen has a higher electronegativity, it attracts the two valence electrons from the magnesium atom and these electrons are transferred from the magnesium atom to the oxygen atom. Magnesium loses two electrons to form <m:math overflow="scroll"><m:mrow><m:msup><m:mi mathvariant="normal">Mg</m:mi><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup></m:mrow></m:math>, and oxygen gains two electrons to form <m:math overflow="scroll"><m:msup><m:mi mathvariant="normal">O</m:mi><m:mrow><m:mn>2</m:mn><m:mo>-</m:mo></m:mrow></m:msup></m:math>. The attractive force between the oppositely charged ions is what holds the molecule together.</para>
+        <para id="id138529">The balanced equation for the reaction is:</para>
+        <equation id="id138535"><m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mn>2</m:mn>
+              <m:mi mathvariant="normal">Mg</m:mi>
+              <m:mo>+</m:mo>
+              <m:msub>
+                <m:mi mathvariant="normal">O</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mo>→</m:mo>
+              <m:mn>2</m:mn>
+              <m:mi mathvariant="normal">MgO</m:mi>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id142521">Because oxygen is a diatomic molecule, two magnesium atoms will be needed to combine with one oxygen molecule (which has two oxygen atoms) to produce two molecules of magnesium oxide (<m:math overflow="scroll"><m:mi mathvariant="normal">MgO</m:mi></m:math>).</para>
+        <figure id="uid56"><media id="uid56_media" alt="">
+            <image mime-type="image/png" src="../../media/CG11C1_020.png" id="uid56_onlineimage" width="296"><!-- NOTE: attribute width changes image size online (pixels). original width is 266. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG11C1_020.eps" id="uid56_printimage"/>
+          </media>
+          
+        <caption>Ionic bonding in magnesium oxide</caption></figure>
+<note id="notfhsst_id521" type="tip">Notice that the number of electrons that is either lost or gained by an atom during ionic bonding, is the same as the <emphasis effect="bold">valency</emphasis> of that element</note>
+<section id="secfhsst_id522"><title> Ionic compounds
+        </title>
+        <list id="id142562" display="block" list-type="enumerated"><item id="uid57">Explain the difference between a <emphasis effect="italics">covalent</emphasis> and an <emphasis effect="italics">ionic</emphasis> bond.<newline/><link window="new" class="fullmarks" url="http://www.fhsst.org/lOq">Click here for the 	solution</link>
+</item>
+          <item id="uid58">Magnesium and chlorine react to form magnesium chloride.
+<list id="id142602" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid59">What is the difference in electronegativity between these two elements?
+</item><item id="uid60">Give the chemical formula for:
+<list id="id142630" display="block" list-type="enumerated" number-style="lower-roman"><item id="uid61">a magnesium ion
+</item><item id="uid62">a chloride ion
+</item><item id="uid63">the ionic compound that is produced during this reaction
+</item></list></item><item id="uid64">Write a balanced chemical equation for the reaction that takes place.
+</item></list><link window="new" class="fullmarks" resource="http://www.fhsst.org/lOl">Click here for the 	solution</link></item>
+          <item id="uid65">Draw Lewis diagrams to represent the following ionic compounds:
+<list id="id142697" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid66">sodium iodide (<m:math><m:mi mathvariant="normal">NaI</m:mi></m:math>)
+</item><item id="uid67">calcium bromide (<m:math overflow="scroll"><m:mi mathvariant="normal">CaBr</m:mi><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>)
+</item><item id="uid68">potassium chloride (<m:math><m:mi mathvariant="normal">KCl</m:mi></m:math>)
+</item></list><link window="new" class="fullmarks" resource="http://www.fhsst.org/lOi">Click here for the 	solution</link></item>
+        </list>
+        
+</section>
+      </section>
+      <section id="uid69">
+        <title>The crystal lattice structure of ionic compounds</title>
+        <para id="id142771">Ionic substances are actually a combination of lots of ions bonded
+together into a giant molecule. The arrangement of ions in a regular,
+geometric structure is called a <emphasis effect="bold">crystal lattice</emphasis>. So in
+fact <m:math><m:mi mathvariant="normal">NaCl</m:mi></m:math> does not contain one <m:math><m:mi mathvariant="normal">Na</m:mi></m:math> and one <m:math><m:mi mathvariant="normal">Cl</m:mi></m:math> ion, but rather a lot of
+these two ions arranged in a crystal lattice where the ratio of <m:math><m:mi mathvariant="normal">Na</m:mi></m:math> to
+<m:math><m:mi mathvariant="normal">Cl</m:mi></m:math> ions is 1:1. The structure of a crystal lattice is shown in <link target-id="uid70"/>.</para>
+        <figure id="uid70"><media id="uid70_media" alt="">
+            <image mime-type="image/png" src="../../media/CG11C1_021.png" id="uid70_onlineimage" width="610"><!-- NOTE: attribute width changes image size online (pixels). original width is 610. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG11C1_021.eps" id="uid70_printimage"/>
+          </media>
+          
+        <caption>The crystal lattice arrangement in an ionic compound (e.g. <m:math><m:mi mathvariant="normal">NaCl</m:mi></m:math>)</caption></figure>
+      </section>
+      <section id="uid71">
+        <title>Properties of Ionic Compounds</title>
+        <para id="id142811">Ionic compounds have a number of properties:</para>
+        <list id="id142815" display="block" list-type="bulleted">
+          <item id="uid72">Ions are arranged in a lattice structure
+</item>
+          <item id="uid73">Ionic solids are crystalline at room temperature
+</item>
+          <item id="uid74">The ionic bond is a strong electrical attraction. This means that ionic compounds are often hard and have high melting and boiling points
+</item>
+          <item id="uid75">Ionic compounds are brittle, and bonds are broken along planes when the compound is stressed
+</item>
+          <item id="uid76">Solid crystals don't conduct electricity, but ionic solutions do
+</item>
+        </list>
+      </section>
+    </section>
+  </content>
+</document>

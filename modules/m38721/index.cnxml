@@ -1,0 +1,70 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38721</md:content-id>
+  <md:title>Introduction</md:title>
+  <md:abstract/>
+  <md:uuid>26681e43-00a4-4fc9-8232-94cd73ad4c6e</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid1">
+
+      <title>Introduction</title><para id="id62175">As we have already mentioned, a number of changes can occur when elements react with one another. These changes may either be <emphasis effect="italics">physical</emphasis> or <emphasis effect="italics">chemical</emphasis>. One way of representing these changes is through <emphasis effect="bold">balanced chemical equations</emphasis>. A chemical equation describes a chemical reaction by using symbols for the elements involved. For example, if we look at the reaction between iron (<m:math><m:mi mathvariant="normal">Fe</m:mi></m:math>) and sulphur (<m:math><m:mi mathvariant="normal">S</m:mi></m:math>) to form iron sulphide (<m:math><m:mi mathvariant="normal">FeS</m:mi></m:math>), we could represent these changes either in words or using chemical symbols:</para>
+      <para id="id62197"><m:math overflow="scroll"><m:mi>iron</m:mi><m:mo>+</m:mo><m:mi>sulphur</m:mi><m:mo>→</m:mo><m:mi>iron sulphide</m:mi></m:math></para>
+      <para id="id62550">or</para>
+      <para id="id62555">
+        <m:math><m:mi>Fe</m:mi><m:mo>+</m:mo><m:mi mathvariant="normal">S</m:mi><m:mo>→</m:mo><m:mi>FeS</m:mi></m:math>
+      </para>
+      <para id="id62582">Another example would be:</para>
+      <para id="id62585"><m:math overflow="scroll"><m:mi>ammonia</m:mi><m:mo>+</m:mo><m:mi>oxygen</m:mi><m:mo>→</m:mo><m:mi>nitric oxide</m:mi><m:mo>+</m:mo><m:mi>water</m:mi></m:math></para>
+      <para id="id62598">or</para>
+      <para id="id62603"><m:math><m:mn>4</m:mn><m:msub><m:mi>NH</m:mi><m:mn>3</m:mn></m:msub><m:mo>+</m:mo><m:mn>5</m:mn><m:msub><m:mi mathvariant="normal">O</m:mi><m:mn>2</m:mn></m:msub>
+            <m:mo>→</m:mo>
+            <m:mn>4</m:mn><m:mi>NO</m:mi><m:mo>+</m:mo><m:mn>6</m:mn><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi></m:math>
+      </para>
+      <para id="id62659">Compounds on the left of the arrow are called the <emphasis effect="bold">reactants</emphasis> and these are needed for the reaction to take place. In this equation, the reactants are ammonia and oxygen. The compounds on the right are called the <emphasis effect="bold">products</emphasis> and these are what is formed from the reaction.</para>
+      <para id="id62675">In order to be able to write a balanced chemical equation, there are a number of important things that need to be done:</para>
+      <list id="id62681" display="block" list-type="enumerated">
+        <item id="uid1">Know the chemical symbols for the elements involved in the reaction
+</item>
+        <item id="uid2">Be able to write the chemical formulae for different reactants and products
+</item>
+        <item id="uid3">Balance chemical equations by understanding the laws that govern chemical change
+</item>
+        <item id="uid4">Know the state symbols for the equation
+</item>
+      </list>
+      <para id="id62733">We will look at each of these steps separately in the next sections.</para>
+    </section>
+    <section id="cid2">
+      <title>Chemical symbols</title>
+      <para id="id62746">It is very important to know the chemical symbols for common elements in the Periodic Table, so that you are able to write chemical equations and to recognise different compounds.</para>
+<section id="secfhsst_id109"><title> Revising common chemical symbols
+      </title>
+      <list id="id62763" display="block" list-type="bulleted">
+        <item id="uid5">Write down the chemical symbols and names of all the elements that you know.
+</item>
+        <item id="uid6">Compare your list with another learner and add any symbols and names that you don't have.
+</item>
+        <item id="uid7">Spend some time, either in class or at home, learning the symbols for at least the first twenty elements in the periodic table. You should also learn the symbols for other common elements that are not in the first twenty.
+</item>
+        <item id="uid8">Write a short test for someone else in the class and then exchange tests with them so that you each have the chance to answer one.
+</item>
+      </list>
+      
+</section>
+    </section>
+    <section id="cid3">
+      <title>Writing chemical formulae</title>
+      <para id="id62835">A <emphasis effect="bold">chemical formula</emphasis> is a concise way of giving information about the atoms that make up a particular chemical compound. A chemical formula shows each element by its symbol and also shows how many atoms of each element are found in that compound. The number of atoms (if greater than one) is shown as a subscript.</para>
+      <para id="id62111">
+        <title>Examples:</title><emphasis effect="bold"><m:math overflow="scroll"><m:msub><m:mi>CH</m:mi><m:mn>4</m:mn></m:msub></m:math></emphasis> (methane)</para>
+      <para id="id63054">Number of atoms: <m:math overflow="scroll"><m:mo>(</m:mo><m:mn>1</m:mn><m:mo>×</m:mo><m:mi>carbon</m:mi><m:mo>)</m:mo><m:mo>+</m:mo><m:mo>(</m:mo><m:mn>4</m:mn><m:mo>×</m:mo><m:mi>hydrogen</m:mi><m:mo>)</m:mo><m:mo>=</m:mo><m:mn>5</m:mn></m:math> atoms in one methane molecule</para>
+      <para id="id63058"><emphasis effect="bold"><m:math overflow="scroll"><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi>SO</m:mi><m:mn>4</m:mn></m:msub></m:math></emphasis> (sulphuric acid)</para>
+      <para id="id63091">Number of atoms: <m:math overflow="scroll"><m:mo>(</m:mo><m:mn>2</m:mn><m:mo>×</m:mo><m:mi>hydrogen</m:mi><m:mo>)</m:mo><m:mo>+</m:mo><m:mo>(</m:mo><m:mn>1</m:mn><m:mo>×</m:mo><m:mi>sulphur</m:mi><m:mo>)</m:mo><m:mo>+</m:mo><m:mo>(</m:mo><m:mn>4</m:mn><m:mo>×</m:mo><m:mi>oxygen</m:mi><m:mo>)</m:mo><m:mo>=</m:mo><m:mn>7</m:mn></m:math> atoms in one molecule of sulphuric acid</para>
+      <para id="id63095">A chemical formula may also give information about how the atoms are arranged in a molecule if it is written in a particular way. A molecule of ethane, for example, has the chemical formula <m:math overflow="scroll"><m:msub><m:mi mathvariant="normal">C</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>6</m:mn></m:msub></m:math>. This formula tells us how many atoms of each element are in the molecule, but doesn't tell us anything about how these atoms are arranged. In fact, each carbon atom in the ethane molecule is bonded to three hydrogen atoms. Another way of writing the formula for ethane is <m:math overflow="scroll"><m:msub><m:mi mathvariant="normal">CH</m:mi><m:mn>3</m:mn></m:msub><m:msub><m:mi mathvariant="normal">CH</m:mi><m:mn>3</m:mn></m:msub></m:math>. The number of atoms of each element has not changed, but this formula gives us more information about how the atoms are arranged in relation to each other.</para>
+      <para id="id63154">The slightly tricky part of writing chemical formulae comes when you have to work out the ratio in which the elements combine. For example, you may know that sodium (<m:math><m:mi mathvariant="normal">Na</m:mi></m:math>) and chlorine (<m:math><m:mi mathvariant="normal">Cl</m:mi></m:math>) react to form sodium chloride, but how do you know that in each molecule of sodium chloride there is only <emphasis effect="italics">one</emphasis> atom of sodium for every <emphasis effect="italics">one</emphasis> atom of chlorine? It all comes down to the <emphasis effect="bold">valency</emphasis> of an atom or group of atoms. Valency is the number of bonds that an element can form with another element. Working out the chemical formulae of chemical compounds using their valency, will be covered in Grade 11. For now, we will use formulae that you already know.</para>
+    </section>
+  </content>
+</document>

@@ -1,0 +1,279 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Conservation of matter</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38711</md:content-id>
+  <md:title>Conservation of matter</md:title>
+  <md:abstract/>
+  <md:uuid>0e32d3b8-3805-4682-8b0f-96a851243194</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid4">
+      <title>Energy changes in chemical reactions</title>
+      <para id="id64254">All reactions involve some change in energy. During a <emphasis effect="italics">physical</emphasis> change in matter, such as the evaporation of liquid water to water vapour, the energy of the water molecules increases. However, the change in energy is much smaller than in chemical reactions.</para>
+      <para id="id64265">When a chemical reaction occurs, some bonds will <emphasis effect="italics">break</emphasis>, while new bonds may <emphasis effect="italics">form</emphasis>. Energy changes in chemical reactions result from the breaking and forming of bonds. For bonds to <emphasis effect="italics">break</emphasis>, energy must be <emphasis effect="italics">absorbed</emphasis>. When new bonds <emphasis effect="italics">form</emphasis>, energy will be <emphasis effect="italics">released</emphasis> because the new product has a lower energy than the `in between' stage of the reaction when the bonds in the reactants have just been broken.</para>
+      <para id="id64305">In some reactions, the energy that must be <emphasis effect="italics">absorbed</emphasis> to break the bonds in the reactants is less than
+the total energy that is <emphasis effect="italics">released</emphasis> when new bonds are formed. This means that in the overall reaction, energy is <emphasis effect="italics">released</emphasis>. This type of reaction is known as an <emphasis effect="bold">exothermic</emphasis> reaction. In other reactions, the energy that must be <emphasis effect="italics">absorbed</emphasis> to break the bonds in the reactants is more than the total energy that is <emphasis effect="italics">released</emphasis> when new bonds are formed. This means that in the overall reaction, energy must be <emphasis effect="italics">absorbed</emphasis> from the surroundings. This type of reaction is known as an <emphasis effect="bold">endothermic</emphasis> reaction. Most decomposition reactions are endothermic and heating is needed for the reaction to occur. Most synthesis reactions are exothermic, meaning that energy is given off in the form of heat or light.</para>
+      <para id="id64360">More simply, we can describe the energy changes that take place during a chemical reaction as:</para>
+      <para id="id64364">
+        <emphasis effect="italics">Total energy absorbed to break bonds - Total energy released when new bonds form</emphasis>
+      </para>
+      <para id="id64371">So, for example, in the reaction...</para>
+      <para id="id64375"><m:math><m:mn>2</m:mn><m:mi mathvariant="normal">Mg</m:mi><m:mo>+</m:mo><m:msub><m:mi mathvariant="normal">O</m:mi><m:mn>2</m:mn></m:msub>
+            <m:mo>→</m:mo><m:mn>
+            2</m:mn><m:mi mathvariant="normal">MgO</m:mi></m:math>
+      </para>
+      <para id="id64411">Energy is needed to break the <m:math><m:mi mathvariant="normal">O</m:mi><m:mo>-</m:mo><m:mi mathvariant="normal">O</m:mi></m:math> bonds in the oxygen molecule so that new <m:math><m:mi mathvariant="normal">Mg</m:mi><m:mo>-</m:mo><m:mi mathvariant="normal">O</m:mi></m:math> bonds can be formed, and energy is released when the product (<m:math><m:mi mathvariant="normal">MgO</m:mi></m:math>) forms.</para>
+      <para id="id64416">Despite all the energy changes that seem to take place during reactions, it is important to remember that energy cannot be created or destroyed. Energy that enters a system will have come from the surrounding environment and energy that leaves a system will again become part of that environment. This is known as the <emphasis effect="bold">conservation of energy</emphasis> principle.</para>
+<definition id="fhsst_id409"><term id="termfhsst_id409"> Conservation of energy principle </term> <meaning id="meaningfhsst_id409">
+      Energy cannot be created or destroyed. It can only be changed from one form to another. 
+      </meaning></definition>
+      <para id="id64445">Chemical reactions may produce some very visible and often violent changes. An explosion, for example, is a sudden increase in volume and release of energy when high temperatures are generated and gases are released. For example, <m:math overflow="scroll"><m:mi mathvariant="normal">NH</m:mi><m:msub><m:mrow/><m:mn>4</m:mn></m:msub><m:msub><m:mi mathvariant="normal">NO</m:mi><m:mn>3</m:mn></m:msub></m:math> can be heated to generate nitrous oxide. Under these conditions, it is highly sensitive and can detonate easily in an explosive exothermic reaction.</para>
+    </section>
+    <section id="cid5">
+      <title>Conservation of atoms and mass in reactions</title>
+      <para id="id64489">The total mass of all the substances taking part in a chemical reaction is conserved during a chemical reaction. This is known as the <emphasis effect="bold">law of conservation of mass</emphasis>. The total number of <emphasis effect="bold">atoms</emphasis> of each element also remains the same during a reaction, although these may be arranged differently in the products.</para>
+      <para id="id64505">We will use two of our earlier examples of chemical reactions to demonstrate this:</para>
+      <para id="id64509">1. The decomposition of hydrogen peroxide into water and oxygen</para>
+      <para id="id64513"><m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mn>2</m:mn>
+              <m:msub>
+                <m:mi mathvariant="normal">H</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:msub>
+                <m:mi mathvariant="normal">O</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mo>→</m:mo>
+              <m:mn>2</m:mn>
+              <m:mi mathvariant="normal">H</m:mi><m:msub><m:mrow/><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi>
+<m:mo>+</m:mo>
+<m:msub>
+                <m:mi mathvariant="normal">O</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+            </m:mrow>
+          </m:math>
+
+      </para>
+      <para id="id64563">
+        <figure id="id64566">
+          <media id="id64566_media" alt="">
+            <image mime-type="image/png" src="../../media/CG10C4_007.png" id="id64566_onlineimage" width="415"><!-- NOTE: attribute width changes image size online (pixels). original width is 415. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG10C4_007.eps" id="id64566_printimage"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id64573">
+        <emphasis effect="italics">Left hand side of the equation</emphasis>
+      </para>
+      <para id="id64579"><m:math overflow="scroll"><m:mi>Total atomic mass</m:mi><m:mo>=</m:mo><m:mo>(</m:mo><m:mn>4</m:mn><m:mo>×</m:mo><m:mn>1</m:mn><m:mo>)</m:mo><m:mo>+</m:mo><m:mo>(</m:mo><m:mn>4</m:mn><m:mo>×</m:mo><m:mn>16</m:mn><m:mo>)</m:mo><m:mo>=</m:mo><m:mn>68</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">u</m:mi></m:math></para>
+      <para id="id64601"><m:math overflow="scroll"><m:mi>Number of atoms of each element</m:mi><m:mo>=</m:mo><m:mo>(</m:mo><m:mn>4</m:mn><m:mo>×</m:mo><m:mi mathvariant="normal">H</m:mi><m:mo>)</m:mo><m:mo>+</m:mo><m:mo>(</m:mo><m:mn>4</m:mn><m:mo>×</m:mo><m:mi mathvariant="normal">O</m:mi><m:mo>)</m:mo></m:math></para>
+      <para id="id64623">
+        <emphasis effect="italics">Right hand side of the equation</emphasis>
+      </para>
+      <para id="id64630"><m:math overflow="scroll"><m:mi>Total atomic mass</m:mi><m:mo>=</m:mo><m:mo>(</m:mo><m:mn>4</m:mn><m:mo>×</m:mo><m:mn>1</m:mn><m:mo>)</m:mo><m:mo>+</m:mo><m:mo>(</m:mo><m:mn>4</m:mn><m:mo>×</m:mo><m:mn>16</m:mn><m:mo>)</m:mo><m:mo>=</m:mo><m:mn>68</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">u</m:mi></m:math></para>
+      <para id="id64660"><m:math overflow="scroll"><m:mi>Number of atoms of each element</m:mi><m:mo>=</m:mo><m:mo>(</m:mo><m:mn>4</m:mn><m:mo>×</m:mo><m:mi mathvariant="normal">H</m:mi><m:mo>)</m:mo><m:mo>+</m:mo><m:mo>(</m:mo><m:mn>4</m:mn><m:mo>×</m:mo><m:mi mathvariant="normal">O</m:mi><m:mo>)</m:mo></m:math></para>
+      <para id="id64682">Both the atomic mass and the number of atoms of each element are conserved in the reaction.</para>
+      <para id="id64686">2. The synthesis of magnesium and oxygen to form magnesium oxide</para>
+      <equation id="eip-233"><m:math><m:mn>2</m:mn><m:mi mathvariant="normal">Mg</m:mi><m:mo>+</m:mo><m:msub><m:mi mathvariant="normal">O</m:mi><m:mn>2</m:mn></m:msub>
+            <m:mo>→</m:mo><m:mn>
+            2</m:mn><m:mi mathvariant="normal">MgO</m:mi></m:math></equation><para id="id64723">
+        <figure id="id64726">
+          <media id="id64726_media" alt="">
+            <image mime-type="image/png" src="../../media/CG10C4_008.png" id="id64726_onlineimage" width="633"><!-- NOTE: attribute width changes image size online (pixels). original width is 633. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG10C4_008.eps" id="id64726_printimage"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id64732">
+        <emphasis effect="italics">Left hand side of the equation</emphasis>
+      </para>
+      <para id="id64739"><m:math overflow="scroll"><m:mi>Total atomic mass</m:mi><m:mo>=</m:mo><m:mo>(</m:mo><m:mn>2</m:mn><m:mo>×</m:mo><m:mn>24</m:mn><m:mo>,</m:mo><m:mn>3</m:mn><m:mo>)</m:mo><m:mo>+</m:mo><m:mo>(</m:mo><m:mn>2</m:mn><m:mo>×</m:mo><m:mn>16</m:mn><m:mo>)</m:mo><m:mo>=</m:mo><m:mn>80</m:mn><m:mo>,</m:mo><m:mn>6</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">u</m:mi></m:math></para>
+      <para id="id64761"><m:math overflow="scroll"><m:mi>Number of atoms of each element</m:mi><m:mo>=</m:mo><m:mo>(</m:mo><m:mn>2</m:mn><m:mo>×</m:mo><m:mi mathvariant="normal">Mg</m:mi><m:mo>)</m:mo><m:mo>+</m:mo><m:mo>(</m:mo><m:mn>2</m:mn><m:mo>×</m:mo><m:mi mathvariant="normal">O</m:mi><m:mo>)</m:mo></m:math></para>
+      <para id="id64783">
+        <emphasis effect="italics">Right hand side of the equation</emphasis>
+      </para>
+      <para id="id64790"><m:math overflow="scroll"><m:mi>Total atomic mass</m:mi><m:mo>=</m:mo><m:mo>(</m:mo><m:mn>2</m:mn><m:mo>×</m:mo><m:mn>24</m:mn><m:mo>,</m:mo><m:mn>3</m:mn><m:mo>)</m:mo><m:mo>+</m:mo><m:mo>(</m:mo><m:mn>2</m:mn><m:mo>×</m:mo><m:mn>16</m:mn><m:mo>)</m:mo><m:mo>=</m:mo><m:mn>80</m:mn><m:mo>,</m:mo><m:mn>6</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">u</m:mi></m:math></para>
+      <para id="id64811"><m:math overflow="scroll"><m:mi>Number of atoms of each element</m:mi><m:mo>=</m:mo><m:mo>(</m:mo><m:mn>2</m:mn><m:mo>×</m:mo><m:mi mathvariant="normal">Mg</m:mi><m:mo>)</m:mo><m:mo>+</m:mo><m:mo>(</m:mo><m:mn>2</m:mn><m:mo>×</m:mo><m:mi mathvariant="normal">O</m:mi><m:mo>)</m:mo></m:math></para>
+      <para id="id64833">Both the atomic mass and the number of atoms of each element are conserved in the reaction.</para>
+<section id="secfhsst_id486"><title>Activity : The conservation of atoms in chemical reactions </title><para id="id64844">
+        <title>Materials:</title>
+      <list id="id64853" display="block" list-type="enumerated">
+        <item id="uid33">Coloured marbles or small balls to represent atoms. Each colour will represent a different element.
+</item>
+        <item id="uid34">Prestik
+</item>
+      </list></para>
+      <para id="id64882">
+        <title>Method:</title>
+      <list id="id64889" display="block" list-type="enumerated"><item id="uid35">Choose a reaction from any that have been used in this chapter or any other <emphasis effect="italics">balanced</emphasis> chemical reaction that you can think of. To help to explain this activity, we will use the decomposition reaction of calcium carbonate to produce carbon dioxide and calcium oxide.
+<m:math><m:msub><m:mi mathvariant="normal">CaCO</m:mi><m:mn>3</m:mn></m:msub><m:mo>→</m:mo><m:msub><m:mi mathvariant="normal">CO</m:mi><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mi mathvariant="normal">CaO</m:mi></m:math>
+</item>
+        <item id="uid36">Stick marbles together to represent the reactants and put these on one side of your table. In this example you may for example join one red marble (calcium), one green marble (carbon) and three yellow marbles (oxygen) together to form the molecule calcium carbonate (<m:math><m:msub><m:mi mathvariant="normal">CaCO</m:mi><m:mn>3</m:mn></m:msub></m:math>).
+</item>
+        <item id="uid37">Leaving your reactants on the table, use marbles to make the product molecules and place these on the other side of the table.
+</item>
+        <item id="uid38">Now count the number of atoms on each side of the table. What do you notice?
+</item>
+        <item id="uid39">Observe whether there is any difference between the molecules in the reactants and the molecules in the products.
+</item>
+      </list></para>
+      <para id="id65031">
+        <title>Discussion</title>
+     You should have noticed that the number of atoms in the reactants is the same as the number of atoms in the product. The number of atoms is conserved during the reaction. However, you will also see that the molecules in the reactants and products is not the same. The <emphasis effect="italics">arrangement of atoms</emphasis> is not conserved during the reaction.
+ </para>
+</section><section id="eip-14"><title>Experiment: Conservation of matter</title><para id="eip-453"><title>Aim:</title>
+To prove the law of conservation of matter experimentally.
+</para>
+<para id="eip792"><title>Materials:</title>
+Test tubes; glass beaker; lead (II) nitrate; sodium iodide; hydrochloric acid; bromothymol blue; Cal-C-Vita tablet, plastic bag; rubber band; mass meter 
+</para>
+<note id="eip-153" type="warning">Always be careful when handling chemicals (particularly strong acids like hydrochloric acid) as you can burn yourself badly. </note><para id="id72432"><title>Method:</title><emphasis effect="bold">Reaction 1</emphasis>
+<list id="id6342" list-type="enumerated" number-style="arabic"><item>Carefully weigh out 5 g of lead (II) nitrate.</item>
+<item>Dissolve the lead nitrate in 100 ml of water. </item>
+<item>Weigh the lead nitrate solution.</item>
+<item>Weigh out 4,5 g of sodium iodide and dissolve this in the lead (II) nitrate solution.</item>
+<item>Weigh the beaker containing the lead nitrate and sodium iodide mixture.</item>
+</list>
+<emphasis effect="bold">Reaction 2</emphasis>
+<list id="id63452" list-type="enumerated" number-style="arabic">
+<item>Measure out 20 ml of sodium hydroxide.</item>
+<item>Add a few drops of bromothymol blue to the sodium hydroxide.</item>
+<item>Weigh the sodium hydroxide.</item>
+<item>Weigh 5 ml of hydrochloric acid.</item>
+<item>Add 5 ml of hydrochloric acid to the sodium hydroxide. Repeat this step until you observe a colour change (this should occur around 20 ml).</item>
+<item>Weigh the final solution.</item>
+</list>
+<emphasis effect="bold">Reaction 3</emphasis>
+<list id="id634223" list-type="enumerated" number-style="arabic">
+<item>Measure out 100 ml of water into a beaker.</item>
+<item>Weigh the beaker with water in it.</item>
+<item>Place the Cal-C-Vita tablet into the plastic bag.</item>
+<item>Weigh the Cal-C-Vita tablet and the plastic bag.</item>
+<item>Place the plastic bag over the beaker, being careful to not let the tablet fall into the water</item>
+<item>Seal the bag around the beaker using the rubber band. Drop the tablet into the water.</item>
+<item>Observe what happens.</item>
+<item>Weigh the bag and beaker containing the solution.</item></list></para><para id="eip-768"><title>Results:</title>Fill in the following table for reactants (starting materials) and products (ending materials) masses. For the second reaction, you will simply take the mass of 5 ml of hydrochloric acid and multiply it by how many amounts you put in, for example, if you put 4 amounts in, then you would have 20 ml and 4 times the mass of 5 ml. </para><table id="eip-581" summary="results for experiment">
+<tgroup cols="4"><tbody>
+  <row>
+    <entry/>
+    <entry>Reaction 1</entry>
+    <entry>Reaction 2</entry>
+    <entry>Reaction 3</entry>
+  </row>
+  <row>
+    <entry>Reactants</entry>
+    <entry/>
+<entry/><entry/>
+  </row>
+<row>
+<entry>Products</entry>
+    <entry/>
+<entry/><entry/>
+</row>
+</tbody>
+
+
+</tgroup>
+</table><para id="eip-634">Add the masses for the reactants for each reaction. Do the same for the products. For each reaction compare the mass of the reactants to the mass of the products. What do you notice? Is the mass conserved?</para></section><para id="eip-65">In the experiment above you should have found that the mass at the start of the reaction is the same as the mass at the end of the reaction. You may have found that these masses differed slightly, but this is due to errors in measurements and in performing experiments (all scientists make some errors in performing experiments).  </para>
+    </section>
+    <section id="cid6">
+      <title>Law of constant composition</title>
+      <para id="id65065">In any given chemical compound, the elements always combine in the same proportion with each other. This is the <emphasis effect="bold">law of constant proportion</emphasis>.</para>
+      <para id="id65075">The <emphasis effect="bold">law of constant composition</emphasis> says that, in any particular chemical compound, all samples of that compound will be made up of the same elements in the same proportion or ratio. For example, any water molecule is always made up of two hydrogen atoms and one oxygen atom in a 2:1 ratio. If we look at the relative masses of oxygen and hydrogen in a water molecule, we see that 94% of the mass of a water molecule is accounted for by oxygen and the remaining 6% is the mass of hydrogen. This mass proportion will be the same for any water molecule.</para>
+      <para id="id65089">This does not mean that hydrogen and oxygen always combine in a 2:1 ratio to form <m:math overflow="scroll"><m:mi mathvariant="normal">H</m:mi><m:msub><m:mrow/><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi></m:math>. Multiple proportions are possible. For example, hydrogen and oxygen may combine in different proportions to form <m:math overflow="scroll"><m:mi mathvariant="normal">H</m:mi><m:msub><m:mrow/><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math> rather than <m:math overflow="scroll"><m:mi mathvariant="normal">H</m:mi><m:msub><m:mrow/><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi></m:math>. In <m:math overflow="scroll"><m:mi mathvariant="normal">H</m:mi><m:msub><m:mrow/><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>, the H:O ratio is 1:1 and the mass ratio of hydrogen to oxygen is 1:16. This will be the same for any molecule of hydrogen peroxide.</para>
+    </section>
+    <section id="cid7">
+      <title>Volume relationships in gases</title>
+      <para id="id65179">In a chemical reaction between gases, the relative volumes of the gases in the reaction are present in a ratio of small whole numbers if all the gases are at the same temperature and pressure. This relationship is also known as <emphasis effect="bold">Gay-Lussac's Law</emphasis>.</para>
+      <para id="id65189">For example, in the reaction between hydrogen and oxygen to produce water, two volumes of <m:math overflow="scroll"><m:mi mathvariant="normal">H</m:mi><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math> react with 1 volume of <m:math overflow="scroll"><m:mi mathvariant="normal">O</m:mi><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math> to produce 2 volumes of <m:math overflow="scroll"><m:mi mathvariant="normal">H</m:mi><m:msub><m:mrow/><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi></m:math>.</para>
+      <para id="id65237"><m:math overflow="scroll"><m:mn>2</m:mn><m:mi mathvariant="normal">H</m:mi><m:msub><m:mrow/><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mi mathvariant="normal">O</m:mi><m:msub><m:mrow/><m:mn>2</m:mn></m:msub><m:mo>→</m:mo><m:mn>2</m:mn><m:mi mathvariant="normal">H</m:mi><m:msub><m:mrow/><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi></m:math></para>
+      <para id="id65282">In the reaction to produce ammonia, one volume of nitrogen gas reacts with three volumes of hydrogen gas to produce two volumes of ammonia gas.</para>
+      <para id="id65286"><m:math overflow="scroll"><m:mi mathvariant="normal">N</m:mi><m:msub><m:mrow/><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mn>3</m:mn><m:mi mathvariant="normal">H</m:mi><m:msub><m:mrow/><m:mn>2</m:mn></m:msub><m:mo>→</m:mo><m:mn>2</m:mn><m:mi mathvariant="normal">NH</m:mi><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>
+
+      </para>
+      <para id="id65329">This relationship will also be true for all other chemical reactions.</para>
+    </section>
+    <section id="cid8">
+      <title>Summary</title>
+<para id="id972312">
+The following video provides a summary of the concepts covered in this chapter.
+<figure id="summary" class="youtubevideo">
+	  <title>Physical and chemical change</title>
+	  <media id="yt-media1" display="block" alt="video on physical and chemical change">
+	  <flash id="yt-video1" mime-type="application/x-shockwave-flash" src="http://www.youtube.com/v/QL7V3L3dfDM?fs=1&amp;amp;hl=en_US" width="480" height="385">
+	  <param name="allowscriptaccess" value="always"/>
+	  <param name="allowsfullscreen" value="true"/>
+	  </flash>
+	  </media>
+	  </figure>
+</para>
+      <list id="id65342" display="block" list-type="enumerated"><item id="uid40">Matter does not stay the same. It may undergo physical or chemical changes.
+</item>
+        <item id="uid41">A <emphasis effect="bold">physical change</emphasis> means that the form of matter may change, but not its identity. For example, when water evaporates, the energy and the arrangement of water molecules will change, but not the structure of the water molecules themselves.
+</item>
+        <item id="uid42">During a physical change, the <emphasis effect="bold">arrangement of particles</emphasis> may change but the mass, number of atoms and number of molecules will stay the same.
+</item>
+        <item id="uid43">Physical changes involve small changes in <emphasis effect="bold">energy</emphasis> and are easily reversible.
+</item>
+        <item id="uid44">A chemical change occurs when one or more substances change into other materials. A chemical reaction involves the formation of new substances with <emphasis effect="bold">different properties</emphasis>. For example, magnesium and oxygen react to form magnesium oxide (<m:math><m:mi mathvariant="normal">MgO</m:mi></m:math>) </item>
+        <item id="uid45">A chemical change may involve a <emphasis effect="bold">decomposition</emphasis> or <emphasis effect="bold">synthesis</emphasis> reaction. During chemical change, the mass and number of atoms is conserved, but the number of molecules is not always the same.
+</item>
+        <item id="uid46">Chemical reactions involve larger changes in energy. During a reaction, energy is needed to break bonds in the reactants and energy is released when new products form. If the energy released is greater than the energy absorbed, then the reaction is exothermic. If the energy released is less than the energy absorbed, then the reaction is endothermic. Chemical reactions are not easily reversible.
+</item>
+        <item id="uid47">Decomposition reactions are usually <emphasis effect="bold">endothermic</emphasis> and synthesis reactions are usually <emphasis effect="bold">exothermic</emphasis>.
+</item>
+        <item id="uid48">The <emphasis effect="bold">law of conservation of mass</emphasis> states that the total mass of all the substances taking part in a chemical reaction is conserved and the number of atoms of each element in the reaction does not change when a new product is formed.
+</item>
+        <item id="uid49">The <emphasis effect="bold">conservation of energy principle</emphasis> states that energy cannot be created or destroyed, it can only change from one form to another.
+</item>
+        <item id="uid50">The <emphasis effect="bold">law of constant composition</emphasis> states that in any particular compound, all samples of that compound will be made up of the same elements in the same proportion or ratio.
+</item>
+        <item id="uid51"><emphasis effect="bold">Gay-Lussac's Law</emphasis> states that in a chemical reaction between gases, the relative volumes of the gases in the reaction are present in a ratio of small whole numbers if all the gases are at the same temperature and pressure.
+</item>
+      </list>
+<section id="secfhsst_id584"><title>End of chapter exercises</title>
+      <list id="id65631" display="block" list-type="enumerated"><item id="uid6234">For each of the following definitions give one word or term:
+<list id="id632243" list-type="enumerated" number-style="lower-alpha">
+<item>A change that can be seen or felt, where the particles involved are not broken up in any way</item>
+<item>The formation of new substances in a chemical reaction</item>
+<item>A reaction where a new product is formed from elements or smaller compounds</item></list>
+<link class="fullmarks" window="new" url="http://www.fhsst.org/l2z">Click here for the solution</link>
+</item>
+<item id="id63272">State the conservation of energy principle.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/l2u">Click here for the solution</link>
+</item>
+<item id="id6244">Explain how a chemical change differs from a physical change.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/l2J">Click here for the solution</link>
+</item>
+<item id="uid52">Complete the following table by saying whether each of the descriptions is an example of a physical or chemical change:
+<table id="id65648" summary=""><tgroup cols="2"><tbody><row><entry><emphasis effect="bold">Description</emphasis></entry><entry><emphasis effect="bold">Physical or chemical</emphasis></entry></row><row><entry>hot and cold water mix together</entry><entry/></row><row><entry>milk turns sour</entry><entry/></row><row><entry>a car starts to rust</entry><entry/></row><row><entry>food digests in the stomach</entry><entry/></row><row><entry>alcohol disappears when it is placed on your skin</entry><entry/></row><row><entry>warming food in a microwave</entry><entry/></row><row><entry>separating sand and gravel</entry><entry/></row><row><entry>fireworks exploding</entry><entry/></row></tbody></tgroup></table><link window="new" class="fullmarks" url="http://www.fhsst.org/l3q">Click here for the 	solution</link></item>
+        <item id="uid53">For each of the following reactions, say whether it is an example of a synthesis or decomposition reaction:
+<list id="id65862" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid54">
+<m:math overflow="scroll" mode="display">
+            <m:mrow>
+<m:mrow>
+<m:mo>(</m:mo><m:msub>
+              <m:mi mathvariant="normal">NH</m:mi><m:mn>4</m:mn></m:msub>
+<m:msub><m:mo>)</m:mo><m:mn>2</m:mn></m:msub><m:msub><m:mi mathvariant="normal">CO</m:mi><m:mn>3</m:mn></m:msub></m:mrow>
+              <m:mo>→</m:mo><m:msub>
+              <m:mi mathvariant="normal">NH</m:mi>
+<m:mn>3</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mi mathvariant="normal">CO</m:mi>
+<m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:mi mathvariant="normal">H</m:mi><m:msub><m:mrow/><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi>
+            </m:mrow>
+          </m:math>
+</item>
+<item id="uid56"><m:math><m:msub><m:mi mathvariant="normal">N</m:mi><m:mn>2</m:mn></m:msub><m:mo>(</m:mo><m:mi mathvariant="normal">g</m:mi><m:mo>)</m:mo><m:mo>+</m:mo><m:mn>3</m:mn><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:mo>(</m:mo><m:mi mathvariant="normal">g</m:mi><m:mo>)</m:mo><m:mo>→</m:mo><m:mn>2</m:mn><m:msub><m:mi mathvariant="normal">NH</m:mi><m:mn>3</m:mn></m:msub></m:math></item>
+<item id="uid57">
+<m:math><m:msub><m:mi mathvariant="normal">CaCO</m:mi><m:mn>3</m:mn></m:msub><m:mo>(</m:mo><m:mi mathvariant="normal">s</m:mi><m:mo>)</m:mo><m:mo>→</m:mo><m:mi mathvariant="normal">CaO</m:mi><m:mo>+</m:mo><m:msub><m:mi mathvariant="normal">CO</m:mi><m:mn>2</m:mn></m:msub></m:math></item></list><link window="new" class="fullmarks" url="http://www.fhsst.org/l3l">Click here for the 	solution</link></item>
+        <item id="uid58">For the following equation:
+<m:math><m:msub><m:mi mathvariant="normal">CaCO</m:mi><m:mn>3</m:mn></m:msub><m:mo>(</m:mo><m:mi mathvariant="normal">s</m:mi><m:mo>)</m:mo><m:mo>→</m:mo><m:mi mathvariant="normal">CaO</m:mi><m:mo>+</m:mo><m:msub><m:mi mathvariant="normal">CO</m:mi><m:mn>2</m:mn></m:msub></m:math>
+show that the 'law of conservation of mass' applies.<newline/>
+<link window="new" class="fullmarks" url="http://www.fhsst.org/l3i">Click here for the solution</link></item>
+      </list>
+      
+</section>
+    </section>
+  </content>
+</document>

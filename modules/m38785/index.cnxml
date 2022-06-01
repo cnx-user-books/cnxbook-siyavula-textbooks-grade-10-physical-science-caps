@@ -1,0 +1,459 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Kinetic energy</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38785</md:content-id>
+  <md:title>Kinetic energy</md:title>
+  <md:abstract/>
+  <md:uuid>ae5e2a5b-28b3-4626-a103-3f5ce1972a9e</md:uuid>
+</metadata>
+
+<content>
+
+    <section id="cid5">
+      <title>Kinetic Energy</title>
+<definition id="fhsst_id1048"><term id="termfhsst_id1048"> Kinetic Energy </term> <meaning id="meaningfhsst_id1048">
+      <para id="id66784">Kinetic energy is the energy an object has due to its motion. </para>
+      </meaning></definition>
+      <para id="id66796">Kinetic energy is the energy an object has because of its motion. This means that any moving object has kinetic energy. The faster it moves, the more kinetic energy it has. Kinetic energy (<m:math overflow="scroll"><m:mrow><m:msub><m:mi>E</m:mi><m:mi>K</m:mi></m:msub></m:mrow></m:math>) is therefore dependent on the velocity of the object. The mass of the object also plays a role. A truck of <m:math><m:mn>2 000</m:mn><m:mspace width="2pt"/><m:mi>kg</m:mi></m:math>, moving at <m:math><m:mn>100</m:mn><m:mspace width="2pt"/><m:mi>km</m:mi><m:mo>·</m:mo><m:mi>hr</m:mi><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>, will have more kinetic energy than a car of <m:math><m:mn>500</m:mn><m:mspace width="2pt"/><m:mi>kg</m:mi></m:math>, also moving at <m:math><m:mn>100</m:mn><m:mspace width="2pt"/><m:mi>km</m:mi><m:mo>·</m:mo><m:mi>hr</m:mi><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. Kinetic energy is defined as:</para>
+      <note id="eip-368">You may sometimes see kinetic energy written as <m:math><m:mi>KE</m:mi></m:math>. This is simply another way to write kinetic energy. We will not use this form in this book, but you may see it written like this in other books.</note><equation id="uid62"><m:math overflow="scroll" mode="display">
+          <m:mrow><m:msub>
+            <m:mi>E</m:mi>
+            <m:mi>K</m:mi></m:msub>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mn>1</m:mn>
+              <m:mn>2</m:mn>
+            </m:mfrac>
+            <m:mi>m</m:mi>
+            <m:msup>
+              <m:mi>v</m:mi>
+              <m:mn>2</m:mn>
+            </m:msup>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id66902">Consider the <m:math><m:mn>1</m:mn><m:mspace width="2pt"/><m:mi>kg</m:mi></m:math> suitcase on the cupboard that was discussed earlier. When the suitcase falls, it will gain velocity (fall faster), until it reaches the ground with a maximum velocity. The suitcase will not have any kinetic energy when it is on top of the cupboard because it is not moving. Once it starts to fall it will gain kinetic energy, because it gains velocity. Its kinetic energy will increase until it is a maximum when the suitcase reaches the ground.</para>
+      <para id="id66909">
+        <figure id="id66912">
+          <media id="id66912_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C3_008.png" id="id66912_onlineimage" width="385"><!-- NOTE: attribute width changes image size online (pixels). original width is 385. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C3_008.eps" id="id66912_printimage"/>
+          </media>
+        </figure>
+      </para>
+<exercise id="secfhsst_id1079"><title> Calculation of Kinetic Energy </title>
+      <problem id="probfhsst_id1080">
+      <para id="id66931">A <m:math><m:mn>1</m:mn><m:mspace width="2pt"/><m:mi>kg</m:mi></m:math> brick falls off a <m:math><m:mn>4</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi></m:math> high roof. It reaches the ground with a velocity of <m:math><m:mn>8,85</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. What is the kinetic energy of the brick when it starts to fall and when it reaches the ground? </para>
+      </problem>
+      <solution id="solfhsst_id1083"> <list id="listfhsst_id1083" list-type="enumerated" number-style="arabic" class="stepwise">
+      <item> <label> Analyse the question to determine what information is provided </label>
+      <list id="id66981" display="block" list-type="bulleted"><item id="uid63">The mass of the rock <m:math overflow="scroll"><m:mi>m</m:mi><m:mo>=</m:mo><m:mn>1</m:mn><m:mspace width="2pt"/><m:mi>kg</m:mi></m:math>
+</item>
+        <item id="uid64">The velocity of the rock at the bottom <m:math overflow="scroll"><m:msub><m:mi>v</m:mi><m:mrow><m:mi>bottom</m:mi></m:mrow></m:msub><m:mo>=</m:mo><m:mn>8,85</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math></item>
+      </list>
+      <para id="id67070">These are both in the correct units so we do not have to worry about unit
+conversions.</para>
+      </item> <item> <label> Analyse the question to determine what is being asked </label>
+      <para id="id67078">We are asked to find the kinetic energy of the brick at the top and the bottom. From the definition we know that to work out <m:math overflow="scroll"><m:mrow><m:mi>K</m:mi><m:mi>E</m:mi></m:mrow></m:math>, we need to know the mass and the velocity of the object and we are given both of these values.</para>
+      </item> <item> <label> Calculate the kinetic energy at the top </label>
+      <para id="id67099">Since the brick is not moving at the top, its kinetic energy is zero.</para>
+      </item> <item> <label> Substitute and calculate the kinetic energy </label>
+      <equation id="id67107">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mrow>
+                  <m:mi>K</m:mi>
+                  <m:mi>E</m:mi>
+                </m:mrow>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mfrac>
+                    <m:mn>1</m:mn>
+                    <m:mn>2</m:mn>
+                  </m:mfrac>
+                  <m:mi>m</m:mi>
+                  <m:msup>
+                    <m:mi>v</m:mi>
+                    <m:mn>2</m:mn>
+                  </m:msup>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mfrac>
+                    <m:mn>1</m:mn>
+                    <m:mn>2</m:mn>
+                  </m:mfrac>
+                  <m:mrow>
+                    <m:mo>(</m:mo>
+                    <m:mn>1</m:mn>
+                    <m:mspace width="4pt"/>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi> kg </m:mi>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                  <m:msup>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>8</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>85</m:mn>
+                      <m:mspace width="4pt"/>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi mathvariant="normal">m</m:mi>
+                      <m:mo>·</m:mo>
+                      <m:msup>
+                        <m:mi mathvariant="normal">s</m:mi>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>1</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mn>2</m:mn>
+                  </m:msup>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>39</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>2</m:mn>
+                  <m:mspace width="0.166667em"/>
+                  <m:mi mathvariant="normal">J</m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      
+      </item> </list> </solution>
+</exercise>
+      <section id="uid65">
+        <title>Checking units</title>
+        <para id="id67277">According to the equation for kinetic energy, the unit should be <m:math overflow="scroll"><m:mi>kg</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">m</m:mi><m:msup><m:mrow/><m:mn>2</m:mn></m:msup><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>2</m:mn></m:mrow></m:msup></m:math>. We can prove that this unit is equal to the joule, the unit for energy.</para>
+        <equation id="id67329"><m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mi> kg </m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:msup>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mi mathvariant="normal">m</m:mi>
+                        <m:mo>·</m:mo>
+                        <m:msup>
+                          <m:mi mathvariant="normal">s</m:mi>
+                          <m:mrow>
+                            <m:mo>-</m:mo>
+                            <m:mn>1</m:mn>
+                          </m:mrow>
+                        </m:msup>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mo>(</m:mo>
+                    <m:mi> kg </m:mi>
+                    <m:mo>·</m:mo>
+                    <m:mi mathvariant="normal">m</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:msup>
+                      <m:mi mathvariant="normal">s</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>2</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                    <m:mo>)</m:mo>
+                    <m:mo>·</m:mo>
+                    <m:mi mathvariant="normal">m</m:mi>
+                  </m:mrow>
+                </m:mtd><m:mtd/>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">N</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                    </m:mrow></m:mtd><m:mtd columnalign="left"><m:mrow>
+                    <m:mo>(</m:mo>
+                    <m:mrow>
+                      <m:mi> because Force</m:mi><m:mspace width="2pt"/>
+                      <m:mo>(</m:mo>
+                      <m:mi mathvariant="normal">N</m:mi>
+                      <m:mo>)</m:mo>
+                      <m:mo>=</m:mo>
+                      <m:mi> mass </m:mi><m:mspace width="2pt"/>
+                      <m:mo>(</m:mo>
+                      <m:mi> kg </m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mo>×</m:mo>
+                    <m:mi> acceleration </m:mi><m:mspace width="2pt"/>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mi mathvariant="normal">m</m:mi>
+                      <m:mo>·</m:mo>
+                      <m:msup>
+                        <m:mi mathvariant="normal">s</m:mi>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>2</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">J</m:mi>
+                    </m:mrow></m:mtd><m:mtd columnalign="left"><m:mrow>
+                    <m:mo>(</m:mo>
+                    <m:mrow>
+                      <m:mi> Work </m:mi><m:mspace width="2pt"/>
+                      <m:mo>(</m:mo>
+                      <m:mi mathvariant="normal">J</m:mi>
+                      <m:mo>)</m:mo>
+                      <m:mo>=</m:mo>
+                      <m:mi> Force </m:mi><m:mspace width="2pt"/>
+                      <m:mo>(</m:mo>
+                      <m:mi mathvariant="normal">N</m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mo>×</m:mo>
+                    <m:mrow>
+                      <m:mi> distance </m:mi><m:mspace width="2pt"/>
+                      <m:mo>(</m:mo>
+                      <m:mi mathvariant="normal">m</m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id67613">We can do the same to prove that the unit for potential energy is equal to the joule:</para>
+        <equation id="id67619">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mi> kg </m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mi mathvariant="normal">m</m:mi>
+                      <m:mo>·</m:mo>
+                      <m:msup>
+                        <m:mi mathvariant="normal">s</m:mi>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>2</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mi mathvariant="normal">m</m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">N</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">J</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+<exercise id="secfhsst_id1394"><title> Mixing Units &amp; Energy Calculations  </title>
+        <problem id="probfhsst_id1395">
+        <para id="id67735">A bullet, having a mass of <m:math><m:mn>150</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">g</m:mi></m:math>, is shot with a muzzle velocity of <m:math overflow="scroll"><m:mn>960</m:mn> <m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. Calculate its kinetic energy. </para>
+        </problem>
+        <solution id="solfhsst_id1398"> <list id="listfhsst_id1398" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Analyse the question to determine what information is provided </label>
+        <list id="id67785" display="block" list-type="bulleted"><item id="uid66">We are given the mass of the bullet <m:math overflow="scroll"><m:mi>m</m:mi><m:mo>=</m:mo><m:mn>150</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">g</m:mi></m:math>. This is not the
+unit we want mass to be in. We need to convert to kg.
+<equation id="id67812"><m:math overflow="scroll" mode="display"><m:mtable displaystyle="true"><m:mtr><m:mtd columnalign="right"><m:mrow><m:mrow><m:mi> Mass </m:mi><m:mspace width="3.33333pt"/><m:mi> in </m:mi><m:mspace width="3.33333pt"/><m:mi> grams </m:mi></m:mrow><m:mo>÷</m:mo><m:mn>1000</m:mn></m:mrow></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mrow><m:mi> Mass </m:mi><m:mspace width="3.33333pt"/><m:mi> in </m:mi><m:mspace width="3.33333pt"/><m:mi> kg </m:mi></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd columnalign="right"><m:mrow><m:mn>150</m:mn><m:mspace width="3.33333pt"/><m:mi mathvariant="normal">g</m:mi><m:mo>÷</m:mo><m:mn>1000</m:mn></m:mrow></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mrow><m:mn>0</m:mn><m:mo>,</m:mo><m:mn>150</m:mn><m:mspace width="3.33333pt"/><m:mspace width="0.166667em"/><m:mi> kg </m:mi></m:mrow></m:mtd></m:mtr></m:mtable></m:math></equation></item>
+          <item id="uid67">We are given the initial velocity with which the bullet leaves the barrel, called the muzzle velocity, and it is <m:math overflow="scroll"><m:mi>v</m:mi><m:mo>=</m:mo><m:mn>960</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>.
+</item>
+        </list>
+        </item> <item> <label> Analyse the question to determine what is being asked </label>
+        <list id="id67963" display="block" list-type="bulleted">
+          <item id="uid68">We are asked to find the kinetic energy.
+</item>
+        </list>
+        </item> <item> <label> Substitute and calculate </label>
+        <para id="id67983">We just substitute the mass and velocity (which are known) into the equation for kinetic energy:</para>
+        <equation id="id67987"><m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow><m:msub>
+                    <m:mi>E</m:mi>
+                    <m:mi>K</m:mi></m:msub>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mn>1</m:mn>
+                      <m:mn>2</m:mn>
+                    </m:mfrac>
+                    <m:mi>m</m:mi>
+                    <m:msup>
+                      <m:mi>v</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mn>1</m:mn>
+                      <m:mn>2</m:mn>
+                    </m:mfrac>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>0</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>150</m:mn>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:msup>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mn>960</m:mn>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>69</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mn>120</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">J</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        
+        </item> </list> </solution>
+</exercise>
+<section id="secfhsst_id1491"><title> Kinetic Energy </title>
+        <list id="id68123" display="block" list-type="enumerated"><item id="uid69">Describe the relationship between an object's kinetic energy and its:
+<list id="id68139" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid70">mass and
+</item><item id="uid71">velocity
+</item></list><link class="fullmarks" window="new" url="http://www.fhsst.org/lad">Click here for the solution</link></item>
+          <item id="uid72">A stone with a mass of <m:math><m:mn>100</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">g</m:mi></m:math> is thrown up into the air. It has an initial velocity of <m:math><m:mn>3</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. Calculate its kinetic energy
+<list id="id68206" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid73">as it leaves the thrower's hand.
+</item><item id="uid74">when it reaches its turning point.
+</item></list><link class="fullmarks" window="new" url="http://www.fhsst.org/law">Click here for the solution</link></item>
+          <item id="uid75">A car with a mass of <m:math><m:mn>700</m:mn><m:mspace width="2pt"/><m:mi>kg</m:mi></m:math> is travelling at a constant velocity of <m:math><m:mn>100</m:mn><m:mspace width="2pt"/><m:mi>km</m:mi><m:mo>·</m:mo><m:mi>hr</m:mi><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. Calculate the kinetic energy of the car.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lav">Click here for the solution</link>
+</item>
+        </list>
+        
+</section>
+      </section>
+    </section>
+
+  </content>
+</document>

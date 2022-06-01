@@ -1,0 +1,263 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>State symbols</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38727</md:content-id>
+  <md:title>State symbols</md:title>
+  <md:abstract/>
+  <md:uuid>79630f89-6019-4196-a6ce-eb3f6c5155da</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid5">
+      <title>State symbols and other information</title>
+      <para id="id65920">The state (phase) of the compounds can be expressed in the chemical equation. This is done by placing the correct label on the right hand side of the formula. There are only four labels that can be used:</para>
+      <list id="id65925" display="block" list-type="enumerated">
+        <item id="uid27">(g) for gaseous compounds
+</item>
+        <item id="uid28">(l) for liquids
+</item>
+        <item id="uid29">(s) for solid compounds
+</item>
+        <item id="uid30">(aq) for an aqueous (water) solution
+</item>
+      </list>
+      
+      
+<para id="eip-536">To show that heat is needed for a reaction, a Greek delta (<m:math overflow="scroll"><m:mi>Δ</m:mi></m:math>) is placed above the arrow.</para><note id="notfhsst_id966" type="tip">You may remember from <link document="m38141">Physical and chemical change</link> that energy cannot be created or destroyed during a chemical reaction but it may change form. In an exothermic reaction, <m:math overflow="scroll"><m:mi>Δ</m:mi></m:math>H is less than zero and in an endothermic reaction, <m:math overflow="scroll"><m:mi>Δ</m:mi></m:math>H is greater than zero. This value is often written at the end of a chemical equation.</note>
+<exercise id="secfhsst_id967"><title>Balancing chemical equations 5</title><problem id="probfhsst_id968">
+      <para id="id66044">Solid zinc metal reacts with aqueous hydrochloric acid to form an aqueous solution of zinc chloride (<m:math overflow="scroll"><m:mi>ZnCl</m:mi><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>)and hydrogen gas. Write a balanced equation for this reaction.</para>
+      
+      </problem>
+      <solution id="solfhsst_id972"> <list id="listfhsst_id972" list-type="enumerated" number-style="arabic" class="stepwise"><item> <label> Identify the reactants and products and their chemical formulae </label>
+      <para id="id66103">The reactants are zinc (<m:math><m:mi mathvariant="normal">Zn</m:mi></m:math>) and hydrochloric acid (<m:math><m:mi mathvariant="normal">HCl</m:mi></m:math>). The products are zinc chloride (<m:math overflow="scroll"><m:mi>ZnCl</m:mi><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>) and hydrogen (<m:math overflow="scroll"><m:mi mathvariant="normal">H</m:mi><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>).</para>
+      </item> <item> <label> Place the reactants on the left of the equation and the products on the right hand side of the arrow </label>
+      <equation id="id66139">
+      <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi mathvariant="normal">Zn</m:mi>
+              <m:mo>+</m:mo>
+                <m:mi mathvariant="normal">HCl</m:mi>
+              <m:mo>→</m:mo>
+              <m:mi mathvariant="normal">ZnCl</m:mi><m:msub><m:mrow/><m:mn>2</m:mn></m:msub>
+              <m:mo>+</m:mo>
+              <m:mi mathvariant="normal">H</m:mi><m:msub><m:mrow/><m:mn>2</m:mn></m:msub>
+            </m:mrow>
+          </m:math>
+</equation>
+ 
+      </item> <item> <label> Balance the equation </label>
+      <para id="id66196">You will notice that the zinc atoms balance but the chlorine and hydrogen atoms don't. Since there are two chlorine atoms on the right and only one on the left, we will give <m:math><m:mi mathvariant="normal">HCl</m:mi></m:math> a coefficient of 2 so that there will be two chlorine atoms on each side of the equation.
+      <equation id="id66202">
+      <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi mathvariant="normal">Zn</m:mi>
+              <m:mo>+</m:mo><m:mn>2</m:mn>
+                <m:mi mathvariant="normal">HCl</m:mi>
+              <m:mo>→</m:mo>
+              <m:mi mathvariant="normal">ZnCl</m:mi><m:msub><m:mrow/><m:mn>2</m:mn></m:msub>
+              <m:mo>+</m:mo>
+              <m:mi mathvariant="normal">H</m:mi><m:msub><m:mrow/><m:mn>2</m:mn></m:msub>
+            </m:mrow>
+          </m:math></equation>
+      </para>
+      <!--empty paragraphs get left behind.-->
+      </item> <item> <label> Check that all the atoms balance </label>
+      <para id="id66262">When you look at the equation again, you will see that all the atoms are now balanced.</para>
+      </item> <item> <label> Ensure all details (e.g. state symbols) are added </label>
+      <para id="id66270">In the initial description, you were told that zinc was a metal, hydrochloric acid and zinc chloride were in aqueous solutions and hydrogen was a gas.
+      <equation id="id66274">
+      <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi mathvariant="normal">Zn</m:mi><m:mo>(</m:mo><m:mi mathvariant="normal">s</m:mi><m:mo>)</m:mo>
+              <m:mo>+</m:mo><m:mn>2</m:mn>
+                <m:mi mathvariant="normal">HCl</m:mi><m:mo>(</m:mo><m:mi mathvariant="normal">aq</m:mi><m:mo>)</m:mo>
+              <m:mo>→</m:mo>
+              <m:mi mathvariant="normal">ZnCl</m:mi><m:msub><m:mrow/><m:mn>2</m:mn></m:msub><m:mo>(</m:mo><m:mi mathvariant="normal">aq</m:mi><m:mo>)</m:mo>
+              <m:mo>+</m:mo>
+              <m:mi mathvariant="normal">H</m:mi><m:msub><m:mrow/><m:mn>2</m:mn></m:msub><m:mo>(</m:mo><m:mi mathvariant="normal">g</m:mi><m:mo>)</m:mo>
+            </m:mrow>
+          </m:math>
+      </equation></para>
+</item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id1086"><title> Balancing chemical equations 5 (advanced) </title>
+      <problem id="probfhsst_id1087">
+      <para id="id66373">Balance the following equation:
+      <equation id="id66378">
+      <m:math overflow="scroll" mode="display">
+            <m:mrow><m:mo>(</m:mo><m:msub>
+              <m:mi mathvariant="normal">NH</m:mi><m:mn>4</m:mn></m:msub><m:mo>)</m:mo><m:msub><m:mrow/><m:mn>2</m:mn></m:msub><m:msub><m:mi>SO</m:mi><m:mn>4</m:mn></m:msub>
+              <m:mo>+</m:mo>
+                <m:mi mathvariant="normal">NaOH</m:mi>
+              <m:mo>→</m:mo>
+              <m:mi mathvariant="normal">NH</m:mi><m:msub><m:mrow/><m:mn>3</m:mn></m:msub>
+              <m:mo>+</m:mo>
+              <m:mi mathvariant="normal">H</m:mi><m:msub><m:mrow/><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi>
+              <m:mo>+</m:mo>
+              <m:mi mathvariant="normal">Na</m:mi><m:msub><m:mrow/><m:mn>2</m:mn></m:msub><m:msub><m:mi>SO</m:mi><m:mn>4</m:mn></m:msub>
+            </m:mrow>
+          </m:math>
+      </equation></para>
+      <para id="id66476">In this example, the first two steps are not necessary because the reactants and products have already been given.</para>
+      
+      </problem>
+      <solution id="solfhsst_id1143"> <list id="listfhsst_id1143" list-type="enumerated" number-style="arabic" class="stepwise">
+      <item> <label> Balance the equation </label>
+      <para id="id66518">With a complex equation, it is always best to start with atoms that appear only once on each side i.e. <m:math><m:mi mathvariant="normal">Na</m:mi></m:math>, <m:math><m:mi mathvariant="normal">N</m:mi></m:math> and <m:math><m:mi mathvariant="normal">S</m:mi></m:math> atoms. Since the <m:math><m:mi mathvariant="normal">S</m:mi></m:math> atoms already balance, we will start with <m:math><m:mi mathvariant="normal">Na</m:mi></m:math> and <m:math><m:mi mathvariant="normal">N</m:mi></m:math> atoms. There are two <m:math><m:mi mathvariant="normal">Na</m:mi></m:math> atoms on the right and one on the left. We will add a second <m:math><m:mi mathvariant="normal">Na</m:mi></m:math> atom by giving <m:math><m:mi mathvariant="normal">NaOH</m:mi></m:math> a coefficient of two. There are two <m:math><m:mi mathvariant="normal">N</m:mi></m:math> atoms on the left and one on the right. To balance the <m:math><m:mi mathvariant="normal">N</m:mi></m:math> atoms, <m:math overflow="scroll"><m:mi>NH</m:mi><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math> will be given a coefficient of two. The equation now looks as follows:
+      <equation id="id66539">
+      <m:math overflow="scroll" mode="display">
+            <m:mrow><m:mo>(</m:mo><m:msub>
+              <m:mi mathvariant="normal">NH</m:mi><m:mn>4</m:mn></m:msub><m:mo>)</m:mo><m:msub><m:mrow/><m:mn>2</m:mn></m:msub><m:msub><m:mi>SO</m:mi><m:mn>4</m:mn></m:msub>
+              <m:mo>+</m:mo><m:mn>2</m:mn>
+                <m:mi mathvariant="normal">NaOH</m:mi>
+              <m:mo>→</m:mo><m:mn>2</m:mn>
+              <m:mi mathvariant="normal">NH</m:mi><m:msub><m:mrow/><m:mn>3</m:mn></m:msub>
+              <m:mo>+</m:mo>
+              <m:mi mathvariant="normal">H</m:mi><m:msub><m:mrow/><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi>
+              <m:mo>+</m:mo>
+              <m:mi mathvariant="normal">Na</m:mi><m:msub><m:mrow/><m:mn>2</m:mn></m:msub><m:msub><m:mi>SO</m:mi><m:mn>4</m:mn></m:msub>
+            </m:mrow>
+          </m:math>
+      </equation></para>
+      </item> <item> <label> Check that all atoms balance </label>
+      <para id="id66648"><m:math><m:mi mathvariant="normal">N</m:mi></m:math>, <m:math><m:mi mathvariant="normal">Na</m:mi></m:math> and <m:math><m:mi mathvariant="normal">S</m:mi></m:math> atoms balance, but <m:math><m:mi mathvariant="normal">O</m:mi></m:math> and <m:math><m:mi mathvariant="normal">H</m:mi></m:math> atoms do not. There are six <m:math><m:mi mathvariant="normal">O</m:mi></m:math> atoms and ten <m:math><m:mi mathvariant="normal">H</m:mi></m:math> atoms on the left, and five <m:math><m:mi mathvariant="normal">O</m:mi></m:math> atoms and eight <m:math><m:mi mathvariant="normal">H</m:mi></m:math> atoms on the right. We need to add one <m:math><m:mi mathvariant="normal">O</m:mi></m:math> atom and two <m:math><m:mi mathvariant="normal">H</m:mi></m:math> atoms on the right to balance the equation. This is done by adding another <m:math overflow="scroll"><m:mi mathvariant="normal">H</m:mi><m:msub><m:mrow/><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi></m:math> molecule on the right hand side. We now need to check the equation again:
+      <equation id="id66667">
+      <m:math overflow="scroll" mode="display">
+            <m:mrow><m:mo>(</m:mo><m:msub>
+              <m:mi mathvariant="normal">NH</m:mi><m:mn>4</m:mn></m:msub><m:mo>)</m:mo><m:msub><m:mrow/><m:mn>2</m:mn></m:msub><m:msub><m:mi>SO</m:mi><m:mn>4</m:mn></m:msub>
+              <m:mo>+</m:mo><m:mn>2</m:mn>
+                <m:mi mathvariant="normal">NaOH</m:mi>
+              <m:mo>→</m:mo><m:mn>2</m:mn>
+              <m:mi mathvariant="normal">NH</m:mi><m:msub><m:mrow/><m:mn>3</m:mn></m:msub>
+              <m:mo>+</m:mo><m:mn>2</m:mn>
+              <m:mi mathvariant="normal">H</m:mi><m:msub><m:mrow/><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi>
+              <m:mo>+</m:mo>
+              <m:mi mathvariant="normal">Na</m:mi><m:msub><m:mrow/><m:mn>2</m:mn></m:msub><m:msub><m:mi>SO</m:mi><m:mn>4</m:mn></m:msub>
+            </m:mrow>
+          </m:math></equation>
+      </para>
+      <para id="id66774">The equation is now balanced.</para>
+</item> </list> </solution>
+</exercise>
+<para id="eip-44">The following video explains some of the concepts of balancing chemical equations.<newline/>
+<figure id="balancing-equations" class="khanacademy"><title>Khan Academy video on balancing chemical equations</title><media id="yt-media1" display="block" alt="video on balancing equations">
+	  <flash id="yt-video1" mime-type="application/x-shockwave-flash" src="http://www.youtube.com/v/RnGu3xO2h74&amp;rel=0&amp;hl=en_US&amp;feature=player_embedded&amp;version=3;rel=0" width="425" height="344">
+	  <param name="allowscriptaccess" value="always"/>
+	  <param name="allowsfullscreen" value="true"/>
+	  </flash>
+	  </media>
+	  </figure></para><section id="secfhsst_id1261"><title> Balancing more advanced chemical equations
+      </title>
+      <para id="id66790">Write balanced equations for each of the following reactions:</para>
+      <list id="id66796" display="block" list-type="enumerated"><item id="uid31">
+<m:math><m:msub><m:mi>Al</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi mathvariant="normal">O</m:mi><m:mn>3</m:mn></m:msub><m:mo>(</m:mo><m:mi mathvariant="normal">s</m:mi><m:mo>)</m:mo><m:mo>+</m:mo><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi>SO</m:mi><m:mn>4</m:mn></m:msub><m:mo>(</m:mo><m:mi mathvariant="normal">aq</m:mi><m:mo>)</m:mo>
+<m:mo>→</m:mo>
+              <m:msub><m:mi>Al</m:mi><m:mn>2</m:mn></m:msub><m:mo>(</m:mo><m:msub><m:mi>SO</m:mi><m:mn>4</m:mn></m:msub><m:mo>)</m:mo><m:msub><m:mrow/><m:mn>3</m:mn></m:msub><m:mo>(</m:mo><m:mi mathvariant="normal">aq</m:mi><m:mo>)</m:mo><m:mo>+</m:mo><m:mn>3</m:mn><m:msub><m:mi mathvariant="normals">H</m:mi><m:mn>2</m:mn></m:msub><m:mi mathvariant="normals">O</m:mi><m:mo>(</m:mo><m:mi mathvariant="normal">l</m:mi><m:mo>)</m:mo></m:math>
+        </item>
+        <item id="uid32">
+        <m:math><m:msub><m:mi>Mg(OH)</m:mi><m:mn>2</m:mn></m:msub><m:mo>(</m:mo><m:mi mathvariant="normal">aq</m:mi><m:mo>)</m:mo><m:mo>+</m:mo><m:msub><m:mi mathvariant="normal">HNO</m:mi><m:mn>3</m:mn></m:msub><m:mo>(</m:mo><m:mi mathvariant="normal">aq</m:mi><m:mo>)</m:mo>
+<m:mo>→</m:mo>
+             <m:mi>Mg</m:mi><m:mo>(</m:mo><m:msub><m:mi>NO</m:mi><m:mn>3</m:mn></m:msub><m:mo>)</m:mo><m:msub><m:mrow/><m:mn>2</m:mn></m:msub><m:mo>(</m:mo><m:mi mathvariant="normal">aq</m:mi><m:mo>)</m:mo><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mi mathvariant="normals">H</m:mi><m:mn>2</m:mn></m:msub><m:mi mathvariant="normals">O</m:mi><m:mo>(</m:mo><m:mi mathvariant="normal">l</m:mi><m:mo>)</m:mo></m:math>
+        </item>
+        <item id="uid33">Lead (II) nitrate solution reacts with potassium iodide solution.
+</item>
+        <item id="uid34">When heated, aluminium reacts with solid copper oxide to produce copper metal and aluminium oxide (<m:math><m:msub><m:mi>Al</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi mathvariant="normal">O</m:mi><m:mn>3</m:mn></m:msub></m:math>).
+</item>
+        <item id="uid35">When calcium chloride solution is mixed with silver nitrate solution, a white precipitate (solid) of silver chloride appears. Calcium nitrate (<m:math><m:mi>Ca</m:mi><m:mo>(</m:mo><m:msub><m:mi>NO</m:mi><m:mn>3</m:mn></m:msub><m:mo>)</m:mo><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>) is also produced in the solution.
+<link window="new" class="fullmarks" url="http://www.fhsst.org/lOK">Click here for the solution</link></item>
+      </list>
+      
+</section>
+    </section>
+    <para id="eip-429">Balanced equations are very important in chemistry. It is only by working with the balanced equations that chemists can perform many different calculations that tell them what quantity of something reacts. In a later chapter we will learn how to work with some of these calculations. We can interpret balanced chemical equations in terms of the conservation of matter, the conservation of mass or the conservation of energy.</para><para id="eip-366"><figure id="slidesharefigure" class="slideshare">
+    	<media id="slidesharemedia" alt="Presentation on reactions">
+    	<flash id="slideshareflash" height="355" width="425" mime-type="application/x-shockwave-flash" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=reactions-100511040544-phpapp02&amp;stripped_title=reactions-4046986">
+    	<param name="allowScriptAccess" value="always"/>
+    	<param name="allowFullScreen" value="true"/>
+    	</flash>
+    	</media>
+    	</figure></para><section id="cid6">
+      <title>Summary</title>
+      <list id="id67171" display="block" list-type="bulleted">
+        <item id="uid36">A <emphasis effect="bold">chemical equation</emphasis> uses symbols to describe a chemical reaction.
+</item>
+        <item id="uid37">In a chemical equation, <emphasis effect="bold">reactants</emphasis> are written on the left hand side of the equation and the <emphasis effect="bold">products</emphasis> on the right. The arrow is used to show the direction of the reaction.
+</item>
+        <item id="uid38">When representing chemical change, it is important to be able to write the <emphasis effect="bold">chemical formula</emphasis> of a compound.
+</item>
+        <item id="uid39">In any chemical reaction, the <emphasis effect="bold">law of conservation of mass</emphasis> applies. This means that the total atomic mass of the reactants must be the same as the total atomic mass of the products. This also means that the number of atoms of each element in the reactants must be the same as the number of atoms of each element in the product.
+</item>
+        <item id="uid40">If the number of atoms of each element in the reactants is the same as the number of atoms of each element in the product, then the equation is <emphasis effect="bold">balanced</emphasis>.
+</item>
+        <item id="uid41">If the number of atoms of each element in the reactants is not the same as the number of atoms of each element in the product, then the equation is <emphasis effect="bold">not balanced</emphasis>.
+</item>
+        <item id="uid42">In order to balance an equation, <emphasis effect="bold">coefficients</emphasis> can be placed in front of the reactants and products until the number of atoms of each element is the same on both sides of the equation.
+</item>
+      </list>
+<section id="secfhsst_id1434"><title>End of chapter exercises      </title>
+      
+      <list id="id67334" display="block" list-type="enumerated"><item id="uid45">Propane is a fuel that is commonly used as a heat source for engines and homes. Balance the following equation for the combustion of propane:
+        <m:math overflow="scroll" mode="display">
+            <m:mrow><m:msub>
+              <m:mi mathvariant="normal">C</m:mi><m:mn>3</m:mn></m:msub><m:msub>
+              <m:mi mathvariant="normal">H</m:mi><m:mn>8</m:mn></m:msub><m:mo>(</m:mo><m:mi mathvariant="normal">l</m:mi><m:mo>)</m:mo>
+              <m:mo>+</m:mo>
+              <m:mi mathvariant="normal">O</m:mi><m:msub><m:mrow/><m:mn>2</m:mn></m:msub><m:mo>(</m:mo><m:mi mathvariant="normal">g</m:mi><m:mo>)</m:mo>
+              <m:mo>→</m:mo>
+              <m:mi mathvariant="normal">CO</m:mi><m:msub><m:mrow/><m:mn>2</m:mn></m:msub><m:mo>(</m:mo><m:mi mathvariant="normal">g</m:mi><m:mo>)</m:mo>
+              <m:mo>+</m:mo>
+              <m:mi mathvariant="normal">H</m:mi><m:msub><m:mrow/><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi><m:mo>(</m:mo><m:mi mathvariant="normal">l</m:mi><m:mo>)</m:mo>
+            </m:mrow>
+          </m:math>
+<link window="new" class="fullmarks" url="http://www.fhsst.org/lOk">Click here for the solution</link></item>
+        <item id="uid46">Aspartame, an artificial sweetener, has the formula <m:math><m:msub><m:mi mathvariant="normal">C</m:mi><m:mn>14</m:mn></m:msub><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>18</m:mn></m:msub><m:msub><m:mi mathvariant="normal">N</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi mathvariant="normal">O</m:mi><m:mn>2</m:mn></m:msub></m:math>. Write the balanced equation for its combustion (reaction with <m:math overflow="scroll"><m:msub><m:mi mathvariant="normal">O</m:mi><m:mn>2</m:mn></m:msub></m:math>) to form <m:math overflow="scroll"><m:msub><m:mi mathvariant="normal">CO</m:mi><m:mn>2</m:mn></m:msub></m:math> gas, liquid <m:math overflow="scroll"><m:mi mathvariant="normal">H</m:mi><m:msub><m:mrow/><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi></m:math>, and <m:math overflow="scroll"><m:msub><m:mi mathvariant="normal">N</m:mi><m:mn>2</m:mn></m:msub></m:math> gas.
+<link window="new" class="fullmarks" url="http://www.fhsst.org/lO0">Click here for the solution</link></item>
+        <item id="uid47">
+<m:math overflow="scroll"><m:msub><m:mi>Fe</m:mi><m:mn>2</m:mn></m:msub><m:mo>(</m:mo><m:msub><m:mi>SO</m:mi><m:mn>4</m:mn></m:msub><m:mo>)</m:mo><m:msub><m:mrow/><m:mn>3</m:mn></m:msub><m:mo>+</m:mo><m:mi>K(SCN)</m:mi>
+          <m:mo>→</m:mo>
+<m:msub><m:mi mathvariant="normal">K</m:mi><m:mn>3</m:mn></m:msub><m:msub><m:mi>Fe(SCN)</m:mi><m:mn>6</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mi mathvariant="normal">K</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi>SO</m:mi><m:mn>4</m:mn></m:msub></m:math>
+        <link window="new" class="fullmarks" url="http://www.fhsst.org/lO8">Click here for the solution</link></item>
+        <item id="uid48">Chemical weapons were banned by the Geneva Protocol in 1925. According to this protocol, all chemicals that release suffocating and poisonous gases are not to be used as weapons. White phosphorus, a very reactive allotrope of phosphorus, was recently used during a military attack. Phosphorus burns vigorously in oxygen. Many people got severe burns and some died as a result. The equation for this spontaneous reaction is:
+        <m:math overflow="scroll" mode="display">
+            <m:mrow><m:msub>
+              <m:mi mathvariant="normal">P</m:mi><m:mn>4</m:mn></m:msub><m:mo>(</m:mo><m:mi mathvariant="normal">s</m:mi><m:mo>)</m:mo>
+              <m:mo>+</m:mo>
+              <m:msub>
+                <m:mi mathvariant="normal">O</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub><m:mo>(</m:mo><m:mi mathvariant="normal">g</m:mi><m:mo>)</m:mo>
+              <m:mo>→</m:mo><m:msub>
+              <m:mi mathvariant="normal">P</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi mathvariant="normal">O</m:mi><m:mn>5</m:mn></m:msub><m:mo>(</m:mo><m:mi mathvariant="normal">s</m:mi><m:mo>)</m:mo>
+            </m:mrow>
+          </m:math><list id="id67821" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid49">Balance the chemical equation.
+</item><item id="uid50">Prove that the law of conservation of mass is obeyed during this chemical reaction.
+</item><item id="uid51">Name the product formed during this reaction.
+</item><item id="uid52">Classify the reaction as endothermic or exothermic. Give a reason for your answer.
+</item><item id="uid53">Classify the reaction as a synthesis or decomposition reaction. Give a reason for your answer.
+<link window="new" class="fullmarks" url="http://www.fhsst.org/lO9">Click here for the solution</link></item></list>
+(DoE Exemplar Paper 2 2007)
+</item>
+      <item>Mixing bleach (<m:math><m:mi>NaOCl</m:mi></m:math>) and ammonia (two common household cleaners) is very dangerous. When these two substances are mixed they produce toxic chloaramine (<m:math><m:mrow><m:msub><m:mi>NH</m:mi><m:mn>2</m:mn></m:msub><m:mi>Cl</m:mi></m:mrow></m:math>) fumes. Balance the following equations that occur when bleach and ammonia are mixed:<list id="id6432" list-type="enumerated" number-style="lower-alpha"><item><m:math><m:mrow><m:mi>NaOCl</m:mi><m:mrow><m:mrow><m:mo>(</m:mo><m:mi>aq</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:msub><m:mi>NH</m:mi><m:mn>3</m:mn></m:msub></m:mrow><m:mrow><m:mo>(</m:mo><m:mi>aq</m:mi><m:mo>)</m:mo></m:mrow><m:mo>→</m:mo><m:msub><m:mi>NaONH</m:mi><m:mn>3</m:mn></m:msub><m:mrow><m:mrow><m:mo>(</m:mo><m:mi>aq</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:msub><m:mi>Cl</m:mi><m:mn>2</m:mn></m:msub></m:mrow><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">g</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math></item>
+<item>If there is more bleach than ammonia the following may occur:
+<m:math><m:mrow><m:mrow><m:mi>NaOCl</m:mi><m:mo>+</m:mo><m:msub><m:mi>NH</m:mi><m:mn>3</m:mn></m:msub></m:mrow><m:mo>→</m:mo><m:mrow><m:mi>NaOH</m:mi><m:mo>+</m:mo><m:msub><m:mi>NCl</m:mi><m:mn>3</m:mn></m:msub></m:mrow></m:mrow></m:math>
+<newline/>Nitrogen trichloride (<m:math><m:msub><m:mi>NCl</m:mi><m:mn>3</m:mn></m:msub></m:math>) is highly explosive.</item>
+<item>If there is more ammonia than bleach the following may occur:
+<m:math><m:mrow><m:mrow><m:msub><m:mi>NH</m:mi><m:mn>3</m:mn></m:msub><m:mo>+</m:mo><m:mi>NaOCl</m:mi></m:mrow><m:mo>→</m:mo><m:mrow><m:mi>NaOH</m:mi><m:mo>+</m:mo><m:msub><m:mi>NH</m:mi><m:mn>2</m:mn></m:msub></m:mrow><m:mi>Cl</m:mi></m:mrow></m:math><newline/>
+These two products then react with ammonia as follows:<newline/>
+<m:math><m:mrow><m:mrow><m:msub><m:mi>NH</m:mi><m:mn>3</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mi>NH</m:mi><m:mn>2</m:mn></m:msub></m:mrow><m:mrow><m:mi>Cl</m:mi><m:mo>+</m:mo><m:mi>NaOH</m:mi></m:mrow><m:mo>→</m:mo><m:msub><m:mi mathvariant="normal">N</m:mi><m:mn>2</m:mn></m:msub><m:mrow><m:mrow><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>4</m:mn></m:msub><m:mo>+</m:mo><m:mi>NaCl</m:mi></m:mrow><m:mo>+</m:mo><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub></m:mrow><m:mi mathvariant="normal">O</m:mi></m:mrow></m:math>
+<newline/>One last reaction occurs to stabilise the hydrazine and chloramine:
+<m:math><m:mrow><m:msub><m:mi>NH</m:mi><m:mn>2</m:mn></m:msub><m:mrow><m:mi>Cl</m:mi><m:mo>+</m:mo><m:msub><m:mi mathvariant="normal">N</m:mi><m:mn>2</m:mn></m:msub></m:mrow><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>4</m:mn></m:msub><m:mo>→</m:mo><m:msub><m:mi>NH</m:mi><m:mn>4</m:mn></m:msub><m:mrow><m:mi>Cl</m:mi><m:mo>+</m:mo><m:msub><m:mi mathvariant="normal">N</m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:mrow></m:math><newline/>
+This reaction is highly exothermic and will explode.</item></list>
+<link window="new" class="fullmarks" url="http://www.fhsst.org/l2S">Click here for the solution</link>
+</item>
+<item>Balance the following chemical equation:
+<m:math><m:mrow><m:msub><m:mi mathvariant="normal">N</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi mathvariant="normal">O</m:mi><m:mn>5</m:mn></m:msub><m:mo>→</m:mo><m:mrow><m:msub><m:mi>NO</m:mi><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mi mathvariant="normal">O</m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:mrow></m:math><newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/l2h/">Click here for the solution</link></item>
+<item>Sulphur can be produced by the Claus process. This two-step process involves reacting hydrogen sulphide with oxygen and then reacting the sulphur dioxide that is produced with more hydrogen sulphide. The equations for these two reactions are:
+<equation id="id6243"><m:math><m:mtable><m:mtr><m:mtd><m:mrow><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:mrow><m:mi mathvariant="normal">S</m:mi><m:mo>+</m:mo><m:msub><m:mi mathvariant="normal">O</m:mi><m:mn>2</m:mn></m:msub></m:mrow><m:mo>→</m:mo><m:mrow><m:msub><m:mi>SO</m:mi><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub></m:mrow><m:mi mathvariant="normal">O</m:mi></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:mrow><m:mi mathvariant="normal">S</m:mi><m:mo>+</m:mo><m:msub><m:mi>SO</m:mi><m:mn>2</m:mn></m:msub></m:mrow><m:mo>→</m:mo><m:mrow><m:mi mathvariant="normal">S</m:mi><m:mo>+</m:mo><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub></m:mrow><m:mi mathvariant="normal">O</m:mi></m:mrow></m:mtd></m:mtr></m:mtable></m:math></equation>
+Balance these two equations.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lTq">Click here for the solution</link>
+</item></list>
+      
+</section>
+    </section>
+  </content>
+</document>

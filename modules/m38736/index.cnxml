@@ -1,0 +1,103 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>States of matter</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38736</md:content-id>
+  <md:title>States of matter</md:title>
+  <md:abstract/>
+  <md:uuid>7a57c76a-4642-4719-b3a6-cfac452680a3</md:uuid>
+</metadata>
+
+<content>
+<section id="cid1">
+<title>Introduction</title>
+<para id="id802341">In this chapter we will explore the states of matter and then look at the kinetic molecular theory. Matter exists in three states: solid, liquid and gas. We will also examine how the kinetic theory of matter helps explain boiling and melting points as well as other properties of matter.</para>
+</section>
+<section id="cid2">
+<title>States of matter</title>
+<para id="id324876121">All matter is made up of particles. We can see this when we look at diffusion. Diffusion is the movement of particles from a high concentration to a low concentration. Diffusion can be seen as a spreading out of particles resulting in an even distribution of the particles. You can see diffusion when you place a drop of food colouring in water. The colour slowly spreads out through the water. If matter were not made of particles then we would only see a clump of colour when we put the food colouring in water, as there would be nothing that could move about and mix in with the water. The composition of matter will be looked at in <link document="m38120" window="new">What are the objects around us made of?</link>. 
+</para>
+<para id="id10987324">Diffusion is a result of the constant thermal motion of particles. In <link target-id="cid5" window="new"/> we will talk more about the thermal motion of particles. 
+</para>
+<para id="id0128031">In 1828 Robert Brown observed that pollen grains suspended in water moved about in a rapid, irregular motion. This motion has since become known as Brownian motion. Brownian motion is essentially diffusion of many particles.
+</para>
+<para id="id48327">Matter exists in one of three states, namely solid, liquid and gas. Matter can change between these states by either adding heat or removing heat. This is known as a change of state. As we heat an object (e.g. water) it goes from a solid to a liquid to a gas. As we cool an object it goes from a gas to a liquid to a solid.
+The changes of state that you should know are:
+<list id="id02341"><item><label>Melting</label>
+ Melting is the process of going from solid to liquid.</item>
+<item><label>Boiling</label> Boiling (or evaporation) is the process of going from liquid to gas.</item><item><label>Freezing</label> Freezing is the process of going from liquid to solid.</item><item><label>Condensation</label> Condensation is the process of going from gas to liquid.</item><item><label>Sublimation</label> Occasionally (e.g. for carbon dioxide) we can go directly from solid to gas in a process called sublimation.</item></list> A solid has a fixed shape and volume. A liquid takes on the shape of the container that it is in. A gas completely fills the container that it is in. See <link target-id="cid5" window="new"/> for more on changes of state.
+</para><para id="eip-957">If we know the melting and boiling point of a substance then we can say what state (solid, liquid or gas) it will be in at any temperature. </para><section id="eip-232"><title>Experiment: States of matter</title><para id="eip-860"><title>Aim</title>
+To investigate the heating and cooling curve of water.
+</para>
+<para id="eip-861"><title>Apparatus</title>
+beakers, ice, bunsen burner, thermometer, water.
+</para>
+<para id="eip-862"><title>Method</title>
+<list id="id9872"><item>Place some ice in a beaker</item>
+<item>Measure the temperature of the ice and record it.</item>
+<item>After 10 s measure the temperature again and record it. Repeat every 10 s, until at least 1 minute after the ice has melted.</item>
+<item>Heat some water in a beaker until it boils. Measure and record the temperature of the water.</item>
+<item>Remove the water from the heat and measure the temperature every 10 s, until the beaker is cool to touch</item>
+</list>
+</para>
+<note id="eip-282" type="warning">Be careful when handling the beaker of hot water. Do not touch the beaker with your hands, you will burn yourself.</note><para id="eip-863"><title>Results</title>Record your results in the following table:
+ <table id="uid434" summary="Summary of properties">
+<tgroup cols="4"><tbody>
+            <row>
+              <entry>
+                <emphasis effect="bold">Temperature of ice</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">Time (s)</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">Temperature of water</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">Time (s)</emphasis>
+              </entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+             <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        
+
+</tgroup><caption>Table of results</caption>
+</table>
+Plot a graph of temperature against time for the ice melting and the boiling water cooling. 
+</para>
+<para id="eip-864"><title>Discussion and conclusion</title>Discuss your results with others in your class. What conclusions can you draw? You should find that the temperature of the ice increases until the first drops of liquid appear and then the temperature remains the same, until all the ice is melted. You should also find that when you cool water down from boiling, the temperature remains constant for a while, then starts decreasing. 
+</para></section><para id="eip-25">In the above experiment, you investigated the heating and cooling curves of water. We can draw heating and cooling curves for any substance. A heating curve of a substance gives the changes in temperature as we move from a solid to a liquid to a gas. A cooling curve gives the changes in temperature as we move from gas to liquid to solid. An important observation is that as a substance melts or boils, the temperature remains constant until the substance has changed state. This is because all the heat energy goes into breaking or forming the forces between the molecules. </para><para id="eip-166">The above experiment is one way of demonstrating the changes of state of a substance. Ice melting or water boiling should be very familiar to you. </para>
+</section>
+
+</content>
+
+</document>

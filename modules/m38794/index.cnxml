@@ -1,0 +1,521 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Acceleration</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38794</md:content-id>
+  <md:title>Acceleration</md:title>
+  <md:abstract/>
+  <md:uuid>fefbe004-851d-428b-b194-0a82c8a1535b</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid6"><title>Acceleration</title><definition id="fhsst_id1326"><term id="termfhsst_id1326"> Acceleration </term> <meaning id="meaningfhsst_id1326">
+      <para id="id67550">Acceleration is the rate of change of velocity. </para>
+      </meaning></definition>
+      <para id="id67562">Acceleration (symbol <m:math overflow="scroll"><m:mi>a</m:mi></m:math>) is the rate of change of velocity. It is a measure of how fast the velocity of an object changes in time. If we have a change in velocity (<m:math overflow="scroll"><m:mrow><m:mi>Δ</m:mi><m:mi>v</m:mi></m:mrow></m:math>) over a time interval (<m:math overflow="scroll"><m:mrow><m:mi>Δ</m:mi><m:mi>t</m:mi></m:mrow></m:math>), then the acceleration (<m:math overflow="scroll"><m:mi>a</m:mi></m:math>) is defined as:</para>
+      <equation id="id67610">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mrow>
+              <m:mi> acceleration </m:mi>
+              <m:mspace width="4pt"/>
+              <m:mo>(</m:mo>
+              <m:mi> in </m:mi>
+              <m:mspace width="4pt"/>
+              <m:mi mathvariant="normal">m</m:mi>
+            </m:mrow>
+            <m:mo>·</m:mo>
+            <m:msup>
+              <m:mi mathvariant="normal">s</m:mi>
+              <m:mrow>
+                <m:mo>-</m:mo>
+                <m:mn>2</m:mn>
+              </m:mrow>
+            </m:msup>
+            <m:mrow>
+              <m:mo>)</m:mo>
+              <m:mo>=</m:mo>
+            </m:mrow>
+            <m:mfrac>
+              <m:mrow>
+                <m:mrow>
+                  <m:mi> change </m:mi>
+                  <m:mspace width="4pt"/>
+                  <m:mi> in </m:mi>
+                  <m:mspace width="4pt"/>
+                  <m:mi> velocity </m:mi>
+                  <m:mspace width="4pt"/>
+                  <m:mo>(</m:mo>
+                  <m:mi> in </m:mi>
+                  <m:mspace width="4pt"/>
+                  <m:mi mathvariant="normal">m</m:mi>
+                </m:mrow>
+                <m:mo>·</m:mo>
+                <m:mrow>
+                  <m:msup>
+                    <m:mi mathvariant="normal">s</m:mi>
+                    <m:mrow>
+                      <m:mo>-</m:mo>
+                      <m:mn>1</m:mn>
+                    </m:mrow>
+                  </m:msup>
+                  <m:mrow>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                </m:mrow>
+              </m:mrow>
+              <m:mrow>
+                <m:mi> change </m:mi>
+                <m:mspace width="4pt"/>
+                <m:mi> in </m:mi>
+                <m:mspace width="4pt"/>
+                <m:mi> time </m:mi>
+                <m:mspace width="4pt"/>
+                <m:mo>(</m:mo>
+                <m:mi> in </m:mi>
+                <m:mspace width="4pt"/>
+                <m:mi mathvariant="normal">s</m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+            </m:mfrac>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <equation id="id67742">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>a</m:mi>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mrow>
+                <m:mi>Δ</m:mi>
+                <m:mi>v</m:mi>
+              </m:mrow>
+              <m:mrow>
+                <m:mi>Δ</m:mi>
+                <m:mi>t</m:mi>
+              </m:mrow>
+            </m:mfrac>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id67769">Since velocity is a vector, acceleration is also a vector. Acceleration does not provide any information about a motion, but only about how the motion changes. It is not possible to tell how fast an object is moving or in which direction from the acceleration.</para>
+      <para id="id67775">Like velocity, acceleration can be negative or positive. We see that when the sign of the acceleration and the velocity are the same, the object is speeding up. If both velocity and acceleration are positive, the object is speeding up in a positive direction. If both velocity and acceleration are negative, the object is speeding up in a negative direction.
+If velocity is positive and acceleration is negative, then the object is slowing down. Similarly, if the velocity is negative and the acceleration is positive the object is slowing down. This is illustrated in the following worked example.</para>
+<exercise id="secfhsst_id1419"><title> Acceleration </title>
+      <problem id="probfhsst_id1420">
+      <para id="id67798">A car accelerates uniformly from an initial velocity of 2 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math> to a final velocity of 10 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mn>1</m:mn></m:msup></m:math> in 8 seconds. It then slows down uniformly to a final velocity of 4 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math> in 6 seconds. Calculate the acceleration of the car during the first 8 seconds and during the last 6 seconds. </para>
+      </problem>
+      <solution id="solfhsst_id1423"> <list id="listfhsst_id1423" list-type="enumerated" number-style="arabic" class="stepwise">
+      <item> <label> Identify what information is given and what is asked for: </label>
+      <para id="id67896">Consider the motion of the car in two parts: the first 8 seconds and the last 6 seconds.</para>
+      <para id="id67900">For the first 8 seconds:</para>
+      <equation id="id67906">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:msub>
+                  <m:mi>v</m:mi>
+                  <m:mi>i</m:mi>
+                </m:msub>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>2</m:mn>
+                  <m:mspace width="3.33333pt"/>
+                  <m:mi mathvariant="normal">m</m:mi>
+                  <m:mo>·</m:mo>
+                  <m:msup>
+                    <m:mrow>
+                      <m:mi mathvariant="normal">s</m:mi>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mo>-</m:mo>
+                      <m:mn>1</m:mn>
+                    </m:mrow>
+                  </m:msup>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:msub>
+                  <m:mi>v</m:mi>
+                  <m:mi>f</m:mi>
+                </m:msub>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>10</m:mn>
+                  <m:mspace width="3.33333pt"/>
+                  <m:mi mathvariant="normal">m</m:mi>
+                  <m:mo>·</m:mo>
+                  <m:msup>
+                    <m:mrow>
+                      <m:mi mathvariant="normal">s</m:mi>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mo>-</m:mo>
+                      <m:mn>1</m:mn>
+                    </m:mrow>
+                  </m:msup>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:msub>
+                  <m:mi>t</m:mi>
+                  <m:mi>i</m:mi>
+                </m:msub>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>0</m:mn>
+                  <m:mspace width="3.33333pt"/>
+                  <m:mi mathvariant="normal">s</m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:msub>
+                  <m:mi>t</m:mi>
+                  <m:mi>f</m:mi>
+                </m:msub>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>8</m:mn>
+                  <m:mspace width="3.33333pt"/>
+                  <m:mi mathvariant="normal">s</m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      <!--empty paragraphs get left behind.-->
+      <para id="id68072">For the last 6 seconds:</para>
+      <equation id="id68078">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:msub>
+                  <m:mi>v</m:mi>
+                  <m:mi>i</m:mi>
+                </m:msub>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>10</m:mn>
+                  <m:mspace width="3.33333pt"/>
+                  <m:mi mathvariant="normal">m</m:mi>
+                  <m:mo>·</m:mo>
+                  <m:msup>
+                    <m:mrow>
+                      <m:mi mathvariant="normal">s</m:mi>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mo>-</m:mo>
+                      <m:mn>1</m:mn>
+                    </m:mrow>
+                  </m:msup>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:msub>
+                  <m:mi>v</m:mi>
+                  <m:mi>f</m:mi>
+                </m:msub>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>4</m:mn>
+                  <m:mspace width="3.33333pt"/>
+                  <m:mi mathvariant="normal">m</m:mi>
+                  <m:mo>·</m:mo>
+                  <m:msup>
+                    <m:mrow>
+                      <m:mi mathvariant="normal">s</m:mi>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mo>-</m:mo>
+                      <m:mn>1</m:mn>
+                    </m:mrow>
+                  </m:msup>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:msub>
+                  <m:mi>t</m:mi>
+                  <m:mi>i</m:mi>
+                </m:msub>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>8</m:mn>
+                  <m:mspace width="3.33333pt"/>
+                  <m:mi mathvariant="normal">s</m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:msub>
+                  <m:mi>t</m:mi>
+                  <m:mi>f</m:mi>
+                </m:msub>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>14</m:mn>
+                  <m:mspace width="3.33333pt"/>
+                  <m:mi mathvariant="normal">s</m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      </item> <item> <label> Calculate the acceleration. </label>
+      <para id="id68246">For the first 8 seconds:</para>
+      <equation id="id68252"><m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>a</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mfrac>
+                  <m:mrow>
+                    <m:mi>Δ</m:mi>
+                    <m:mi>v</m:mi>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mi>Δ</m:mi>
+                    <m:mi>t</m:mi>
+                  </m:mrow>
+                </m:mfrac>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mfrac>
+                  <m:mrow>
+                    <m:mn>10</m:mn>
+                    <m:mi mathvariant="normal">m</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:msup>
+                      <m:mi>s</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                    <m:mo>-</m:mo>
+                    <m:mn>2</m:mn>
+                    <m:mi mathvariant="normal">m</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:msup>
+                      <m:mi mathvariant="normal">s</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mn>8</m:mn>
+                    <m:mi mathvariant="normal">s</m:mi>
+                    <m:mo>-</m:mo>
+                    <m:mn>0</m:mn>
+                    <m:mi mathvariant="normal">s</m:mi>
+                  </m:mrow>
+                </m:mfrac>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>1</m:mn>
+                  <m:mspace width="3.33333pt"/>
+                  <m:mi mathvariant="normal">m</m:mi>
+                  <m:mo>·</m:mo>
+                  <m:msup>
+                    <m:mrow>
+                      <m:mi mathvariant="normal">s</m:mi>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mo>-</m:mo>
+                      <m:mn>2</m:mn>
+                    </m:mrow>
+                  </m:msup>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      <!--empty paragraphs get left behind.-->
+      <para id="id68396">For the next 6 seconds:</para>
+      <equation id="id68402"><m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>a</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mfrac>
+                  <m:mrow>
+                    <m:mi>Δ</m:mi>
+                    <m:mi>v</m:mi>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mi>Δ</m:mi>
+                    <m:mi>t</m:mi>
+                  </m:mrow>
+                </m:mfrac>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mfrac>
+                  <m:mrow>
+                    <m:mn>4</m:mn>
+                    <m:mi mathvariant="normal">m</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:msup>
+                      <m:mi mathvariant="normal">s</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                    <m:mo>-</m:mo>
+                    <m:mn>10</m:mn>
+                    <m:mi mathvariant="normal">m</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:msup>
+                      <m:mi mathvariant="normal">s</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mn>14</m:mn>
+                    <m:mi mathvariant="normal">s</m:mi>
+                    <m:mo>-</m:mo>
+                    <m:mn>8</m:mn>
+                    <m:mi mathvariant="normal">s</m:mi>
+                  </m:mrow>
+                </m:mfrac>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mo>-</m:mo>
+                  <m:mn>1</m:mn>
+                  <m:mspace width="3.33333pt"/>
+                  <m:mi mathvariant="normal">m</m:mi>
+                  <m:mo>·</m:mo>
+                  <m:msup>
+                    <m:mrow>
+                      <m:mi mathvariant="normal">s</m:mi>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mo>-</m:mo>
+                      <m:mn>2</m:mn>
+                    </m:mrow>
+                  </m:msup>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      <para id="id68543">During the first 8 seconds the car had a positive acceleration. This means that its velocity increased. The velocity is positive so the car is speeding up.
+During the next 6 seconds the car had a negative acceleration. This means that its velocity decreased. The velocity is negative so the car is slowing down. </para>
+      </item> </list> </solution>
+</exercise>
+<note id="notfhsst_id1812" type="tip">Acceleration does not tell us about the direction of the motion. Acceleration only tells us how the velocity changes.</note>
+<note id="notfhsst_id1813" type="tip"><title>Deceleration</title>Avoid the use of the word <emphasis effect="italics">deceleration</emphasis> to refer to a negative acceleration. This word usually means <emphasis effect="italics">slowing down</emphasis> and it is possible for an object to slow down with both a positive and negative acceleration, because the sign of the velocity of the object must also be taken into account to determine whether the body is slowing down or not.</note>
+<section id="secfhsst_id1815"><title> Acceleration </title>
+      <list id="id62523" display="block" list-type="enumerated"><item id="uid78">An athlete is accelerating uniformly from an initial velocity of 0 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>to a final velocity of 4 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>in 2 seconds. Calculate his acceleration. Let the direction that the athlete is running in be the positive direction.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/l1k">Click here for the solution</link>
+</item>
+        <item id="uid79">A bus accelerates uniformly from an initial velocity of 15 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>to a final velocity of 7 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>in 4 seconds. Calculate the acceleration of the bus. Let the direction of motion of the bus be the positive direction.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/l10">Click here for the solution</link>
+</item>
+        <item id="uid80">An aeroplane accelerates uniformly from an initial velocity of 200 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>to a velocity of 100 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>in 10 seconds. It then accelerates uniformly to a final velocity of 240 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>in 20 seconds. Let the direction of motion of the aeroplane be the positive direction.
+<list id="id68889" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid81">Calculate the acceleration of the aeroplane during the first 10 seconds of the motion.
+</item><item id="uid82">Calculate the acceleration of the aeroplane during the next 14 seconds of its motion.
+</item></list><link class="fullmarks" window="new" url="http://www.fhsst.org/l18">Click here for the solution</link></item>
+      </list>
+      
+</section><para id="eip-307">The following video provides a summary of distance, velocity and acceleration. Note that in this video a different convention for writing units is used. You should not use this convention when writing units in physics.
+<figure id="motion-1" class="khanacademy">
+	  <title>Khan academy video on motion - 1</title>
+	  <media id="yt-media1" display="block" alt="video on motion 1">
+	  <flash id="yt-video1" mime-type="application/x-shockwave-flash" src="http://www.youtube.com/v/8wZugqi_uCg&amp;rel=0" width="425" height="344">
+	  <param name="allowscriptaccess" value="always"/>
+	  <param name="allowsfullscreen" value="true"/>
+	  </flash>
+	  </media>
+	  </figure></para>
+    </section>
+
+  </content>
+</document>

@@ -1,0 +1,277 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Ionisation energy and trends</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38757</md:content-id>
+  <md:title>Ionisation energy and trends</md:title>
+  <md:abstract/>
+  <md:uuid>2dbcc883-281e-449b-9741-dc5bfbc1b3b6</md:uuid>
+</metadata>
+
+<content>
+<section id="cid8">
+      <title>Ionisation Energy and the Periodic Table</title>
+      <section id="uid120"><title>Ions</title><para id="id260625">In the previous section, we focused our attention on the electron configuration of <emphasis effect="italics">neutral</emphasis> atoms. In a neutral atom, the number of protons is the same as the number of electrons. But what happens if an atom <emphasis effect="italics">gains</emphasis> or <emphasis effect="italics">loses</emphasis> electrons? Does it mean that the atom will still be part of the same element?</para>
+        <para id="id260647">A change in the number of electrons of an atom does not change the type of atom that it is. However, the <emphasis effect="italics">charge</emphasis> of the atom will change. If electrons are added, then the atom will become <emphasis effect="italics">more negative</emphasis>. If electrons are taken away, then the atom will become <emphasis effect="italics">more positive</emphasis>. The atom that is formed in either of these cases is called an <emphasis effect="bold">ion</emphasis>. Put simply, an ion is a charged atom.</para>
+<definition id="fhsst_id815"><term id="termfhsst_id815"> Ion </term> <meaning id="meaningfhsst_id815">
+        <para id="id260685">An ion is a charged atom. A positively charged ion is called a <emphasis effect="bold">cation</emphasis> e.g. <m:math><m:msup><m:mi mathvariant="normal">Na</m:mi><m:mo>+</m:mo></m:msup></m:math>, and a negatively charged ion is called an <emphasis effect="bold">anion</emphasis> e.g. <m:math><m:msup><m:mi mathvariant="normal">F</m:mi><m:mo>-</m:mo></m:msup></m:math>. The charge on an ion depends on the number of electrons that have been lost or gained. </para>
+        </meaning></definition>
+        <para id="eip-879">But how do we know how many electrons an atom will gain or lose? Remember what we said about stability? We said that all atoms are trying to get a full outer shell. For the elements on the left hand side of the periodic table the easiest way to do this is to lose electrons and for the elements on the right of the periodic table the easiest way to do this is to gain electrons. So the elements on the left of the periodic table will form cations and the elements on the right hand side of the periodic table will form anions. By doing this the elements can be in the most stable electronic configuration and so be as stable as the noble gases.</para><para id="id260742">Look at the following examples. Notice the number of valence electrons in the neutral atom, the number of electrons that are lost or gained and the final charge of the ion that is formed.</para>
+        <para id="id260747">
+          <title>Lithium</title>
+A lithium atom loses one electron to form a positive ion:
+        <figure id="uid121">
+          <media id="uid121_media" alt="">
+            <image mime-type="image/png" src="../../media/CG10C3_012-144f.png" id="uid121_onlineimage" width="449"><!-- NOTE: attribute width changes image size online (pixels). original width is 449. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG10C3_012-015e.eps" id="uid121_printimage"/>
+          </media>
+          <caption>The arrangement of electrons in a lithium ion.</caption>
+        </figure>
+In this example, the lithium atom loses an electron to form the cation <m:math><m:msup><m:mi mathvariant="normal">Li</m:mi><m:mo>+</m:mo></m:msup></m:math>.</para>
+        <para id="id260803">
+          <title>Fluorine</title>
+A fluorine atom gains one electron to form a negative ion:
+        <figure id="uid122">
+          <media id="uid122_media" alt="">
+            <image mime-type="image/png" src="../../media/CG10C3_013-fb13.png" id="uid122_onlineimage" width="325"><!-- NOTE: attribute width changes image size online (pixels). original width is 325. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG10C3_013-b4d4.eps" id="uid122_printimage"/>
+          </media>
+          <caption>The arrangement of electrons in a fluorine ion.</caption>
+        </figure></para>
+<para id="eip-273">You should have noticed in both these examples that each element lost or gained electrons to make a full outer shell.</para><section id="secfhsst_id842"><title> Investigation : The formation of ions
+        </title>
+        <list id="id260856" display="block" list-type="enumerated">
+          <item id="uid123">Use the diagram for lithium as a guide and draw similar diagrams to show how each of the following ions is formed:
+<list id="id260872" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid124"><m:math><m:msup><m:mi mathvariant="normal">Mg</m:mi><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup></m:math> </item><item id="uid125"><m:math><m:msup><m:mi mathvariant="normal">Na</m:mi><m:mo>+</m:mo></m:msup></m:math> </item><item id="uid126"><m:math><m:msup><m:mi mathvariant="normal">Cl</m:mi><m:mo>-</m:mo></m:msup></m:math> </item><item id="uid127"><m:math><m:msup><m:mi mathvariant="normal">O</m:mi><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup></m:math> </item></list></item>
+          <item id="uid128">Do you notice anything interesting about the charge on each of these ions? Hint: Look at the number of valence electrons in the neutral atom and the charge on the final ion.
+</item>
+        </list>
+        
+</section>
+        <para id="id261008"><title>Observations: </title><newline/>Once you have completed the activity, you should notice that:
+        <list id="id261012" display="block" list-type="bulleted"><item id="uid129">In each case the number of electrons that is either gained or lost, is the same as the number of electrons that are needed for the atoms to achieve a full outer energy level.
+</item>
+          <item id="uid130">If you look at an energy level diagram for sodium (<m:math><m:mi>Na</m:mi></m:math>), you will see that in a neutral atom, there is only one valence electron. In order to achieve a full outer energy level, and therefore a more stable state for the atom, this electron will be <emphasis effect="italics">lost</emphasis>.
+</item>
+          <item id="uid131">In the case of oxygen (<m:math><m:mi mathvariant="normal">O</m:mi></m:math>), there are six valence electrons. To achieve a full energy level, it makes more sense for this atom to <emphasis effect="italics">gain</emphasis> two electrons. A negative ion is formed.
+</item>
+        </list></para><section id="eip-531"><title>Exercise: The formation of ions</title><para id="id261135">Match the information in column A with the information in column B by writing only the letter (A to I) next to the question number (1 to 7)
+        <table id="id261142" summary="">
+          <tgroup cols="2">
+            <tbody>
+              <row>
+                <entry>1. A positive ion that has 3 less electrons than its neutral atom</entry>
+                <entry>A. <m:math><m:msup><m:mi mathvariant="normal">Mg</m:mi><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup></m:math></entry>
+              </row>
+              <row>
+                <entry>2. An ion that has 1 more electron than its neutral atom</entry>
+                <entry>B. <m:math><m:msup><m:mi mathvariant="normal">Cl</m:mi><m:mo>-</m:mo></m:msup></m:math></entry>
+              </row>
+              <row>
+                <entry>3. The anion that is formed when bromine gains an electron</entry>
+                <entry>C. <m:math overflow="scroll"><m:msubsup><m:mi>CO</m:mi><m:mrow><m:mn>3</m:mn></m:mrow><m:mrow><m:mn>2</m:mn><m:mo>-</m:mo></m:mrow></m:msubsup></m:math></entry>
+              </row>
+              <row>
+                <entry>4. The cation that is formed from a magnesium atom</entry>
+                <entry>D. <m:math><m:msup><m:mi mathvariant="normal">Al</m:mi><m:mrow><m:mn>3</m:mn><m:mo>+</m:mo></m:mrow></m:msup></m:math></entry>
+              </row>
+              <row>
+                <entry>5. An example of a compound ion</entry>
+                <entry>E. <m:math><m:msup><m:mi mathvariant="normal">Br</m:mi><m:mrow><m:mn>2</m:mn><m:mo>-</m:mo></m:mrow></m:msup></m:math></entry>
+              </row>
+              <row>
+                <entry>6. A positive ion with the electron configuration of argon</entry>
+                <entry>F. <m:math><m:msup><m:mi mathvariant="normal">K</m:mi><m:mo>+</m:mo></m:msup></m:math></entry>
+              </row>
+              <row>
+                <entry>7. A negative ion with the electron configuration of neon</entry>
+                <entry>G. <m:math><m:msup><m:mi mathvariant="normal">Mg</m:mi><m:mo>+</m:mo></m:msup></m:math></entry>
+              </row>
+              <row>
+                <entry/>
+                <entry>H. <m:math><m:msup><m:mi mathvariant="normal">O</m:mi><m:mrow><m:mn>2</m:mn><m:mo>-</m:mo></m:mrow></m:msup></m:math></entry>
+              </row>
+              <row>
+                <entry/>
+                <entry>I. <m:math><m:msup><m:mi mathvariant="normal">Br</m:mi><m:mo>-</m:mo></m:msup></m:math></entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+<link class="fullmarks" window="new" resource="http://www.fhsst.org/lid">Click here for the solution</link></para></section>
+      </section>
+      <section id="uid132"><title>Ionisation Energy</title><para id="id261078">Ionisation energy is the energy that is needed to remove one electron from an atom in the gas phase. The ionisation energy will be different for different atoms.</para>
+        <note id="eip-622" type="tip">When we talk of ionisation energies and calculate these energies the atoms or molecules involved are in the gas phase.</note><para id="id261083">The second ionisation energy is the energy that is needed to remove a second electron from an atom, and so on. As an energy level becomes more full, it becomes more and more difficult to remove an electron and the ionisation energy <emphasis effect="italics">increases</emphasis>. On the Periodic Table of the Elements, a <emphasis effect="italics">group</emphasis> is a vertical column of the elements, and a <emphasis effect="italics">period</emphasis> is a horizontal row. In the periodic table, ionisation energy <emphasis effect="italics">increases</emphasis> across a period, but <emphasis effect="italics">decreases</emphasis> as you move down a group. The lower the ionisation energy, the more reactive the element will be because there is a greater chance of electrons being involved in chemical reactions. We will look at this in more detail in the next section.</para>
+<section id="eip-865"><title>Trends in ionisation energy</title><para id="id261960">Refer to the data table below which gives the ionisation energy (in <m:math overflow="scroll"><m:mi>kJ</m:mi><m:mo>·</m:mo><m:mi>mol</m:mi><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>) and atomic number (Z) for a number of elements in the periodic table:
+        <table id="id261984" summary="">
+          <tgroup cols="4">
+            <tbody>
+              <row>
+                <entry>
+                  <emphasis effect="bold">Z</emphasis>
+                </entry>
+                <entry>Ionisation energy</entry>
+                <entry>
+                  <emphasis effect="bold">Z</emphasis>
+                </entry>
+                <entry>Ionisation energy</entry>
+              </row>
+              <row>
+                <entry>1</entry>
+                <entry>1310</entry>
+                <entry>10</entry>
+                <entry>2072</entry>
+              </row>
+              <row>
+                <entry>2</entry>
+                <entry>2360</entry>
+                <entry>11</entry>
+                <entry>494</entry>
+              </row>
+              <row>
+                <entry>3</entry>
+                <entry>517</entry>
+                <entry>12</entry>
+                <entry>734</entry>
+              </row>
+              <row>
+                <entry>4</entry>
+                <entry>895</entry>
+                <entry>13</entry>
+                <entry>575</entry>
+              </row>
+              <row>
+                <entry>5</entry>
+                <entry>797</entry>
+                <entry>14</entry>
+                <entry>783</entry>
+              </row>
+              <row>
+                <entry>6</entry>
+                <entry>1087</entry>
+                <entry>15</entry>
+                <entry>1051</entry>
+              </row>
+              <row>
+                <entry>7</entry>
+                <entry>1397</entry>
+                <entry>16</entry>
+                <entry>994</entry>
+              </row>
+              <row>
+                <entry>8</entry>
+                <entry>1307</entry>
+                <entry>17</entry>
+                <entry>1250</entry>
+              </row>
+              <row>
+                <entry>9</entry>
+                <entry>1673</entry>
+                <entry>18</entry>
+                <entry>1540</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <!--empty paragraphs get left behind.-->
+        <list id="id262371" display="block" list-type="enumerated">
+          <item id="uid152">Draw a line graph to show the relationship between atomic number (on the x-axis) and ionisation energy (y-axis).
+</item>
+          <item id="uid153">Describe any trends that you observe.
+</item>
+          <item id="uid154">Explain why...
+<list id="id262412" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid155">the ionisation energy for <m:math><m:mi>Z</m:mi><m:mo>=</m:mo><m:mn>2</m:mn></m:math> is higher than for <m:math><m:mi>Z</m:mi><m:mo>=</m:mo><m:mn>1</m:mn></m:math>
+</item><item id="uid156">the ionisation energy for <m:math><m:mi>Z</m:mi><m:mo>=</m:mo><m:mn>3</m:mn></m:math> is lower than for <m:math><m:mi>Z</m:mi><m:mo>=</m:mo><m:mn>2</m:mn></m:math>
+</item><item id="uid157">the ionisation energy increases between <m:math><m:mi>Z</m:mi><m:mo>=</m:mo><m:mn>5</m:mn></m:math> and <m:math><m:mi>Z</m:mi><m:mo>=</m:mo><m:mn>7</m:mn></m:math>
+</item></list></item>
+        </list><link window="new" class="fullmarks" resource="http://www.fhsst.org/liv">Click here for the solution</link></para>
+        </section><para id="eip-6"><figure id="periodictable-3" class="khanacademy"><title>Khan academy video on periodic table - 2</title><media id="yt-media3" display="block" alt="video on periodic table 2">
+	  <flash id="yt-video3" mime-type="application/x-shockwave-flash" src="http://www.youtube.com/v/ywqg9PorTAw&amp;rel=0" width="425" height="344">
+	  <param name="allowscriptaccess" value="always"/>
+	  <param name="allowsfullscreen" value="true"/>
+	  </flash>
+	  </media>
+	  </figure></para>
+      </section>
+        <para id="id261577">The characteristics of each group are mostly determined by the electron configuration of the atoms of the element.</para>
+        <list id="id261581" display="block" list-type="bulleted"><item id="uid135"><emphasis effect="italics">Group 1:</emphasis> These elements are known as the <emphasis effect="bold">alkali metals</emphasis> and they are very reactive. Note that although hydrogen appears in group 1, it is not an alkali metal.
+<figure id="uid139"><media id="uid139_media" alt=""><image mime-type="image/png" src="../../media/CG10C3_015-4535.png" id="uid139_onlineimage" width="336"><!-- NOTE: attribute width changes image size online (pixels). original width is 436. --></image><image mime-type="application/postscript" for="pdf" src="../../media/CG10C3_015-f06c.eps" id="uid139_printimage"/></media><caption>Electron diagrams for some of the Group 1 elements, with sodium and potasium incomplete; to be completed as an excersise.</caption></figure></item>
+          <item id="uid140"><emphasis effect="italics">Group 2:</emphasis> These elements are known as the <emphasis effect="bold">alkali earth metals</emphasis>. Each element only has two valence electrons and so in chemical reactions, the group 2 elements tend to <emphasis effect="italics">lose</emphasis> these electrons so that the energy shells are complete. These elements are less reactive than those in group 1 because it is more difficult to lose two electrons than it is to lose one.
+</item>
+          <item id="uid141"><emphasis effect="italics">Group 13</emphasis> elements have three valence electrons.
+</item>
+<item id="id6232"><emphasis effect="italics">Group 16:</emphasis> These elements are sometimes known as the chalcogens. These elements are fairly reactive and tend to gain electrons to fill their outer shell.
+</item>
+          <item id="uid142"><emphasis effect="italics">Group 17:</emphasis> These elements are known as the <emphasis effect="bold">halogens</emphasis>. Each element is missing just one electron from its outer energy shell. These elements tend to <emphasis effect="italics">gain</emphasis> electrons to fill this shell, rather than losing them. These elements are also very reactive.
+</item>
+          <item id="uid143"><emphasis effect="italics">Group 18:</emphasis> These elements are the <emphasis effect="bold">noble gases</emphasis>. All of the energy shells of the halogens are full and so these elements are very unreactive.
+<figure id="uid144"><media id="uid144_media" alt=""><image mime-type="image/png" src="../../media/CG10C3_016-2ee2.png" id="uid144_onlineimage" width="173"><!-- NOTE: attribute width changes image size online (pixels). original width is 173. --></image><image mime-type="application/postscript" for="pdf" src="../../media/CG10C3_016-e84b.eps" id="uid144_printimage"/></media><caption>Electron diagrams for two of the noble gases, helium (<m:math><m:mi mathvariant="normal">He</m:mi></m:math>) and neon (<m:math><m:mi mathvariant="normal">Ne</m:mi></m:math>).</caption></figure></item>
+          <item id="uid145"><emphasis effect="italics">Transition metals:</emphasis> The differences between groups in the transition metals are not usually dramatic.
+</item>
+        </list>
+<note id="eip-522"><title>Interestng fact</title>Group 15 on the periodic table is sometimes called the pnictogens.</note><section id="secfhsst_id936"><title>Investigation : The properties of elements </title><para id="uid798724">Refer to <link target-id="uid139"/>.
+<list id="id261630" display="block" list-type="enumerated"><item id="uid136">Use a periodic table to help you to complete the last two diagrams for sodium (<m:math><m:mi mathvariant="normal">Na</m:mi></m:math>) and potassium (<m:math><m:mi mathvariant="normal">K</m:mi></m:math>).
+</item><item id="uid137">What do you notice about the number of electrons in the valence energy level in each case?
+</item><item id="uid138">Explain why elements from group 1 are more reactive than elements from group 2 on the periodic table (Hint: Think about the 'ionisation energy').
+</item></list></para>
+</section>
+<para id="eip-921">You should also be able to indicate where metals, non-metals and metalloids are found on the periodic table. If you do not recall where these lie, then refer to classification of matter.</para><para id="eip-215">By now you should have an appreciation of what the periodic table can tell us. The periodic table does not just list the elements, but tells chemists what the properties of elements are, how the elements will combine and many other useful facts. The periodic table is truly an amazing resource. Into one simple table, chemists have packed so many facts and data that can easily be seen with a glance. The periodic table is a crucial part of chemistry and you should never go to science class without it.</para><para id="eip-325">The following presentation provides a summary of the periodic table<figure id="slidesharefigure" class="slideshare">
+    	<media id="slidesharemedia" alt="Powerpoint presentation on the periodic table">
+    	<flash id="slideshareflash" height="355" width="425" mime-type="application/x-shockwave-flash" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=periodictableintroduction-100510044643-phpapp01&amp;stripped_title=periodic-table-introduction">
+    	<param name="allowScriptAccess" value="always"/>
+    	<param name="allowFullScreen" value="true"/>
+    	</flash>
+    	</media>
+    	</figure></para>
+    </section>
+    <section id="eip-572"><title>Summary</title><list id="uid0123"><item id="id79342">Elements are arranged in periods and groups on the periodic table. The elements are arranged according to increasing atomic number. 
+</item>
+<item id="id97342">A <emphasis effect="bold">group</emphasis> is a column on the periodic table containing elements with similar properties. A <emphasis effect="bold">period</emphasis> is a row on the periodic table.
+</item>
+<item>The groups on the periodic table are labeled from 1 to 8. The first group is known as the alkali metals, the second group is known as the alkali earth metals, the seventh group is known as the halogens and the eighth group is known as the noble gases. Each group has the same properties.</item>
+<item>Several trends such as ionisation energy and atomic diameter can be seen across the periods of the periodic table</item>
+<item id="uid184">An <emphasis effect="bold">ion</emphasis> is a charged atom. A <emphasis effect="bold">cation</emphasis> is a positively charged ion and an <emphasis effect="bold">anion</emphasis> is a negatively charged ion.
+</item>
+        <item id="uid185">When forming an ion, an atom will lose or gain the number of electrons that will make its valence energy level full.
+</item><item id="uid186">An element's <emphasis effect="bold">ionisation energy</emphasis> is the energy that is needed to remove one electron from an atom.
+</item>
+        <item id="uid187">Ionisation energy increases across a <emphasis effect="bold">period</emphasis> in the periodic table.
+</item>
+        <item id="uid188">Ionisation energy decreases down a <emphasis effect="bold">group</emphasis> in the periodic table.
+</item></list></section><section id="eip-219"><title>End of chapter exercises</title><list id="uid091221" list-type="enumerated" number-style="arabic"><item>For the following questions state whether they are true or false. If they are false, correct the statement. <list id="id073324" list-type="enumerated" number-style="lower-alpha"><item>The group 1 elements are sometimes known as the alkali earth metals.
+</item>
+<item>The group 2 elements tend to lose 2 electrons to form cations.
+</item>
+<item>The group 8 elements are known as the noble gases.</item>
+<item>Group 7 elements are very unreactive.</item>
+<item>The transition elements are found between groups 3 and 4.</item>
+</list><link class="fullmarks" window="new" url="http://www.fhsst.org/l4Z">Click here for the solution</link>
+</item>
+<item>Give one word or term for each of the following:
+<list id="id0734" list-type="enumerated" number-style="lower-alpha"><item>A positive ion
+</item>
+<item>The energy that is needed to remove one electron from an atom</item>
+<item>A horizontal row on the periodic table</item>
+<item>A very reactive group of elements that is missing just one electron from their outer shells.</item>
+</list><link class="fullmarks" window="new" url="http://www.fhsst.org/l4K">Click here for the solution</link>
+</item>
+<item>For each of the following elements give the ion that will be formed:
+<list id="id07324" list-type="enumerated" number-style="lower-alpha"><item>sodium
+</item><item>bromine
+</item><item>magnesium
+</item><item>oxygen
+</item>
+</list><link class="fullmarks" window="new" url=" http://www.fhsst.org/l4B">Click here for the solution</link>
+</item>
+<item id="uid222">The following table shows the first ionisation energies for the elements of period 1 and 2.
+<table id="id263866" summary=""><tgroup cols="3"><tbody><row><entry>Period</entry><entry>Element</entry><entry>First ionisation energy (<m:math overflow="scroll"><m:mrow><m:mi>kJ</m:mi><m:mo>.</m:mo><m:msup><m:mi>mol</m:mi><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:math>)</entry></row><row><entry>1</entry><entry><m:math><m:mi mathvariant="normal">H</m:mi></m:math></entry><entry>1312</entry></row><row><entry/><entry><m:math><m:mi mathvariant="normal">He</m:mi></m:math></entry><entry>2372</entry></row><row><entry/><entry><m:math><m:mi mathvariant="normal">Li</m:mi></m:math></entry><entry>520</entry></row><row><entry/><entry><m:math><m:mi mathvariant="normal">Be</m:mi></m:math></entry><entry>899</entry></row><row><entry/><entry><m:math><m:mi mathvariant="normal">B</m:mi></m:math></entry><entry>801</entry></row><row><entry/><entry><m:math><m:mi mathvariant="normal">C</m:mi></m:math></entry><entry>1086</entry></row><row><entry>2</entry><entry><m:math><m:mi mathvariant="normal">N</m:mi></m:math></entry><entry>1402</entry></row><row><entry/><entry><m:math><m:mi mathvariant="normal">O</m:mi></m:math></entry><entry>1314</entry></row><row><entry/><entry><m:math><m:mi mathvariant="normal">F</m:mi></m:math></entry><entry>1681</entry></row><row><entry/><entry><m:math><m:mi mathvariant="normal">Ne</m:mi></m:math></entry><entry>2081</entry></row></tbody></tgroup></table><list id="id264201" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid223">What is the meaning of the term <emphasis effect="italics">first ionisation energy</emphasis>?
+</item><item id="uid224">Identify the pattern of first ionisation energies in a period.
+</item><item id="uid225">Which TWO elements exert the strongest attractive forces on their electrons? Use the data in the table to give a reason for your answer.
+</item><item id="uid226">Draw Aufbau diagrams for the TWO elements you listed in the previous question and explain why these elements are so stable.
+</item><item id="uid227">It is safer to use helium gas than hydrogen gas in balloons. Which property of helium makes it a safer option?
+</item><item id="uid228">'Group 1 elements readily form positive ions'.
+Is this statement correct? Explain your answer by referring to the table.
+</item></list><link class="fullmarks" window="new" resource="http://www.fhsst.org/li6">Click here for the solution</link></item></list></section>
+</content>
+
+</document>

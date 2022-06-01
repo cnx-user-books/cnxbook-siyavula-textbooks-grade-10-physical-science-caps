@@ -1,0 +1,140 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Properties of matter</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38734</md:content-id>
+  <md:title>Properties of matter</md:title>
+  <md:abstract/>
+  <md:uuid>6cbdd9d1-3fae-44b9-a851-b104a97519fa</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid6"><title>The Properties of Matter </title><para id="id309103">Let us now look at what we have learned about chemical 
+bonds, intermolecular forces and the kinetic theory of matter, and see whether 
+this can help us to understand some of the macroscopic properties of materials.
+</para>
+      <list id="id309108" display="block" list-type="enumerated"><item id="uid43"><emphasis effect="bold">Melting point</emphasis>
+<definition id="fhsst_id276"><term id="termfhsst_id276"> Melting point </term> 
+<meaning id="meaningfhsst_id276">
+The temperature at which a <emphasis effect="italics">solid</emphasis> changes 
+its phase or state to become a <emphasis effect="italics">liquid</emphasis>. The 
+process is called melting and the reverse process (change in phase from liquid 
+to solid) is called <emphasis effect="bold">freezing</emphasis>. 
+</meaning></definition>In order for a solid to melt, the energy of the particles 
+must increase enough to overcome the bonds that are holding the particles 
+together. It makes sense then that a solid which is held together by strong 
+bonds will have a <emphasis effect="italics">higher</emphasis> melting point 
+than one where the bonds are weak, because more energy (heat) is needed to break 
+the bonds. In the examples we have looked at metals, ionic solids and some 
+atomic lattices (e.g. diamond) have high melting points, whereas the melting 
+points for molecular solids and other atomic lattices (e.g. graphite) are much 
+lower. Generally, the intermolecular forces between molecular solids are 
+<emphasis effect="italics">weaker</emphasis> than those between ionic and 
+metallic solids.
+</item>
+        <item id="uid44"><emphasis effect="bold">Boiling point</emphasis>
+<definition id="fhsst_id282"><term id="termfhsst_id282"> Boiling point </term> 
+<meaning id="meaningfhsst_id282">
+The temperature at which a <emphasis effect="italics">liquid</emphasis> changes 
+its phase to become a <emphasis effect="italics">gas</emphasis>. The process is 
+called evaporation and the reverse process is called condensation 
+</meaning></definition>When the temperature of a liquid increases, the average 
+kinetic energy of the particles also increases and they are able to overcome 
+the bonding forces that are holding them in the liquid. When boiling point is 
+reached, <emphasis effect="italics">evaporation</emphasis> takes place and some 
+particles in the liquid become a gas. In other words, the energy of the 
+particles is too great for them to be held in a liquid anymore. The stronger the 
+bonds within a liquid, the higher the boiling point needs to be in order to 
+break these bonds. Metallic and ionic compounds have high boiling points while 
+the boiling point for molecular liquids is lower.
+The data in <link target-id="uid45"/> below may help you to understand some of 
+the concepts we have explained. Not all of the substances in the table are 
+solids at room temperature, so for now, let's just focus on the <emphasis effect="italics">boiling points</emphasis> for each of these substances. What do 
+you notice?
+<table id="uid45" summary="The melting and boiling points for a number of substances">
+<tgroup cols="3"><tbody><row><entry><emphasis effect="bold">Substance</emphasis></entry><entry><emphasis effect="bold">Melting 
+point (<m:math overflow="scroll"><m:mrow><m:msup><m:mrow/><m:mo>°</m:mo>
+</m:msup><m:mi mathvariant="normal">C</m:mi></m:mrow></m:math>)</emphasis></entry><entry><emphasis effect="bold">Boiling point (<m:math overflow="scroll"><m:mrow><m:msup><m:mrow/>
+<m:mo>°</m:mo></m:msup><m:mi mathvariant="normal">C</m:mi></m:mrow></m:math>)</emphasis></entry>
+</row><row><entry>Ethanol (<m:math><m:msub><m:mi mathvariant="normal">C</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>6</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi></m:math>)</entry><entry>-
+114,3</entry><entry>78,4</entry></row><row><entry>Water</entry><entry>0</entry>
+<entry>100</entry></row><row><entry>Mercury</entry><entry>-38,83</entry>
+<entry>356,73</entry></row><row><entry>Sodium chloride</entry><entry>801</entry>
+<entry>1465</entry></row></tbody>
+
+</tgroup><caption>The melting and boiling 
+points for a number of substances</caption>
+</table>
+You will have seen that substances such as ethanol, with relatively weak 
+intermolecular forces, have the lowest boiling point, while substances with 
+stronger intermolecular forces such as sodium chloride and mercury, must be 
+heated much more if the particles are to have enough energy to overcome the 
+forces that are holding them together in the liquid. See the <link target-id="secfhsst_id289">section</link> below for a further exercise on boiling point. </item>
+<item id="uid973"><emphasis>Density and viscosity</emphasis><note id="eip-726">Density and viscosity is not in CAPS - Included for Completeness</note><definition id="fhsstid83"><term id="termfhsstid83">Density</term><meaning id="meaningfhsstid83">Density is a measure of the mass of a substance per 
+unit volume.</meaning></definition> The density of a solid is generally higher than that of a liquid 
+because the particles are held much more closely together and therefore there 
+are more particles packed together in a particular volume. In other words, there 
+is a greater mass of the substance in a particular volume. In general, density 
+increases as the strength of the intermolecular forces increases. <definition id="fhsstid84"><term id="termfhsstid84">Viscosity</term><meaning id="meaningfhsstid84">Viscosity is a measure of how resistant a liquid is to 
+flowing (in other words, how easy it is to pour the liquid from one container to 
+another).</meaning></definition> Viscosity is also sometimes described as the 'thickness' of a fluid. 
+Think for example of syrup and how slowly it pours from one container into 
+another. Now compare this to how easy it is to pour water. The viscosity of 
+syrup is greater than the viscosity of water. Once again, the stronger the 
+intermolecular forces in the liquid, the greater its viscosity.
+</item></list>
+<para id="eip-473">It should be clear now that we can explain a lot of 
+the <emphasis effect="bold">macroscopic properties</emphasis> of matter (i.e. 
+the characteristics we can see or observe) by understanding their <emphasis effect="bold">microscopic structure</emphasis> and the way in which the atoms 
+and molecules that make up matter are held together.</para><section id="secfhsst_id289"><title>Exercise: Forces and boiling point </title><para id="uid9732">The table below gives the molecular formula and the boiling point 
+for a number of organic compounds called <emphasis effect="italics">alkanes</emphasis> (more on these compounds in grade 12). Refer 
+to the table and then answer the questions that follow.
+<table id="id309695" summary="Alakane boiling points">
+<tgroup cols="3"><tbody><row><entry>Organic compound</entry><entry>Molecular 
+formula</entry><entry>Boiling point (<m:math overflow="scroll"><m:msup><m:mrow/>
+<m:mo>°</m:mo></m:msup><m:mi mathvariant="normal">C</m:mi></m:math>)</entry></row><row><entry>Methane</entry>
+<entry><m:math><m:msub><m:mi mathvariant="normal">CH</m:mi><m:mn>4</m:mn></m:msub></m:math></entry><entry>-161.6</entry></row><row>
+<entry>Ethane</entry><entry><m:math><m:msub><m:mi mathvariant="normal">C</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>6</m:mn></m:msub></m:math></entry><entry>-
+88.6</entry></row><row><entry>Propane</entry><entry><m:math><m:msub><m:mi mathvariant="normal">C</m:mi><m:mn>3</m:mn></m:msub><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>8</m:mn></m:msub></m:math>
+</entry><entry>-45</entry></row><row><entry>Butane</entry>
+<entry><m:math><m:msub><m:mi mathvariant="normal">C</m:mi><m:mn>4</m:mn></m:msub><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>10</m:mn></m:msub></m:math></entry><entry>-0.5</entry></row><row>
+<entry>Pentane</entry><entry><m:math><m:msub><m:mi mathvariant="normal">C</m:mi><m:mn>5</m:mn></m:msub><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>12</m:mn></m:msub></m:math></entry>
+<entry>36.1</entry></row><row><entry>Hexane</entry>
+<entry><m:math><m:msub><m:mi mathvariant="normal">C</m:mi><m:mn>6</m:mn></m:msub><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>14</m:mn></m:msub></m:math></entry><entry>69</entry></row><row>
+<entry>Heptane</entry><entry><m:math><m:msub><m:mi mathvariant="normal">C</m:mi><m:mn>7</m:mn></m:msub><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>16</m:mn></m:msub></m:math></entry>
+<entry>98.42</entry></row><row><entry>Octane</entry>
+<entry><m:math><m:msub><m:mi mathvariant="normal">C</m:mi><m:mn>8</m:mn></m:msub><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>18</m:mn></m:msub></m:math></entry><entry>125.52</entry></row></tbody>
+
+
+
+
+
+</tgroup>
+</table>Data from: http://www.wikipedia.com<list id="id310184" display="block" list-type="enumerated"><item id="uid46">Draw a 
+graph to show the relationship between the number of carbon atoms in each 
+alkane and its boiling point. (Number of carbon atoms will go on the x-axis and 
+boiling point on the y-axis).
+</item><item id="uid47">Describe what you see.
+</item><item id="uid48">Suggest a reason for what you have observed.
+</item><item id="uid49">Why was it enough for us to use 'number of carbon atoms' 
+as a measure of the molecular weight of the molecules?
+
+</item></list><link window="new" class="fullmarks" url="http://www.fhsst.org/liP">Click 
+here for the solution</link></para>
+
+      
+</section>
+
+
+    </section>
+<para id="eip-661"><figure id="slidesharefigure1" class="slideshare">
+    	<media id="slidesharemedia1" alt="Powerpoint presentation on states of matter">
+    	<flash id="slideshareflash1" height="355" width="425" mime-type="application/x-shockwave-flash" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=phasesofmatter-100510045221-phpapp01&amp;stripped_title=phases-of-matter&amp;userName=kwarne">
+    	<param name="allowScriptAccess" value="always"/>
+    	<param name="allowFullScreen" value="true"/>
+    	</flash>
+    	</media>
+    	</figure></para>
+</content>
+
+</document>

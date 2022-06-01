@@ -1,0 +1,239 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Introduction and key concepts</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38801</md:content-id>
+  <md:title>Introduction and key concepts</md:title>
+  <md:abstract/>
+  <md:uuid>9cf37348-de7a-40f1-9698-e5f76542ce3d</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid2">
+      <title>Introduction</title>
+      <para id="id312450">This chapter forms the basis of the discussion into mechanical waves. Waves are all around us, even though most of us are not aware of it. The most common waves are waves in the sea, but waves can be created in any container of water, ranging from an ocean to a tea-cup. Waves do not only occur in water, they occur in any kind of medium. Earthquakes generate waves that travel through the rock of the Earth. When your friend speaks to you he produces <emphasis effect="italics">sound waves</emphasis> that travel through the air to your ears. Light is made up of electromagnetic waves. A wave is simply moving energy.</para>
+    </section>
+    <section id="cid3">
+      <title>What is a <emphasis effect="italics">medium</emphasis>?</title>
+      <para id="id312816">In this chapter, as well as in the following chapters, we will speak about waves moving in a medium. A medium is just the substance or material through which waves move. In other words the medium carries the wave from one place to another. The medium does not create the wave and the medium is not the wave. Therefore the medium does not travel with the wave as the wave propagates through it. Air is a medium for sound waves, water is a medium for water waves and rock is a medium for earthquakes (which are also a type of wave). Air, water and rock are therefore examples of media (media is the plural of medium).</para>
+<definition id="fhsst_id51"><term id="termfhsst_id51"> Medium </term> <meaning id="meaningfhsst_id51">
+      <para id="id312830">A medium is the substance or material in which a wave will move. </para>
+      </meaning></definition>
+      <para id="id312841">In each medium, the atoms that make up the medium are moved <emphasis effect="italics">temporarily</emphasis> from their rest position. In order for a wave to travel, the different parts of the medium must be able to interact with each other.</para>
+    </section>
+    <section id="cid4"><title>What is a <emphasis effect="italics">pulse</emphasis>?</title><section id="secfhsst_id58"><title> Investigation : Observation of Pulses </title>
+      <para id="id312873">Take a heavy rope. Have two people hold the rope stretched out horizontally. Flick the rope at one end only once.</para>
+      <para id="id312879">
+        <figure id="id312882"><media id="id312882_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C4_001.png" id="id312882_onlineimage" width="208"><!-- NOTE: attribute width changes image size online (pixels). original width is 168. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C4_001.eps" id="id312882_printimage"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id312888">What happens to the disturbance that you created in the rope? Does it stay at the place where it was created or does it move down the length of the rope? </para>
+</section>
+      <para id="id312898">In the activity, we created a <emphasis effect="italics">pulse</emphasis>. A pulse is a <emphasis effect="italics">single</emphasis> disturbance that moves through a medium. In a transverse pulse the displacement of the medium is perpendicular to the direction of motion of the pulse. <link target-id="uid2"/> shows an example of a transverse pulse. In the activity, the rope or spring was held horizontally and the pulse moved the rope up and down. This was an example of a transverse pulse.</para>
+<definition id="fhsst_id71"><term id="termfhsst_id71"> Pulse </term> <meaning id="meaningfhsst_id71">
+      <para id="id312926">A pulse is a single disturbance that moves through a medium. </para>
+      </meaning></definition>
+<definition id="fhsst_id72"><term id="termfhsst_id72"> Transverse Pulse </term> <meaning id="meaningfhsst_id72">
+      <para id="id3129262">A pulse where all of the particles disturbed by the pulse move perpendicular (at a right angle) to the direction in which the pulse is moving. </para>
+      </meaning></definition>
+
+      <section id="uid1">
+        <title>Pulse Length and Amplitude</title>
+        <para id="id312946">The amplitude of a pulse is a measurement of how far the medium is displaced momentarily from a position of rest. The pulse length is a measurement of how long the pulse is. Both these quantities are shown in <link target-id="uid2"/>.</para>
+<definition id="fhsst_id77"><term id="termfhsst_id77"> Amplitude </term> <meaning id="meaningfhsst_id77">
+        <para id="id312963">The amplitude of a pulse is a measurement of how far the medium is displaced from rest. </para>
+        </meaning></definition>
+        <figure id="uid2"><media id="uid2_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C4_002.png" id="uid2_onlineimage" width="269"><!-- NOTE: attribute width changes image size online (pixels). original width is 159. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C4_002.eps" id="uid2_printimage"/>
+          </media>
+          
+        <caption>Example of a transverse pulse</caption></figure>
+<para id="eip-400">The position of rest is the position the medium would be in if it were undisturbed. This is also called the equilibrium position. Sometimes people will use rest and sometimes equilibrium but they will also use to the two in the same discussion to mean the same thing.</para><section id="secfhsst_id87"><title> Investigation : Pulse Length and Amplitude </title>
+        <para id="id312993">The graphs below show the positions of a pulse at different times.</para>
+        <para id="id312998">
+          <figure id="id313002"><media id="id313002_media" alt="">
+              <image mime-type="image/png" src="../../media/PG10C4_003.png" id="id313002_onlineimage" width="298"><!-- NOTE: attribute width changes image size online (pixels). original width is 178. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG10C4_003.eps" id="id313002_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id313008">Use your ruler to measure the lengths of <m:math overflow="scroll"><m:mi>a</m:mi></m:math> and <m:math overflow="scroll"><m:mi>p</m:mi></m:math>. Fill your answers in the table.</para>
+        <table id="id313027" summary="">
+          <tgroup cols="3">
+            <tbody>
+              <row>
+                <entry>Time</entry>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:mi>a</m:mi>
+                  </m:math>
+                </entry>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:mi>p</m:mi>
+                  </m:math>
+                </entry>
+              </row>
+              <row>
+                <entry><m:math overflow="scroll"><m:mrow><m:mi>t</m:mi><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math> s</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry><m:math overflow="scroll"><m:mrow><m:mi>t</m:mi><m:mo>=</m:mo><m:mn>1</m:mn></m:mrow></m:math> s</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry><m:math overflow="scroll"><m:mrow><m:mi>t</m:mi><m:mo>=</m:mo><m:mn>2</m:mn></m:mrow></m:math> s</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry><m:math overflow="scroll"><m:mrow><m:mi>t</m:mi><m:mo>=</m:mo><m:mn>3</m:mn></m:mrow></m:math> s</entry>
+                <entry/>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <!--empty paragraphs get left behind.-->
+        <para id="id313222">What do you notice about the values of <m:math overflow="scroll"><m:mi>a</m:mi></m:math> and <m:math overflow="scroll"><m:mi>p</m:mi></m:math>?
+ </para>
+</section>
+        <para id="id313246">In the activity, we found that the values for how high the pulse (<m:math overflow="scroll"><m:mi>a</m:mi></m:math>) is and how wide the pulse (<m:math overflow="scroll"><m:mi>p</m:mi></m:math>) is the same at different times. <emphasis effect="italics">Pulse length</emphasis> and <emphasis effect="italics">amplitude</emphasis> are two important quantities of a pulse.</para>
+      </section>
+      <section id="uid3">
+        <title>Pulse Speed</title>
+<definition id="fhsst_id145"><term id="termfhsst_id145"> Pulse Speed </term> <meaning id="meaningfhsst_id145">
+        <para id="id313292">Pulse speed is the distance a pulse travels per unit time. </para>
+        </meaning></definition>
+        <para id="id313303">In <link document="m37923" window="new">Motion in one dimension</link> we saw that speed was defined as the distance traveled per unit time. We can use the same definition of speed to calculate how fast a pulse travels. If the pulse travels a distance <m:math overflow="scroll"><m:mi>D</m:mi></m:math> in a time <m:math overflow="scroll"><m:mi>t</m:mi></m:math>, then the pulse speed <m:math overflow="scroll"><m:mi>v</m:mi></m:math> is:</para>
+        <equation id="uid4"><m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>v</m:mi>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mi>D</m:mi>
+                <m:mi>t</m:mi>
+              </m:mfrac>
+            </m:mrow>
+          </m:math>
+        </equation>
+<exercise id="secfhsst_id161"><title> Pulse Speed </title>
+        <problem id="probfhsst_id162">
+        <para id="id313369">A pulse covers a distance of <m:math><m:mn>2</m:mn><m:mspace width="3pt"/><m:mi mathvariant="normal">m</m:mi></m:math> in <m:math><m:mn>4</m:mn><m:mspace width="3pt"/><m:mi mathvariant="normal">s</m:mi></m:math> on a heavy rope. Calculate the pulse speed. </para>
+        </problem>
+        <solution id="solfhsst_id165"> <list id="listfhsst_id165" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Determine what is given and what is required </label>
+        <para id="id313393">We are given:</para>
+        <list id="id313396" display="block" list-type="bulleted"><item id="uid5">the distance travelled by the pulse: <m:math overflow="scroll"><m:mi>D</m:mi><m:mo>=</m:mo><m:mn>2</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi></m:math>
+</item>
+          <item id="uid6">the time taken to travel <m:math><m:mn>2</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi></m:math>: <m:math overflow="scroll"><m:mi>t</m:mi><m:mo>=</m:mo><m:mn>4</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">s</m:mi></m:math>
+</item>
+        </list>
+        <para id="id313439">We are required to calculate the speed of the pulse.</para>
+        </item> <item> <label> Determine how to approach the problem </label>
+        <para id="id313447">We can use:</para>
+        <equation id="id313450"><m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>v</m:mi>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mi>D</m:mi>
+                <m:mi>t</m:mi>
+              </m:mfrac>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id313470">to calculate the speed of the pulse.</para>
+        </item> <item> <label> Calculate the pulse speed </label>
+        <equation id="id313479"><m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>v</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mi>D</m:mi>
+                    <m:mi>t</m:mi>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mn>2</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi mathvariant="normal">m</m:mi>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mn>4</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi mathvariant="normal">s</m:mi>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>0</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>5</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:msup>
+                      <m:mi mathvariant="normal">s</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        </item> <item> <label> Write the final answer </label>
+        <para id="id313763">The pulse speed is <m:math><m:mn>0,5</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>.
+ </para>
+        </item> </list> </solution>
+</exercise>
+<note id="notfhsst_id259" type="tip">The pulse speed depends on the properties of the medium and not on the amplitude or pulse length of the pulse.</note>
+<section id="secfhsst_id260"><title> Pulse Speed </title>
+        <list id="id313813" display="block" list-type="enumerated"><item id="uid7">A pulse covers a distance of <m:math><m:mn>5</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi></m:math> in <m:math><m:mn>15</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">s</m:mi></m:math>. Calculate the speed of the pulse.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/l1f">Click here for the solution.</link>
+</item>
+          <item id="uid8">A pulse has a speed of <m:math overflow="scroll"><m:mn>5</m:mn> <m:mspace width="2pt"/><m:mi mathvariant="normal">cm</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. How far does it travel in <m:math><m:mn>2,5</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">s</m:mi></m:math>?<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/l1G">Click here for the solution.</link>
+</item>
+          <item id="uid9">A pulse has a speed of <m:math overflow="scroll"><m:mn>0,5</m:mn> <m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. How long does it take to cover a distance of <m:math><m:mn>25</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">cm</m:mi></m:math>?<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/l17">Click here for the solution.</link>
+</item>
+          <item id="uid10">How long will it take a pulse moving at <m:math overflow="scroll"><m:mn>0,25</m:mn> <m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math> to travel a distance of <m:math><m:mn>20</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi></m:math>?<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/l1A">Click here for the solution.</link>
+</item>
+          <item id="uid11">The diagram shows two pulses in the same medium. Which has the higher speed? Explain your answer.
+<figure id="id313945"><media id="id313945_media" alt=""><image mime-type="image/png" src="../../media/PG10C4_004.png" id="id313945_onlineimage" width="172"><!-- NOTE: attribute width changes image size online (pixels). original width is 152. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C4_004.eps" id="id313945_printimage"/></media></figure><link class="fullmarks" window="new" url="http://www.fhsst.org/l1o">Click here for the solution.</link></item>
+        </list>
+        
+</section>
+      </section>
+    </section>
+  </content>
+</document>

@@ -1,0 +1,1292 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Stoichiometry and composition</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38712</md:content-id>
+  <md:title>Stoichiometry and composition</md:title>
+  <md:abstract/>
+  <md:uuid>c709b64f-a5f7-48c5-a33e-0d6c6c284d39</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid6">
+      <title>The Composition of Substances</title>
+      <para id="id280317">The <emphasis effect="bold">empirical formula</emphasis> of a chemical compound is a simple expression of the relative number of each type of atom in that compound. In contrast, the <emphasis effect="bold">molecular formula</emphasis> of a chemical compound gives the actual number of atoms of each element found in a molecule of that compound.</para>
+<definition id="fhsst_id885"><term id="termfhsst_id885"> Empirical formula </term> <meaning id="meaningfhsst_id885">
+      <para id="id280341">The empirical formula of a chemical compound gives the relative number of each type of atom in that compound. </para>
+      </meaning></definition>
+<definition id="fhsst_id888"><term id="termfhsst_id888"> Molecular formula </term> <meaning id="meaningfhsst_id888">
+      <para id="id280360">The molecular formula of a chemical compound gives the exact number of atoms of each element in one molecule of that compound. </para>
+      </meaning></definition>
+      <para id="id280372">The compound <emphasis effect="italics">ethanoic acid</emphasis> for example, has the molecular formula <m:math overflow="scroll"><m:mi>CH</m:mi><m:msub><m:mrow/><m:mn>3</m:mn></m:msub><m:mi>COOH</m:mi></m:math> or simply <m:math overflow="scroll"><m:mi mathvariant="normal">C</m:mi><m:msub><m:mrow/><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">H</m:mi><m:msub><m:mrow/><m:mn>4</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>. In one molecule of this acid, there are two carbon atoms, four hydrogen atoms and two oxygen atoms. The ratio of atoms in the compound is 2:4:2, which can be simplified to 1:2:1. Therefore, the empirical formula for this compound is <m:math overflow="scroll"><m:mi>CH</m:mi><m:msub><m:mrow/><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi></m:math>. The empirical formula contains the smallest whole number ratio of the elements that make up a compound.</para>
+      <para id="id280450">Knowing either the empirical or molecular formula of a compound, can help to determine its composition in more detail. The opposite is also true. Knowing the <emphasis effect="italics">composition</emphasis> of a substance can help you to determine its formula. There are four different types of composition problems that you might come across:</para>
+      <list id="id280463" display="block" list-type="enumerated">
+        <item id="uid68">Problems where you will be given the formula of the substance and asked to calculate the percentage by mass of each element in the substance.
+</item>
+        <item id="uid69">Problems where you will be given the percentage composition and asked to calculate the formula.
+</item>
+        <item id="uid70">Problems where you will be given the products of a chemical reaction and asked to calculate the formula of one of the reactants. These are often referred to as combustion analysis problems.
+</item>
+<item id="uid7021">Problems where you will be asked to find number of moles of waters of crystallisation.
+</item>
+      </list>
+<exercise id="secfhsst_id901"><title> Calculating the percentage by mass of elements in a compound </title>
+      <problem id="probfhsst_id902">
+      <para id="id280520">Calculate the percentage that each element contributes to the overall mass of sulphuric acid (<m:math overflow="scroll"><m:mrow><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi>SO</m:mi><m:mn>4</m:mn></m:msub></m:mrow></m:math>).</para>
+      
+      </problem>
+      <solution id="solfhsst_id906"> <list id="listfhsst_id906" list-type="enumerated" number-style="arabic" class="stepwise"><item> <label> Write down the relative atomic mass of each element in the compound</label>
+      <para id="id280575"><m:math overflow="scroll"><m:mi>Hydrogen</m:mi><m:mo>=</m:mo><m:mn>1,008</m:mn><m:mo>×</m:mo> <m:mn>2</m:mn><m:mo>=</m:mo><m:mn>2,016</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">u</m:mi></m:math></para>
+      <para id="id280588"><m:math overflow="scroll"><m:mi>Sulphur</m:mi><m:mo>=</m:mo><m:mn>32,07</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">u</m:mi></m:math></para>
+      <para id="id280591"><m:math overflow="scroll"><m:mi>Oxygen</m:mi><m:mo>=</m:mo><m:mn>4</m:mn><m:mo>×</m:mo> <m:mn>16</m:mn><m:mo>=</m:mo><m:mn>64</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">u</m:mi></m:math></para>
+      
+      </item> 
+      <item> <label> Calculate the molecular mass of sulphuric acid </label>
+      <para id="id280625">Use the calculations in the previous step to calculate the molecular mass of sulphuric acid.</para>
+      <equation id="id280629">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>Mass</m:mi>
+            <m:mo>=</m:mo>
+            <m:mn>2</m:mn>
+            <m:mo>,</m:mo>
+            <m:mn>016</m:mn>
+            <m:mo>+</m:mo>
+            <m:mn>32</m:mn>
+            <m:mo>,</m:mo>
+            <m:mn>07</m:mn>
+            <m:mo>+</m:mo>
+            <m:mn>64</m:mn>
+            <m:mo>=</m:mo>
+            <m:mn>98</m:mn>
+            <m:mo>,</m:mo>
+            <m:mn>09</m:mn><m:mspace width="2pt"/>
+            <m:mi mathvariant="normal">u</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+      </item> <item> <label> Convert the mass of each element to a percentage of the total mass of the compound </label>
+      <para id="id280685">Use the equation:</para>
+      <para id="id280688"><m:math><m:mi>Percentage by mass</m:mi><m:mo>=</m:mo><m:mfrac><m:mi>atomic mass</m:mi><m:mrow><m:mi>molecular mass of H</m:mi><m:msub><m:mrow/><m:mn>2</m:mn></m:msub><m:mi>SO</m:mi><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:mrow></m:mfrac><m:mo>×</m:mo><m:mn>100</m:mn><m:mo>%</m:mo></m:math></para>
+      <para id="id280729">
+        <emphasis effect="italics">Hydrogen</emphasis>
+      </para>
+      <equation id="id280735">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mfrac>
+              <m:mrow>
+                <m:mn>2</m:mn>
+                <m:mo>,</m:mo>
+                <m:mn>016</m:mn>
+              </m:mrow>
+              <m:mrow>
+                <m:mn>98</m:mn>
+                <m:mo>,</m:mo>
+                <m:mn>09</m:mn>
+              </m:mrow>
+            </m:mfrac>
+            <m:mo>×</m:mo>
+            <m:mn>100</m:mn>
+            <m:mo>%</m:mo>
+            <m:mo>=</m:mo>
+            <m:mn>2</m:mn>
+            <m:mo>,</m:mo>
+            <m:mn>06</m:mn>
+            <m:mo>%</m:mo>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id280780">
+        <emphasis effect="italics">Sulphur</emphasis>
+      </para>
+      <equation id="id280786">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mfrac>
+              <m:mrow>
+                <m:mn>32</m:mn>
+                <m:mo>,</m:mo>
+                <m:mn>07</m:mn>
+              </m:mrow>
+              <m:mrow>
+                <m:mn>98</m:mn>
+                <m:mo>,</m:mo>
+                <m:mn>09</m:mn>
+              </m:mrow>
+            </m:mfrac>
+            <m:mo>×</m:mo>
+            <m:mn>100</m:mn>
+            <m:mo>%</m:mo>
+            <m:mo>=</m:mo>
+            <m:mn>32</m:mn>
+            <m:mo>,</m:mo>
+            <m:mn>69</m:mn>
+            <m:mo>%</m:mo>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id280831">
+        <emphasis effect="italics">Oxygen</emphasis>
+      </para>
+      <equation id="id280837">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mfrac>
+              <m:mn>64</m:mn>
+              <m:mrow>
+                <m:mn>98</m:mn>
+                <m:mo>,</m:mo>
+                <m:mn>09</m:mn>
+              </m:mrow>
+            </m:mfrac>
+            <m:mo>×</m:mo>
+            <m:mn>100</m:mn>
+            <m:mo>%</m:mo>
+            <m:mo>=</m:mo>
+            <m:mn>65</m:mn>
+            <m:mo>,</m:mo>
+            <m:mn>25</m:mn>
+            <m:mo>%</m:mo>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id280876">(You should check at the end that these percentages add up to 100%!)</para>
+      <para id="id280880">In other words, in one molecule of sulphuric acid, hydrogen makes up 2,06% of the mass of the compound, sulphur makes up 32,69% and oxygen makes up 65,25%.</para>
+</item>
+</list> </solution>
+</exercise>
+<exercise id="secfhsst_id1029"><title> Determining the empirical formula of a compound </title>
+      <problem id="probfhsst_id1030">
+      <para id="id280897">A compound contains 52.2% carbon (<m:math><m:mi mathvariant="normal">C</m:mi></m:math>), 13.0% hydrogen (<m:math><m:mi mathvariant="normal">H</m:mi></m:math>) and 34.8% oxygen (<m:math><m:mi mathvariant="normal">O</m:mi></m:math>). Determine its empirical formula.</para>
+      
+      </problem>
+      <solution id="solfhsst_id1034"> <list id="listfhsst_id1034" list-type="enumerated" number-style="arabic" class="stepwise"><item> <label> If we assume that we have <m:math><m:mn>100</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">g</m:mi></m:math> of this substance, then we can convert each element percentage into a mass in grams </label>
+      <para id="id280928">Carbon <m:math><m:mo>=</m:mo><m:mn>52,2</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">g</m:mi></m:math>, hydrogen <m:math><m:mo>=</m:mo><m:mn>13,0</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">g</m:mi></m:math> and oxygen <m:math><m:mo>=</m:mo><m:mn>34,8</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">g</m:mi></m:math></para>
+      
+      </item>
+      <item> <label> Convert the mass of each element into number of moles </label>
+      <equation id="id280954">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>n</m:mi>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mi>m</m:mi>
+              <m:mi>M</m:mi>
+            </m:mfrac>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id280975">Therefore,</para>
+      <equation id="id280978">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>n</m:mi>
+            <m:mrow>
+              <m:mo>(</m:mo>
+              <m:mi>Carbon</m:mi>
+              <m:mo>)</m:mo>
+            </m:mrow>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mrow>
+                <m:mn>52</m:mn>
+                <m:mo>,</m:mo>
+                <m:mn>2</m:mn>
+              </m:mrow>
+              <m:mrow>
+                <m:mn>12</m:mn>
+                <m:mo>,</m:mo>
+                <m:mn>01</m:mn>
+              </m:mrow>
+            </m:mfrac>
+            <m:mo>=</m:mo>
+            <m:mn>4</m:mn>
+            <m:mo>,</m:mo>
+            <m:mn>35</m:mn>
+            <m:mi>mol</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <equation id="id281042">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>n</m:mi>
+            <m:mrow>
+              <m:mo>(</m:mo>
+              <m:mi>Hydrogen</m:mi>
+              <m:mo>)</m:mo>
+            </m:mrow>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mrow>
+                <m:mn>13</m:mn>
+                <m:mo>,</m:mo>
+                <m:mn>0</m:mn>
+              </m:mrow>
+              <m:mrow>
+                <m:mn>1</m:mn>
+                <m:mo>,</m:mo>
+                <m:mn>008</m:mn>
+              </m:mrow>
+            </m:mfrac>
+            <m:mo>=</m:mo>
+            <m:mn>12</m:mn>
+            <m:mo>,</m:mo>
+            <m:mn>90</m:mn>
+            <m:mi>mol</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <equation id="id281111">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>n</m:mi>
+            <m:mrow>
+              <m:mo>(</m:mo>
+              <m:mi>Oxygen</m:mi>
+              <m:mo>)</m:mo>
+            </m:mrow>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mrow>
+                <m:mn>34</m:mn>
+                <m:mo>,</m:mo>
+                <m:mn>8</m:mn>
+              </m:mrow>
+              <m:mn>16</m:mn>
+            </m:mfrac>
+            <m:mo>=</m:mo>
+            <m:mn>2</m:mn>
+            <m:mo>,</m:mo>
+            <m:mn>18</m:mn>
+            <m:mi>mol</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+      </item> <item> <label> Convert these numbers to the simplest mole ratio by dividing by the smallest number of moles </label>
+      <para id="id281175">In this case, the smallest number of moles is 2.18. Therefore...</para>
+      <para id="id281179">
+        <emphasis effect="italics">Carbon</emphasis>
+      </para>
+      <equation id="id281185">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mfrac>
+              <m:mrow>
+                <m:mn>4</m:mn>
+                <m:mo>,</m:mo>
+                <m:mn>35</m:mn>
+              </m:mrow>
+              <m:mrow>
+                <m:mn>2</m:mn>
+                <m:mo>,</m:mo>
+                <m:mn>18</m:mn>
+              </m:mrow>
+            </m:mfrac>
+            <m:mo>=</m:mo>
+            <m:mn>2</m:mn>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id281217">
+        <emphasis effect="italics">Hydrogen</emphasis>
+      </para>
+      <equation id="id281223">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mfrac>
+              <m:mrow>
+                <m:mn>12</m:mn>
+                <m:mo>,</m:mo>
+                <m:mn>90</m:mn>
+              </m:mrow>
+              <m:mrow>
+                <m:mn>2</m:mn>
+                <m:mo>,</m:mo>
+                <m:mn>18</m:mn>
+              </m:mrow>
+            </m:mfrac>
+            <m:mo>=</m:mo>
+            <m:mn>6</m:mn>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id281254">
+        <emphasis effect="italics">Oxygen</emphasis>
+      </para>
+      <equation id="id281261">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mfrac>
+              <m:mrow>
+                <m:mn>2</m:mn>
+                <m:mo>,</m:mo>
+                <m:mn>18</m:mn>
+              </m:mrow>
+              <m:mrow>
+                <m:mn>2</m:mn>
+                <m:mo>,</m:mo>
+                <m:mn>18</m:mn>
+              </m:mrow>
+            </m:mfrac>
+            <m:mo>=</m:mo>
+            <m:mn>1</m:mn>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id281292">Therefore the empirical formula of this substance is: <m:math overflow="scroll"><m:mrow><m:msub><m:mi mathvariant="normal">C</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>6</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi></m:mrow></m:math>. Do you recognise this compound?</para>
+</item> 
+</list> </solution>
+</exercise>
+<exercise id="secfhsst_id1235"><title> Determining the formula of a compound </title>
+      <problem id="probfhsst_id1236">
+      <para id="id281333"><m:math><m:mn>207</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">g</m:mi></m:math> of lead combines with oxygen to form <m:math><m:mn>239</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">g</m:mi></m:math> of a lead oxide. Use this information to work out the formula of the lead oxide (Relative atomic masses: <m:math><m:mi>Pb</m:mi><m:mo>=</m:mo><m:mn>207</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">u</m:mi></m:math> and <m:math><m:mi mathvariant="normal">O</m:mi><m:mo>=</m:mo><m:mn>16</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">u</m:mi></m:math>).</para>
+      
+      </problem>
+      <solution id="solfhsst_id1240"> <list id="listfhsst_id1240" list-type="enumerated" number-style="arabic" class="stepwise"><item> <label> Calculate the mass of oxygen in the reactants </label>
+      <equation id="id281379"><m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mn>239</m:mn>
+            <m:mo>-</m:mo>
+            <m:mn>207</m:mn>
+            <m:mo>=</m:mo>
+            <m:mn>32</m:mn><m:mspace width="2pt"/>
+            <m:mi mathvariant="normal">g</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+      </item> <item> <label> Calculate the number of moles of lead and oxygen in the reactants </label>
+      <equation id="id281407">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>n</m:mi>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mi>m</m:mi>
+              <m:mi>M</m:mi>
+            </m:mfrac>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id281427">
+        <emphasis effect="italics">Lead</emphasis>
+      </para>
+      <equation id="id281433">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mfrac>
+              <m:mn>207</m:mn>
+              <m:mn>207</m:mn>
+            </m:mfrac>
+            <m:mo>=</m:mo>
+            <m:mn>1</m:mn><m:mspace width="2pt"/>
+            <m:mi>mol</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id281460">
+        <emphasis effect="italics">Oxygen</emphasis>
+      </para>
+      <equation id="id281467">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mfrac>
+              <m:mn>32</m:mn>
+              <m:mn>16</m:mn>
+            </m:mfrac>
+            <m:mo>=</m:mo>
+            <m:mn>2</m:mn><m:mspace width="2pt"/>
+            <m:mi>mol</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+      </item> <item> <label> Deduce the formula of the compound </label>
+      <para id="id281498">The mole ratio of <m:math><m:mi>Pb</m:mi><m:mo>:</m:mo><m:mi mathvariant="normal">O</m:mi></m:math> in the product is 1:2, which means that for every atom of lead, there will be two atoms of oxygen. The formula of the compound is <m:math overflow="scroll"><m:mi>PbO</m:mi><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>.</para>
+ </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id1308"><title> Empirical and molecular formula
+      </title>
+      <problem id="probfhsst_id1310">
+      <para id="id281533">Vinegar, which is used in our homes, is a dilute form of acetic acid. A sample of acetic acid has the following percentage composition: 39,9% carbon, 6,7% hyrogen and 53,4% oxygen.</para>
+      <list id="id281540" display="block" list-type="enumerated"><item id="uid71">Determine the empirical formula of acetic acid.
+</item>
+        <item id="uid72">Determine the molecular formula of acetic acid if the molar mass of acetic acid is <m:math overflow="scroll"><m:mn>60</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">g</m:mi><m:mo>·</m:mo><m:mi>mol</m:mi><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>.
+</item>
+      </list>
+      
+      </problem>
+      <solution id="solfhsst_id1320"> <list id="listfhsst_id1320" list-type="enumerated" number-style="arabic" class="stepwise">
+       <item> <label> Calculate the mass of each element in <m:math><m:mn>100</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">g</m:mi></m:math> of acetic acid. </label>
+      <para id="id281607">In <m:math><m:mn>100</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">g</m:mi></m:math> of acetic acid, there is <m:math><m:mn>39,9</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">g</m:mi><m:mspace width="2pt"/><m:mi mathvariant="normal">C</m:mi></m:math>, <m:math><m:mn>6,7</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">g</m:mi><m:mspace width="2pt"/><m:mi mathvariant="normal">H</m:mi></m:math> and <m:math><m:mn>53,4</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">g</m:mi><m:mspace width="2pt"/><m:mi mathvariant="normal">O</m:mi></m:math></para>
+      
+      </item>
+      <item> <label> Calculate the number of moles of each element in <m:math><m:mn>100</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">g</m:mi></m:math> of acetic acid. </label>
+      <para id="id281633">
+        <m:math overflow="scroll">
+          <m:mrow>
+            <m:mi>n</m:mi>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mi>m</m:mi>
+              <m:mi>M</m:mi>
+            </m:mfrac>
+          </m:mrow>
+        </m:math>
+      </para>
+      <equation id="id281653">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:msub>
+                  <m:mi>n</m:mi>
+                  <m:mi>C</m:mi>
+                </m:msub>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mn>39</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>9</m:mn>
+                    </m:mrow>
+                    <m:mn>12</m:mn>
+                  </m:mfrac>
+                  <m:mo>=</m:mo>
+                  <m:mn>3</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>33</m:mn>
+                  <m:mspace width="2pt"/>
+                  <m:mi>mol</m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:msub>
+                  <m:mi>n</m:mi>
+                  <m:mi>H</m:mi>
+                </m:msub>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mn>6</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>7</m:mn>
+                    </m:mrow>
+                    <m:mn>1</m:mn>
+                  </m:mfrac>
+                  <m:mo>=</m:mo>
+                  <m:mn>6</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>7</m:mn>
+                  <m:mspace width="2pt"/>
+                  <m:mi mathvariant="normal">mol</m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:msub>
+                  <m:mi>n</m:mi>
+                  <m:mi>O</m:mi>
+                </m:msub>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mn>53</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>4</m:mn>
+                    </m:mrow>
+                    <m:mn>16</m:mn>
+                  </m:mfrac>
+                  <m:mo>=</m:mo>
+                  <m:mn>3</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>34</m:mn>
+                  <m:mspace width="2pt"/>
+                  <m:mi mathvariant="normal">mol</m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      </item> <item> <label> Divide the number of moles of each element by the lowest number to get the simplest mole ratio of the elements (i.e. the empirical formula) in acetic acid. </label>
+      <para id="id281812">Empirical formula is <m:math overflow="scroll"><m:mi>CH</m:mi><m:msub><m:mrow/><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi></m:math></para>
+      </item> <item> <label> Calculate the molecular formula, using the molar mass of acetic acid. </label>
+      <para id="id281834">The molar mass of acetic acid using the empirical formula is <m:math overflow="scroll"><m:mn>30</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">g</m:mi><m:mo>·</m:mo><m:mi>mol</m:mi><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. Therefore the actual number of moles of each element must be double what it is in the empirical formula.</para>
+      <para id="id281854">The molecular formula is therefore <m:math overflow="scroll"><m:mi mathvariant="normal">C</m:mi><m:msub><m:mrow/><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">H</m:mi><m:msub><m:mrow/><m:mn>4</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math> or <m:math overflow="scroll"><m:mi>CH</m:mi><m:msub><m:mrow/><m:mn>3</m:mn></m:msub><m:mi>COOH</m:mi></m:math></para>
+ </item>
+</list> </solution>
+</exercise>
+<exercise id="eid672431"><title>Waters of crystallisation</title>
+<problem id="pid47982">
+<para id="id64827">Aluminium trichloride (<m:math><m:msub><m:mi mathvariant="normal">AlCl</m:mi><m:mn>3</m:mn></m:msub></m:math>) is an ionic substance that forms crystals in the solid phase. Water molecules may be trapped inside the crystal lattice. We represent this as: <m:math><m:msub><m:mi mathvariant="normal">AlCl</m:mi><m:mn>3</m:mn></m:msub><m:mo>·</m:mo><m:mi>n</m:mi><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi></m:math>. A learner heated some aluminium trichloride crystals until all the water had evaporated and found that the mass after heating was <m:math><m:mn>2,8</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">g</m:mi></m:math>. The mass before heating was <m:math><m:mn>5</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">g</m:mi></m:math>. What is the number of moles of water molecules in the aluminium trichloride?</para>
+</problem>
+<solution id="sid45792"><list id="listfhsst_id134530" list-type="enumerated" number-style="arabic" class="stepwise"><item><label>Work out the mass of water molecules lost</label><para id="id97324">We first need to find n, the number of water molecules that are present in the crystal. To do this we first note that the mass of water lost is <m:math><m:mn>5</m:mn><m:mo>-</m:mo><m:mn>2,8</m:mn><m:mo>=</m:mo><m:mn>2,2</m:mn></m:math>.</para></item><item><label>Work out the mass ratio and mole ratio</label><para id="id3892">The next step is to work out the mass ratio of aluminium trichloride to water and the mole ratio. The mass ratio is:
+ <equation id="eid744672"><m:math><m:mn>2,8</m:mn><m:mo>:</m:mo><m:mn>2,2</m:mn></m:math></equation>
+To work out the mole ratio we divide the mass ratio by the molecular mass of each species:
+<equation id="eid7459432"><m:math><m:mfrac><m:mn>2,8</m:mn><m:mn>133</m:mn></m:mfrac><m:mo>:</m:mo><m:mfrac><m:mn>2,2</m:mn><m:mn>18</m:mn></m:mfrac><m:mo>=</m:mo><m:mn>0,021</m:mn><m:mo>:</m:mo><m:mn>0,12</m:mn></m:math></equation> 
+Next we do the following:
+<equation id="eid745932432"><m:math><m:mn>0,021</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>0,021</m:mn></m:mfrac><m:mo>=</m:mo><m:mn>1</m:mn></m:math></equation> and
+<equation id="eid74595432432"><m:math><m:mfrac><m:mn>0,12</m:mn><m:mn>0,021</m:mn></m:mfrac><m:mo>=</m:mo><m:mn>6</m:mn></m:math></equation>
+So the mole ratio of aluminium trichloride to water is:
+<equation id="eid7459424532"><m:math><m:mn>1</m:mn><m:mo>:</m:mo><m:mn>6</m:mn></m:math></equation></para></item>
+<item><label>Write down the final answer</label><para id="id9732">And now we know that there are 6 moles of water molecules in the crystal.</para>
+</item>
+</list>
+</solution>
+</exercise>
+<para id="eip-762"><figure id="formulae-1" class="khanacademy">
+	  <title>Khan academy video on molecular and empirical formulae - 1</title>
+	  <media id="yt-media1" display="block" alt="video on circuits 1">
+	  <flash id="yt-video1" mime-type="application/x-shockwave-flash" src="http://www.youtube.com/v/gfBcM3uvWfs&amp;rel=0" width="425" height="344">
+	  <param name="allowscriptaccess" value="always"/>
+	  <param name="allowsfullscreen" value="true"/>
+	  </flash>
+	  </media>
+	  </figure></para><para id="eip-306"><figure id="masscompostion-1" class="khanacademy"><title>Khan academy video on mass composition - 1</title><media id="yt-media3" display="block" alt="video on composition 1">
+	  <flash id="yt-video3" mime-type="application/x-shockwave-flash" src="http://www.youtube.com/v/xatVrAh2U0E&amp;rel=0" width="425" height="344">
+	  <param name="allowscriptaccess" value="always"/>
+	  <param name="allowsfullscreen" value="true"/>
+	  </flash>
+	  </media>
+	  </figure></para><section id="secfhsst_id1437"><title> Moles and empirical formulae
+      </title>
+      <list id="id281924" display="block" list-type="enumerated"><item id="uid73">Calcium chloride is produced as the product of a chemical reaction.
+<list id="id281940" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid74">What is the formula of calcium chloride?
+</item><item id="uid75">What percentage does each of the elements contribute to the mass of a molecule of calcium chloride?
+</item><item id="uid76">If the sample contains <m:math><m:mn>5</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">g</m:mi></m:math> of calcium chloride, what is the mass of calcium in the sample?
+</item><item id="uid77">How many moles of calcium chloride are in the sample?
+</item></list><link class="fullmarks" window="new" url="http://www.fhsst.org/lgT">Click here for the solution</link></item>
+        <item id="uid78"><m:math><m:mn>13</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">g</m:mi></m:math> of zinc combines with <m:math><m:mn>6,4</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">g</m:mi></m:math> of sulphur. What is the empirical formula of zinc sulphide?
+<list id="id282007" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid79">What mass of zinc sulphide will be produced?
+</item><item id="uid80">What percentage does each of the elements in zinc sulphide contribute to its mass?
+</item><item id="uid81">Determine the formula of zinc sulphide.
+</item></list><link class="fullmarks" window="new" url="http://www.fhsst.org/lgb">Click here for the solution</link></item>
+        <item id="uid82">A calcium mineral consisted of 29,4% calcium, 23,5% sulphur and 47,1% oxygen by mass. Calculate the empirical formula of the mineral.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lgj">Click here for the solution</link>
+</item>
+        <item id="uid83">A chlorinated hydrocarbon compound was analysed and found to consist of 24,24% carbon, 4,04% hydrogen and 71,72% chlorine. From another experiment the molecular mass was found to be <m:math overflow="scroll"><m:mn>99</m:mn><m:mi mathvariant="normal">g</m:mi><m:mo>·</m:mo><m:mi>mol</m:mi><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. Deduce the empirical and molecular formula.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lgD">Click here for the solution</link>
+</item>
+      </list>
+      
+</section>
+    </section>
+    <section id="cid7"><title>Molar Volumes of Gases</title><definition id="eip-id1168064596799"><term>Molar volume of gases</term>
+<meaning id="eip-id1168053572222">1 mole of gas occupies <m:math><m:mn>22,4</m:mn><m:msup><m:mi>dm</m:mi><m:mn>3</m:mn></m:msup></m:math> at S.T.P.</meaning>
+</definition>
+      <para id="id282112">This applies to any gas that is at standard temperature and pressure. In grade 11 you will learn more about this and the gas laws.</para>
+      
+
+
+
+    </section>
+    <section id="cid8">
+      <title>Molar concentrations of liquids</title>
+      <para id="id282848">A typical solution is made by dissolving some solid substance in a liquid. The amount of substance that is dissolved in a given volume of liquid is known as the <emphasis effect="bold">concentration</emphasis> of the liquid. Mathematically, concentration (C) is defined as moles of solute (n) per unit volume (V) of solution.</para>
+      <equation id="id282860">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>C</m:mi>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mi>n</m:mi>
+              <m:mi>V</m:mi>
+            </m:mfrac>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id282881">For this equation, the units for volume are <m:math overflow="scroll"><m:mi>dm</m:mi><m:msup><m:mrow/><m:mn>3</m:mn></m:msup></m:math>. Therefore, the unit of concentration is <m:math overflow="scroll"><m:mi>mol</m:mi><m:mo>·</m:mo><m:msup><m:mrow><m:mi> dm </m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>3</m:mn></m:mrow></m:msup></m:math>.
+When concentration is expressed in <m:math overflow="scroll"><m:mi>mol</m:mi><m:mo>·</m:mo><m:msup><m:mrow><m:mi> dm </m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>3</m:mn></m:mrow></m:msup></m:math> it is known as the <emphasis effect="bold">molarity</emphasis> (M) of the solution. Molarity is the most common expression for concentration.</para>
+<note id="notfhsst_id1649" type="tip">Do not confuse molarity (M) with molar mass (M). Look carefully at the question in which the M appears to determine whether it is concentration or molar mass.</note>
+<definition id="fhsst_id1650"><term id="termfhsst_id1650"> Concentration </term> <meaning id="meaningfhsst_id1650">
+      <para id="id282955">Concentration is a measure of the amount of solute that is dissolved in a given volume of liquid. It is measured in <m:math overflow="scroll"><m:mi>mol</m:mi><m:mo>·</m:mo><m:msup><m:mrow><m:mi> dm </m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>3</m:mn></m:mrow></m:msup></m:math>. Another term that is used for concentration is <emphasis effect="bold">molarity (M)</emphasis> </para>
+      </meaning></definition>
+<exercise id="secfhsst_id1653"><title> Concentration Calculations 1 </title>
+      <problem id="probfhsst_id1654">
+      <para id="id283003">If <m:math><m:mn>3,5</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">g</m:mi></m:math> of sodium hydroxide (NaOH) is dissolved in <m:math overflow="scroll"><m:mn>2,5</m:mn><m:mspace width="2pt"/><m:msup><m:mrow><m:mi> dm </m:mi></m:mrow><m:mn>3</m:mn></m:msup></m:math> of water, what is the concentration of the solution in <m:math overflow="scroll"><m:mi>mol</m:mi><m:mo>·</m:mo><m:msup><m:mrow><m:mi> dm </m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>3</m:mn></m:mrow></m:msup></m:math>?</para>
+      
+      </problem>
+      <solution id="solfhsst_id1658"> <list id="listfhsst_id1658" list-type="enumerated" number-style="arabic" class="stepwise">
+       <item> <label> Convert the mass of <m:math><m:mi mathvariant="normal">NaOH</m:mi></m:math> into moles </label>
+      <equation id="id283067"><m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>n</m:mi>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mi>m</m:mi>
+              <m:mi>M</m:mi>
+            </m:mfrac>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mrow>
+                <m:mn>3</m:mn>
+                <m:mo>,</m:mo>
+                <m:mn>5</m:mn>
+              </m:mrow>
+              <m:mn>40</m:mn>
+            </m:mfrac>
+            <m:mo>=</m:mo>
+            <m:mn>0</m:mn>
+            <m:mo>,</m:mo>
+            <m:mn>0875</m:mn><m:mspace width="2pt"/>
+            <m:mi>mol</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+      </item> <item> <label> Calculate the concentration of the solution. </label>
+      <equation id="id283121">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>C</m:mi>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mi>n</m:mi>
+              <m:mi>V</m:mi>
+            </m:mfrac>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mrow>
+                <m:mn>0</m:mn>
+                <m:mo>,</m:mo>
+                <m:mn>0875</m:mn>
+              </m:mrow>
+              <m:mrow>
+                <m:mn>2</m:mn>
+                <m:mo>,</m:mo>
+                <m:mn>5</m:mn>
+              </m:mrow>
+            </m:mfrac>
+            <m:mo>=</m:mo>
+            <m:mn>0</m:mn>
+            <m:mo>,</m:mo>
+            <m:mn>035</m:mn>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id283169">The concentration of the solution is <m:math><m:mn>0,035</m:mn><m:mspace width="2pt"/><m:mi>mol</m:mi><m:mo>·</m:mo><m:msup><m:mrow><m:mi> dm </m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>3</m:mn></m:mrow></m:msup></m:math> or <m:math><m:mn>0,035</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">M</m:mi></m:math>
+ </para>
+      </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id1722"><title>Concentration Calculations 2 </title><problem id="probfhsst_id1723">
+      <para id="id283214">You have a <m:math overflow="scroll"><m:mn>1</m:mn><m:mspace width="2pt"/><m:msup><m:mrow><m:mi> dm </m:mi></m:mrow><m:mn>3</m:mn></m:msup></m:math> container in which to prepare a solution of potassium permanganate (<m:math overflow="scroll"><m:mi>KMnO</m:mi><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math>). What mass of <m:math overflow="scroll"><m:mi>KMnO</m:mi><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math> is needed to make a solution with a concentration of <m:math><m:mn>0,2</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">M</m:mi></m:math>?</para>
+      
+      </problem>
+      <solution id="solfhsst_id1727"> <list id="listfhsst_id1727" list-type="enumerated" number-style="arabic" class="stepwise">
+      <item> <label> Calculate the number of moles of <m:math overflow="scroll"><m:mi>KMnO</m:mi><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math> needed </label>
+      <equation id="id283297">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>C</m:mi>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mi>n</m:mi>
+              <m:mi>V</m:mi>
+            </m:mfrac>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id283318">therefore</para>
+      <equation id="id283321">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>n</m:mi>
+            <m:mo>=</m:mo>
+            <m:mi>C</m:mi>
+            <m:mo>×</m:mo>
+            <m:mi>V</m:mi>
+            <m:mo>=</m:mo>
+            <m:mn>0</m:mn>
+            <m:mo>,</m:mo>
+            <m:mn>2</m:mn>
+            <m:mo>×</m:mo>
+            <m:mn>1</m:mn>
+            <m:mo>=</m:mo>
+            <m:mn>0</m:mn>
+            <m:mo>,</m:mo>
+            <m:mn>2</m:mn><m:mspace width="2pt"/>
+            <m:mi>mol</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+      </item> <item> <label> Convert the number of moles of <m:math overflow="scroll"><m:mi>KMnO</m:mi><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math> to mass. </label>
+      <equation id="id283387">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>m</m:mi>
+            <m:mo>=</m:mo>
+            <m:mi>n</m:mi>
+            <m:mo>×</m:mo>
+            <m:mi>M</m:mi>
+            <m:mo>=</m:mo>
+            <m:mn>0</m:mn>
+            <m:mo>,</m:mo>
+            <m:mn>2</m:mn>
+            <m:mo>×</m:mo>
+            <m:mn>158</m:mn>
+            <m:mo>,</m:mo>
+            <m:mn>04</m:mn>
+            <m:mo>=</m:mo>
+            <m:mn>31</m:mn>
+            <m:mo>,</m:mo>
+            <m:mn>61</m:mn><m:mspace width="2pt"/>
+            <m:mi mathvariant="normal">g</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id283435">The mass of <m:math overflow="scroll"><m:mi>KMnO</m:mi><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math> that is needed is <m:math><m:mn>31,61</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">g</m:mi></m:math>.
+ </para>
+      </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id1795"><title>Concentration Calculations 3 </title><problem id="probfhsst_id1796">
+      <para id="id283476">How much sodium chloride (in g) will one need to prepare <m:math overflow="scroll"><m:mn>500</m:mn><m:mspace width="2pt"/><m:msup><m:mrow><m:mi> cm </m:mi></m:mrow><m:mn>3</m:mn></m:msup></m:math> of solution with a concentration of <m:math><m:mn>0,01</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">M</m:mi></m:math>?</para>
+      
+      </problem>
+      <solution id="solfhsst_id1800"> <list id="listfhsst_id1800" list-type="enumerated" number-style="arabic" class="stepwise">
+      <item> <label> Convert all quantities into the correct units for this equation </label>
+      <equation id="id283522"><m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>V</m:mi>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mn>500</m:mn>
+              <m:mn>1 000</m:mn>
+            </m:mfrac>
+            <m:mo>=</m:mo>
+            <m:mn>0</m:mn>
+            <m:mo>,</m:mo>
+            <m:mn>5</m:mn><m:mspace width="2pt"/><m:msup>
+            <m:mi>dm</m:mi>
+              <m:mn>3</m:mn>
+            </m:msup>
+          </m:mrow>
+        </m:math>
+      </equation>
+      </item> <item> <label> Calculate the number of moles of sodium chloride needed </label>
+      <equation id="id283565">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>n</m:mi>
+            <m:mo>=</m:mo>
+            <m:mi>C</m:mi>
+            <m:mo>×</m:mo>
+            <m:mi>V</m:mi>
+            <m:mo>=</m:mo>
+            <m:mn>0</m:mn>
+            <m:mo>,</m:mo>
+            <m:mn>01</m:mn>
+            <m:mo>×</m:mo>
+            <m:mn>0</m:mn>
+            <m:mo>,</m:mo>
+            <m:mn>5</m:mn>
+            <m:mo>=</m:mo>
+            <m:mn>0</m:mn>
+            <m:mo>,</m:mo>
+            <m:mn>005</m:mn><m:mspace width="2pt"/>
+            <m:mi>mol</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+      </item> <item> <label> Convert moles of sodium chloride to mass </label>
+      <equation id="id283636">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>m</m:mi>
+            <m:mo>=</m:mo>
+            <m:mi>n</m:mi>
+            <m:mo>×</m:mo>
+            <m:mi>M</m:mi>
+            <m:mo>=</m:mo>
+            <m:mn>0</m:mn>
+            <m:mo>,</m:mo>
+            <m:mn>005</m:mn>
+            <m:mo>×</m:mo>
+            <m:mn>58</m:mn>
+            <m:mo>,</m:mo>
+            <m:mn>45</m:mn>
+            <m:mo>=</m:mo>
+            <m:mn>0</m:mn>
+            <m:mo>,</m:mo>
+            <m:mn>29</m:mn><m:mspace width="2pt"/>
+            <m:mi mathvariant="normal">g</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id283684">The mass of sodium chloride needed is <m:math><m:mn>0,29</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">g</m:mi></m:math>
+ </para>
+      </item> </list> </solution>
+</exercise>
+<section id="secfhsst_id1879"><title> Molarity and the concentration of solutions
+      </title>
+      <list id="id283713" display="block" list-type="enumerated"><item id="uid92"><m:math><m:mn>5,95</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">g</m:mi></m:math> of potassium bromide was dissolved in <m:math overflow="scroll"><m:mn>400</m:mn><m:mspace width="2pt"/><m:msup><m:mrow><m:mi> cm </m:mi></m:mrow><m:mn>3</m:mn></m:msup></m:math> of water. Calculate its molarity.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lgk">Click here for the solution</link>
+</item>
+        <item id="uid93"><m:math><m:mn>100</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">g</m:mi></m:math> of sodium chloride (NaCl) is dissolved in <m:math overflow="scroll"><m:mn>450</m:mn><m:mspace width="2pt"/><m:msup><m:mrow><m:mi> cm </m:mi></m:mrow><m:mn>3</m:mn></m:msup></m:math> of water.
+<list id="id283768" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid94">How many moles of NaCl are present in solution?
+</item><item id="uid95">What is the volume of water (in <m:math overflow="scroll"><m:msup><m:mrow><m:mi> dm </m:mi></m:mrow><m:mn>3</m:mn></m:msup></m:math>)?
+</item><item id="uid96">Calculate the concentration of the solution.
+</item><item id="uid97">What mass of sodium chloride would need to be added for the concentration to become <m:math><m:mn>5,7</m:mn><m:mspace width="2pt"/><m:mi>mol</m:mi><m:mo>·</m:mo><m:msup><m:mrow><m:mi> dm </m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>3</m:mn></m:mrow></m:msup></m:math>?
+</item></list><link class="fullmarks" window="new" url="http://www.fhsst.org/lg0">Click here for the solution</link></item>
+        <item id="uid98">What is the molarity of the solution formed by dissolving <m:math><m:mn>80</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">g</m:mi></m:math> of sodium hydroxide (<m:math><m:mi mathvariant="normal">NaOH</m:mi></m:math>) in <m:math overflow="scroll"><m:mn>500</m:mn><m:mspace width="2pt"/><m:msup><m:mrow><m:mi> cm </m:mi></m:mrow><m:mn>3</m:mn></m:msup></m:math> of water?<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lg8">Click here for the solution</link>
+</item>
+        <item id="uid99">What mass (g) of hydrogen chloride (<m:math><m:mi mathvariant="normal">HCl</m:mi></m:math>) is needed to make up <m:math overflow="scroll"><m:mn>1000</m:mn><m:mspace width="2pt"/><m:msup><m:mrow><m:mi> cm </m:mi></m:mrow><m:mn>3</m:mn></m:msup></m:math> of a solution of concentration <m:math><m:mn>1</m:mn><m:mspace width="2pt"/><m:mi>mol</m:mi><m:mo>·</m:mo><m:msup><m:mrow><m:mi> dm </m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>3</m:mn></m:mrow></m:msup></m:math>?<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lg9">Click here for the solution</link>
+</item>
+        <item id="uid100">How many moles of <m:math overflow="scroll"><m:mi mathvariant="normal">H</m:mi><m:msub><m:mrow/><m:mn>2</m:mn></m:msub><m:mi>SO</m:mi><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math> are there in <m:math overflow="scroll"><m:mn>250</m:mn><m:mspace width="2pt"/><m:msup><m:mrow><m:mi> cm </m:mi></m:mrow><m:mn>3</m:mn></m:msup></m:math> of a <m:math><m:mn>0,8</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">M</m:mi></m:math> sulphuric acid solution? What mass of acid is in this solution?<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lgX">Click here for the solution</link>
+</item>
+      </list>
+      
+</section>
+    </section>
+    <section id="cid9">
+      <title>Stoichiometric calculations</title>
+      <para id="id283990">Stoichiometry is the calculation of the quantities of reactants and products in chemical reactions. It is also the numerical relationship between reactants and products. In <link window="new" document=""> representing chemical change</link> showed how to write balanced chemical equations. By knowing the ratios of substances in a reaction, it is possible to use stoichiometry to calculate the amount of either reactants or products that are involved in the reaction. The examples shown below will make this concept clearer.</para>
+<exercise id="secfhsst_id1903"><title> Stoichiometric calculation 1 </title>
+      <problem id="probfhsst_id1904">
+      <para id="id275479">What volume of oxygen at S.T.P. is needed for the complete combustion of <m:math overflow="scroll"><m:mn>2</m:mn><m:mspace width="2pt"/><m:msup><m:mrow><m:mi> dm </m:mi></m:mrow><m:mn>3</m:mn></m:msup></m:math> of propane (<m:math overflow="scroll"><m:mi mathvariant="normal">C</m:mi><m:msub><m:mrow/><m:mn>3</m:mn></m:msub><m:mi mathvariant="normal">H</m:mi><m:msub><m:mrow/><m:mn>8</m:mn></m:msub></m:math>)? (Hint: <m:math overflow="scroll"><m:mi>CO</m:mi><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math> and <m:math overflow="scroll"><m:mi mathvariant="normal">H</m:mi><m:msub><m:mrow/><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi></m:math> are the products in this reaction (and in all combustion reactions))</para>
+      
+      </problem>
+      <solution id="solfhsst_id1908"> <list id="listfhsst_id1908" list-type="enumerated" number-style="arabic" class="stepwise">
+      
+      
+      <item> <label> Write a balanced equation for the reaction. </label>
+      <para id="id284189"><m:math overflow="scroll">
+          <m:mrow>
+            <m:msub>
+              <m:mi mathvariant="normal">C</m:mi>
+              <m:mn>3</m:mn>
+            </m:msub>
+            <m:msub>
+              <m:mi mathvariant="normal">H</m:mi>
+              <m:mn>8</m:mn>
+            </m:msub>
+            <m:mrow>
+              <m:mo>(</m:mo>
+              <m:mi mathvariant="normal">g</m:mi>
+              <m:mo>)</m:mo>
+            </m:mrow>
+            <m:mo>+</m:mo>
+            <m:mn>5</m:mn>
+            <m:msub>
+              <m:mi mathvariant="normal">O</m:mi>
+              <m:mn>2</m:mn>
+            </m:msub>
+            <m:mrow>
+              <m:mo>(</m:mo>
+              <m:mi mathvariant="normal">g</m:mi>
+              <m:mo>)</m:mo>
+            </m:mrow>
+            <m:mo>→</m:mo>
+            <m:mn>3</m:mn>
+            <m:mi mathvariant="normal">C</m:mi>
+            <m:msub>
+              <m:mi mathvariant="normal">O</m:mi>
+              <m:mn>2</m:mn>
+            </m:msub>
+            <m:mrow>
+              <m:mo>(</m:mo>
+              <m:mi mathvariant="normal">g</m:mi>
+              <m:mo>)</m:mo>
+            </m:mrow>
+            <m:mo>+</m:mo>
+            <m:mn>4</m:mn>
+            <m:msub>
+              <m:mi mathvariant="normal">H</m:mi>
+              <m:mn>2</m:mn>
+            </m:msub>
+            <m:mi mathvariant="normal">O</m:mi>
+            <m:mrow>
+              <m:mo>(</m:mo>
+              <m:mi mathvariant="normal">g</m:mi>
+              <m:mo>)</m:mo>
+            </m:mrow>
+          </m:mrow>
+        </m:math>
+      </para>
+      <!--empty paragraphs get left behind.-->
+      </item> <item> <label> Determine the ratio of oxygen to propane that is needed for the reaction. </label>
+      <para id="id284294">From the balanced equation, the ratio of oxygen to propane in the reactants is 5:1.</para>
+      </item> <item> <label> Determine the volume of oxygen needed for the reaction. </label>
+      <para id="id284304">1 volume of propane needs 5 volumes of oxygen, therefore <m:math overflow="scroll"><m:mn>2</m:mn><m:mspace width="2pt"/><m:msup><m:mrow><m:mi> dm </m:mi></m:mrow><m:mn>3</m:mn></m:msup></m:math> of propane will need <m:math overflow="scroll"><m:mn>10</m:mn><m:mspace width="2pt"/><m:msup><m:mrow><m:mi> dm </m:mi></m:mrow><m:mn>3</m:mn></m:msup></m:math> of oxygen for the reaction to proceed to completion.</para>
+</item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id1972"><title> Stoichiometric calculation 2 </title>
+      <problem id="probfhsst_id1973">
+      <para id="id284347">What mass of iron (II) sulphide is formed when <m:math><m:mn>5,6</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">g</m:mi></m:math> of iron is completely reacted with sulphur?</para>
+      
+      </problem>
+      <solution id="solfhsst_id1977"> <list id="listfhsst_id1977" list-type="enumerated" number-style="arabic" class="stepwise">
+       <item> <label> Write a balanced chemical equation for the reaction. </label>
+      <para id="id284378"><m:math overflow="scroll">
+          <m:mrow>
+            <m:mi>Fe</m:mi>
+            <m:mo>(</m:mo>
+            <m:mi mathvariant="normal">s</m:mi>
+            <m:mo>)</m:mo>
+            <m:mo>+</m:mo>
+            <m:mi mathvariant="normal">S</m:mi>
+            <m:mo>(</m:mo>
+            <m:mi mathvariant="normal">s</m:mi>
+            <m:mo>)</m:mo>
+            <m:mo>→</m:mo>
+            <m:mi>FeS</m:mi>
+            <m:mo>(</m:mo>
+            <m:mi mathvariant="normal">s</m:mi>
+            <m:mo>)</m:mo>
+          </m:mrow>
+        </m:math>
+      </para>
+      </item> <item> <label> Calculate the number of moles of iron that react. </label>
+      <equation id="id284430">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>n</m:mi>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mi>m</m:mi>
+              <m:mi>M</m:mi>
+            </m:mfrac>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mrow>
+                <m:mn>5</m:mn>
+                <m:mo>,</m:mo>
+                <m:mn>6</m:mn>
+              </m:mrow>
+              <m:mrow>
+                <m:mn>55</m:mn>
+                <m:mo>,</m:mo>
+                <m:mn>85</m:mn>
+              </m:mrow>
+            </m:mfrac>
+            <m:mo>=</m:mo>
+            <m:mn>0</m:mn>
+            <m:mo>,</m:mo>
+            <m:mn>1</m:mn>
+            <m:mi>mol</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+      </item> <item> <label> Determine the number of moles of <m:math><m:mi mathvariant="normal">FeS</m:mi></m:math> produced. </label>
+      <para id="id284488">From the equation <m:math><m:mn>1</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">mole</m:mi></m:math> of <m:math><m:mi mathvariant="normal">Fe</m:mi></m:math> gives <m:math><m:mn>1</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">mole</m:mi></m:math> of <m:math><m:mi mathvariant="normal">FeS</m:mi></m:math>. Therefore, <m:math><m:mn>0,1</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">moles</m:mi></m:math> of iron in the reactants will give <m:math><m:mn>0,1</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">moles</m:mi></m:math> of iron sulphide in the product.</para>
+      </item> <item> <label> Calculate the mass of iron sulphide formed </label>
+      <equation id="id284499"><m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>m</m:mi>
+            <m:mo>=</m:mo>
+            <m:mi>n</m:mi>
+            <m:mo>×</m:mo>
+            <m:mi>M</m:mi>
+            <m:mo>=</m:mo>
+            <m:mn>0</m:mn>
+            <m:mo>,</m:mo>
+            <m:mn>1</m:mn>
+            <m:mo>×</m:mo>
+            <m:mn>87</m:mn>
+            <m:mo>,</m:mo>
+            <m:mn>911</m:mn>
+            <m:mo>=</m:mo>
+            <m:mn>8</m:mn>
+            <m:mo>,</m:mo>
+            <m:mn>79</m:mn><m:mspace width="2pt"/>
+            <m:mi mathvariant="normal">g</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id284548">The mass of iron (II) sulphide that is produced during this reaction is <m:math><m:mn>8,79</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">g</m:mi></m:math>. </para>
+      </item> </list> </solution>
+</exercise>
+
+<para id="eip-943">When we are given a known mass of a reactant and are asked to work out how much product is formed, we are working out the theoretical yield of the reaction. In the laboratory chemists never get this amount of product. In each step of a reaction a small amount of product and reactants is 'lost' either because a reactant did not completely react or some of the product was left behind in the original container. Think about this. When you make your lunch or supper, you might be a bit hungry, so you eat some of the food that you are preparing. So instead of getting the full amount of food out (theoretical yield) that you started preparing, you lose some along the way. </para><exercise id="secfhsst_id2067"><title> Industrial reaction to produce fertiliser </title>
+      <problem id="probfhsst_id2068">
+      <para id="id284606">Sulphuric acid (<m:math overflow="scroll"><m:mi mathvariant="normal">H</m:mi><m:msub><m:mrow/><m:mn>2</m:mn></m:msub><m:mi>SO</m:mi><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math>) reacts with ammonia (<m:math overflow="scroll"><m:mi>NH</m:mi><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>) to produce the fertiliser ammonium sulphate ((<m:math overflow="scroll"><m:mi>NH</m:mi><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math>)<m:math overflow="scroll"><m:msub><m:mrow/><m:mn>2</m:mn></m:msub><m:mi>SO</m:mi><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math>) according to the following equation:</para>
+      <para id="id284690"><m:math overflow="scroll">
+          <m:mrow>
+            <m:msub>
+              <m:mi mathvariant="normal">H</m:mi>
+              <m:mn>2</m:mn>
+            </m:msub><m:msub>
+            <m:mi>SO</m:mi>
+              <m:mn>4</m:mn>
+            </m:msub>
+            <m:mrow>
+              <m:mo>(</m:mo>
+              <m:mi>aq</m:mi>
+              <m:mo>)</m:mo>
+            </m:mrow>
+            <m:mo>+</m:mo>
+            <m:mn>2</m:mn><m:msub>
+            <m:mi>NH</m:mi>
+              <m:mn>3</m:mn>
+            </m:msub>
+            <m:mrow>
+              <m:mo>(</m:mo>
+              <m:mi>g</m:mi>
+              <m:mo>)</m:mo>
+            </m:mrow>
+            <m:mo>→</m:mo>
+            <m:msub>
+              <m:mrow>
+                <m:mo>(</m:mo><m:msub>
+                <m:mi>NH</m:mi>
+                  <m:mn>4</m:mn>
+                </m:msub>
+                <m:mo>)</m:mo>
+              </m:mrow>
+              <m:mn>2</m:mn>
+            </m:msub><m:msub>
+            <m:mi>SO</m:mi>
+              <m:mn>4</m:mn>
+            </m:msub>
+            <m:mrow>
+              <m:mo>(</m:mo>
+              <m:mi>aq</m:mi>
+              <m:mo>)</m:mo>
+            </m:mrow>
+          </m:mrow>
+        </m:math>
+      </para>
+      <para id="id284791">What is the maximum mass of ammonium sulphate that can be obtained from <m:math><m:mn>2,0</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">kg</m:mi></m:math> of sulphuric acid?
+ </para>
+      </problem>
+      <solution id="solfhsst_id2130"> <list id="listfhsst_id2130" list-type="enumerated" number-style="arabic" class="stepwise"><item> <label> Convert the mass of sulphuric acid into moles </label>
+      <equation id="id284813"><m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>n</m:mi>
+            <m:mrow>
+              <m:mo>(</m:mo>
+              <m:msub>
+                <m:mi mathvariant="normal">H</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub><m:msub>
+              <m:mi>SO</m:mi>
+                <m:mn>4</m:mn>
+              </m:msub>
+              <m:mo>)</m:mo>
+            </m:mrow>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mi>m</m:mi>
+              <m:mi>M</m:mi>
+            </m:mfrac>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mrow>
+                <m:mn>2 000</m:mn><m:mspace width="2pt"/>
+                <m:mi mathvariant="normal">g</m:mi>
+              </m:mrow>
+              <m:mrow>
+                <m:mn>98</m:mn>
+                <m:mo>,</m:mo>
+                <m:mn>078</m:mn><m:mspace width="2pt"/>
+                <m:mi mathvariant="normal">g</m:mi>
+                <m:mo>·</m:mo><m:msup>
+                <m:mi>mols</m:mi>
+                  <m:mrow>
+                    <m:mo>-</m:mo>
+                    <m:mn>1</m:mn>
+                  </m:mrow>
+                </m:msup>
+              </m:mrow>
+            </m:mfrac>
+            <m:mo>=</m:mo>
+            <m:mn>20</m:mn>
+            <m:mo>,</m:mo>
+            <m:mn>39</m:mn><m:mspace width="2pt"/>
+            <m:mi>mols</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+      
+      </item> <item> <label> Calculate the maximum amount of ammonium sulphate that can be produced </label>
+      <para id="id285156">From the balanced equation, the mole ratio of <m:math overflow="scroll"><m:mi mathvariant="normal">H</m:mi><m:msub><m:mrow/><m:mn>2</m:mn></m:msub><m:mi>SO</m:mi><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math> in the reactants to <m:math overflow="scroll"><m:mo>(</m:mo><m:mi>NH</m:mi><m:msub><m:mrow/><m:mn>4</m:mn></m:msub><m:mo>)</m:mo><m:msub><m:mrow/><m:mn>2</m:mn></m:msub><m:mi>SO</m:mi><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math> in the product is 1:1. Therefore, <m:math><m:mn>20,39</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">mols</m:mi></m:math> of <m:math overflow="scroll"><m:mi mathvariant="normal">H</m:mi><m:msub><m:mrow/><m:mn>2</m:mn></m:msub><m:mi>SO</m:mi><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math> of <m:math overflow="scroll"><m:mo>(</m:mo><m:mi>NH</m:mi><m:msub><m:mrow/><m:mn>4</m:mn></m:msub><m:mo>)</m:mo><m:msub><m:mrow/><m:mn>2</m:mn></m:msub><m:mi>SO</m:mi><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math>.</para>
+      <para id="id285290">The maximum mass of ammonium sulphate that can be produced is calculated as follows:
+      <equation id="id285296"><m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>m</m:mi>
+            <m:mo>=</m:mo>
+            <m:mi>n</m:mi>
+            <m:mo>×</m:mo>
+            <m:mi>M</m:mi>
+            <m:mo>=</m:mo>
+            <m:mn>20</m:mn>
+            <m:mo>,</m:mo>
+            <m:mn>41</m:mn>
+            <m:mi>mol</m:mi>
+            <m:mo>×</m:mo>
+            <m:mn>132</m:mn><m:mspace width="2pt"/>
+            <m:mi mathvariant="normal">g</m:mi>
+            <m:mo>·</m:mo><m:msup>
+            <m:mi>mol</m:mi>
+              <m:mrow>
+                <m:mo>-</m:mo>
+                <m:mn>1</m:mn>
+              </m:mrow>
+            </m:msup>
+            <m:mo>=</m:mo>
+            <m:mn>2694</m:mn><m:mspace width="2pt"/>
+            <m:mi mathvariant="normal">g</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation></para>
+      <para id="id285362">The maximum amount of ammonium sulphate that can be produced is <m:math><m:mn>2,694</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">kg</m:mi></m:math>.
+ </para>
+      </item> </list> </solution>
+</exercise>
+<para id="eip-546"><figure id="stoichiometry-1" class="khanacademy">
+	  <title>Khan academy video on stoichiometry - 1</title>
+	  <media id="yt-media4" display="block" alt="video on stoichiometry 1">
+	  <flash id="yt-video4" mime-type="application/x-shockwave-flash" src="http://www.youtube.com/v/jFv6k2OV7IU&amp;rel=0" width="425" height="344">
+	  <param name="allowscriptaccess" value="always"/>
+	  <param name="allowsfullscreen" value="true"/>
+	  </flash>
+	  </media>
+	  </figure></para><section id="secfhsst_id2276"><title> Stoichiometry
+      </title>
+      <list id="id285393" display="block" list-type="enumerated"><item id="uid101">Diborane, <m:math overflow="scroll"><m:mi mathvariant="normal">B</m:mi><m:msub><m:mrow/><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">H</m:mi><m:msub><m:mrow/><m:mn>6</m:mn></m:msub></m:math>, was once considered for use as a rocket fuel. The combustion reaction for diborane is:
+<m:math overflow="scroll"><m:mrow><m:msub><m:mi mathvariant="normal">B</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>6</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mn>3</m:mn><m:msub><m:mi mathvariant="normal">O</m:mi><m:mn>2</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>→</m:mo><m:mn>2</m:mn><m:mi mathvariant="normal">H</m:mi><m:mi mathvariant="normal">B</m:mi><m:msub><m:mi mathvariant="normal">O</m:mi><m:mn>2</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">l</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math>
+If we react <m:math><m:mn>2,37</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">grams</m:mi></m:math> of diborane, how many grams of water would we expect to produce?<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lgI">Click here for the solution</link>
+</item>
+        <item id="uid102">Sodium azide is a commonly used compound in airbags. When triggered, it has the following reaction:
+<m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:msub><m:mi>NaN</m:mi><m:mn>3</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">s</m:mi><m:mo>)</m:mo></m:mrow><m:mo>→</m:mo><m:mn>2</m:mn><m:mi>Na</m:mi><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">s</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mn>3</m:mn><m:msub><m:mi mathvariant="normal">N</m:mi><m:mn>2</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mi mathvariant="normal">g</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math>
+If <m:math><m:mn>23,4</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">grams</m:mi></m:math> of sodium azide is used, how many moles of nitrogen gas would we expect to produce?<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lg5">Click here for the solution</link>
+</item>
+        <item id="uid103">Photosynthesis is a chemical reaction that is vital to the existence of life on Earth. During photosynthesis, plants and bacteria convert carbon dioxide gas, liquid water, and light into glucose (<m:math overflow="scroll"><m:mi mathvariant="normal">C</m:mi><m:msub><m:mrow/><m:mn>6</m:mn></m:msub><m:mi mathvariant="normal">H</m:mi><m:msub><m:mrow/><m:mn>12</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi><m:msub><m:mrow/><m:mn>6</m:mn></m:msub></m:math>) and oxygen gas.
+<list id="id285674" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid104">Write down the equation for the photosynthesis reaction.
+</item><item id="uid105">Balance the equation.
+</item><item id="uid106">If <m:math><m:mn>3</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">moles</m:mi></m:math> of carbon dioxide are used up in the photosynthesis reaction, what mass of glucose will be produced?
+</item></list><link class="fullmarks" window="new" url="http://www.fhsst.org/lgN">Click here for the solution</link></item>
+      </list>
+      
+</section>
+    </section>
+    <para id="eip-269"><figure id="slidesharefigure" class="slideshare">
+    	<media id="slidesharemedia" alt="Powerpoint presentation on moles">
+    	<flash id="slideshareflash" height="355" width="425" mime-type="application/x-shockwave-flash" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=moles-100512054508-phpapp02&amp;stripped_title=moles-4065434&amp;userName=kwarne">
+    	<param name="allowScriptAccess" value="always"/>
+    	<param name="allowFullScreen" value="true"/>
+    	</flash>
+    	</media>
+    	</figure></para><section id="cid10">
+      <title>Summary</title>
+      <list id="id285735" display="block" list-type="bulleted"><item id="uid107">It is important to be able to quantify the changes that take place during a chemical reaction.
+</item>
+        <item id="uid108">The <emphasis effect="bold">mole (n)</emphasis> is a SI unit that is used to describe an amount of substance that contains the same number of particles as there are atoms in <m:math><m:mn>12</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">g</m:mi></m:math> of carbon.
+</item>
+        <item id="uid109">The number of particles in a mole is called the <emphasis effect="bold">Avogadro constant</emphasis> and its value is <m:math overflow="scroll"><m:mn>6</m:mn><m:mo>,</m:mo><m:mn>022</m:mn><m:mo>×</m:mo> <m:msup><m:mn>10</m:mn><m:mn>23</m:mn></m:msup></m:math>. These particles could be atoms, molecules or other particle units, depending on the substance.
+</item>
+        <item id="uid110">The <emphasis effect="bold">molar mass (M)</emphasis> is the mass of one mole of a substance and is measured in grams per mole or <m:math overflow="scroll"><m:mi mathvariant="normal">g</m:mi><m:mo>·</m:mo><m:mi>mol</m:mi><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. The numerical value of an element's molar mass is the same as its relative atomic mass. For a compound, the molar mass has the same numerical value as the molecular mass of that compound.
+</item>
+        <item id="uid111">The relationship between moles (n), mass in grams (m) and molar mass (M) is defined by the following equation:
+<equation id="id285862"><m:math overflow="scroll" mode="display"><m:mrow><m:mi>n</m:mi><m:mo>=</m:mo><m:mfrac><m:mi>m</m:mi><m:mi>M</m:mi></m:mfrac></m:mrow></m:math></equation></item>
+        <item id="uid112">In a balanced chemical equation, the number in front of the chemical symbols describes the <emphasis effect="bold">mole ratio</emphasis> of the reactants and products.
+</item>
+        <item id="uid113">The <emphasis effect="bold">empirical formula</emphasis> of a compound is an expression of the relative number of each type of atom in the compound.
+</item>
+        <item id="uid114">The <emphasis effect="bold">molecular formula</emphasis> of a compound describes the actual number of atoms of each element in a molecule of the compound.
+</item>
+        <item id="uid115">The formula of a substance can be used to calculate the <emphasis effect="bold">percentage by mass</emphasis> that each element contributes to the compound.
+</item>
+        <item id="uid116">The <emphasis effect="bold">percentage composition</emphasis> of a substance can be used to deduce its chemical formula.
+</item>
+        <item id="uid117">One mole of gas occupies a volume of <m:math overflow="scroll"><m:mn>22,4</m:mn><m:mspace width="2pt"/><m:msup><m:mrow><m:mi> dm </m:mi></m:mrow><m:mn>3</m:mn></m:msup></m:math>.
+</item>
+        <item id="uid118">The <emphasis effect="bold">concentration</emphasis> of a solution can be calculated using the following equation,
+<equation id="id286019"><m:math overflow="scroll" mode="display"><m:mrow><m:mi>C</m:mi><m:mo>=</m:mo><m:mfrac><m:mi>n</m:mi><m:mi>V</m:mi></m:mfrac></m:mrow></m:math></equation>
+where C is the concentration (in <m:math overflow="scroll"><m:mi>mol</m:mi><m:mo>·</m:mo><m:msup><m:mrow><m:mi> dm </m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>3</m:mn></m:mrow></m:msup></m:math>), n is the number of moles of solute dissolved in the solution and V is the volume of the solution (in <m:math overflow="scroll"><m:msup><m:mrow><m:mi> dm </m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>3</m:mn></m:mrow></m:msup></m:math>).
+</item>
+        <item id="uid119"><emphasis effect="bold">Molarity</emphasis> is a measure of the concentration of a solution, and its units are <m:math overflow="scroll"><m:mspace width="2pt"/><m:mi>mol</m:mi><m:mo>·</m:mo><m:msup><m:mrow><m:mi> dm </m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>3</m:mn></m:mrow></m:msup></m:math>.
+</item>
+        <item id="uid120"><emphasis effect="bold">Stoichiometry</emphasis> is the calculation of the quantities of reactants and products in chemical reactions. It is also the numerical relationship between reactants and products.
+</item>
+<item>The theoretical yield of a reaction is the maximum amount of product that we expect to get out of a reaction</item>
+      </list>
+</section>
+<section id="secfhsst_id2334"><title>End of chapter exercises</title>
+      <list id="id286171" display="block" list-type="enumerated"><item id="uid123">Write only the word/term for each of the following descriptions:
+<list id="id286187" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid124">the mass of one mole of a substance
+</item><item id="uid125">the number of particles in one mole of a substance
+</item></list><link class="fullmarks" window="new" url="http://www.fhsst.org/lgR">Click here for the solution</link></item>
+        <item id="uid126">Multiple choice: Choose the one correct answer from those given.
+<list id="id286228" display="block" list-type="enumerated"><item id="uid127"><m:math><m:mn>5</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">g</m:mi></m:math> of magnesium chloride is formed as the product of a chemical reaction. Select the <emphasis effect="bold">true</emphasis> statement from the answers below:
+<list id="id286251" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid128">0.08 moles of magnesium chloride are formed in the reaction
+</item><item id="uid129">the number of atoms of <m:math><m:mi mathvariant="normal">Cl</m:mi></m:math> in the product is <m:math overflow="scroll"><m:mn>0</m:mn><m:mo>,</m:mo><m:mn>6022</m:mn><m:mo>×</m:mo> <m:msup><m:mn>10</m:mn><m:mn>23</m:mn></m:msup></m:math></item><item id="uid130">the number of atoms of <m:math><m:mi mathvariant="normal">Mg</m:mi></m:math> is 0,05
+</item><item id="uid131">the atomic ratio of <m:math><m:mi mathvariant="normal">Mg</m:mi></m:math> atoms to <m:math><m:mi mathvariant="normal">Cl</m:mi></m:math> atoms in the product is 1:1
+</item></list><link class="fullmarks" window="new" url="http://www.fhsst.org/lgn">Click here for the solution</link></item><item id="uid132">2 moles of oxygen gas react with hydrogen. What is the mass of oxygen in the reactants?
+<list id="id286339" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid133">32 g
+</item><item id="uid134">0,125 g
+</item><item id="uid135">64 g
+</item><item id="uid136">0,063 g
+</item></list><link class="fullmarks" window="new" url="http://www.fhsst.org/lgQ">Click here for the solution</link></item><item id="uid137">In the compound potassium sulphate (<m:math overflow="scroll"><m:mi mathvariant="normal">K</m:mi><m:msub><m:mrow/><m:mn>2</m:mn></m:msub><m:mi>SO</m:mi><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math>), oxygen makes up x% of the mass of the compound. x = ...
+<list id="id286432" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid138">36.8
+</item><item id="uid139">9,2
+</item><item id="uid140">4
+</item><item id="uid141">18,3
+</item></list><link class="fullmarks" window="new" url="http://www.fhsst.org/lgU">Click here for the solution</link></item><item id="uid142">The molarity of a <m:math overflow="scroll"><m:mn>150</m:mn><m:mspace width="2pt"/><m:msup><m:mrow><m:mi> cm </m:mi></m:mrow><m:mn>3</m:mn></m:msup></m:math> solution, containing 5 g of <m:math><m:mi mathvariant="normal">NaCl</m:mi></m:math> is...
+<list id="id286512" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid143"><m:math overflow="scroll"><m:mn>0,09</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">M</m:mi></m:math>
+</item><item id="uid144"><m:math overflow="scroll"><m:mn>5,7</m:mn><m:mspace width="2pt"/><m:mo>×</m:mo><m:mn>10</m:mn><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>4</m:mn></m:mrow></m:msup><m:mspace width="2pt"/><m:mi mathvariant="normal">M</m:mi></m:math>
+</item><item id="uid145"><m:math overflow="scroll"><m:mn>0,57</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">M</m:mi></m:math>
+</item><item id="uid146"><m:math overflow="scroll"><m:mn>0,03</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">M</m:mi></m:math>
+</item></list><link class="fullmarks" window="new" url="http://www.fhsst.org/lgy">Click here for the solution</link></item></list></item>
+<item>Calculate the number of moles in:
+<list id="id6342" list-type="enumerated" number-style="lower-alpha">
+<item>5 g of methane (<m:math><m:msub><m:mi>CH</m:mi><m:mn>4</m:mn></m:msub></m:math>)</item>
+<item>3,4 g of hydrochloric acid</item>
+<item>6,2 g of potassium permanganate (<m:math><m:msub><m:mi>KMnO</m:mi><m:mn>4</m:mn></m:msub></m:math>)</item>
+<item>4 g of neon</item>
+<item>9,6 kg of titanium tetrachloride (<m:math><m:msub><m:mi>TiCl</m:mi><m:mn>4</m:mn></m:msub></m:math>)</item></list><link class="fullmarks" window="new" url="http://www.fhsst.org/lT3/">Click here for the solution</link></item>
+<item>Calculate the mass of:<list id="id7342" list-type="enumerated" number-style="lower-alpha"><item>0,2 mols of potassium hydroxide (<m:math><m:mi>KOH</m:mi></m:math>)</item>
+<item>0,47 mols of nitrogen dioxide</item>
+<item>5,2 mols of helium</item>
+<item>0,05 mols of copper (II) chloride (<m:math><m:msub><m:mi>CuCl</m:mi><m:mn>2</m:mn></m:msub></m:math>)</item>
+<item><m:math><m:mrow><m:mn>31,31</m:mn><m:mi>×</m:mi><m:msup><m:mn>10</m:mn><m:mn>23</m:mn></m:msup></m:mrow></m:math> molecules of carbon monoxide (<m:math><m:mi>CO</m:mi></m:math>)</item></list><link class="fullmarks" window="new" url="http://www.fhsst.org/lTO">Click here for the solution</link>
+</item>
+<item>Calculate the percentage that each element contributes to the overall mass of:
+<list id="id6334" list-type="enumerated" number-style="lower-alpha">
+<item>Chloro-benzene (<m:math><m:mrow><m:msub><m:mi mathvariant="normal">C</m:mi><m:mn>6</m:mn></m:msub><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>5</m:mn></m:msub><m:mi>Cl</m:mi></m:mrow></m:math>)</item>
+<item>Lithium hydroxide (<m:math><m:mi>LiOH</m:mi></m:math>)</item></list><link class="fullmarks" window="new" url="http://www.fhsst.org/lTc">Click here for the solution</link>
+</item>
+<item>CFC's (chlorofluorocarbons) are one of the gases that contribute to the depletion of the ozone layer. A chemist analysed a CFC and found that it contained 58,64% chlorine, 31,43% fluorine and 9,93% carbon. What is the empirical formula?<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lTx">Click here for the solution</link>
+</item>
+<item>14 g of nitrogen combines with oxygen to form 46 g of a nitrogen oxide. Use this information to work out the formula of the oxide.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lTa">Click here for the solution</link></item>
+<item>Iodine can exist as one of three oxides (<m:math><m:mrow><m:msub><m:mi mathvariant="normal">I</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi mathvariant="normal">O</m:mi><m:mn>4</m:mn></m:msub><m:mi>;</m:mi><m:mspace width="2pt"/><m:msub><m:mi mathvariant="normal">I</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi mathvariant="normal">O</m:mi><m:mn>5</m:mn></m:msub><m:mi>;</m:mi><m:mspace width="2pt"/><m:msub><m:mi mathvariant="normal">I</m:mi><m:mn>4</m:mn></m:msub><m:msub><m:mi mathvariant="normal">O</m:mi><m:mn>9</m:mn></m:msub></m:mrow></m:math>). A chemist has produced one of these oxides and wishes to know which one they have. If he started with 508 g of iodine and formed 652 g of the oxide, which form has he produced?<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/lTC">Click here for the solution</link></item>
+<item>A fluorinated hydrocarbon (a hydrocarbon is a chemical compound containing hydrogen and carbon.) was analysed and found to contain 8,57% H, 51,05% C and 40,38% F.<list id="id73222" list-type="enumerated" number-style="lower-alpha">
+<item>What is its empirical formula?</item>
+<item>What is the molecular formula if the molar mass is <m:math><m:mrow><m:mn>94,1</m:mn><m:mrow><m:mi mathvariant="normal">g</m:mi><m:mi>⋅</m:mi><m:msup><m:mi>mol</m:mi><m:mrow><m:mi>−</m:mi><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:mrow></m:math>?</item></list><link class="fullmarks" window="new" url="http://www.fhsst.org/lT1">Click here for the solution</link></item>
+<item>Copper sulphate crystals often include water. A chemist is trying to determine the number of moles of water in the copper sulphate crystals. She weighs out 3 g of copper sulphate and heats this. After heating, she finds that the mass is 1,9 g. What is the number of moles of water in the crystals? (Copper sulphate is represented by <m:math><m:mrow><m:mrow><m:msub><m:mi>CuSO</m:mi><m:mn>4</m:mn></m:msub><m:mi>⋅</m:mi><m:mi>x</m:mi></m:mrow><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi></m:mrow></m:math>).<link class="fullmarks" window="new" url="http://www.fhsst.org/lTr">Click here for the solution</link></item>
+        <item id="uid147"><m:math overflow="scroll"><m:mn>300</m:mn><m:mspace width="2pt"/><m:msup><m:mrow><m:mi> cm </m:mi></m:mrow><m:mn>3</m:mn></m:msup></m:math> of a <m:math><m:mn>0,1</m:mn><m:mspace width="2pt"/><m:mi>mol</m:mi><m:mo>·</m:mo><m:msup><m:mrow><m:mi> dm </m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>3</m:mn></m:mrow></m:msup></m:math> solution of sulphuric acid is added to <m:math overflow="scroll"><m:mn>200</m:mn><m:mspace width="2pt"/><m:msup><m:mrow><m:mi> cm </m:mi></m:mrow><m:mn>3</m:mn></m:msup></m:math> of a <m:math><m:mn>0,5</m:mn><m:mspace width="2pt"/><m:mi>mol</m:mi><m:mo>·</m:mo><m:msup><m:mrow><m:mi> dm </m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>3</m:mn></m:mrow></m:msup></m:math> solution of sodium hydroxide.
+<list id="id286663" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid148">Write down a balanced equation for the reaction which takes place when these two solutions are mixed.
+</item><item id="uid149">Calculate the number of moles of sulphuric acid which were added to the sodium hydroxide solution.
+</item><item id="uid150">Is the number of moles of sulphuric acid enough to fully neutralise the sodium hydroxide solution? Support your answer by showing all relevant calculations.
+(IEB Paper 2 2004)
+</item></list><link class="fullmarks" window="new" url="http://www.fhsst.org/lgP">Click here for the solution</link></item>
+
+        <item id="uid155">A learner is asked to make <m:math overflow="scroll"><m:mn>200</m:mn><m:mspace width="2pt"/><m:msup><m:mrow><m:mi> cm </m:mi></m:mrow><m:mn>3</m:mn></m:msup></m:math> of sodium hydroxide (<m:math><m:mi mathvariant="normal">NaOH</m:mi></m:math>) solution of concentration <m:math><m:mn>0,5</m:mn><m:mspace width="2pt"/><m:mi>mol</m:mi><m:mo>·</m:mo><m:msup><m:mrow><m:mi> dm </m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>3</m:mn></m:mrow></m:msup></m:math>.
+<list id="id286969" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid156">Determine the mass of sodium hydroxide pellets he needs to use to do this.
+</item><item id="uid157">Using an accurate balance the learner accurately measures the correct mass of the <m:math><m:mi mathvariant="normal">NaOH</m:mi></m:math> pellets. To the pellets he now adds exactly <m:math overflow="scroll"><m:mn>200</m:mn><m:mspace width="2pt"/><m:msup><m:mrow><m:mi> cm </m:mi></m:mrow><m:mn>3</m:mn></m:msup></m:math> of pure water. Will his solution have the correct concentration? Explain your answer.</item>
+<item>The learner then takes <m:math overflow="scroll"><m:mn>300</m:mn><m:mspace width="2pt"/><m:msup><m:mrow><m:mi> cm </m:mi></m:mrow><m:mn>3</m:mn></m:msup></m:math> of a <m:math><m:mn>0,1</m:mn><m:mspace width="2pt"/><m:mi>mol</m:mi><m:mo>·</m:mo><m:msup><m:mrow><m:mi> dm </m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>3</m:mn></m:mrow></m:msup></m:math> solution of sulphuric acid (<m:math overflow="scroll"><m:mi mathvariant="normal">H</m:mi><m:msub><m:mrow/><m:mn>2</m:mn></m:msub><m:mi>SO</m:mi><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math>) and adds it to <m:math overflow="scroll"><m:mn>200</m:mn><m:mspace width="2pt"/><m:msup><m:mrow><m:mi> cm </m:mi></m:mrow><m:mn>3</m:mn></m:msup></m:math> of a <m:math><m:mn>0,5</m:mn><m:mspace width="2pt"/><m:mi>mol</m:mi><m:mo>·</m:mo><m:msup><m:mrow><m:mi> dm </m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>3</m:mn></m:mrow></m:msup></m:math> solution of <m:math><m:mi mathvariant="normal">NaOH</m:mi></m:math> at <m:math overflow="scroll"><m:mn>25</m:mn><m:msup><m:mrow/><m:mn>0</m:mn></m:msup><m:mi mathvariant="normal">C</m:mi></m:math>.
+</item><item id="uid158">Write down a balanced equation for the reaction which takes place when these two solutions are mixed.
+</item><item id="uid159">Calculate the number of moles of <m:math overflow="scroll"><m:mi mathvariant="normal">H</m:mi><m:msub><m:mrow/><m:mn>2</m:mn></m:msub><m:mi>SO</m:mi><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math> which were added to the NaOH solution.
+</item><item id="uid160">Is the number of moles of <m:math overflow="scroll"><m:mi mathvariant="normal">H</m:mi><m:msub><m:mrow/><m:mn>2</m:mn></m:msub><m:mi>SO</m:mi><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math> calculated in the previous question enough to fully neutralise the <m:math><m:mi mathvariant="normal">NaOH</m:mi></m:math> solution? Support your answer by showing all the relevant calculations.
+(IEB Paper 2, 2004)
+</item></list><link class="fullmarks" window="new" url="http://www.fhsst.org/lgm">Click here for the solution</link></item>
+      </list>
+      
+</section>
+    
+  </content>
+</document>

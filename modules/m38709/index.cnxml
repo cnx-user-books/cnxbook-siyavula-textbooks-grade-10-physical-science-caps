@@ -1,0 +1,279 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38709</md:content-id>
+  <md:title>Introduction</md:title>
+  <md:abstract/>
+  <md:uuid>a8068dbc-0557-4824-b941-d886dbb1e836</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid1">
+      <title>Physical and Chemical Change</title>
+      <para id="id62175">Matter is all around us. The desks we sit at, the air we breathe and the water we drink are all examples of matter. But matter doesn't always stay the same. It can change in many different ways. In this chapter, we are going to take a closer look at <emphasis effect="bold">physical</emphasis> and <emphasis effect="bold">chemical</emphasis> changes that occur in matter.</para>
+    </section>
+    <section id="cid2">
+      <title>Physical changes in matter</title>
+      <para id="id62200">A <emphasis effect="bold">physical change</emphasis> is one where the particles of the substances that are involved in the change are not broken up in any way. When water is heated for example, the temperature and energy of the water molecules increases and the liquid water evaporates to form water vapour. When this happens, some kind of change has taken place, but the molecular structure of the water has not changed. This is an example of a <emphasis effect="italics">physical change</emphasis>.</para>
+      <para id="id62556"><m:math><m:mi mathvariant="normal">H</m:mi><m:msub><m:mrow/><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi><m:mo>(</m:mo><m:mi mathvariant="normal">l</m:mi><m:mo>)</m:mo><m:mo>→</m:mo>
+          <m:mi mathvariant="normal">H</m:mi><m:msub><m:mrow/><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi><m:mo>(</m:mo><m:mi mathvariant="normal">g</m:mi><m:mo>)</m:mo></m:math>
+      </para>
+      <para id="id62600">Conduction (the transfer of energy through a material) is another example of a physical change. As energy is transferred from one material to another, the <emphasis effect="italics">energy</emphasis> of each material is changed, but not its chemical makeup. Dissolving one substance in another is also a physical change.</para>
+<definition id="fhsst_id76"><term id="termfhsst_id76"> Physical change </term> <meaning id="meaningfhsst_id76">
+      A change that can be seen or felt, but that doesn't involve the break up of the particles in the reaction. During a physical change, the <emphasis effect="italics">form</emphasis> of matter may change, but not its <emphasis effect="italics">identity</emphasis>. A change in temperature is an example of a physical change. 
+      </meaning></definition>
+<para id="id0209834"> You can think of a physical change as a person who is standing still. When they start to move (start walking) then a change has occurred and this is similar to a physical change. </para>
+      <para id="id62640">There are some important things to remember about physical changes in matter:</para>
+      <list id="id62644" display="block" list-type="enumerated"><item id="uid1"><emphasis effect="italics">Arrangement of particles</emphasis><newline/>
+When a physical change occurs, the particles (e.g. atoms, molecules) may re-arrange themselves without actually breaking up in any way. In the example of evaporation that we used earlier, the water molecules move further apart as their temperature (and therefore energy) increases. The same would be true if ice were to melt. In the solid phase, water molecules are packed close together in a very ordered way, but when the ice is heated, the molecules overcome the forces holding them together and they move apart. Once again, the particles have re-arranged themselves, but have not broken up.
+<equation id="eid2342"><m:math overflow="scroll" mode="display"><m:mrow><m:mi mathvariant="normal">H</m:mi><m:msub><m:mrow/><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi><m:mo>(</m:mo><m:mi mathvariant="normal">s</m:mi><m:mo>)</m:mo><m:mo>→</m:mo>
+          <m:mi mathvariant="normal">H</m:mi><m:msub><m:mrow/><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi><m:mo>(</m:mo><m:mi mathvariant="normal">l</m:mi><m:mo>)</m:mo></m:mrow></m:math></equation>
+<link target-id="uid2"/> shows this more clearly. In each phase of water, the water molecule itself stays the same, but the way the molecules are arranged has changed. Note that in the solid phase, we simply show the water molecules as spheres. This makes it easier to see how tightly packed the molecules are. In reality the water molecules would all look the same.
+<figure id="uid2"><media id="uid2_media" alt=""><image mime-type="image/png" src="../../media/CG10C4_001.png" id="uid2_onlineimage" width="286"><!-- NOTE: attribute width changes image size online (pixels). original width is 286. --></image><image mime-type="application/postscript" for="pdf" src="../../media/CG10C4_001.eps" id="uid2_printimage"/></media><caption>The arrangement of water molecules in the three phases of matter</caption></figure>
+
+</item>
+<item id="uid221"><emphasis effect="italics">Conservation of mass</emphasis><newline/>In a physical change, the total mass, the number of atoms and the number of molecules will always stay the same. In other words you will always have the same number of molecules or atoms at the end of the change as you had at the beginning. 
+</item>
+        <item id="uid3"><emphasis effect="italics">Energy changes</emphasis><newline/>
+Energy changes may take place when there is a physical change in matter, but these energy changes are normally smaller than the energy changes that take place during a chemical change.
+</item>
+        <item id="uid4"><emphasis effect="italics">Reversibility</emphasis><newline/>
+Physical changes in matter are usually easier to reverse than chemical changes. Water vapour for example, can be changed back to liquid water if the temperature is lowered. Liquid water can be changed into ice by simply decreasing the temperature.
+</item>
+      </list><para id="eip-904"><title>Activity: Physical change</title>Use plastic pellets or marbles to represent water in the solid state. What do you need to do to the pellets to represent the change from solid to liquid? </para>
+    </section>
+    <section id="cid3">
+      <title>Chemical Changes in Matter</title>
+      <para id="id62778">When a <emphasis effect="bold">chemical change</emphasis> takes place, new substances are formed in a chemical reaction. These new products may have very different properties from the substances that were there at the start of the reaction.</para>
+      <para id="id62788">The breakdown of copper (II) chloride to form copper and chlorine is an example of chemical change. A simplified diagram of this reaction is shown in <link target-id="uid5"/>. In this reaction, the initial substance is copper (II) chloride, but once the reaction is complete, the products are copper and chlorine.</para>
+      <figure id="uid5"><media id="uid5_media" alt="">
+          <image mime-type="image/png" src="../../media/CG10C4_002.png" id="uid5_onlineimage" width="394"><!-- NOTE: attribute width changes image size online (pixels). original width is 394. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/CG10C4_002.eps" id="uid5_printimage"/>
+        </media>
+        
+      <caption>The decomposition of copper(II) chloride to form copper and chlorine. We write this as: <m:math><m:msub><m:mi mathvariant="normal">CuCl</m:mi><m:mn>2</m:mn></m:msub><m:mo>→</m:mo><m:mi mathvariant="normal">Cu</m:mi><m:mo>+</m:mo><m:msub><m:mi mathvariant="normal">Cl</m:mi><m:mn>2</m:mn></m:msub></m:math></caption></figure>
+<definition id="fhsst_id107"><term id="termfhsst_id107"> Chemical change </term> <meaning id="meaningfhsst_id107">
+      The formation of new substances in a chemical reaction. One type of matter is changed into something different. 
+      </meaning></definition>
+      <para id="id62865">There are some important things to remember about chemical changes:</para>
+      <list id="id62869" display="block" list-type="enumerated"><item id="uid6"><emphasis effect="italics">Arrangement of particles</emphasis><newline/>
+During a chemical change, the particles themselves are changed in some way. In the example of copper (II) chloride that was used earlier, the <m:math overflow="scroll"><m:mi mathvariant="normal">CuCl</m:mi><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math> molecules were split up into their component atoms. The number of particles will change because each <m:math overflow="scroll"><m:mi mathvariant="normal">CuCl</m:mi><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math> molecule breaks down into one copper atom (<m:math><m:mi mathvariant="normal">Cu</m:mi></m:math>) and one chlorine molecule (<m:math overflow="scroll"><m:mi mathvariant="normal">CuCl</m:mi><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>). However, what you should have noticed, is that the number of atoms of each element stays the same, as does the total mass of the atoms. This will be discussed in more detail in a later section.
+</item>
+        <item id="uid7"><emphasis effect="italics">Energy changes</emphasis><newline/>
+The energy changes that take place during a chemical reaction are much greater than those that take place during a physical change in matter. During a chemical reaction, energy is used up in order to break bonds, and then energy is released when the new product is formed. This will be discussed in more detail in <link target-id="cid4">"Energy changes in chemical reactions"</link>.
+</item>
+        <item id="uid8"><emphasis effect="italics">Reversibility</emphasis><newline/>
+Chemical changes are far more difficult to reverse than physical changes.
+</item>
+      </list>
+      <para id="id62997">We will consider two types of chemical reactions: <emphasis effect="bold">decomposition reactions</emphasis> and <emphasis effect="bold">synthesis reactions</emphasis>.</para>
+      <section id="uid9"><title>Decomposition reactions</title><para id="id63019">A <emphasis effect="bold">decomposition reaction</emphasis> occurs when a chemical compound is broken down into elements or smaller compounds. The generalised equation for a decomposition reaction is:</para>
+        <para id="id63029"><m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi mathvariant="normal">AB</m:mi>
+              <m:mo>→</m:mo>
+              <m:mi mathvariant="normal">A</m:mi>
+<m:mo>+</m:mo>
+<m:mi mathvariant="normal">B</m:mi>
+            </m:mrow>
+          </m:math></para>
+        <para id="id63040">One example of such a reaction is the decomposition of mercury (II) oxide (<link target-id="uid10"/>) to form mercury and oxygen according to the following equation:
+<equation id="id734">
+<m:math><m:mn>2</m:mn><m:mi mathvariant="normal">HgO</m:mi>
+              <m:mo>→</m:mo>
+              <m:mn>2</m:mn><m:mi mathvariant="normal">Hg</m:mi>
+              <m:mo>+</m:mo><m:msub>
+                <m:mi mathvariant="normal">O</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub></m:math>
+</equation>
+
+        <figure id="uid10"><media id="uid10_media" alt="">
+            <image mime-type="image/png" src="../../media/CG10C4_003.png" id="uid10_onlineimage" width="415"><!-- NOTE: attribute width changes image size online (pixels). original width is 415. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG10C4_003.eps" id="uid10_printimage"/>
+          </media>
+          
+        <caption>The decomposition of <m:math>
+                <m:mi mathvariant="normal">HgO</m:mi>
+                </m:math> to form <m:math><m:mi mathvariant="normal">Hg</m:mi></m:math> and <m:math><m:msub>
+                <m:mi mathvariant="normal">O</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub></m:math></caption></figure></para>
+        <para id="id63156">The decomposition of hydrogen peroxide is another example.</para>
+<section id="secfhsst_id163"><title>Experiment : The decomposition of hydrogen peroxide</title><para id="id63175"><title>Aim:</title><newline/>To observe the decomposition of hydrogen peroxide when it is heated.</para>
+        <para id="id63194"><title>Apparatus:</title><newline/>Dilute hydrogen peroxide (about 3%); manganese dioxide; test tubes; a water bowl; stopper and delivery tube</para>
+        <note id="eip-470" type="important">Hydrogen peroxide can cause chemical burns. Work carefully with it.</note><para id="id63199">
+          <figure id="id63200">
+            <media id="id63200_media" alt="">
+              <image mime-type="image/png" src="../../media/CG10C4_004.png" id="id63200_onlineimage" width="361"><!-- NOTE: attribute width changes image size online (pixels). original width is 361. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/CG10C4_004.eps" id="id63200_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id63206"><title>Method:</title><list id="id63212" display="block" list-type="enumerated"><item id="uid11">Put a small amount (about 5 ml) of hydrogen peroxide in a test tube.
+</item>
+          <item id="uid12">Set up the apparatus as shown in <link target-id="id63200"/>
+</item>
+          <item id="uid13">Very carefully add a small amount (about 0,5 g) of manganese dioxide to the test tube containing hydrogen peroxide. 
+</item>
+        </list></para>
+        <para id="id63254"><title>Results:</title><newline/>You should observe a gas bubbling up into the second test tube. This reaction happens quite rapidly. </para>
+        <para id="id63302"><title>Conclusions:</title><newline/>When hydrogen peroxide is added to manganese dioxide it decomposes to form oxygen and water. The chemical decomposition reaction that takes place can be written as follows:
+        <equation id="id63313"><m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mn>2</m:mn>
+              <m:msub>
+                <m:mi mathvariant="normal">H</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:msub>
+                <m:mi mathvariant="normal">O</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mo>→</m:mo>
+              <m:mn>2</m:mn>
+              <m:mi mathvariant="normal">H</m:mi><m:msub><m:mrow/><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi>
+<m:mo>+</m:mo>
+<m:msub>
+                <m:mi mathvariant="normal">O</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+            </m:mrow>
+          </m:math></equation>
+Note that the manganese dioxide is a catalyst and is not shown in the reaction. (A catalyst helps speed up a chemical reaction.)    </para>
+        
+</section><note id="eip-619">The previous experiment used the downward displacement of water to collect a gas. This is a very common way to collect a gas in chemistry. The oxygen that is evolved in this reaction moves along the delivery tube and then collects in the top of the test tube. It does this because it is lighter than water and so displaces the water downwards. If you use a test tube with an outlet attached, you could collect the oxygen into jars and store it for use in other experiments. </note><para id="eip-633">The above experiment can be very vigourous and produce a lot of oxygen very rapidly. For this reason you use dilute hydrogen peroxide and only a small amount of manganese dioxide. </para>
+      </section>
+      <section id="uid17"><title>Synthesis reactions</title><para id="id63365">During a <emphasis effect="bold">synthesis reaction</emphasis>, a new product is formed from elements or smaller compounds. The generalised equation for a synthesis reaction is as follows:
+        <equation id="id63374"><m:math overflow="scroll"><m:mi mathvariant="normal">A</m:mi><m:mo>+</m:mo><m:mi mathvariant="normal">B</m:mi> <m:mo>→</m:mo><m:mi mathvariant="normal">AB</m:mi></m:math></equation></para>
+        <para id="id63386">One example of a synthesis reaction is the burning of magnesium in oxygen to form magnesium oxide(<link target-id="uid18"/>). The equation for the reaction is:
+        <equation id="id63390"><m:math overflow="scroll"><m:mn>2</m:mn><m:mi mathvariant="normal">Mg</m:mi><m:mo>+</m:mo><m:msub><m:mi mathvariant="normal">O</m:mi><m:mn>2</m:mn></m:msub> <m:mo>→</m:mo><m:mn>2</m:mn><m:mi mathvariant="normal">MgO</m:mi></m:math></equation>
+        
+        <figure id="uid18"><media id="uid18_media" alt="">
+            <image mime-type="image/png" src="../../media/CG10C4_005.png" id="uid18_onlineimage" width="627"><!-- NOTE: attribute width changes image size online (pixels). original width is 627. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG10C4_005.eps" id="uid18_printimage"/>
+          </media>
+          
+        <caption>The synthesis of magnesium oxide (<m:math><m:mi mathvariant="normal">MgO</m:mi></m:math>) from magnesium and oxygen</caption></figure></para>
+<section id="secfhsst_id243"><title>Experiment: Chemical reactions involving iron and sulphur </title><para id="id63437">
+          <title>Aim:</title><newline/> To demonstrate the synthesis of iron sulphide from iron and sulphur.</para>
+        <para id="id63447">
+          <title>Apparatus:</title><newline/>
+5,6 g iron filings and 3,2 g powdered sulphur; porcelain dish; test tube; Bunsen burner</para>
+        <para id="id63457">
+          <figure id="id63460">
+            <media id="id63460_media" alt="">
+              <image mime-type="image/png" src="../../media/CG10C4_006.png" id="id63460_onlineimage" width="97"><!-- NOTE: attribute width changes image size online (pixels). original width is 97. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/CG10C4_006.eps" id="id63460_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id63467">
+          <title>Method:</title><newline/>
+        <list id="id63473" display="block" list-type="enumerated"><item id="uid20">Measure the quantity of iron and sulphur that you need and mix them in a porcelain dish.
+</item>
+          <item id="uid21">Take some of this mixture and place it in the test tube. The test tube should be about 1/3 full.
+</item>
+          <item id="uid22">This reaction should ideally take place in a fume cupboard. Heat the test tube containing the mixture over the Bunsen burner. Increase the heat if no reaction takes place. Once the reaction begins, you will need to remove the test tube from the flame. Record your observations.
+</item>
+          <item id="uid23">Wait for the product to cool before breaking the test tube with a hammer. Make sure that the test tube is rolled in paper before you do this, otherwise the glass will shatter everywhere and you may be hurt.
+</item>
+          <item id="uid24">What does the product look like? Does it look anything like the original reactants? Does it have any of the properties of the reactants (e.g. the magnetism of iron)?
+</item>
+        </list></para>
+        <note id="eip-963" type="warning">When working with a bunsen burner work in a well ventilated space and ensure that there are no flammable substances close by. Always tuck loose clothing in and ensure that long hair is tied back.</note><para id="id63554">
+          <title>Results:</title><newline/>
+        <list id="id63560" display="block" list-type="enumerated">
+          <item id="uid25">After you removed the test tube from the flame, the mixture glowed a bright red colour. The reaction is exothermic and <emphasis effect="italics">produces energy</emphasis>.
+</item>
+          <item id="uid26">The product, iron sulphide, is a dark colour and does not share any of the properties of the original reactants. It is an entirely new product.
+</item>
+        </list></para>
+        <para id="id63594">
+          <title>Conclusions:</title><newline/>
+A synthesis reaction has taken place. The equation for the reaction is:
+        <equation id="id63604"><m:math overflow="scroll"><m:mi mathvariant="normal">Fe</m:mi><m:mo>+</m:mo><m:mi mathvariant="normal">S</m:mi> <m:mo>→</m:mo><m:mi mathvariant="normal">FeS</m:mi></m:math></equation></para>
+        
+        
+</section>
+<section id="secfhsst_id294"><title> Investigation : Physical or chemical change? </title>
+        <para id="id63636">
+          <title>Apparatus:</title>
+Bunsen burner, 4 test tubes, a test tube rack and a test tube holder, small spatula, pipette, magnet, a birthday candle, <m:math><m:mi mathvariant="normal">NaCl</m:mi></m:math> (table salt), <m:math><m:mn>0,1</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">M</m:mi><m:mspace width="4pt"/><m:msub><m:mi mathvariant="normal">AgNO</m:mi><m:mn>3</m:mn></m:msub></m:math>, <m:math><m:mn>6</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">M</m:mi><m:mspace width="4pt"/><m:mi mathvariant="normal">HCl</m:mi></m:math>, magnesium ribbon, iron filings, sulphur.</para>
+        <note id="eip-118" type="warning"><m:math><m:msub><m:mi mathvariant="normal">AgNO</m:mi><m:mn>3</m:mn></m:msub></m:math> stains the skin. Be careful when working with it or use gloves.</note><para id="id62113">
+          <title>Method:</title>
+        <list id="id62119" display="block" list-type="enumerated"><item id="uid27">Place a small amount of wax from a birthday candle into a test tube and heat it over the bunsen burner until it melts. Leave it to cool.
+</item>
+          <item id="uid28">Add a small spatula of <m:math><m:mi mathvariant="normal">NaCl</m:mi></m:math> to 5 ml water in a test tube and shake. Then use the pipette to add 10 drops of <m:math><m:msub><m:mi mathvariant="normal">AgNO</m:mi><m:mn>3</m:mn></m:msub></m:math> to the sodium chloride solution. NOTE: Please be careful <m:math><m:msub><m:mi mathvariant="normal">AgNO</m:mi><m:mn>3</m:mn></m:msub></m:math> causes bad stains!!
+</item>
+          <item id="uid29">Take a 5 cm piece of magnesium ribbon and tear it into 1 cm pieces. Place two of these pieces into a test tube and add a few drops of <m:math><m:mn>6</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">M</m:mi><m:mspace width="4pt"/><m:mi mathvariant="normal">HCl</m:mi></m:math>. NOTE: Be very careful when you handle this acid because it can cause major burns.
+</item>
+          <item id="uid30">Take about 0,5 g iron filings and 0,5 g sulphur. Test each substance with a magnet. Mix the two samples in a test tube and run a magnet alongside the outside of the test tube.
+</item>
+          <item id="uid31">Now heat the test tube that contains the iron and sulphur. What changes do you see? What happens now, if you run a magnet along the outside of the test tube?
+</item>
+          <item id="uid32">In each of the above cases, record your observations.
+</item>
+        </list></para>
+        <para id="id63979">
+          <title>Questions:</title>
+Decide whether each of the following changes are physical or chemical and give a reason for your answer in each case. Record your answers in the table below:
+        <table id="id63990" summary="table of results">
+<tgroup cols="3"><tbody>
+              <row>
+                <entry>
+                  <emphasis effect="bold">Description</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">Physical or chemical change</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">Reason</emphasis>
+                </entry>
+              </row>
+              <row>
+                <entry>melting candle wax</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>dissolving <m:math><m:mi mathvariant="normal">NaCl</m:mi></m:math></entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>mixing <m:math><m:mi mathvariant="normal">NaCl</m:mi></m:math> with <m:math><m:msub><m:mi mathvariant="normal">AgNO</m:mi><m:mn>3</m:mn></m:msub></m:math></entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>tearing magnesium ribbon</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>adding <m:math><m:mi mathvariant="normal">HCl</m:mi></m:math> to magnesium ribbon</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>mixing iron and sulphur</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>heating iron and sulphur</entry>
+                <entry/>
+                <entry/>
+              </row>
+            </tbody>
+          
+</tgroup>
+</table></para>
+
+        
+</section>
+      </section>
+    </section>
+  </content>
+</document>

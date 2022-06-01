@@ -1,0 +1,354 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Types of reactions</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38719</md:content-id>
+  <md:title>Types of reactions</md:title>
+  <md:abstract/>
+  <md:uuid>209b8179-48b8-46cf-920e-5ecdf471fd44</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid101"><title>Types of reactions</title><para id="uid2131">
+	We will look at three types of reactions that occur in aqueous solutions. These are precipitation reactions, acid-base reactions and redox reactions. Precipitation and acid-base reactions are sometimes called ion exchange reactions. Redox reactions are electron transfer reactions. It is important to remember the difference between these two types of reactions. In ion exchange reactions ions are exchanged, in electron transfer reactions electrons are transferred. These terms will be explained further in the following sections. 
+      </para>
+      <para id="uid78332">
+	Ion exchange reactions can be represented by:
+	  <equation id="eid071534">
+	    <m:math>
+	      <m:mi mathvariant="normal">AB(aq)</m:mi><m:mo>+</m:mo><m:mi mathvariant="normal">CD(aq)</m:mi><m:mo>→</m:mo><m:mi mathvariant="normal">AD</m:mi><m:mo>+</m:mo><m:mi mathvariant="normal">CB</m:mi>
+	    </m:math>
+	  </equation>
+	  Either <m:math><m:mi mathvariant="normal">AD</m:mi></m:math> or <m:math><m:mi mathvariant="normal">CB</m:mi></m:math> may be a solid or a gas. When a solid forms this is known as a precipitation reaction. If a gas is formed then this may be called a gas forming reaction. Acid-base reactions are a special class of ion exchange reactions and we will look at them seperately. 
+      </para>
+
+      <para id="eip-179">The formation of a precipitate or a gas helps to make the reaction happen. We say that the reaction is driven by the formation of a precipitate or a gas. All chemical reactions will only take place if there is something to make them happen. For some reactions this happens easily and for others it is harder to make the reaction occur.  </para>
+<definition id="id7583"><term>Ion exchange reaction</term>
+<meaning id="eip-id1168354893169">A type of reaction where the positive ions exchange their respective negative ions due to a driving force.</meaning>
+</definition>
+<note id="uid10825"><title>Interesting Fact </title>Ion exchange reactions are used in ion exchange chromatography. Ion exchange chromatography is used to purify water and as a means of softening water. Often when chemists talk about ion exchange, they mean ion exchange chromatography. 
+      </note>
+    <section id="cid8">
+      <title>Precipitation reactions</title>
+      <para id="id339907">Sometimes, ions in solution may react with each other to form a new substance that is <emphasis effect="italics">insoluble</emphasis>. This is called a <emphasis effect="bold">precipitate</emphasis>.</para>
+<definition id="fhsst_id887"><term id="termfhsst_id887"> Precipitate </term> <meaning id="meaningfhsst_id887">
+      A precipitate is the solid that forms in a solution during a chemical reaction.
+      </meaning></definition>
+<section id="secfhsst_id890"><title>Demonstration : The reaction of ions in solution       </title><para id="id339954">
+        <title>Apparatus and materials:</title><newline/>
+4 test tubes; copper(II) chloride solution; sodium carbonate solution; sodium sulphate solution</para>
+      <para id="id339975">
+        <figure id="id339978"><media id="id339978_media" alt="">
+            <image mime-type="image/png" src="../../media/CG10C8_004-eb5f.png" id="id339978_onlineimage" width="297"><!-- NOTE: attribute width changes image size online (pixels). original width is 277. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG10C8_004-dc5c.eps" id="id339978_printimage"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id339985">
+        <title>Method:</title><newline/>
+      <list id="id339992" display="block" list-type="enumerated"><item id="uid60">Prepare 2 test tubes with approximately 5 ml of dilute Cu(II) chloride solution in each
+</item>
+        <item id="uid61">Prepare 1 test tube with 5 ml sodium carbonate solution
+</item>
+        <item id="uid62">Prepare 1 test tube with 5 ml sodium sulphate solution
+</item>
+        <item id="uid63">Carefully pour the sodium carbonate solution into one of the test tubes containing copper(II) chloride and observe what happens
+</item>
+        <item id="uid64">Carefully pour the sodium sulphate solution into the second test tube containing copper(II) chloride and observe what happens
+</item>
+      </list></para>
+      <para id="id340060">
+        <title>Results:</title><newline/>
+      <list id="id340067" display="block" list-type="enumerated">
+        <item id="uid65">A light blue precipitate forms when sodium carbonate reacts with copper(II) chloride
+</item>
+        <item id="uid66">No precipitate forms when sodium sulphate reacts with copper(II) chloride
+</item>
+      </list></para>
+      
+</section>
+      <para id="id340106">It is important to understand what happened in the previous demonstration. We will look at what happens in each reaction, step by step.</para>
+      <list id="id340110" display="block" list-type="enumerated"><item id="uid67"><emphasis effect="bold">Reaction 1:</emphasis> Sodium carbonate reacts with copper(II) chloride.<newline/>
+When these compounds react, a number of ions are present in solution: <m:math overflow="scroll"><m:msup><m:mi mathvariant="normal">Cu</m:mi><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup></m:math>, <m:math overflow="scroll"><m:msup><m:mi mathvariant="normal">Cl</m:mi><m:mo>-</m:mo></m:msup></m:math>, <m:math overflow="scroll"><m:msup><m:mi mathvariant="normal">Na</m:mi><m:mo>+</m:mo></m:msup></m:math> and <m:math overflow="scroll"><m:msubsup><m:mi mathvariant="normal">CO</m:mi><m:mn>3</m:mn><m:mrow><m:mn>2</m:mn><m:mo>-</m:mo></m:mrow></m:msubsup></m:math>.
+Because there are lots of ions in solution, they will collide with each other and may recombine in different ways. The product that forms may be insoluble, in which case a precipitate will form, or the product will be soluble, in which case the ions will go back into solution. Let's see how the ions in this example could have combined with each other:
+<equation id="id753">
+<m:math overflow="scroll"><m:msup><m:mi mathvariant="normal">Cu</m:mi><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup>
+<m:mo>+</m:mo><m:msubsup><m:mi mathvariant="normal">CO</m:mi><m:mn>3</m:mn><m:mrow><m:mn>2</m:mn><m:mo>-</m:mo></m:mrow></m:msubsup>
+<m:mo>→</m:mo><m:msub><m:mi>CuCO</m:mi><m:mn>3</m:mn></m:msub></m:math></equation>
+<equation id="id7546">
+<m:math overflow="scroll"><m:msup><m:mi mathvariant="normal">Cu</m:mi><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup>
+<m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mi mathvariant="normal">Cl</m:mi><m:mo>-</m:mo></m:msup>
+<m:mo>→</m:mo><m:msub><m:mi>CuCl</m:mi><m:mn>2</m:mn></m:msub></m:math></equation>
+
+<equation id="id7866"><m:math overflow="scroll"><m:msup><m:mi mathvariant="normal">Na</m:mi><m:mo>+</m:mo></m:msup>
+<m:mo>+</m:mo><m:msup><m:mi mathvariant="normal">Cl</m:mi><m:mo>-</m:mo></m:msup>
+<m:mo>→</m:mo><m:mi>NaCl</m:mi></m:math></equation>
+<equation id="id76576"><m:math overflow="scroll"><m:mn>2</m:mn><m:msup><m:mi mathvariant="normal">Na</m:mi><m:mo>+</m:mo></m:msup>
+<m:mo>+</m:mo><m:msubsup><m:mi mathvariant="normal">CO</m:mi><m:mn>3</m:mn><m:mrow><m:mn>2</m:mn><m:mo>-</m:mo></m:mrow></m:msubsup>
+<m:mo>→</m:mo><m:msub><m:mi mathvariant="normal">Na</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi mathvariant="normal">CO</m:mi><m:mn>3</m:mn></m:msub></m:math></equation>
+
+You can automatically exclude the reactions where sodium carbonate and copper(II) chloride are the products because these were the initial reactants. You also know that sodium chloride (<m:math><m:mi mathvariant="normal">NaCl</m:mi></m:math>) is soluble in water, so the remaining product (copper carbonate) must be the one that is insoluble. It is also possible to look up which salts are soluble and which are insoluble. If you do this, you will find that most carbonates are insoluble, therefore the precipitate that forms in this reaction must be <m:math overflow="scroll"><m:msub><m:mi>CuCO</m:mi><m:mn>3</m:mn></m:msub></m:math>. The reaction that has taken place between the ions in solution is as follows:
+<equation id="id7543"><m:math overflow="scroll"><m:mn>2</m:mn><m:msup><m:mi mathvariant="normal">Na</m:mi><m:mo>+</m:mo></m:msup>
+<m:mo>+</m:mo><m:msubsup><m:mi mathvariant="normal">CO</m:mi><m:mn>3</m:mn><m:mrow><m:mn>2</m:mn><m:mo>-</m:mo></m:mrow></m:msubsup><m:mo>+</m:mo><m:msup><m:mi mathvariant="normal">Cu</m:mi><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mi mathvariant="normal">Cl</m:mi><m:mo>-</m:mo></m:msup>
+<m:mo>→</m:mo><m:msub><m:mi mathvariant="normal">CuCO</m:mi><m:mn>3</m:mn></m:msub><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mi mathvariant="normal">Na</m:mi><m:mo>+</m:mo></m:msup><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mi mathvariant="normal">Cl</m:mi><m:mo>-</m:mo></m:msup></m:math></equation></item>
+        <item id="uid68"><emphasis effect="bold">Reaction 2:</emphasis> Sodium sulphate reacts with copper(II) chloride.<newline/>
+The ions that are present in solution are <m:math overflow="scroll"><m:msup><m:mi mathvariant="normal">Cu</m:mi><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup></m:math>, <m:math overflow="scroll"><m:msup><m:mi mathvariant="normal">Cl</m:mi><m:mo>-</m:mo></m:msup></m:math>, <m:math overflow="scroll"><m:msup><m:mi mathvariant="normal">Na</m:mi><m:mo>+</m:mo></m:msup></m:math> and <m:math><m:msubsup><m:mi mathvariant="normal">SO</m:mi><m:mn>4</m:mn><m:mrow><m:mn>2</m:mn><m:mo>-</m:mo></m:mrow></m:msubsup></m:math>.
+The ions collide with each other and may recombine in different ways. The possible combinations of the ions are as follows:
+<equation id="id763">
+<m:math overflow="scroll"><m:msup><m:mi mathvariant="normal">Cu</m:mi><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup>
+<m:mo>+</m:mo><m:msubsup><m:mi mathvariant="normal">SO</m:mi><m:mn>4</m:mn><m:mrow><m:mn>2</m:mn><m:mo>-</m:mo></m:mrow></m:msubsup>
+<m:mo>→</m:mo><m:msub><m:mi>CuSO</m:mi><m:mn>4</m:mn></m:msub></m:math></equation>
+<equation id="id75876">
+<m:math overflow="scroll"><m:msup><m:mi mathvariant="normal">Cu</m:mi><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup>
+<m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mi mathvariant="normal">Cl</m:mi><m:mo>-</m:mo></m:msup>
+<m:mo>→</m:mo><m:msub><m:mi>CuCl</m:mi><m:mn>2</m:mn></m:msub></m:math></equation>
+<equation id="id75745">
+<m:math overflow="scroll"><m:msup><m:mi mathvariant="normal">Na</m:mi><m:mo>+</m:mo></m:msup>
+<m:mo>+</m:mo><m:msup><m:mi mathvariant="normal">Cl</m:mi><m:mo>-</m:mo></m:msup>
+<m:mo>→</m:mo><m:mi>NaCl</m:mi></m:math></equation>
+<equation id="id75775">
+<m:math overflow="scroll"><m:msup><m:mi mathvariant="normal">Na</m:mi><m:mo>+</m:mo></m:msup>
+<m:mo>+</m:mo><m:msubsup><m:mi mathvariant="normal">SO</m:mi><m:mn>4</m:mn><m:mrow><m:mn>2</m:mn><m:mo>-</m:mo></m:mrow></m:msubsup>
+<m:mo>→</m:mo><m:msub><m:mi mathvariant="normal">Na</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi mathvariant="normal">SO</m:mi><m:mn>4</m:mn></m:msub></m:math></equation>
+
+If we look up which of these salts are soluble and which are insoluble, we see that most chlorides and most sulphates are soluble. This is why no precipitate forms in this second reaction. Even when the ions recombine, they immediately separate and go back into solution. The reaction that has taken place between the ions in solution is as follows:
+<equation id="id74443"><m:math overflow="scroll"><m:mn>2</m:mn><m:msup><m:mi mathvariant="normal">Na</m:mi><m:mo>+</m:mo></m:msup>
+<m:mo>+</m:mo><m:msubsup><m:mi mathvariant="normal">SO</m:mi><m:mn>4</m:mn><m:mrow><m:mn>2</m:mn><m:mo>-</m:mo></m:mrow></m:msubsup><m:mo>+</m:mo><m:msup><m:mi mathvariant="normal">Cu</m:mi><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mi mathvariant="normal">Cl</m:mi><m:mo>-</m:mo></m:msup>
+<m:mo>→</m:mo><m:mn>2</m:mn><m:msup><m:mi mathvariant="normal">Na</m:mi><m:mo>+</m:mo></m:msup>
+<m:mo>+</m:mo><m:msubsup><m:mi mathvariant="normal">SO</m:mi><m:mn>4</m:mn><m:mrow><m:mn>2</m:mn><m:mo>-</m:mo></m:mrow></m:msubsup><m:mo>+</m:mo><m:msup><m:mi mathvariant="normal">Cu</m:mi><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mi mathvariant="normal">Cl</m:mi><m:mo>-</m:mo></m:msup></m:math></equation>
+</item>
+      </list>
+      <para id="id340954"><link target-id="uid69"/> shows some of the general rules about the solubility of different salts based on a number of investigations:</para>
+      <table id="uid69" summary="Solubility of salts">
+<tgroup cols="2"><tbody>
+            <row>
+              <entry>
+                <emphasis effect="bold">Salt</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">Solubility</emphasis>
+              </entry>
+            </row>
+            <row>
+              <entry>Nitrates</entry>
+              <entry>All are soluble</entry>
+            </row>
+            <row>
+              <entry>Potassium, sodium and ammonium salts</entry>
+              <entry>All are soluble</entry>
+            </row>
+            <row>
+              <entry>Chlorides, bromides and iodides</entry>
+              <entry>All are soluble except silver, lead(II) and mercury(II) salts (e.g. silver chloride)</entry>
+            </row>
+            <row>
+              <entry>Sulphates</entry>
+              <entry>All are soluble except lead(II) sulphate, barium sulphate and calcium sulphate</entry>
+            </row>
+            <row>
+              <entry>Carbonates</entry>
+              <entry>All are insoluble except those of potassium, sodium and ammonium</entry>
+            </row>
+<row><entry>Compounds with fluorine</entry>
+<entry>Almost all are soluble except those of magnesium, calcium, strontium (II), barium (II) and lead (II)</entry> 
+</row>
+<row><entry>Perchlorates and acetates</entry>
+<entry>All are soluble</entry>
+</row>
+<row><entry>Chlorates</entry>
+<entry>All are soluble except potassium chlorate</entry>
+</row>
+<row><entry>Metal hydroxides and oxides</entry>
+<entry>Most are insoluble</entry>
+</row>
+          </tbody>
+        
+
+</tgroup><caption>General rules for the solubility of salts</caption>
+</table><para id="eip-870">Salts of carbonates, phosphates, oxalates, chromates and sulphides are generally insoluble.</para>
+    </section>
+    <section id="cid9">
+      <title>Testing for common anions in solution</title>
+      <para id="id341125">It is also possible to carry out tests to determine which ions are present in a solution. You should try to do each of these tests in class.</para>
+      <note id="eip-795" type="important">As always when working with chemicals, you must work carefully as you can easily get bad chemical burns if you spill the chemicals on yourself.</note><section id="uid70">
+        <title>Test for a chloride</title>
+        <para id="id341138">Prepare a solution of the unknown salt using distilled water and add a small amount of <emphasis effect="bold">silver nitrate</emphasis> solution. If a white precipitate forms, the salt is either a chloride or a carbonate.
+        <equation id="id341148"><m:math overflow="scroll"><m:msup><m:mi>Cl</m:mi><m:mo>-</m:mo></m:msup><m:mo>+</m:mo><m:msup><m:mi>Ag</m:mi><m:mo>+</m:mo></m:msup><m:mo>+</m:mo><m:msubsup><m:mi>NO</m:mi><m:mn>3</m:mn><m:mo>-</m:mo></m:msubsup><m:mo>→</m:mo><m:mi>AgCl</m:mi><m:mo>+</m:mo><m:msubsup><m:mi>NO</m:mi><m:mn>3</m:mn><m:mo>-</m:mo></m:msubsup></m:math></equation> (<m:math><m:mi>AgCl</m:mi></m:math> is white precipitate)
+        <equation id="id341211"><m:math overflow="scroll"><m:msubsup><m:mi>CO</m:mi><m:mn>3</m:mn><m:mrow><m:mn>2</m:mn><m:mo>-</m:mo></m:mrow></m:msubsup><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mi>Ag</m:mi><m:mo>+</m:mo></m:msup><m:mo>+</m:mo><m:mn>2</m:mn><m:msubsup><m:mi>NO</m:mi><m:mn>3</m:mn><m:mo>-</m:mo></m:msubsup><m:mo>→</m:mo><m:msub><m:mi>Ag</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi>CO</m:mi><m:mn>3</m:mn></m:msub><m:mo>+</m:mo><m:mn>2</m:mn><m:msubsup><m:mi>NO</m:mi><m:mn>3</m:mn><m:mo>-</m:mo></m:msubsup></m:math></equation>(<m:math overflow="scroll"><m:msub><m:mi>Ag</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi>CO</m:mi><m:mn>3</m:mn></m:msub></m:math> is white precipitate)</para>
+        <para id="id341323">The next step is to treat the precipitate with a small amount of <emphasis effect="bold">concentrated nitric acid</emphasis>. If the precipitate remains unchanged, then the salt is a chloride. If carbon dioxide is formed, and the precipitate disappears, the salt is a carbonate.</para>
+        <para id="id341334"><m:math overflow="scroll"><m:mi>AgCl</m:mi><m:mo>+</m:mo><m:msub><m:mi>HNO</m:mi><m:mn>3</m:mn></m:msub><m:mo>→</m:mo></m:math> (no reaction; precipitate is unchanged)</para>
+        <para id="id341361"><m:math overflow="scroll"><m:mrow><m:msub><m:mi> Ag </m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi> CO </m:mi><m:mn>3</m:mn></m:msub><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mi> HNO </m:mi><m:mn>3</m:mn></m:msub><m:mo>→</m:mo><m:mn>2</m:mn><m:msub><m:mi> AgNO </m:mi><m:mn>3</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi><m:mo>+</m:mo><m:msub><m:mi> CO </m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:math> (precipitate disappears)</para>
+      </section>
+      <section id="uid71">
+        <title>Test for a sulphate</title>
+        <para id="id341449">Add a small amount of barium chloride solution to a solution of the test salt. If a white precipitate forms, the salt is either a sulphate or a carbonate.</para>
+        <para id="id341454"><m:math overflow="scroll"><m:mrow><m:msubsup><m:mi> SO </m:mi><m:mrow><m:mn>4</m:mn></m:mrow><m:mrow><m:mn>2</m:mn><m:mo>-</m:mo></m:mrow></m:msubsup><m:mo>+</m:mo><m:msup><m:mi> Ba </m:mi><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mi> Cl </m:mi><m:mo>-</m:mo></m:msup><m:mo>→</m:mo><m:msub><m:mi> BaSO </m:mi><m:mn>4</m:mn></m:msub><m:mo>+</m:mo><m:msup><m:mi> Cl </m:mi><m:mo>-</m:mo></m:msup></m:mrow></m:math> (<m:math overflow="scroll"><m:msub><m:mi> BaSO </m:mi><m:mn>4</m:mn></m:msub></m:math> is a white precipitate)</para>
+        <para id="id341538"><m:math overflow="scroll"><m:mrow><m:msubsup><m:mi> CO </m:mi><m:mrow><m:mn>3</m:mn></m:mrow><m:mrow><m:mn>2</m:mn><m:mo>-</m:mo></m:mrow></m:msubsup><m:mo>+</m:mo><m:msup><m:mi> Ba </m:mi><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mi> Cl </m:mi><m:mo>-</m:mo></m:msup><m:mo>→</m:mo><m:msub><m:mi> BaCO </m:mi><m:mn>3</m:mn></m:msub><m:mo>+</m:mo><m:msup><m:mi> Cl </m:mi><m:mo>-</m:mo></m:msup></m:mrow></m:math> (<m:math><m:msub><m:mi> BaCO </m:mi><m:mn>3</m:mn></m:msub></m:math> is a white precipitate)</para>
+        <para id="id341622">If the precipitate is treated with nitric acid, it is possible to distinguish whether the salt is a sulphate or a carbonate (as in the test for a chloride).</para>
+        <para id="id341627"><m:math overflow="scroll"><m:mrow><m:msub><m:mi> BaSO </m:mi><m:mn>4</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mi> HNO </m:mi><m:mn>3</m:mn></m:msub><m:mo>→</m:mo></m:mrow></m:math> (no reaction; precipitate is unchanged)</para>
+        <para id="id341658"><m:math overflow="scroll"><m:mrow><m:msub><m:mi> BaCO </m:mi><m:mn>3</m:mn></m:msub><m:mo>+</m:mo><m:mn>2</m:mn><m:msub><m:mi> HNO </m:mi><m:mn>3</m:mn></m:msub><m:mo>→</m:mo><m:mi> Ba </m:mi><m:msub><m:mrow><m:mo>(</m:mo><m:msub><m:mi> NO </m:mi><m:mn>3</m:mn></m:msub><m:mo>)</m:mo></m:mrow><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi><m:mo>+</m:mo><m:msub><m:mi> CO </m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:math> (precipitate disappears)</para>
+      </section>
+      <section id="uid72">
+        <title>Test for a carbonate</title>
+        <para id="id341749">If a sample of the dry salt is treated with a small amount of acid, the production of carbon dioxide is a positive test for a carbonate.</para>
+        <para id="id341754"><m:math overflow="scroll"><m:mi>Acid</m:mi><m:mo>+</m:mo><m:msubsup><m:mi>CO</m:mi><m:mn>3</m:mn><m:mrow><m:mn>2</m:mn><m:mo>-</m:mo></m:mrow></m:msubsup><m:mo>→</m:mo><m:msub><m:mi>CO</m:mi><m:mn>2</m:mn></m:msub></m:math></para>
+        <para id="id341796">If the gas is passed through limewater and the solution becomes milky, the gas is carbon dioxide.</para>
+        <para id="id341800"><m:math overflow="scroll"><m:msub><m:mi>Ca(OH)</m:mi><m:mn>2</m:mn></m:msub><m:mo>+</m:mo> <m:msub><m:mi>CO</m:mi><m:mn>2</m:mn></m:msub><m:mo>→</m:mo><m:msub><m:mi>CaCO</m:mi><m:mn>3</m:mn></m:msub><m:mo>+</m:mo><m:mi mathvariant="normal">H</m:mi><m:msub><m:mrow/><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi></m:math> (It is the insoluble <m:math><m:msub><m:mi>CaCO</m:mi><m:mn>3</m:mn></m:msub></m:math> precipitate that makes the limewater go milky)</para>
+      </section>
+      <section id="uid73">
+        <title>Test for bromides and iodides</title>
+        <para id="id341894">As was the case with the chlorides, the bromides and iodides also form precipitates when they are reacted with silver nitrate. Silver chloride is a white precipitate, but the silver bromide and silver iodide precipitates are both pale yellow. To determine whether the precipitate is a bromide or an iodide, we use chlorine water and carbon tetrachloride (<m:math overflow="scroll"><m:msub><m:mi>CCl</m:mi><m:mn>4</m:mn></m:msub></m:math>).</para>
+        <para id="id341914">Chlorine water frees bromine gas from the bromide and colours the carbon tetrachloride a reddish brown.</para>
+        <para id="id341920">Chlorine water frees iodine gas from an iodide and colours the carbon tetrachloride purple.</para>
+<section id="secfhsst_id1016"><title>Precipitation reactions and ions in solution </title><list id="id341939" display="block" list-type="enumerated"><item id="uid74">Silver nitrate (<m:math overflow="scroll"><m:msub><m:mi>AgNO</m:mi><m:mn>3</m:mn></m:msub></m:math>) reacts with potassium chloride (<m:math><m:mi mathvariant="normal">KCl</m:mi></m:math>) and a white precipitate is formed.
+<list id="id341969" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid75">Write a balanced equation for the reaction that takes place.
+</item><item id="uid76">What is the name of the insoluble salt that forms?
+</item><item id="uid77">Which of the salts in this reaction are soluble?
+</item></list><link window="new" class="fullmarks" url="http://www.fhsst.org/l3c">Click here for the solution</link>
+</item>
+          <item id="uid78">Barium chloride reacts with sulphuric acid to produce barium sulphate and hydrochloric acid.
+<list id="id342022" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid79">Write a balanced equation for the reaction that takes place.
+</item><item id="uid80">Does a precipitate form during the reaction?
+</item><item id="uid81">Describe a test that could be used to test for the presence of barium sulphate in the products.
+</item></list><link window="new" class="fullmarks" url="http://www.fhsst.org/l3O">Click here for the solution</link>
+</item>
+          <item id="uid82">A test tube contains a clear, colourless salt solution. A few drops of silver nitrate solution are added to the solution and a pale yellow precipitate forms. Which one of the following salts was dissolved in the original solution?
+<list id="id342078" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid83"><m:math><m:mi mathvariant="normal">NaI</m:mi></m:math>
+</item><item id="uid84"><m:math><m:mi mathvariant="normal">KCl</m:mi></m:math>
+</item><item id="uid85"><m:math overflow="scroll"><m:msub><m:mi mathvariant="normal">K</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi>CO</m:mi><m:mn>3</m:mn></m:msub></m:math></item><item id="uid86"><m:math overflow="scroll"><m:msub><m:mi mathvariant="normal">Na</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi>SO</m:mi><m:mn>4</m:mn></m:msub></m:math></item></list>
+(IEB Paper 2, 2005)<newline/>
+<link window="new" class="fullmarks" url="http://www.fhsst.org/l3x">Click here for the solution</link>
+</item>
+        </list>
+        
+</section>
+      </section>
+    </section><section id="fs-id1165446821271">
+<title>Other reactions in aqueous solutions</title>
+<para id="id08212">
+There are many types of reactions that can occur in aqueous solutions. In this section we will look at two of them: acid-base reactions and redox reactions. These reactions will be covered in more detail in Grade 11. 
+</para>
+<section id="eip-329"><title>Acid-base reactions</title>
+
+<para id="id0821354">Acid base reactions take place between acids and bases. In general, the products will be water and a salt (i.e. an ionic compound). An example of this type of reaction is: <equation id="eid1534">
+	    <m:math>
+	      <m:mi mathvariant="normal">NaOH(aq)</m:mi><m:mo>+</m:mo><m:mi mathvariant="normal">HCl(aq)</m:mi><m:mo>→</m:mo><m:mi mathvariant="normal">NaCl(aq)</m:mi><m:mo>+</m:mo><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O (l)</m:mi>
+	    </m:math>
+	  </equation>
+</para><para id="eip-588">This is an special case of an ion exchange reaction since the sodium in the sodium hydroxide swaps places with the hydrogen in the hydrogen chloride forming sodium chloride. At the same time the hydroxide and the hydrogen combine to form water. </para>
+</section><section id="eip-454"><title>Redox reactions</title><para id="eip-585">Redox reactions involve the exchange of electrons. One ion loses electrons and becomes more positive, while the other ion gains electrons and becomes more negative. To decide if a redox reaction has occurred we look at the charge of the atoms, ions or molecules involved. If one of them has become more positive and the other one has become more negative then a redox reaction has occurred. For example, sodium metal is oxidised to form sodium oxide (and sometimes sodium peroxide as well). The balanced equation for this is:
+<equation id="id624"><m:math><m:mn>4</m:mn><m:mi mathvariant="normal">Na</m:mi><m:mo>+</m:mo><m:msub><m:mi mathvariant="normal">O</m:mi><m:mn>2</m:mn></m:msub><m:mo>→</m:mo><m:mn>2</m:mn><m:msub><m:mi>Na</m:mi><m:mn>2</m:mn></m:msub><m:mi mathvariant="noraml">O</m:mi></m:math>
+
+</equation>
+</para><para id="eip-815">In the above reaction sodium and oxygen are both neutral and so have no charge. In the products however, the sodium atom has a charge of <m:math><m:mo>+</m:mo><m:mn>1</m:mn></m:math> and the oxygen atom has a charge of <m:math><m:mo>-</m:mo><m:mn>2</m:mn></m:math>. This tells us that the sodium has lost electrons and the oxygen has gained electrons. Since one species has become more positive and one more negative we can conclude that a redox reaction has occurred. We could also say that electrons have been transferred from one species to the other. (In this case the electrons were transferred from the sodium to the oxygen).</para><section id="eip-878"><title>Demonstration: Oxidation of sodium metal</title><para id="eip-355">
+You will need a bunsen burner, a small piece of sodium metal and a metal spatula. Light the bunsen burner. Place the sodium metal on the spatula. Place the sodium in the flame. When the reaction finishes, you should observe a white powder on the spatula. This is a mixture of sodium oxide (<m:math><m:msub><m:mi>Na</m:mi><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi></m:math>) and sodium peroxide (<m:math><m:msub><m:mi>Na</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi mathvariant="normal">O</m:mi><m:mn>2</m:mn></m:msub></m:math>). 
+</para><note id="eip-980" type="warning">Sodium metal is very reactive. Sodium metal reacts vigourously with water and should never be placed in water. Be very careful when handling sodium metal.</note></section></section>
+</section><section id="eip-611"><title>Experiment: Reaction types</title><para id="eip-190"><title>Aim: </title><newline/>To use experiments to determine what type of reaction occurs.
+</para>
+<para id="eip-1901"><title>Apparatus: </title><newline/>Soluble salts (e.g. potassium nitrate, ammonium chloride, sodium carbonate, silver nitrate, sodium bromide); hydrochloric acid (<m:math><m:mi>HCl</m:mi></m:math>); sodium hydroxide(<m:math><m:mi>NaOH</m:mi></m:math>); bromothymol blue; zinc metal; copper (II) sulphate; beakers; test-tubes
+</para>
+<para id="eip-1902"><title>Method: </title><list id="id6231"><item>For each of the salts, dissolve a small amount in water and observe what happens.</item>
+<item>Try dissolving pairs of salts (e.g. potassium nitrate and sodium carbonate) in water and observe what happens.</item>
+<item>Dissolve some sodium carbonate in hydrochloric acid and observe what happens.</item>
+<item>Carefully measure out <m:math><m:mn>20</m:mn><m:msup><m:mi>cm</m:mi><m:mn>3</m:mn></m:msup></m:math> of sodium hydroxide into a beaker. </item>
+<item>Add some bromothymol blue to the sodium hydroxide</item>
+<item>Carefully add a few drops of hydrochloric acid to the sodium hydroxide and swirl. Repeat until you notice the colour change.</item>
+<item>Place the zinc metal into the copper sulphate solution and observe what happens.</item>
+</list>
+</para>
+<para id="eip-1903"><title>Results: </title><newline/>Answer the following questions:
+<list id="id6144"><item>What did you observe when you dissolved each of the salts in water?</item>
+<item>What did you observe when you dissolved pairs of salts in the water?</item>
+<item>What did you observe when you dissolved sodium carbonate in hydrochloric acid?</item>
+<item>Why do you think we used bromothymol blue when mixing the hydrochloric acid and the sodium hydroxide? Think about the kind of reaction that occurred.</item>
+<item>What did you observe when you placed the zinc metal into the copper sulphate?</item>
+<item>Classify each reaction as either precipitation, gas forming, acid-base or redox.</item>
+<item>What makes each reaction happen (i.e. what is the driving force)? Is it the formation of a precipitate or something else?</item>
+<item>What criteria would you use to determine what kind of reaction occurs?</item>
+<item>Try to write balanced chemical equations for each reaction</item> </list></para>
+<para id="eip-1904"><title>Conclusion: </title><newline/>We can see how we can classify reactions by performing experiments. 
+</para>
+</section><para id="eip-761">In the experiment above, you should have seen how each reaction type differs from the others. For example, a gas forming reaction leads to bubbles in the solution, a precipitation reaction leads to a precipitate forming, an acid-base reaction can be seen by adding a suitable indicator and a redox reaction can be seen by one metal disappearing and a deposit forming in the solution.</para> </section>
+<section id="eip-796"><title>Summary</title><list id="eip-903"><item id="uid95">The <emphasis effect="bold">polar</emphasis> nature of water means that <emphasis effect="bold">ionic compounds</emphasis> dissociate easily in aqueous solution into their component ions.
+</item>
+        <item id="uid96"><emphasis effect="bold">Ions</emphasis> in solution play a number of roles. In the human body for example, ions help to regulate the internal environment (e.g. controlling muscle function, regulating blood pH). Ions in solution also determine water hardness and pH.
+</item>
+        <item id="uid97"><emphasis effect="bold">Water hardness</emphasis> is a measure of the mineral content of water. Hard water has a high mineral concentration and generally also a high concentration of metal ions e.g. calcium and magnesium. The opposite is true for soft water.
+</item>
+        <item id="uid100"><emphasis effect="bold">Conductivity</emphasis> is a measure of a solution's ability to conduct an electric current.
+</item>
+        <item id="uid101">An <emphasis effect="bold">electrolyte</emphasis> is a substance that contains free ions and is therefore able to conduct an electric current. Electrolytes can be divided into <emphasis effect="bold">strong</emphasis> and <emphasis effect="bold">weak</emphasis> electrolytes, based on the extent to which the substance ionises in solution.
+</item>
+        <item id="uid102">A <emphasis effect="bold">non-electrolyte</emphasis> cannot conduct an electric current because it dooes not contain free ions.
+</item>
+        <item id="uid103">The <emphasis effect="bold">type of substance</emphasis>, the <emphasis effect="bold">concentration of ions</emphasis> and the <emphasis effect="bold">temperature</emphasis> of the solution affect its conductivity.
+</item>
+<item id="uid0253">There are three main types of reactions that occur in aqueous solutions. These are precipitation reactions, acid-base reactions and redox reactions.
+</item>
+<item id="uid8923">
+Precipitation and acid-base reactions are sometimes known as ion exchange reactions. Ion exchange reactions also include gas forming reactions.
+</item>
+        <item id="uid104">A <emphasis effect="bold">precipitate</emphasis> is formed when ions in solution react with each other to form an insoluble product. Solubility 'rules' help to identify the precipitate that has been formed.
+</item>
+        <item id="uid105">A number of tests can be used to identify whether certain <emphasis effect="bold">anions</emphasis> are present in a solution.
+</item>
+<item id="id813">An acid-base reaction is one in which an acid reacts with a base to form a salt and water.
+</item>
+<item id="uid823">A redox reaction is one in which electrons are transferred from one substance to another. 
+</item>
+</list></section>
+
+<section id="eip-896"><title>End of chapter exercises</title><list id="id342869" display="block" list-type="enumerated"><item id="uid107">Give one word for each of the following descriptions:
+<list id="id342885" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid108">the change in phase of water from a gas to a liquid
+</item><item id="uid109">a charged atom
+</item><item id="uid110">a term used to describe the mineral content of water
+</item><item id="uid111">a gas that forms sulphuric acid when it reacts with water
+</item></list><link window="new" class="fullmarks" url="http://www.fhsst.org/l3a">Click here for the solution</link>
+</item>
+        <item id="uid112">Match the information in column A with the information in column B by writing only the letter (A to I) next to the question number (1 to 7)
+<table id="id342952" summary="match the columns table">
+<tgroup cols="2"><tbody><row><entry><emphasis effect="bold">Column A</emphasis></entry><entry><emphasis effect="bold">Column B</emphasis></entry></row><row><entry>1. A polar molecule</entry><entry>A. <m:math overflow="scroll"><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi>SO</m:mi><m:mn>4</m:mn></m:msub></m:math></entry></row><row><entry>2. molecular solution</entry><entry>B. <m:math overflow="scroll"><m:msub><m:mi>CaCO</m:mi><m:mn>3</m:mn></m:msub></m:math></entry></row><row><entry>3. Mineral that increases water hardness</entry><entry>C. <m:math><m:mi mathvariant="normal">NaOH</m:mi></m:math></entry></row><row><entry>4. Substance that increases the hydrogen ion concentration</entry><entry>D. salt water</entry></row><row><entry>5. A strong electrolyte</entry><entry>E. calcium</entry></row><row><entry>6. A white precipitate</entry><entry>F. carbon dioxide</entry></row><row><entry>7. A non-conductor of electricity</entry><entry>G. potassium nitrate</entry></row><row><entry/><entry>H. sugar water</entry></row><row><entry/><entry>I. <m:math overflow="scroll"><m:msub><m:mi mathvariant="normal">O</m:mi><m:mn>2</m:mn></m:msub></m:math></entry></row></tbody>
+</tgroup>
+</table><link window="new" class="fullmarks" url="http://www.fhsst.org/l3C">Click here for the solution</link>
+</item>
+        <item id="uid113">For each of the following questions, choose the one correct answer from the list provided.
+<list id="id343153" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid114">Which one of the following substances does not conduct electricity in the solid phase but is an electrical conductor when molten?
+<list id="id343169" display="block" list-type="enumerated" number-style="lower-roman"><item id="uid115"><m:math><m:mi mathvariant="normal">Cu</m:mi></m:math>
+</item><item id="uid116"><m:math overflow="scroll"><m:msub><m:mi>PbBr</m:mi><m:mn>2</m:mn></m:msub></m:math></item><item id="uid117"><m:math overflow="scroll"><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi></m:math>
+</item><item id="uid118"><m:math overflow="scroll"><m:msub><m:mi mathvariant="normal">I</m:mi><m:mn>2</m:mn></m:msub></m:math></item></list>
+(IEB Paper 2, 2003)
+<link window="new" class="fullmarks" url="http://www.fhsst.org/l31">Click here for the solution</link>
+</item><item id="uid119">The following substances are dissolved in water. Which one of the solutions is basic?
+<list id="id343275" display="block" list-type="enumerated" number-style="lower-roman"><item id="uid120">sodium nitrate
+</item><item id="uid121">calcium sulphate
+</item><item id="uid122">ammonium chloride
+</item><item id="uid123">potassium carbonate
+</item></list>
+(IEB Paper 2, 2005)
+<link window="new" class="fullmarks" url="http://www.fhsst.org/l3r">Click here for the solution</link>
+</item></list></item>
+<item>Explain the difference between a weak electrolyte and a strong electrolyte. Give a generalised equation for each.<newline/><link window="new" class="fullmarks" url="http://www.fhsst.org/lTl">Click here for the solution</link></item>
+<item>What factors affect the conductivity of water? How do each of these affect the conductivity?<newline/><link window="new" class="fullmarks" url="http://www.fhsst.org/lTi">Click here for the solution</link></item>
+<item>For each of the following substances state whether they are molecular or ionic. If they are ionic, give a balanced reaction for the dissociation in water.<list id="id7342" list-type="enumerated" number-style="lower-alpha">
+<item>Methane (<m:math><m:msub><m:mi>CH</m:mi><m:mn>4</m:mn></m:msub></m:math>)</item>
+<item>potassium bromide</item>
+<item>carbon dioxide</item>
+<item>hexane (<m:math><m:msub><m:mi mathvariant="normal">C</m:mi><m:mn>6</m:mn></m:msub><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>14</m:mn></m:msub></m:math>)</item>
+<item>lithium fluoride (<m:math><m:mi>LiF</m:mi></m:math>)</item>
+<item>magnesium chloride</item></list><link window="new" class="fullmarks" url="http://www.fhsst.org">Click here for the solution</link>
+</item>
+        <item id="uid127">Three test tubes (X, Y and Z) each contain a solution of an unknown potassium salt. The following observations were made during a practical investigation to identify the solutions in the test tubes:
+A: A white precipitate formed when silver nitrate (<m:math overflow="scroll"><m:msub><m:mi>AgNO</m:mi><m:mn>3</m:mn></m:msub></m:math>) was added to test tube Z.
+B: A white precipitate formed in test tubes X and Y when barium chloride (<m:math overflow="scroll"><m:msub><m:mi>BaCl</m:mi><m:mn>2</m:mn></m:msub></m:math>) was added.
+C: The precipitate in test tube X dissolved in hydrochloric acid (<m:math><m:mi mathvariant="normal">HCl</m:mi></m:math>) and a gas was released.
+D: The precipitate in test tube Y was insoluble in hydrochloric acid.
+<list id="id343466" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid128">Use the above information to identify the solutions in each of the test tubes X, Y and Z.
+</item><item id="uid129">Write a chemical equation for the reaction that took place in test tube X before hydrochloric acid was added.
+</item></list>
+(DoE Exemplar Paper 2 2007)
+<link window="new" class="fullmarks" url="http://www.fhsst.org/l3Y">Click here for the solution</link>
+</item>
+      </list></section>
+</content>
+
+</document>

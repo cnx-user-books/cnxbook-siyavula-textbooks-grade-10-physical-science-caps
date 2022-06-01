@@ -1,0 +1,201 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>The Hydrosphere</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38138</md:content-id>
+  <md:title>The Hydrosphere</md:title>
+  <md:abstract/>
+  <md:uuid>176a98d1-31b0-4fff-bc15-35ee0187e04c</md:uuid>
+</metadata>
+
+<content>
+    
+    <section id="cid2">
+      <title>Introduction</title>
+      <para id="id334056">As far as we know, the Earth we live on is the only planet that is able to support life. Amongst other factors, the Earth is just the right distance from the sun to have temperatures that are suitable for life to exist. Also, the Earth's atmosphere has exactly the right type of gases in the right amounts for life to survive. Our planet also has <emphasis effect="bold">water</emphasis> on its surface, which is something very unique. In fact, Earth is often called the 'Blue Planet' because most of it is covered in water. This water is made up of <emphasis effect="italics">freshwater</emphasis> in rivers and lakes, the <emphasis effect="italics">saltwater</emphasis> of the oceans and estuaries, <emphasis effect="italics">groundwater</emphasis> and <emphasis effect="italics">water vapour</emphasis>. Together, all these water bodies are called the <emphasis effect="bold">hydrosphere</emphasis>.</para>
+      <note id="id8754"><title>Interesting Fact</title>The total mass of the hydrosphere is approximately <m:math overflow="scroll"><m:mrow><m:mn>1,4</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>18</m:mn></m:msup></m:mrow><m:mspace width="2pt"/><m:mi>tonnes</m:mi></m:math>! (The volume of one tonne of water is approximately 1 cubic metre.)</note>
+    </section>
+    <section id="cid3">
+      <title>Interactions of the hydrosphere</title>
+      <para id="id334443">It is important to realise that the hydrosphere is not an isolated system, but rather interacts with other global systems, including the <emphasis effect="italics">atmosphere</emphasis>, <emphasis effect="italics">lithosphere</emphasis> and <emphasis effect="italics">biosphere</emphasis>. These interactions are sometimes known collectively as the water cycle.</para>
+      <list id="id334463" display="block" list-type="bulleted"><item id="uid1"><emphasis effect="italics">Atmosphere</emphasis>
+When water is heated (e.g. by energy from the sun), it evaporates and forms water vapour. When water vapour cools again, it condenses to form liquid water which eventually returns to the surface by precipitation e.g. rain or snow. This cycle of water moving through the atmosphere and the energy changes that accompany it, is what drives weather patterns on earth.
+</item>
+        <item id="uid2"><emphasis effect="italics">Lithosphere</emphasis>
+In the lithosphere (the ocean and continental crust at the Earth's surface), water is an important <emphasis effect="italics">weathering</emphasis> agent, which means that it helps to break rock down into rock fragments and then soil. These fragments may then be transported by water to another place, where they are deposited. These two processes (weathering and the transporting of fragments) are collectively called <emphasis effect="italics">erosion</emphasis>. Erosion helps to shape the earth's surface. For example, you can see this in rivers. In the upper streams, rocks are eroded and sediments are transported down the river and deposited on the wide flood plains lower down. On a bigger scale, river valleys in mountains have been carved out by the action of water, and cliffs and caves on rocky beach coastlines are also the result of weathering and erosion by water. The processes of weathering and erosion also increase the content of dissolved minerals in the water. These dissolved minerals are important for the plants and animals that live in the water.
+</item>
+        <item id="uid3"><emphasis effect="italics">Biosphere</emphasis>
+In the biosphere, land plants absorb water through their roots and then transport this through their vascular (transport) system to stems and leaves. This water is needed in <emphasis effect="italics">photosynthesis</emphasis>, the food production process in plants. Transpiration (evaporation of water from the leaf surface) then returns water back to the atmosphere.
+</item>
+      </list>
+    </section>
+    <section id="cid4">
+      <title>Exploring the Hydrosphere</title>
+      <para id="id334557">The large amount of water on our planet is something quite unique. In fact, about 71% of the earth is covered by water. Of this, almost 97% is found in the oceans as saltwater, about 2.2% occurs as a solid in ice sheets, while the remaining amount (less than 1%) is available as freshwater. So from a human perspective, despite the vast amount of water on the planet, only a very small amount is actually available for human consumption (e.g. drinking water). In <link document="m38136">Reactions in aqueous solutions</link> we looked at some of the reactions that occur in aqueous solution and saw some of the chemistry of water, in this section we are going to spend some time exploring a part of the hydrosphere in order to start appreciating what a complex and beautiful part of the world it is. After completing the following investigation, you should start to see just how important it is to know about the chemistry of water.</para>
+<section id="secfhsst_id86"><title> Investigation : Investigating the hydrosphere
+      </title>
+      <list id="id334584" display="block" list-type="enumerated"><item id="uid4"><label>Choosing a study site</label>
+For this exercise, you can choose any part of the hydrosphere that you would like to explore. This may be a rock pool, a lake, river, wetland or even just a small pond. The guidelines below will apply best to a river investigation, but you can ask similar questions and gather similar data in other areas. When choosing your study site, consider how accessible it is (how easy is it to get to?) and the problems you may experience (e.g. tides, rain).
+</item>
+        <item id="uid5"><label>Collecting data</label>
+Your teacher will provide you with the equipment you need to collect the following data. You should have at least one study site where you will collect data, but you might decide to have more if you want to compare your results in different areas. This works best in a river, where you can choose sites down its length.
+<list id="id334646" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid6"><emphasis effect="italics">Chemical data</emphasis>
+Measure and record data such as temperature, pH, conductivity and dissolved oxygen at each of your sites. You may not know exactly what these measurements mean right now, but it will become clearer later.
+</item><item id="uid7"><emphasis effect="italics">Hydrological data</emphasis>
+Measure the water velocity of the river and observe how the volume of water in the river changes as you move down its length. You can also collect a water sample in a clear bottle, hold it to the light and see whether the water is clear or whether it has particles in it.
+</item><item id="uid8"><emphasis effect="italics">Biological data</emphasis>
+What types of animals and plants are found in or near this part of the hydrosphere? Are they specially adapted to their environment?
+</item></list>
+Record your data in a table like the one shown below:
+<table id="id334712" summary=""><tgroup cols="4"><tbody><row><entry/><entry><emphasis effect="bold">Site 1</emphasis></entry><entry><emphasis effect="bold">Site 2</emphasis></entry><entry><emphasis effect="bold">Site 3</emphasis></entry></row><row><entry><emphasis effect="bold">Temperature</emphasis></entry><entry/><entry/><entry/></row><row><entry><emphasis effect="bold">pH</emphasis></entry><entry/><entry/><entry/></row><row><entry><emphasis effect="bold">Conductivity</emphasis></entry><entry/><entry/><entry/></row><row><entry><emphasis effect="bold">Dissolved oxygen</emphasis></entry><entry/><entry/><entry/></row><row><entry><emphasis effect="bold">Animals and plants</emphasis></entry><entry/><entry/><entry/></row></tbody></tgroup></table></item>
+        <item id="uid9"><emphasis effect="bold">Interpreting the data</emphasis>
+Once you have collected and recorded your data, think about the following questions:
+<list id="id334958" display="block" list-type="bulleted"><item id="uid10">How does the data you have collected vary at different sites?
+</item><item id="uid11">Can you explain these differences?
+</item><item id="uid12">What effect do you think <emphasis effect="italics">temperature</emphasis>, <emphasis effect="italics">dissolved oxygen</emphasis> and <emphasis effect="italics">pH</emphasis> have on animals and plants that are living in the hydrosphere?
+</item><item id="uid13">Water is seldom 'pure'. It usually has lots of things dissolved (e.g. <m:math><m:msup><m:mi>Mg</m:mi><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup></m:math>, <m:math><m:msup><m:mi>Ca</m:mi><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup></m:math> and <m:math><m:msubsup><m:mi>NO</m:mi><m:mn>3</m:mn><m:mrow><m:mo>-</m:mo></m:mrow></m:msubsup></m:math> ions) or suspended (e.g. soil particles, debris) in it. Where do these substances come from?
+</item><item id="uid14">Are there any human activities near this part of the hydrosphere? What effect could these activities have on the hydrosphere?
+</item></list></item>
+      </list>
+      
+</section>
+    </section>
+    <section id="cid5">
+      <title>The Importance of the Hydrosphere</title>
+      <para id="id335077">It is so easy sometimes to take our hydrosphere for granted and we seldom take the time to really think about the role that this part of the planet plays in keeping us alive. Below are just some of the very important functions of water in the hydrosphere:</para>
+      <list id="id335082" display="block" list-type="bulleted">
+        <item id="uid15"><emphasis effect="italics">Water is a part of living cells</emphasis>
+Each cell in a living organism is made up of almost 75% water, and this allows the cell to function normally. In fact, most of the chemical reactions that occur in life, involve substances that are dissolved in water. Without water, cells would not be able to carry out their normal functions and life could not exist.
+</item>
+        <item id="uid16"><emphasis effect="italics">Water provides a habitat</emphasis>
+The hydrosphere provides an important place for many animals and plants to live. Many gases (e.g. <m:math><m:msub><m:mi>CO</m:mi><m:mn>2</m:mn></m:msub></m:math>, <m:math><m:msub><m:mi mathvariant="normal">O</m:mi><m:mn>2</m:mn></m:msub></m:math>), nutrients e.g. nitrate (<m:math><m:msubsup><m:mi>NO</m:mi><m:mn>3</m:mn><m:mrow><m:mo>-</m:mo></m:mrow></m:msubsup></m:math>), nitrite (<m:math><m:msubsup><m:mi>NO</m:mi><m:mn>2</m:mn><m:mrow><m:mo>-</m:mo></m:mrow></m:msubsup></m:math>) and ammonium (<m:math><m:msubsup><m:mi>NH</m:mi><m:mn>4</m:mn><m:mrow><m:mo>+</m:mo></m:mrow></m:msubsup></m:math>) ions, as well as other ions (e.g. <m:math><m:msup><m:mi>Mg</m:mi><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup></m:math> and <m:math><m:msup><m:mi>Ca</m:mi><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup></m:math>) are dissolved in water. The presence of these substances is critical for life to exist in water.
+</item>
+        <item id="uid17"><emphasis effect="italics">Regulating climate</emphasis>
+One of water's unique characteristics is its high <emphasis effect="italics">specific heat</emphasis>. This means that water takes a long time to heat up and also a long time to cool down. This is important in helping to regulate temperatures on earth so that they stay within a range that is acceptable for life to exist. <emphasis effect="italics">Ocean currents</emphasis> also help to disperse heat.
+</item>
+        <item id="uid18"><emphasis effect="italics">Human needs</emphasis>
+Humans use water in a number of ways. Drinking water is obviously very important, but water is also used domestically (e.g. washing and cleaning) and in industry. Water can also be used to generate electricity through hydropower.
+</item>
+      </list>
+      <para id="id335280">These are just a few of the very important functions that water plays on our planet. Many of the functions of water relate to its chemistry and to the way in which it is able to dissolve substances in it.</para>
+    </section>
+    <section id="cid10">
+      <title>Threats to the Hydrosphere</title>
+      <para id="id342204">It should be clear by now that the hydrosphere plays an extremely important role in the survival of life on Earth and that the unique properties of water allow various important chemical processes to take place which would otherwise not be possible. Unfortunately for us however, there are a number of factors that threaten our hydrosphere and most of these threats are because of human activities. We are going to focus on two of these issues: <emphasis effect="bold">overuse</emphasis> and <emphasis effect="bold">pollution</emphasis> and look at ways in which these problems can possibly be overcome.</para>
+      <list id="id342223" display="block" list-type="enumerated"><item id="uid91"><emphasis effect="bold">Pollution</emphasis><newline/>
+Pollution of the hydrosphere is also a major problem. When we think of pollution, we sometimes only think of things like plastic, bottles, oil and so on. But any chemical that is present in the hydrosphere in an amount that is not what it should be is a pollutant. Animals and plants that live in the Earth's water bodies are specially adapted to surviving within a certain range of conditions. If these conditions are changed (e.g. through pollution), these organisms may not be able to survive. Pollution then, can affect entire aquatic ecosystems. The most common forms of pollution in the hydrosphere are <emphasis effect="italics">waste products</emphasis> from humans and from industries, <emphasis effect="italics">nutrient pollution</emphasis> e.g. fertiliser runoff which causes eutrophication (an excess of nutrients in the water leading to excessive plant growth) and toxic trace elements such as aluminium, mercury and copper to name a few. Most of these elements come from mines or from industries.
+</item>
+<item id="uid87"><emphasis effect="bold">Overuse of water</emphasis><newline/>
+We mentioned earlier that only a very small percentage of the hydrosphere's water is available as freshwater. However, despite this, humans continue to use more and more water to the point where water <emphasis effect="italics">consumption</emphasis> is fast approaching the amount of water that is <emphasis effect="italics">available</emphasis>. The situation is a serious one, particularly in countries such as South Africa which are naturally dry and where water resources are limited. It is estimated that between 2020 and 2040, water supplies in South Africa will no longer be able to meet the growing demand for water in this country. This is partly due to population growth, but also because of the increasing needs of industries as they expand and develop. For each of us, this should be a very scary thought. Try to imagine a day without water... difficult isn't it? Water is so much a part of our lives, that we are hardly aware of the huge part that it plays in our daily lives.
+</item>
+      </list>
+<section id="secfhsst_id1046"><title> Discussion : Creative water conservation
+</title>
+<para id="uid289435">As populations grow, so do the demands that are placed on dwindling water resources. While many people argue that building dams helps to solve this water-shortage problem, there is evidence that dams are only a temporary solution and that they often end up doing far more ecological damage than good. The only sustainable solution is to reduce the <emphasis effect="italics">demand</emphasis> for water, so that water supplies are sufficient to meet this. The more important question then is how to do this.
+</para>
+<para id="uid5630"><emphasis effect="bold">Discussion:</emphasis><newline/>Divide the class into groups, so that there are about five people in each. Each group is going to represent a different sector within society. Your teacher will tell you which sector you belong to from the following: Farming, industry, city management or civil society (i.e. you will represent the ordinary 'man on the street'). In your groups, discuss the following questions as they relate to the group of people you represent: (Remember to take notes during your discussions, and nominate a spokesperson to give feedback to the rest of the class on behalf of your group)
+<list id="id342317" display="block" list-type="bulleted"><item id="uid88">What steps could be taken by your group to conserve water?
+</item><item id="uid89">Why do you think these steps are <emphasis effect="italics">not</emphasis> being taken?
+</item><item id="uid90">What incentives do you think could be introduced to encourage this group to conserve water more efficiently?
+</item></list>
+</para>
+
+</section>
+<section id="id0123"><title>Investigation: Building of dams</title>
+<para id="id0128031">In the previous discussion, we mentioned that there is evidence that dams are only a temporary solution to the water crisis. In this investigation you will look at why dams are a potentially bad solution to the problem. 
+</para>
+<para id="id473692">For this investigation you will choose a dam that has been built in your area, or an area close to you. Make a note of which rivers are in the area. Try to answer the following questions:
+<list id="id774"><item id="id034582">If possible talk to people who have lived in the area for a long time and try to get their opinion on how life changed since the dam was built. If it is not possible to talk to people in the area, then look for relevant literature on the area.
+</item>
+<item id="id08323">Try to find out if any environmental impact assessments (this is where people study the environmnent and see what effect the proposed project has on the environment) were done before the dam was built. Why do you think this is important? Why do you think companies do not do these assessments? 
+</item>
+<item id="id0832346">
+Look at how the ecology has changed. What was the ecology of the river? What is the current ecology? Do you think it has changed in a good way or a bad way?
+</item></list></para>
+<para id="id08322432">
+Write a report or give a presentation in class on your findings from this investigation. Critically examine your findings and draw your own conclusion as to whether or not dams are only a short term solution to the growing water crisis.
+</para>
+</section>
+      <para id="id342412">It is important to realise that our hydrosphere exists in a delicate balance with other systems and that disturbing this balance can have serious consequences for life on this planet.</para>
+<section id="secfhsst_id1065"><title> Group Project : School Action Project
+      </title>
+      <para id="id342430">There is a lot that can be done within a school to save water. As a class, discuss what actions could be taken by your class to make people more aware of how important it is to conserve water. Also consider what ways your school can save water. If possible, try to put some of these ideas into action and see if they really do conserve water.
+ </para>
+</section>
+    </section>
+<section id="id083432"><title>How pure is our water?</title>
+<para id="id0832745">
+When you drink a glass of water you are not just drinking water, but many other substances that are dissolved into the water. Some of these come from the process of making the water safe for humans to drink, while others come from the environment. Even if you took water from a mountain stream (which is often considered pure and bottled for people to consume), the water would still have impurities in it. Water pollution increases the amount of impurities in the water and sometimes makes the water unsafe for drinking. In this section we will look at a few of the substances that make water impure and how we can make pure water. We will also look at the pH of water.
+</para>
+<para id="id08324">
+In <link document="m38136" window="new">Reactions in aqueous solutions</link> we saw how compounds can dissolve in water. Most of these compounds (e.g. <m:math><m:msup><m:mi mathvariant="normal">Na</m:mi><m:mo>+</m:mo></m:msup></m:math>, <m:math><m:msup><m:mi mathvariant="normal">Cl</m:mi><m:mo>-</m:mo></m:msup></m:math>, <m:math><m:msup><m:mi mathvariant="normal">Ca</m:mi><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup></m:math>, <m:math><m:msup><m:mi mathvariant="normal">Mg</m:mi><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo></m:mrow></m:msup></m:math>, etc.) are safe for humans to consume in the small amounts that are naturally present in water. It is only when the amounts of these ions rise above the safe levels that the water is considered to be polluted.
+</para>
+<para id="id08322346">You may have noticed sometimes that when you pour a glass a water straight from the tap, it has a sharp smell. This smell is the same smell that you notice around swimming pools and is due to chlorine in the water. Chlorine is the most common compound added to water to make it safe for humans to use. Chlorine helps to remove bacteria and other biological contaminants in the water. Other methods to purify water include filtration (passing the water through a very fine mesh) and flocculation (a process of adding chemicals to the water to help remove small particles). 
+</para>
+<para id="id0832">
+pH of water is also important. Water that is to basic (pH greater than 7) or to acidic (pH less than 7) may present problems when humans consume the water. If you have ever noticed after swimming that your eyes are red or your skin is itchy, then the pH of the swimming pool was probably to basic or to acidic. This shows you just how sensitive we are to the smallest changes in our environment. The pH of water depends on what ions are dissolved in the water. Adding chlorine to water often lowers the pH. You will learn more about pH in grade 11. 
+</para>
+<section id="id08321"><title>Experiment: Water purity</title><para id="id08341"><title>Aim:</title><newline/>
+To test the purity and pH of water samples
+</para>
+<para id="id083244"><title>Apparatus:</title><newline/>
+pH test strips (you can find these at pet shops, they are used to test pH of fish tanks), microscope (or magnifying glass), filter paper, funnel, silver nitrate, concentrated nitric acid, barium chloride, acid, chlorine water (a solution of chlorine in water), carbon tetrachloride, some test-tubes or beakers, water samples from different sources (e.g. a river, a dam, the sea, tap water, etc.).
+</para>
+<para id="id438234"><title>Method:</title><newline/>
+<list id="id827732" list-type="enumerated">
+<item>Look at each water sample and note if the water is clear or cloudy.</item>
+<item>Examine each water sample under a microscope and note what you see.</item>
+<item>Test the pH of each of the water samples.</item>
+<item>Pour some of the water from each sample through filter paper.</item>
+<item>
+Refer to <link window="new" document="m38136" target-id="cid9">Testing for common anions in solutions</link> for the details of common anion tests. Test for chloride, sulphate, carbonate, bromide and iodide in each of the water samples.</item>
+</list>
+</para> 
+<para id="id63284"><title>Results:</title><newline/>
+Write down what you saw when you just looked at the water samples. Write down what you saw when you looked at the water samples under a microscope. Where there any dissolved particles? Or other things in the water? Was there a difference in what you saw with just looking and with looking with a a microscope? Write down the pH of each water sample. Look at the filter paper from each sample. Is there sand or other particles on it? Which anions did you find in each sample? 
+</para>
+<para id="id3429827"><title>Discussion:</title><newline/>
+Write a report on what you observed. Draw some conclusions on the purity of the water and how you can tell if water is pure or not.
+</para> 
+<para id="id68921"><title>Conclusion:</title><newline/>You should have seen that water is not pure, but rather has many substances dissolved in it.
+</para>
+</section>
+<section id="id672214"><title>Project: water purification</title>
+<para id="id97324">
+Prepare a presentation on how water is purified. This can take the form of a poster, or a presentation or a project. Things that you should look at are:
+<list id="id097324">
+<item>Water for drinking (potable water)</item>
+<item>Distilled water and its uses</item>
+<item>Deionised water and its uses</item>
+<item>What methods are used to prepare water for various uses</item>
+<item>What regulations govern drinking water</item>
+<item>Why water needs to be purified</item>
+<item>How safe are the purification methods</item>
+</list>
+</para>
+</section>
+</section>
+    <section id="cid11">
+      <title>Summary</title>
+      <list id="id342453" display="block" list-type="bulleted"><item id="uid92">The <emphasis effect="bold">hydrosphere</emphasis> includes all the water that is on Earth. Sources of water include freshwater (e.g. rivers, lakes), saltwater (e.g. oceans), groundwater (e.g. boreholes) and water vapour. Ice (e.g. glaciers) is also part of the hydrosphere.
+</item>
+        <item id="uid93">The hydrosphere interacts with other <emphasis effect="bold">global systems</emphasis>, including the atmosphere, lithosphere and biosphere.
+</item>
+        <item id="uid94">The hydrosphere has a number of important <emphasis effect="bold">functions</emphasis>. Water is a part of all living cells, it provides a habitat for many living organisms, it helps to regulate climate and it is used by humans for domestic, industrial and other use.
+</item>
+        <item id="uid106">Despite the importance of the hydrosphere, a number of factors threaten it. These include <emphasis effect="bold">overuse</emphasis> of water, and <emphasis effect="bold">pollution</emphasis>.
+</item>
+<item>Water is not pure, but has many substances dissolved in it. 
+</item>
+      </list>
+
+    </section>
+<section id="id6239">
+<title>End of chapter exercises</title>
+<list id="fs-id1169173692606" list-type="enumerated">
+<item>What is the hydrosphere? How does it interact with other global systems?<newline/><link window="new" class="fullmarks" url="http://www.fhsst.org/lgp">Click here for the solution</link></item>
+<item>Why is the hydrosphere important?<newline/><link window="new" class="fullmarks" url="http://www.fhsst.org/lgd">Click here for the solution</link>
+</item>
+</list>
+</section>
+  </content>
+</document>

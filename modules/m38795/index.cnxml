@@ -1,0 +1,2021 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Description of motion</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38795</md:content-id>
+  <md:title>Description of motion</md:title>
+  <md:abstract/>
+  <md:uuid>65b4ec72-7250-43a0-b362-bd4eee2966d6</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid7"><title>Description of Motion</title><para id="id68951">The purpose of this chapter is to describe motion, and now that we understand the definitions of displacement, distance, velocity, speed and acceleration, we are ready to start using these ideas to describe how an object is moving. There are many ways of describing motion:</para>
+      <list id="id68956" display="block" list-type="enumerated">
+        <item id="uid84">words
+</item>
+        <item id="uid85">diagrams
+</item>
+        <item id="uid86">graphs
+</item>
+      </list>
+      <para id="id68997">These methods will be described in this section.</para>
+      <para id="id69001">We will consider three types of motion: when the object is not moving (stationary object), when the object is moving at a constant velocity (uniform motion) and when the object is moving at a constant acceleration (motion at constant acceleration).</para>
+      <section id="uid87">
+        <title>Stationary Object</title>
+        <para id="id69015">The simplest motion that we can come across is that of a stationary object. A stationary object does not move and so its position does not change, for as long as it is standing still.
+An example of this situation is when someone is waiting for something without moving.
+The person remains in the same position.</para>
+        <para id="id69021">Lesedi is waiting for a taxi. He is standing two metres from a stop street at <m:math overflow="scroll"><m:mi>t</m:mi></m:math> = 0 s. After one minute, at <m:math overflow="scroll"><m:mi>t</m:mi></m:math> = 60 <m:math overflow="scroll"><m:mi mathvariant="normal">s</m:mi></m:math>, he is still 2 metres from the stop street and after two minutes, at <m:math overflow="scroll"><m:mi>t</m:mi></m:math> = 120 <m:math overflow="scroll"><m:mi mathvariant="normal">s</m:mi></m:math>, also 2 metres from the stop street. His position has not changed. His displacement is zero (because his position is the same), his velocity is zero (because his displacement is zero) and his acceleration is also zero (because his velocity is not changing).</para>
+        <figure id="uid88"><media id="uid88_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C2_020.png" id="uid88_onlineimage" width="466"><!-- NOTE: attribute width changes image size online (pixels). original width is 266. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C2_020.eps" id="uid88_printimage"/>
+          </media>
+        </figure>
+        <para id="id69081">We can now draw graphs of position vs. time (<m:math overflow="scroll"><m:mi>x</m:mi></m:math> vs. <m:math overflow="scroll"><m:mi>t</m:mi></m:math>), velocity vs. time (<m:math overflow="scroll"><m:mi>v</m:mi></m:math> vs. <m:math overflow="scroll"><m:mi>t</m:mi></m:math>) and acceleration vs. time (<m:math overflow="scroll"><m:mi>a</m:mi></m:math> vs. <m:math overflow="scroll"><m:mi>t</m:mi></m:math>) for a stationary object. The graphs are shown in <link target-id="uid89"/>.
+Lesedi's position is 2 metres from the stop street. If the stop street is taken as the reference point, his position remains at 2 metres for 120 seconds. The graph is a horizontal line at 2 m.
+The velocity and acceleration graphs are also shown. They are both horizontal lines on the <m:math overflow="scroll"><m:mi>x</m:mi></m:math>-axis. Since his position is not changing, his velocity is <m:math overflow="scroll"><m:mn>0</m:mn> <m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math> and since velocity is not changing, acceleration is <m:math overflow="scroll"><m:mn>0</m:mn> <m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>2</m:mn></m:mrow></m:msup></m:math>.</para>
+        <figure id="uid89"><media id="uid89_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C2_021.png" id="uid89_onlineimage" width="526"><!-- NOTE: attribute width changes image size online (pixels). original width is 426. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C2_021.eps" id="uid89_printimage"/>
+          </media>
+          
+        <caption>Graphs for a stationary object (a) position vs. time (b) velocity vs. time (c) acceleration vs. time.</caption></figure>
+<definition id="fhsst_id1865"><term id="termfhsst_id1865"> Gradient </term> <meaning id="meaningfhsst_id1865">
+        <para id="id69226">The gradient of a line can be calculated by dividing the change in the <m:math overflow="scroll"><m:mi>y</m:mi></m:math>-value by the change in the <m:math overflow="scroll"><m:mi>x</m:mi></m:math>-value.</para>
+        <para id="id69250">m = <m:math overflow="scroll"><m:mfrac><m:mrow><m:mi>Δ</m:mi><m:mi>y</m:mi></m:mrow><m:mrow><m:mi>Δ</m:mi><m:mi>x</m:mi></m:mrow></m:mfrac></m:math> </para>
+        </meaning></definition>
+        <para id="id69281">Since we know that velocity is the rate of change of position, we can confirm the value for the velocity vs. time graph, by calculating the gradient of the <m:math overflow="scroll"><m:mi>x</m:mi></m:math> vs. <m:math overflow="scroll"><m:mi>t</m:mi></m:math> graph.</para>
+<note id="notfhsst_id1870" type="tip">The gradient of a position vs. time graph gives the velocity.</note>
+        <para id="id69310">If we calculate the gradient of the <m:math overflow="scroll"><m:mi>x</m:mi></m:math> vs. <m:math overflow="scroll"><m:mi>t</m:mi></m:math> graph for a stationary object we get:</para>
+        <equation id="id69332"><m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>v</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mi>Δ</m:mi>
+                      <m:mi>x</m:mi>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mi>Δ</m:mi>
+                      <m:mi>t</m:mi>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mtd><m:mtd/>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>x</m:mi>
+                        <m:mi>f</m:mi>
+                      </m:msub>
+                      <m:mo>-</m:mo>
+                      <m:msub>
+                        <m:mi>x</m:mi>
+                        <m:mi>i</m:mi>
+                      </m:msub>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>t</m:mi>
+                        <m:mi>f</m:mi>
+                      </m:msub>
+                      <m:mo>-</m:mo>
+                      <m:msub>
+                        <m:mi>t</m:mi>
+                        <m:mi>i</m:mi>
+                      </m:msub>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mtd><m:mtd/>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:mn>2</m:mn>
+                        <m:mspace width="3.33333pt"/>
+                        <m:mi mathvariant="normal">m</m:mi>
+                        <m:mo>-</m:mo>
+                        <m:mn>2</m:mn>
+                        <m:mspace width="3.33333pt"/>
+                        <m:mi mathvariant="normal">m</m:mi>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mn>120</m:mn>
+                        <m:mspace width="3.33333pt"/>
+                        <m:mi mathvariant="normal">s</m:mi>
+                        <m:mo>-</m:mo>
+                        <m:mn>60</m:mn>
+                        <m:mspace width="3.33333pt"/>
+                        <m:mi mathvariant="normal">s</m:mi>
+                      </m:mrow>
+                    </m:mfrac>
+                    </m:mrow></m:mtd><m:mtd columnalign="left"><m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mi> initial position </m:mi>
+                      <m:mo>=</m:mo>
+                      <m:mi> final position</m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>0</m:mn>
+                    <m:mspace width="4pt"/>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:msup>
+                      <m:mi mathvariant="normal">s</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                   </m:mrow></m:mtd><m:mtd columnalign="left"><m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mi> for the time that Lesedi is stationary</m:mi><m:mspace width="2pt"/>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id69558">Similarly, we can confirm the value of the acceleration by calculating the gradient of the velocity vs. time graph.</para>
+<note id="notfhsst_id2005" type="tip">The gradient of a velocity vs. time graph gives the acceleration.</note>
+        <para id="id69571">If we calculate the gradient of the <m:math overflow="scroll"><m:mi>v</m:mi></m:math> vs. <m:math overflow="scroll"><m:mi>t</m:mi></m:math> graph for a stationary object we get:</para>
+        <equation id="id69594">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>a</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mi>Δ</m:mi>
+                      <m:mi>v</m:mi>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mi>Δ</m:mi>
+                      <m:mi>t</m:mi>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>v</m:mi>
+                        <m:mi>f</m:mi>
+                      </m:msub>
+                      <m:mo>-</m:mo>
+                      <m:msub>
+                        <m:mi>v</m:mi>
+                        <m:mi>i</m:mi>
+                      </m:msub>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>t</m:mi>
+                        <m:mi>f</m:mi>
+                      </m:msub>
+                      <m:mo>-</m:mo>
+                      <m:msub>
+                        <m:mi>t</m:mi>
+                        <m:mi>i</m:mi>
+                      </m:msub>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mn>0</m:mn>
+                      <m:mspace width="4pt"/>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi mathvariant="normal">m</m:mi>
+                      <m:mo>·</m:mo>
+                      <m:msup>
+                        <m:mi mathvariant="normal">s</m:mi>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>1</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mo>-</m:mo>
+                      <m:mn>0</m:mn>
+                      <m:mspace width="4pt"/>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi mathvariant="normal">m</m:mi>
+                      <m:mo>·</m:mo>
+                      <m:msup>
+                        <m:mi mathvariant="normal">s</m:mi>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>1</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mn>120</m:mn>
+                      <m:mspace width="3.33333pt"/>
+                      <m:mi mathvariant="normal">s</m:mi>
+                      <m:mo>-</m:mo>
+                      <m:mn>60</m:mn>
+                      <m:mspace width="3.33333pt"/>
+                      <m:mi mathvariant="normal">s</m:mi>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>0</m:mn>
+                    <m:mspace width="4pt"/>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:msup>
+                      <m:mi mathvariant="normal">s</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>2</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id69809">Additionally, because the velocity vs. time graph is related to the position vs. time graph, we can use the area under the velocity vs. time graph to calculate the displacement of an object.</para>
+<note id="notfhsst_id2134" type="tip">The area under the velocity vs. time graph gives the displacement.</note>
+        <para id="id69821">The displacement of the object is given by the area under the graph, which is <m:math><m:mn>0</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi></m:math>. This is obvious, because the object is not moving.</para>
+      </section>
+      <section id="uid90">
+        <title>Motion at Constant Velocity</title>
+        <para id="id69835">Motion at a constant velocity or <emphasis effect="italics">uniform motion</emphasis> means that the position of the object is changing at the same rate.</para>
+        <para id="id69845">Assume that Lesedi takes <m:math><m:mn>100</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">s</m:mi></m:math> to walk the <m:math><m:mn>100</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi></m:math> to the taxi-stop every morning. If we assume that Lesedi's house is the origin, then Lesedi's velocity is:</para>
+        <equation id="id69850">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>v</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mi>Δ</m:mi>
+                      <m:mi>x</m:mi>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mi>Δ</m:mi>
+                      <m:mi>t</m:mi>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>x</m:mi>
+                        <m:mi>f</m:mi>
+                      </m:msub>
+                      <m:mo>-</m:mo>
+                      <m:msub>
+                        <m:mi>x</m:mi>
+                        <m:mi>i</m:mi>
+                      </m:msub>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>t</m:mi>
+                        <m:mi>f</m:mi>
+                      </m:msub>
+                      <m:mo>-</m:mo>
+                      <m:msub>
+                        <m:mi>t</m:mi>
+                        <m:mi>i</m:mi>
+                      </m:msub>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mn>100</m:mn>
+                      <m:mspace width="4pt"/>
+                      <m:mi mathvariant="normal">m</m:mi>
+                      <m:mo>-</m:mo>
+                      <m:mn>0</m:mn>
+                      <m:mspace width="4pt"/>
+                      <m:mi mathvariant="normal">m</m:mi>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mn>100</m:mn>
+                      <m:mspace width="4pt"/>
+                      <m:mi mathvariant="normal">s</m:mi>
+                      <m:mo>-</m:mo>
+                      <m:mn>0</m:mn>
+                      <m:mspace width="4pt"/>
+                      <m:mi mathvariant="normal">s</m:mi>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>1</m:mn>
+                    <m:mspace width="4pt"/>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:msup>
+                      <m:mi mathvariant="normal">s</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id70029">Lesedi's velocity is 1 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. This means that he walked <m:math><m:mn>1</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi></m:math> in the first second, another metre in the second second, and another in the third second, and so on. For example, after <m:math><m:mn>50</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">s</m:mi></m:math> he will be <m:math><m:mn>50</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi></m:math> from home. His position increases by <m:math><m:mn>1</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi></m:math> every <m:math><m:mn>1</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">s</m:mi></m:math>. A diagram of Lesedi's position is shown in <link target-id="uid91"/>.</para>
+        <figure id="uid91"><media id="uid91_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C2_022.png" id="uid91_onlineimage" width="473"><!-- NOTE: attribute width changes image size online (pixels). original width is 273. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C2_022.eps" id="uid91_printimage"/>
+          </media>
+          
+        <caption>Diagram showing Lesedi's motion at a constant velocity of 1 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math></caption></figure>
+        <para id="id70106">We can now draw graphs of position vs.time (<m:math overflow="scroll"><m:mi>x</m:mi></m:math> vs. <m:math overflow="scroll"><m:mi>t</m:mi></m:math>), velocity vs.time (<m:math overflow="scroll"><m:mi>v</m:mi></m:math> vs. <m:math overflow="scroll"><m:mi>t</m:mi></m:math>) and acceleration vs.time (<m:math overflow="scroll"><m:mi>a</m:mi></m:math> vs. <m:math overflow="scroll"><m:mi>t</m:mi></m:math>) for Lesedi moving at a constant velocity. The graphs are shown in <link target-id="uid92"/>.</para>
+        <figure id="uid92"><media id="uid92_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C2_023.png" id="uid92_onlineimage" width="531"><!-- NOTE: attribute width changes image size online (pixels). original width is 431. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C2_023.eps" id="uid92_printimage"/>
+          </media>
+          
+        <caption>Graphs for motion at constant velocity (a) position vs. time (b) velocity vs. time (c) acceleration vs. time. The area of the shaded portion in the <m:math overflow="scroll"><m:mi>v</m:mi></m:math> vs. <m:math overflow="scroll"><m:mi>t</m:mi></m:math> graph corresponds to the object's displacement.</caption></figure>
+        <para id="id70200">In the evening Lesedi walks <m:math><m:mn>100</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi></m:math> from the bus stop to his house in <m:math><m:mn>100</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">s</m:mi></m:math>. Assume that Lesedi's house is the origin. The following graphs can be drawn to describe the motion.</para>
+        <figure id="uid93"><media id="uid93_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C2_024.png" id="uid93_onlineimage" width="531"><!-- NOTE: attribute width changes image size online (pixels). original width is 431. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C2_024.eps" id="uid93_printimage"/>
+          </media>
+          
+        <caption>Graphs for motion with a constant negative velocity (a) position vs. time (b) velocity vs. time (c) acceleration vs. time. The area of the shaded portion in the <m:math overflow="scroll"><m:mi>v</m:mi></m:math> vs.<m:math overflow="scroll"><m:mi>t</m:mi></m:math> graph corresponds to the object's displacement.</caption></figure>
+        <para id="id70236">We see that the <m:math overflow="scroll"><m:mi>v</m:mi></m:math> vs. <m:math overflow="scroll"><m:mi>t</m:mi></m:math> graph is a horisontal line. If the velocity vs. time graph is a horisontal line, it means that the velocity is <emphasis effect="italics">constant</emphasis> (not changing). Motion at a constant velocity is known as <emphasis effect="italics">uniform motion</emphasis>.</para>
+        <para id="id70269">We can use the <m:math overflow="scroll"><m:mi>x</m:mi></m:math> vs. <m:math overflow="scroll"><m:mi>t</m:mi></m:math> to calculate the velocity by finding the gradient of the line.</para>
+        <equation id="id70291">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>v</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mi>Δ</m:mi>
+                      <m:mi>x</m:mi>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mi>Δ</m:mi>
+                      <m:mi>t</m:mi>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>x</m:mi>
+                        <m:mi>f</m:mi>
+                      </m:msub>
+                      <m:mo>-</m:mo>
+                      <m:msub>
+                        <m:mi>x</m:mi>
+                        <m:mi>i</m:mi>
+                      </m:msub>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>t</m:mi>
+                        <m:mi>f</m:mi>
+                      </m:msub>
+                      <m:mo>-</m:mo>
+                      <m:msub>
+                        <m:mi>t</m:mi>
+                        <m:mi>i</m:mi>
+                      </m:msub>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mn>0</m:mn>
+                      <m:mspace width="3.33333pt"/>
+                      <m:mi mathvariant="normal">m</m:mi>
+                      <m:mo>-</m:mo>
+                      <m:mn>100</m:mn>
+                      <m:mspace width="3.33333pt"/>
+                      <m:mi mathvariant="normal">m</m:mi>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mn>100</m:mn>
+                      <m:mspace width="3.33333pt"/>
+                      <m:mi mathvariant="normal">s</m:mi>
+                      <m:mo>-</m:mo>
+                      <m:mn>0</m:mn>
+                      <m:mspace width="3.33333pt"/>
+                      <m:mi mathvariant="normal">s</m:mi>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mo>-</m:mo>
+                    <m:mn>1</m:mn>
+                    <m:mspace width="4pt"/>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:msup>
+                      <m:mi mathvariant="normal">s</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id70472">Lesedi has a velocity of <m:math overflow="scroll"><m:mo>-</m:mo><m:mn>1</m:mn> <m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>, or <m:math overflow="scroll"><m:mn>1</m:mn> <m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math> towards his house. You will notice that the <m:math overflow="scroll"><m:mi>v</m:mi></m:math> vs. <m:math overflow="scroll"><m:mi>t</m:mi></m:math> graph is a horisontal line corresponding to a velocity of <m:math overflow="scroll"><m:mo>-</m:mo><m:mn>1</m:mn> <m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. The horizontal line means that the velocity stays the same (remains constant) during the motion. This is uniform velocity.</para>
+        <para id="id70573">We can use the <m:math overflow="scroll"><m:mi>v</m:mi></m:math> vs. <m:math overflow="scroll"><m:mi>t</m:mi></m:math> to calculate the acceleration by finding the gradient of the line.</para>
+        <equation id="id70595">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>a</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mi>Δ</m:mi>
+                      <m:mi>v</m:mi>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mi>Δ</m:mi>
+                      <m:mi>t</m:mi>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>v</m:mi>
+                        <m:mi>f</m:mi>
+                      </m:msub>
+                      <m:mo>-</m:mo>
+                      <m:msub>
+                        <m:mi>v</m:mi>
+                        <m:mi>i</m:mi>
+                      </m:msub>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>t</m:mi>
+                        <m:mi>f</m:mi>
+                      </m:msub>
+                      <m:mo>-</m:mo>
+                      <m:msub>
+                        <m:mi>t</m:mi>
+                        <m:mi>i</m:mi>
+                      </m:msub>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mn>1</m:mn>
+                      <m:mspace width="3.33333pt"/>
+                      <m:mi mathvariant="normal">m</m:mi>
+                      <m:mo>·</m:mo>
+                      <m:msup>
+                        <m:mrow>
+                          <m:mi mathvariant="normal">s</m:mi>
+                        </m:mrow>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>1</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mo>-</m:mo>
+                      <m:mn>1</m:mn>
+                      <m:mspace width="3.33333pt"/>
+                      <m:mi mathvariant="normal">m</m:mi>
+                      <m:mo>·</m:mo>
+                      <m:msup>
+                        <m:mrow>
+                          <m:mi mathvariant="normal">s</m:mi>
+                        </m:mrow>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>1</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mn>100</m:mn>
+                      <m:mspace width="3.33333pt"/>
+                      <m:mi mathvariant="normal">s</m:mi>
+                      <m:mo>-</m:mo>
+                      <m:mn>0</m:mn>
+                      <m:mspace width="3.33333pt"/>
+                      <m:mi mathvariant="normal">s</m:mi>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>0</m:mn>
+                    <m:mspace width="4pt"/>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:msup>
+                      <m:mi mathvariant="normal">s</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>2</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id70807">Lesedi has an acceleration of <m:math overflow="scroll"><m:mn>0</m:mn> <m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>2</m:mn></m:mrow></m:msup></m:math>. You will notice that the graph of <m:math overflow="scroll"><m:mi>a</m:mi></m:math> vs.<m:math overflow="scroll"><m:mi>t</m:mi></m:math> is a horisontal line corresponding to an acceleration value of <m:math overflow="scroll"><m:mn>0</m:mn> <m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>2</m:mn></m:mrow></m:msup></m:math>. There is no acceleration during the motion because his velocity does not change.</para>
+        <para id="id70880">We can use the <m:math overflow="scroll"><m:mi>v</m:mi></m:math> vs. <m:math overflow="scroll"><m:mi>t</m:mi></m:math> to calculate the displacement by finding the area under the graph.</para>
+        <equation id="id70902">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>v</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mi> Area </m:mi>
+                    <m:mspace width="3.33333pt"/>
+                    <m:mi> under </m:mi>
+                    <m:mspace width="3.33333pt"/>
+                    <m:mi> graph </m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mi>ℓ</m:mi>
+                    <m:mo>×</m:mo>
+                    <m:mspace width="3.33333pt"/>
+                    <m:mi>b</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>100</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:mspace width="3.33333pt"/>
+                    <m:mo>(</m:mo>
+                    <m:mrow>
+                      <m:mo>-</m:mo>
+                      <m:mn>1</m:mn>
+                    </m:mrow>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mo>-</m:mo>
+                    <m:mn>100</m:mn>
+                    <m:mspace width="3.33333pt"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id71010">This means that Lesedi has a displacement of <m:math><m:mn>100</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi></m:math> towards his house.</para>
+<section id="secfhsst_id2587"><title> Velocity and acceleration </title>
+        <list id="id71023" display="block" list-type="enumerated"><item id="uid94">Use the graphs in <link target-id="uid92"/> to calculate each of the following:
+<list id="id71044" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid95">Calculate Lesedi's velocity between <m:math><m:mn>50</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">s</m:mi></m:math> and <m:math><m:mn>100</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">s</m:mi></m:math> using the <m:math overflow="scroll"><m:mi>x</m:mi></m:math> vs. <m:math overflow="scroll"><m:mi>t</m:mi></m:math> graph. Hint: Find the gradient of the line.
+</item><item id="uid96">Calculate Lesedi's acceleration during the whole motion using the <m:math overflow="scroll"><m:mi>v</m:mi></m:math> vs. <m:math overflow="scroll"><m:mi>t</m:mi></m:math> graph.
+</item><item id="uid97">Calculate Lesedi's displacement during the whole motion using the <m:math overflow="scroll"><m:mi>v</m:mi></m:math> vs. <m:math overflow="scroll"><m:mi>t</m:mi></m:math> graph.
+</item></list><link class="fullmarks" window="new" url="http://www.fhsst.org/l19">Click here for the solution</link></item>
+          <item id="uid98">Thandi takes <m:math><m:mn>200</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">s</m:mi></m:math> to walk <m:math><m:mn>100</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi></m:math> to the bus stop every morning. In the evening Thandi takes <m:math><m:mn>200</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">s</m:mi></m:math> to walk <m:math><m:mn>100</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi></m:math> from the bus stop to her home.<list id="id7103444" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid9523"> Draw a graph of Thandi's position as a function of time for the morning (assuming that Thandi's home is the reference point). Use the gradient of the <m:math overflow="scroll"><m:mi>x</m:mi></m:math> vs. <m:math overflow="scroll"><m:mi>t</m:mi></m:math> graph to draw the graph of velocity vs. time. Use the gradient of the <m:math overflow="scroll"><m:mi>v</m:mi></m:math> vs. <m:math overflow="scroll"><m:mi>t</m:mi></m:math> graph to draw the graph of acceleration vs. time.
+</item>
+          <item id="uid99"> Draw a graph of Thandi's position as a function of time for the evening (assuming that Thandi's home is the origin). Use the gradient of the <m:math overflow="scroll"><m:mi>x</m:mi></m:math> vs. <m:math overflow="scroll"><m:mi>t</m:mi></m:math> graph to draw the graph of velocity vs. time. Use the gradient of the <m:math overflow="scroll"><m:mi>v</m:mi></m:math> vs. <m:math overflow="scroll"><m:mi>t</m:mi></m:math> graph to draw the graph of acceleration vs. time.
+</item>
+          <item id="uid100">Discuss the differences between the two sets of graphs in questions 2 and 3.</item></list>
+<link class="fullmarks" window="new" url="http://www.fhsst.org/l19">Click here for the solution</link></item>
+        </list>
+        
+</section>
+<section id="secfhsst_id2603"><title>Experiment : Motion at constant velocity </title><para id="id71268">
+          <title>Aim:</title>
+To measure the position and time during motion at constant velocity and determine the average velocity as the gradient of a “Position vs. Time" graph.</para>
+        <para id="id71286">
+          <title>Apparatus:</title>
+ A battery operated toy car, stopwatch, meter stick or measuring tape.</para>
+        <para id="id71301">
+<title>Method</title>
+
+        <list id="id71310" display="block" list-type="enumerated">
+          <item id="uid101">Work with a friend. Copy the table below into your workbook.
+</item>
+          <item id="uid102">Complete the table by timing the car as it travels each distance.
+</item>
+          <item id="uid103">Time the car twice for each distance and take the average value as your accepted time.
+</item>
+          <item id="uid104">Use the distance and average time values to plot a graph of “Distance vs. Time" <emphasis effect="bold">onto graph paper</emphasis>. Stick the graph paper into your workbook. (Remember that “A vs. B" always means “y vs. x").
+</item>
+          <item id="uid105">Insert all axis labels and units onto your graph.
+</item>
+          <item id="uid106">Draw the best straight line through your data points.
+</item>
+          <item id="uid107">Find the gradient of the straight line. This is the average velocity.
+</item>
+        </list></para>
+        <para id="id71410">
+          <title>Results:</title>
+        <table id="id71419" summary="">
+          <tgroup cols="4">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+              <row>
+                <entry>Distance (m)</entry>
+                <entry namest="c2" nameend="c4">Time (s)</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry>1</entry>
+                <entry>2</entry>
+                <entry>Ave.</entry>
+              </row>
+              <row>
+                <entry>0</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>0,5</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>1,0</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>1,5</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>2,0</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>2,5</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>3,0</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table></para>
+        <!--empty paragraphs get left behind.-->
+        <para id="id71722">
+          <title>Conclusions:</title>
+Answer the following questions in your workbook:
+
+        <list id="id71746" display="block" list-type="enumerated">
+          <item id="uid108">Did the car travel with a constant velocity?
+</item>
+          <item id="uid109">How can you tell by looking at the “Distance vs. Time" graph if the velocity is constant?
+</item>
+          <item id="uid110">How would the “Distance vs. Time" look for a car with a faster velocity?
+</item>
+          <item id="uid111">How would the “Distance vs. Time" look for a car with a slower velocity?
+</item>
+        </list></para>
+        
+</section>
+      </section>
+      <section id="uid112">
+        <title>Motion at Constant Acceleration</title>
+        <para id="id71822">The final situation we will be studying is motion at constant acceleration. We know that acceleration is the rate of change of velocity. So, if we have a constant acceleration, this means that the velocity changes at a constant rate.</para>
+        <para id="id71827">Let's look at our first example of Lesedi waiting at the taxi stop again. A taxi arrived and Lesedi got in. The taxi stopped at the stop street and then accelerated as follows: After <m:math><m:mn>1</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">s</m:mi></m:math> the taxi covered a distance of <m:math><m:mn>2,5</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi></m:math>, after <m:math><m:mn>2</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">s</m:mi></m:math> it covered <m:math><m:mn>10</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi></m:math>, after <m:math><m:mn>3</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">s</m:mi></m:math> it covered <m:math><m:mn>22,5</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi></m:math> and after <m:math><m:mn>4</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">s</m:mi></m:math> it covered <m:math><m:mn>40</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi></m:math>. The taxi is covering a larger distance every second. This means that it is accelerating.</para>
+        <figure id="uid113"><media id="uid113_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C2_025.png" id="uid113_onlineimage" width="493"><!-- NOTE: attribute width changes image size online (pixels). original width is 293. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C2_025.eps" id="uid113_printimage"/>
+          </media>
+        </figure>
+        <para id="id71842">To calculate the velocity of the taxi you need to calculate the gradient of the line at each second:</para>
+        <para id="id71847">
+          <equation id="id71853">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mrow>
+                        <m:mn>1</m:mn>
+                        <m:mi>s</m:mi>
+                      </m:mrow>
+                    </m:msub>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:mi>Δ</m:mi>
+                        <m:mi>x</m:mi>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mi>Δ</m:mi>
+                        <m:mi>t</m:mi>
+                      </m:mrow>
+                    </m:mfrac>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:msub>
+                          <m:mi>x</m:mi>
+                          <m:mi>f</m:mi>
+                        </m:msub>
+                        <m:mo>-</m:mo>
+                        <m:msub>
+                          <m:mi>x</m:mi>
+                          <m:mi>i</m:mi>
+                        </m:msub>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:msub>
+                          <m:mi>t</m:mi>
+                          <m:mi>f</m:mi>
+                        </m:msub>
+                        <m:mo>-</m:mo>
+                        <m:msub>
+                          <m:mi>t</m:mi>
+                          <m:mi>i</m:mi>
+                        </m:msub>
+                      </m:mrow>
+                    </m:mfrac>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:mn>5</m:mn>
+                        <m:mrow>
+                          <m:mspace width="3.33333pt"/>
+                          <m:mi mathvariant="normal">m</m:mi>
+                        </m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>0</m:mn>
+                        <m:mrow>
+                          <m:mspace width="3.33333pt"/>
+                          <m:mi mathvariant="normal">m</m:mi>
+                        </m:mrow>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mn>1</m:mn>
+                        <m:mo>,</m:mo>
+                        <m:mn>5</m:mn>
+                        <m:mrow>
+                          <m:mspace width="3.33333pt"/>
+                          <m:mi mathvariant="normal">s</m:mi>
+                        </m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>0</m:mn>
+                        <m:mo>,</m:mo>
+                        <m:mn>5</m:mn>
+                        <m:mrow>
+                          <m:mspace width="3.33333pt"/>
+                          <m:mi mathvariant="normal">s</m:mi>
+                        </m:mrow>
+                      </m:mrow>
+                    </m:mfrac>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mn>5</m:mn>
+                      <m:mspace width="4pt"/>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi mathvariant="normal">m</m:mi>
+                      <m:mo>·</m:mo>
+                      <m:msup>
+                        <m:mi mathvariant="normal">s</m:mi>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>1</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          <!--empty paragraphs get left behind.-->
+          <equation id="id72062">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mrow>
+                        <m:mn>2</m:mn>
+                        <m:mi>s</m:mi>
+                      </m:mrow>
+                    </m:msub>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:mi>Δ</m:mi>
+                        <m:mi>x</m:mi>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mi>Δ</m:mi>
+                        <m:mi>t</m:mi>
+                      </m:mrow>
+                    </m:mfrac>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:msub>
+                          <m:mi>x</m:mi>
+                          <m:mi>f</m:mi>
+                        </m:msub>
+                        <m:mo>-</m:mo>
+                        <m:msub>
+                          <m:mi>x</m:mi>
+                          <m:mi>i</m:mi>
+                        </m:msub>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:msub>
+                          <m:mi>t</m:mi>
+                          <m:mi>f</m:mi>
+                        </m:msub>
+                        <m:mo>-</m:mo>
+                        <m:msub>
+                          <m:mi>t</m:mi>
+                          <m:mi>i</m:mi>
+                        </m:msub>
+                      </m:mrow>
+                    </m:mfrac>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:mn>15</m:mn>
+                        <m:mrow>
+                          <m:mspace width="3.33333pt"/>
+                          <m:mi mathvariant="normal">m</m:mi>
+                        </m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>5</m:mn>
+                        <m:mrow>
+                          <m:mspace width="3.33333pt"/>
+                          <m:mi mathvariant="normal">m</m:mi>
+                        </m:mrow>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mn>2</m:mn>
+                        <m:mo>,</m:mo>
+                        <m:mn>5</m:mn>
+                        <m:mrow>
+                          <m:mspace width="3.33333pt"/>
+                          <m:mi mathvariant="normal">s</m:mi>
+                        </m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>1</m:mn>
+                        <m:mo>,</m:mo>
+                        <m:mn>5</m:mn>
+                        <m:mrow>
+                          <m:mspace width="3.33333pt"/>
+                          <m:mi mathvariant="normal">s</m:mi>
+                        </m:mrow>
+                      </m:mrow>
+                    </m:mfrac>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mn>10</m:mn>
+                      <m:mspace width="4pt"/>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi mathvariant="normal">m</m:mi>
+                      <m:mo>·</m:mo>
+                      <m:msup>
+                        <m:mi mathvariant="normal">s</m:mi>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>1</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          <!--empty paragraphs get left behind.-->
+          <equation id="id72272">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:msub>
+                      <m:mi>v</m:mi>
+                      <m:mrow>
+                        <m:mn>3</m:mn>
+                        <m:mi>s</m:mi>
+                      </m:mrow>
+                    </m:msub>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:mi>Δ</m:mi>
+                        <m:mi>x</m:mi>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mi>Δ</m:mi>
+                        <m:mi>t</m:mi>
+                      </m:mrow>
+                    </m:mfrac>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:msub>
+                          <m:mi>x</m:mi>
+                          <m:mi>f</m:mi>
+                        </m:msub>
+                        <m:mo>-</m:mo>
+                        <m:msub>
+                          <m:mi>x</m:mi>
+                          <m:mi>i</m:mi>
+                        </m:msub>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:msub>
+                          <m:mi>t</m:mi>
+                          <m:mi>f</m:mi>
+                        </m:msub>
+                        <m:mo>-</m:mo>
+                        <m:msub>
+                          <m:mi>t</m:mi>
+                          <m:mi>i</m:mi>
+                        </m:msub>
+                      </m:mrow>
+                    </m:mfrac>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:mn>30</m:mn>
+                        <m:mrow>
+                          <m:mspace width="3.33333pt"/>
+                          <m:mi mathvariant="normal">m</m:mi>
+                        </m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>15</m:mn>
+                        <m:mrow>
+                          <m:mspace width="3.33333pt"/>
+                          <m:mi mathvariant="normal">m</m:mi>
+                        </m:mrow>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mn>3</m:mn>
+                        <m:mo>,</m:mo>
+                        <m:mn>5</m:mn>
+                        <m:mrow>
+                          <m:mspace width="3.33333pt"/>
+                          <m:mi mathvariant="normal">s</m:mi>
+                        </m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>2</m:mn>
+                        <m:mo>,</m:mo>
+                        <m:mn>5</m:mn>
+                        <m:mrow>
+                          <m:mspace width="3.33333pt"/>
+                          <m:mi mathvariant="normal">s</m:mi>
+                        </m:mrow>
+                      </m:mrow>
+                    </m:mfrac>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mn>15</m:mn>
+                      <m:mspace width="4pt"/>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi mathvariant="normal">m</m:mi>
+                      <m:mo>·</m:mo>
+                      <m:msup>
+                        <m:mi mathvariant="normal">s</m:mi>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>1</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          <!--empty paragraphs get left behind.-->
+        </para>
+        <para id="id72478">From these velocities, we can draw the velocity-time graph which forms a straight line.</para>
+        <para id="id72482">The acceleration is the gradient of the <m:math overflow="scroll"><m:mi>v</m:mi></m:math> vs. <m:math overflow="scroll"><m:mi>t</m:mi></m:math> graph and can be calculated as follows:</para>
+        <equation id="id72504">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>a</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mi>Δ</m:mi>
+                      <m:mi>v</m:mi>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mi>Δ</m:mi>
+                      <m:mi>t</m:mi>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>v</m:mi>
+                        <m:mi>f</m:mi>
+                      </m:msub>
+                      <m:mo>-</m:mo>
+                      <m:msub>
+                        <m:mi>v</m:mi>
+                        <m:mi>i</m:mi>
+                      </m:msub>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>t</m:mi>
+                        <m:mi>f</m:mi>
+                      </m:msub>
+                      <m:mo>-</m:mo>
+                      <m:msub>
+                        <m:mi>t</m:mi>
+                        <m:mi>i</m:mi>
+                      </m:msub>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mn>15</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi mathvariant="normal">m</m:mi>
+                      <m:mo>·</m:mo>
+                      <m:msup>
+                        <m:mi mathvariant="normal">s</m:mi>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>1</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mo>-</m:mo>
+                      <m:mn>5</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi mathvariant="normal">m</m:mi>
+                      <m:mo>·</m:mo>
+                      <m:msup>
+                        <m:mi mathvariant="normal">s</m:mi>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>1</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mn>3</m:mn>
+                      <m:mrow>
+                        <m:mspace width="3.33333pt"/>
+                        <m:mi mathvariant="normal">s</m:mi>
+                      </m:mrow>
+                      <m:mo>-</m:mo>
+                      <m:mn>1</m:mn>
+                      <m:mrow>
+                        <m:mspace width="3.33333pt"/>
+                        <m:mi mathvariant="normal">s</m:mi>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>5</m:mn>
+                    <m:mspace width="4pt"/>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:msup>
+                      <m:mi mathvariant="normal">s</m:mi>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>2</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id72716">The acceleration does not change during the motion (the gradient stays constant). This is motion at constant or uniform acceleration.</para>
+        <para id="id72723">The graphs for this situation are shown in <link target-id="uid114"/>.</para>
+        <figure id="uid114"><media id="uid114_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C2_026.png" id="uid114_onlineimage" width="531"><!-- NOTE: attribute width changes image size online (pixels). original width is 431. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C2_026.eps" id="uid114_printimage"/>
+          </media>
+          
+        <caption>Graphs for motion with a constant acceleration (a) position vs. time (b) velocity vs. time (c) acceleration vs. time.</caption></figure>
+        <section id="uid115">
+          <title>Velocity from Acceleration vs. Time Graphs</title>
+          <para id="id72754">Just as we used velocity vs. time graphs to find displacement, we can use acceleration vs. time graphs to find the velocity of an object at a given moment in time. We simply calculate the area under the acceleration vs. time graph, at a given time. In the graph below, showing an object at a constant positive acceleration, the increase in velocity of the object after 2 seconds corresponds to the shaded portion.</para>
+          <equation id="id72760">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mi>v</m:mi>
+                      <m:mo>=</m:mo>
+                      <m:mi> area </m:mi>
+                      <m:mspace width="4pt"/>
+                      <m:mi> of </m:mi>
+                      <m:mspace width="4pt"/>
+                      <m:mi> rectangle </m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mi>a</m:mi>
+                      <m:mo>×</m:mo>
+                      <m:mi>Δ</m:mi>
+                      <m:mi>t</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mn>5</m:mn>
+                      <m:mspace width="4pt"/>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi mathvariant="normal">m</m:mi>
+                      <m:mo>·</m:mo>
+                      <m:msup>
+                        <m:mi mathvariant="normal">s</m:mi>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>2</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                      <m:mo>×</m:mo>
+                      <m:mn>2</m:mn>
+                      <m:mspace width="4pt"/>
+                      <m:mi mathvariant="normal">s</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mn>10</m:mn>
+                      <m:mspace width="0.166667em"/>
+                      <m:mi mathvariant="normal">m</m:mi>
+                      <m:mo>·</m:mo>
+                      <m:msup>
+                        <m:mi mathvariant="normal">s</m:mi>
+                        <m:mrow>
+                          <m:mo>-</m:mo>
+                          <m:mn>1</m:mn>
+                        </m:mrow>
+                      </m:msup>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          <para id="id72897">The velocity of the object at <m:math overflow="scroll"><m:mrow><m:mi>t</m:mi><m:mo>=</m:mo><m:mn>2</m:mn><m:mi mathvariant="normal">s</m:mi></m:mrow></m:math> is therefore <m:math overflow="scroll"><m:mn>10</m:mn> <m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>. This corresponds with the values obtained in <link target-id="uid114"/>.</para>
+
+        </section>
+      </section>
+ 
+    <section id="cid8"><title>Summary of Graphs</title><para id="id73116">The relation between graphs of position, velocity and acceleration as functions of time is summarised in <link target-id="uid121"/>.</para>
+      <figure id="uid121" orient="vertical"><media id="id73150_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C2_029_1.png" id="id73150_onlineimage" width="650"><!-- NOTE: attribute width changes image size online (pixels). original width is 99. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C2_029_1.eps" id="id73150_printimage"/>
+          </media>        
+      <caption>Position-time, velocity-time and acceleration-time graphs.</caption></figure>
+<note id="notfhsst_id3410" type="tip"><para id="uid3458732">Often you will be required to describe the motion of an object that is presented as a graph of either position, velocity or acceleration as functions of time. The description of the motion represented by a graph should include the following (where possible):</para>
+      <list id="id73260" display="block" list-type="enumerated">
+        <item id="uid122">whether the object is moving in the positive or negative direction
+</item>
+        <item id="uid123">whether the object is at rest, moving at constant velocity or moving at constant positive acceleration (speeding up) or constant negative acceleration (slowing down)
+</item>
+      </list>
+      <para id="id73290">You will also often be required to draw graphs based on a description of the motion in words or from a diagram. Remember that these are just different methods of presenting the same information. If you keep in mind the general shapes of the graphs for the different types of motion, there should not be any difficulty with explaining what is happening.</para></note>
+    </section>
+    <section id="eip-774"><title>Experiment: Position versus time using a ticker timer</title><para id="id71968">
+          <title>Aim:</title>
+To measure the position and time during motion and to use that data to plot a “Position vs. Time" graph.</para>
+        <para id="id71236">
+          <title>Apparatus:</title>
+Trolley, ticker tape apparatus, tape, graph paper, ruler, ramp</para>
+        <para id="id713131">
+          <title>Method:</title>
+        <list id="id713199" display="block" list-type="enumerated"><item id="id1972">Work with a friend. Copy the table below into your workbook.
+</item>
+          <item id="uid1051">Attach a length of tape to the trolley.
+</item>
+<item id="id7254233">Run the other end of the tape through the ticker timer.
+</item>
+<item id="id76313512">Start the ticker timer going and roll the trolley down the ramp.
+</item> 
+          <item id="uid14402">Repeat steps 1 - 3.
+</item>
+          <item id="uid10333">On each piece of tape, measure the distance between successive dots. Note these distances in the table below.
+</item>
+<item id="id752232">Use the frequency of the ticker timer to work out the time intervals between successive dots. Note these times in the table below,
+</item>
+<item id="id614396">Work out the average values for distance and time. 
+</item>
+          <item id="uid13404">Use the average distance and average time values to plot a graph of “Distance vs. Time" <emphasis effect="bold">onto graph paper</emphasis>. Stick the graph paper into your workbook. (Remember that “A vs. B" always means “y vs. x").
+</item>
+          <item id="uid10584">Insert all axis labels and units onto your graph.
+</item>
+          <item id="uid10653">Draw the best straight line through your data points.
+</item>
+        </list></para>
+        <para id="id7141045">
+          <emphasis effect="bold">Results:</emphasis>
+        </para>
+        <table id="id7141349" summary="">
+          <tgroup cols="6">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<colspec colnum="6" colname="c6"/>
+            <tbody>
+              <row>
+                <entry namest="c1" nameend="c3">Distance (m)</entry>
+                <entry namest="c4" nameend="c6">Time (s)</entry>
+              </row>
+              <row>
+                 <entry>1</entry>
+                <entry>2</entry>
+                <entry>Ave.</entry>
+                <entry>1</entry>
+                <entry>2</entry>
+                <entry>Ave.</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <!--empty paragraphs get left behind.-->
+        <para id="id7172254">
+          <title>Discussion:</title>
+Describe the motion of the trolley down the ramp. 
+</para></section><section id="cid9">
+      <title>Worked Examples</title>
+      <para id="id73306">The worked examples in this section demonstrate the types of questions that can be asked about graphs.</para>
+<exercise id="secfhsst_id3422"><title> Description of motion based on a position-time graph </title>
+      <problem id="probfhsst_id3423">
+      <para id="id73323">The position vs. time graph for the motion of a car is given below. Draw the corresponding velocity vs. time and acceleration vs. time graphs, and then describe the motion of the car.</para>
+      <para id="id73330">
+        <figure id="id73334"><media id="id73334_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C2_038.png" id="id73334_onlineimage" width="421"><!-- NOTE: attribute width changes image size online (pixels). original width is 221. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C2_038.eps" id="id73334_printimage"/>
+          </media>
+        </figure>
+      </para>
+      
+      </problem>
+      <solution id="solfhsst_id3435"> <list id="listfhsst_id3435" list-type="enumerated" number-style="arabic" class="stepwise">
+      <item> <label> Identify what information is given and what is asked for </label>
+      <para id="id73362">The question gives a position vs. time graph and the following three things are required:</para>
+      <list id="id73366" display="block" list-type="enumerated">
+        <item id="uid124">Draw a <m:math overflow="scroll"><m:mi>v</m:mi></m:math> vs. <m:math overflow="scroll"><m:mi>t</m:mi></m:math> graph.
+</item>
+        <item id="uid125">Draw an <m:math overflow="scroll"><m:mi>a</m:mi></m:math> vs. <m:math overflow="scroll"><m:mi>t</m:mi></m:math> graph.
+</item>
+        <item id="uid126">Describe the motion of the car.
+</item>
+      </list>
+      <para id="id73443">To answer these questions, break the motion up into three sections: 0 – 2 seconds, 2 – 4 seconds and 4 – 6 seconds.</para>
+      </item> <item> <label> Velocity vs. time graph for 0 – 2 seconds </label>
+      <para id="id73455">For the first 2 seconds we can see that the displacement remains constant - so the object is not moving, thus it has zero velocity during this time. We can reach this conclusion by another path too: remember that the gradient of a displacement vs. time graph is the velocity. For the first 2 seconds we can see that the displacement vs. time graph is a horizontal line, ie. it has a gradient of zero. Thus the velocity during this time is zero and the object is stationary.</para>
+      </item> <item> <label> Velocity vs. time graph for 2 – 4 seconds </label>
+      <para id="id73469">For the next 2 seconds, displacement is increasing with time so the object is moving. Looking at the gradient of the displacement graph we can see that it is not constant. In fact, the slope is getting steeper (the gradient is increasing) as time goes on. Thus, remembering that the gradient of a displacement vs. time graph is the velocity, the velocity must be increasing with time during this phase.</para>
+      </item> <item> <label> Velocity vs. time graph for 4 – 6 seconds </label>
+      <para id="id73483">For the final 2 seconds we see that displacement is still increasing with time, but this time the gradient is constant, so we know that the object is now travelling at a constant velocity, thus the velocity vs. time graph will be a horizontal line during this stage. We can now draw the graphs:</para>
+      <para id="id73489">So our velocity vs. time graph looks like this one below. Because we haven't been given any values on the vertical axis of the displacement vs. time graph, we cannot figure out what the exact gradients are and therefore what the values of the velocities are. In this type of question it is just important to show whether velocities are positive or negative, increasing, decreasing or constant.</para>
+      <para id="id73495">
+        <figure id="id73499">
+          <media id="id73499_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C2_039.png" id="id73499_onlineimage" width="376"><!-- NOTE: attribute width changes image size online (pixels). original width is 376. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C2_039.eps" id="id73499_printimage"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id73505">Once we have the velocity vs. time graph its much easier to get the acceleration vs. time graph as we know that the gradient of a velocity vs. time graph is the just the acceleration.</para>
+      </item> <item> <label> Acceleration vs. time graph for 0 – 2 seconds </label>
+      <para id="id73517">For the first 2 seconds the velocity vs. time graph is horisontal and has a value of zero, thus it has a gradient of zero and there is no acceleration during this time. (This makes sense because we know from the displacement time graph that the object is stationary during this time, so it can't be accelerating).</para>
+      </item> <item> <label> Acceleration vs. time graph for 2 – 4 seconds </label>
+      <para id="id73530">For the next 2 seconds the velocity vs. time graph has a positive gradient. This gradient is not changing (i.e. its constant) throughout these 2 seconds so there must be a constant positive acceleration.</para>
+      </item> <item> <label> Acceleration vs. time graph for 4 – 6 seconds </label>
+      <para id="id73543">For the final 2 seconds the object is traveling with a constant velocity. During this time the gradient of the velocity vs. time graph is once again zero, and thus the object is not accelerating.
+The acceleration vs. time graph looks like this:</para>
+      <para id="id73548">
+        <figure id="id73551">
+          <media id="id73551_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C2_040.png" id="id73551_onlineimage" width="391"><!-- NOTE: attribute width changes image size online (pixels). original width is 391. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C2_040.eps" id="id73551_printimage"/>
+          </media>
+        </figure>
+      </para>
+      </item> <item> <label> A description of the object's motion </label>
+      <para id="id73562">A brief description of the motion of the object could read something like this: At <m:math overflow="scroll"><m:mrow><m:mi>t</m:mi><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math> s and object is stationary at some position and remains stationary until <m:math overflow="scroll"><m:mrow><m:mi>t</m:mi><m:mo>=</m:mo><m:mn>2</m:mn></m:mrow></m:math> s when it begins accelerating. It accelerates in a positive direction for 2 seconds until <m:math overflow="scroll"><m:mrow><m:mi>t</m:mi><m:mo>=</m:mo><m:mn>4</m:mn></m:mrow></m:math> s and then travels at a constant velocity for a further 2 seconds.</para>
+      
+      </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id3483"><title> Calculations from a velocity vs. time graph </title>
+      <problem id="probfhsst_id3484">
+      <para id="id73638">The velocity vs. time graph of a truck is plotted below. Calculate the distance and displacement of the truck after 15 seconds.</para>
+      <para id="id73645">
+        <figure id="id73648"><media id="id73648_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C2_041.png" id="id73648_onlineimage" width="569"><!-- NOTE: attribute width changes image size online (pixels). original width is 469. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C2_041.eps" id="id73648_printimage"/>
+          </media>
+        </figure>
+      </para>
+      
+      </problem>
+      <solution id="solfhsst_id3496"> <list id="listfhsst_id3496" list-type="enumerated" number-style="arabic" class="stepwise">
+      <item> <label> Decide how to tackle the problem </label>
+      <para id="id73676">We are asked to calculate the distance and displacement of the car. All we need to remember here is that we can use the area between the velocity vs. time graph and the time axis to determine the distance and displacement.</para>
+      </item> <item> <label> Determine the area under the velocity vs. time graph </label>
+      <para id="id73688">Break the motion up: 0 – 5 seconds, 5 – 12 seconds, 12 – 14 seconds and 14 – 15 seconds.</para>
+      <para id="id73693">For 0 – 5 seconds: The displacement is equal to the area of the triangle on the left:
+<equation id="id73704"><m:math overflow="scroll" mode="display"><m:mtable displaystyle="true"><m:mtr><m:mtd columnalign="right"><m:msub><m:mi> Area </m:mi><m:mi>▵</m:mi></m:msub></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mspace width="3.33333pt"/><m:mi>b</m:mi><m:mo>×</m:mo><m:mi>h</m:mi></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mo>×</m:mo><m:mn>5</m:mn><m:mrow><m:mspace width="3.33333pt"/><m:mi mathvariant="normal">s</m:mi></m:mrow><m:mspace width="4pt"/><m:mo>×</m:mo><m:mn>4</m:mn><m:mspace width="0.166667em"/><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:msup><m:mi mathvariant="normal">s</m:mi><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mrow><m:mn>10</m:mn><m:mspace width="4pt"/><m:mi mathvariant="normal">m</m:mi></m:mrow></m:mtd></m:mtr></m:mtable></m:math></equation><!--empty paragraphs get left behind.-->
+
+
+
+
+For 5 – 12 seconds: The displacement is equal to the area of the rectangle:
+<equation id="id73850"><m:math overflow="scroll" mode="display"><m:mtable displaystyle="true"><m:mtr><m:mtd columnalign="right"><m:msub><m:mi> Area </m:mi><m:mo>□</m:mo></m:msub></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mrow><m:mi>ℓ</m:mi><m:mo>×</m:mo><m:mi>b</m:mi></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mrow><m:mn>7</m:mn><m:mrow><m:mspace width="3.33333pt"/><m:mi mathvariant="normal">s</m:mi></m:mrow><m:mspace width="4pt"/><m:mo>×</m:mo><m:mn>4</m:mn><m:mspace width="0.166667em"/><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:msup><m:mi mathvariant="normal">s</m:mi><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup><m:mspace width="4pt"/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mrow><m:mn>28</m:mn><m:mspace width="4pt"/><m:msup><m:mi mathvariant="normal">m</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:mtd></m:mtr></m:mtable></m:math></equation><!--empty paragraphs get left behind.--></para>
+      <para id="id73973">For 12 – 14 seconds the displacement is equal to the area of the triangle above the time axis on the right:
+<equation id="id73982"><m:math overflow="scroll" mode="display"><m:mtable displaystyle="true"><m:mtr><m:mtd columnalign="right"><m:msub><m:mi> Area </m:mi><m:mi>▵</m:mi></m:msub></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mspace width="3.33333pt"/><m:mi>b</m:mi><m:mo>×</m:mo><m:mi>h</m:mi></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mo>×</m:mo><m:mn>2</m:mn><m:mrow><m:mspace width="3.33333pt"/><m:mi mathvariant="normal">s</m:mi></m:mrow><m:mspace width="4pt"/><m:mo>×</m:mo><m:mn>4</m:mn><m:mspace width="0.166667em"/><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:msup><m:mi mathvariant="normal">s</m:mi><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup><m:mspace width="4pt"/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mrow><m:mn>4</m:mn><m:mspace width="4pt"/><m:mi mathvariant="normal">m</m:mi></m:mrow></m:mtd></m:mtr></m:mtable></m:math></equation><!--empty paragraphs get left behind.-->
+
+
+
+
+For 14 – 15 seconds the displacement is equal to the area of the triangle below the time axis:
+<equation id="id74132"><m:math overflow="scroll" mode="display"><m:mtable displaystyle="true"><m:mtr><m:mtd columnalign="right"><m:msub><m:mi> Area </m:mi><m:mi>▵</m:mi></m:msub></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mspace width="3.33333pt"/><m:mi>b</m:mi><m:mo>×</m:mo><m:mi>h</m:mi></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mo>×</m:mo><m:mn>1</m:mn><m:mrow><m:mspace width="3.33333pt"/><m:mi mathvariant="normal">s</m:mi></m:mrow><m:mspace width="4pt"/><m:mo>×</m:mo><m:mn>2</m:mn><m:mspace width="0.166667em"/><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:msup><m:mi mathvariant="normal">s</m:mi><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup><m:mspace width="4pt"/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mrow><m:mn>1</m:mn><m:mspace width="4pt"/><m:mi mathvariant="normal">m</m:mi></m:mrow></m:mtd></m:mtr></m:mtable></m:math></equation><!--empty paragraphs get left behind.--></para>
+      </item> <item> <label> Determine the total distance of the car </label>
+      <para id="id74273">Now the total distance of the car is the sum of all of these areas:</para>
+      <equation id="id74277">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mrow>
+                  <m:mi>Δ</m:mi>
+                  <m:mi>x</m:mi>
+                </m:mrow>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>10</m:mn>
+                  <m:mrow>
+                    <m:mspace width="3.33333pt"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                  </m:mrow>
+                  <m:mo>+</m:mo>
+                  <m:mn>28</m:mn>
+                  <m:mrow>
+                    <m:mspace width="3.33333pt"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                  </m:mrow>
+                  <m:mo>+</m:mo>
+                  <m:mn>4</m:mn>
+                  <m:mrow>
+                    <m:mspace width="3.33333pt"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                  </m:mrow>
+                  <m:mo>+</m:mo>
+                  <m:mn>1</m:mn>
+                  <m:mrow>
+                    <m:mspace width="3.33333pt"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                  </m:mrow>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>43</m:mn>
+                  <m:mspace width="4pt"/>
+                  <m:mi mathvariant="normal">m</m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      </item> <item> <label> Determine the total displacement of the car </label>
+      <para id="id74382">Now the total displacement of the car is just the sum of all of these areas. HOWEVER, because in the last second (from <m:math overflow="scroll"><m:mrow><m:mi>t</m:mi><m:mo>=</m:mo><m:mn>14</m:mn></m:mrow></m:math> s to <m:math overflow="scroll"><m:mrow><m:mi>t</m:mi><m:mo>=</m:mo><m:mn>15</m:mn></m:mrow></m:math> s) the velocity of the car is negative, it means that the car was going in the opposite direction, i.e. back where it came from! So, to find the total displacement, we have to add the first 3 areas (those with positive displacements) and subtract the last one (because it is a displacement in the opposite direction).</para>
+      <equation id="id74419"><m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mrow>
+                  <m:mi>Δ</m:mi>
+                  <m:mi>x</m:mi>
+                </m:mrow>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>10</m:mn>
+                  <m:mrow>
+                    <m:mspace width="3.33333pt"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                  </m:mrow>
+                  <m:mo>+</m:mo>
+                  <m:mn>28</m:mn>
+                  <m:mrow>
+                    <m:mspace width="3.33333pt"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                  </m:mrow>
+                  <m:mo>+</m:mo>
+                  <m:mn>4</m:mn>
+                  <m:mrow>
+                    <m:mspace width="3.33333pt"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                  </m:mrow>
+                  <m:mo>-</m:mo>
+                  <m:mn>1</m:mn>
+                  <m:mrow>
+                    <m:mspace width="3.33333pt"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                  </m:mrow>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>41</m:mn>
+                  <m:mspace width="2pt"/>
+                  <m:mi mathvariant="normal">m</m:mi>
+                  <m:mspace width="1.em"/>
+                  <m:mrow>
+                    <m:mi> in the positive direction</m:mi>
+                  </m:mrow>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      
+      </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id3645"><title> Velocity from a position vs. time graph </title>
+      <problem id="probfhsst_id3646">
+      <para id="id74561">The position vs. time graph below describes the motion of an athlete.</para>
+      <list id="id74567" display="block" list-type="enumerated">
+        <item id="uid127">What is the velocity of the athlete during the first 4 seconds?
+</item>
+        <item id="uid128">What is the velocity of the athlete from <m:math overflow="scroll"><m:mrow><m:mi>t</m:mi><m:mo>=</m:mo><m:mn>4</m:mn></m:mrow></m:math> s to <m:math overflow="scroll"><m:mrow><m:mi>t</m:mi><m:mo>=</m:mo><m:mn>7</m:mn></m:mrow></m:math> s?
+</item>
+      </list>
+      <para id="id74626">
+        <figure id="id74629"><media id="id74629_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C2_042.png" id="id74629_onlineimage" width="444"><!-- NOTE: attribute width changes image size online (pixels). original width is 244. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C2_042.eps" id="id74629_printimage"/>
+          </media>
+        </figure>
+      </para>
+      
+      </problem>
+      <solution id="solfhsst_id3664"> <list id="listfhsst_id3664" list-type="enumerated" number-style="arabic" class="stepwise">
+      <item> <label> The velocity during the first 4 seconds </label>
+      <para id="id74656">The velocity is given by the gradient of a position vs. time graph. During the first 4 seconds, this is</para>
+      <equation id="id74660">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>v</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mfrac>
+                  <m:mrow>
+                    <m:mi>Δ</m:mi>
+                    <m:mi>x</m:mi>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mi>Δ</m:mi>
+                    <m:mi>t</m:mi>
+                  </m:mrow>
+                </m:mfrac>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mfrac>
+                  <m:mrow>
+                    <m:mn>4</m:mn>
+                    <m:mrow>
+                      <m:mspace width="3.33333pt"/>
+                      <m:mi mathvariant="normal">m</m:mi>
+                    </m:mrow>
+                    <m:mo>-</m:mo>
+                    <m:mn>0</m:mn>
+                    <m:mrow>
+                      <m:mspace width="3.33333pt"/>
+                      <m:mi mathvariant="normal">m</m:mi>
+                    </m:mrow>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mn>4</m:mn>
+                    <m:mrow>
+                      <m:mspace width="3.33333pt"/>
+                      <m:mi mathvariant="normal">s</m:mi>
+                    </m:mrow>
+                    <m:mo>-</m:mo>
+                    <m:mn>0</m:mn>
+                    <m:mrow>
+                      <m:mspace width="3.33333pt"/>
+                      <m:mi mathvariant="normal">s</m:mi>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mfrac>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>1</m:mn>
+                  <m:mspace width="4pt"/>
+                  <m:mspace width="0.166667em"/>
+                  <m:mi mathvariant="normal">m</m:mi>
+                  <m:mo>·</m:mo>
+                  <m:msup>
+                    <m:mi mathvariant="normal">s</m:mi>
+                    <m:mrow>
+                      <m:mo>-</m:mo>
+                      <m:mn>1</m:mn>
+                    </m:mrow>
+                  </m:msup>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      </item> <item> <label> The velocity during the last 3 seconds </label>
+      <para id="id74801">For the last 3 seconds we can see that the displacement stays constant. The graph shows a horisontal line and therefore the gradient is zero. Thus <m:math overflow="scroll"><m:mrow><m:mi>v</m:mi><m:mo>=</m:mo><m:mn>0</m:mn><m:mspace width="4pt"/><m:mspace width="0.166667em"/><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:msup><m:mi mathvariant="normal">s</m:mi><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:math>. </para>
+      </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id3755"><title> Drawing a <m:math overflow="scroll"><m:mi>v</m:mi></m:math> vs. <m:math overflow="scroll"><m:mi>t</m:mi></m:math> graph from an <m:math overflow="scroll"><m:mi>a</m:mi></m:math> vs. <m:math overflow="scroll"><m:mi>t</m:mi></m:math> graph </title>
+      <problem id="probfhsst_id3756">
+      <para id="id74906">The acceleration vs. time graph for a car starting from rest, is given below. Calculate the velocity of the car and hence draw the velocity vs. time graph.</para>
+      <para id="id74913">
+        <figure id="id74916"><media id="id74916_media" alt="">
+            <image mime-type="image/png" src="../../media/PG10C2_043.png" id="id74916_onlineimage" width="426"><!-- NOTE: attribute width changes image size online (pixels). original width is 226. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG10C2_043.eps" id="id74916_printimage"/>
+          </media>
+        </figure>
+      </para>
+      
+      </problem>
+      <solution id="solfhsst_id3768"> <list id="listfhsst_id3768" list-type="enumerated" number-style="arabic" class="stepwise">
+      <item> <label> Calculate the velocity values by using the area under each part of the graph. </label>
+      <para id="id74944">The motion of the car can be divided into three time sections: 0 – 2 seconds; 2 – 4 seconds and 4 – 6 seconds. To be able to draw the velocity vs. time graph, the velocity for each time section needs to be calculated. The velocity is equal to the area of the square under the graph:</para>
+      <para id="id74953">For 0 – 2 seconds:
+<equation id="id74963"><m:math overflow="scroll" mode="display"><m:mtable displaystyle="true"><m:mtr><m:mtd columnalign="right"><m:msub><m:mi> Area </m:mi><m:mo>□</m:mo></m:msub></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mrow><m:mi>ℓ</m:mi><m:mo>×</m:mo><m:mi>b</m:mi></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mrow><m:mn>2</m:mn><m:mrow><m:mspace width="3.33333pt"/><m:mi mathvariant="normal">s</m:mi></m:mrow><m:mspace width="4pt"/><m:mo>×</m:mo><m:mn>2</m:mn><m:mspace width="0.166667em"/><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:msup><m:mi mathvariant="normal">s</m:mi><m:mrow><m:mo>-</m:mo><m:mn>2</m:mn></m:mrow></m:msup><m:mspace width="4pt"/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mrow><m:mn>4</m:mn><m:mspace width="4pt"/><m:mspace width="0.166667em"/><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:msup><m:mi mathvariant="normal">s</m:mi><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:mtd></m:mtr></m:mtable></m:math></equation>
+The velocity of the car is 4 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math> at t = 2s.
+<!--empty paragraphs get left behind.-->
+
+
+
+
+For 2 – 4 seconds:
+<equation id="id75142"><m:math overflow="scroll" mode="display"><m:mtable displaystyle="true"><m:mtr><m:mtd columnalign="right"><m:msub><m:mi> Area </m:mi><m:mo>□</m:mo></m:msub></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mrow><m:mi>ℓ</m:mi><m:mo>×</m:mo><m:mi>b</m:mi></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mrow><m:mn>2</m:mn><m:mrow><m:mspace width="3.33333pt"/><m:mi mathvariant="normal">s</m:mi></m:mrow><m:mspace width="4pt"/><m:mo>×</m:mo><m:mn>0</m:mn><m:mspace width="0.166667em"/><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:msup><m:mi mathvariant="normal">s</m:mi><m:mrow><m:mo>-</m:mo><m:mn>2</m:mn></m:mrow></m:msup></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mrow><m:mn>0</m:mn><m:mspace width="4pt"/><m:mspace width="0.166667em"/><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:msup><m:mi mathvariant="normal">s</m:mi><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:mtd></m:mtr></m:mtable></m:math></equation>
+The velocity of the car is 0 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math> from <m:math overflow="scroll"><m:mrow><m:mi>t</m:mi><m:mo>=</m:mo><m:mn>2</m:mn></m:mrow></m:math> s to <m:math overflow="scroll"><m:mrow><m:mi>t</m:mi><m:mo>=</m:mo><m:mn>4</m:mn></m:mrow></m:math> s.
+<!--empty paragraphs get left behind.-->
+
+
+
+
+For 4 – 6 seconds:
+<equation id="id75347"><m:math overflow="scroll" mode="display"><m:mtable displaystyle="true"><m:mtr><m:mtd columnalign="right"><m:msub><m:mi> Area </m:mi><m:mo>□</m:mo></m:msub></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mrow><m:mi>ℓ</m:mi><m:mo>×</m:mo><m:mi>b</m:mi></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mrow><m:mn>2</m:mn><m:mrow><m:mspace width="3.33333pt"/><m:mi mathvariant="normal">s</m:mi></m:mrow><m:mspace width="4pt"/><m:mo>×</m:mo><m:mo>-</m:mo><m:mn>2</m:mn><m:mspace width="0.166667em"/><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:msup><m:mi mathvariant="normal">s</m:mi><m:mrow><m:mo>-</m:mo><m:mn>2</m:mn></m:mrow></m:msup><m:mspace width="4pt"/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mrow><m:mo>-</m:mo><m:mn>4</m:mn><m:mspace width="4pt"/><m:mspace width="0.166667em"/><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:msup><m:mi mathvariant="normal">s</m:mi><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:mtd></m:mtr></m:mtable></m:math></equation>
+The acceleration had a negative value, which means that the velocity is decreasing. It starts at a velocity of 4 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math> and decreases to 0 m<m:math overflow="scroll"><m:mo>·</m:mo></m:math>s<m:math overflow="scroll"><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>.
+<!--empty paragraphs get left behind.--></para>
+      </item> <item> <label> Now use the values to draw the velocity vs. time graph. </label>
+      <para id="id75549">The velocity vs. time graph looks like this:
+
+
+
+<figure id="id75564"><media id="id75564_media" alt=""><image mime-type="image/png" src="../../media/PG10C2_044.png" id="id75564_onlineimage" width="425"><!-- NOTE: attribute width changes image size online (pixels). original width is 225. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C2_044.eps" id="id75564_printimage"/></media></figure>
+
+
+ </para>
+      </item> </list> </solution>
+</exercise>
+    </section>
+   <section id="secfhsst_id3332"><title> Graphs </title>
+          <list id="id72955" display="block" list-type="enumerated"><item id="uid116">A car is parked <m:math><m:mn>10</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi></m:math> from home for 10 minutes. Draw a displacement-time, velocity-time and acceleration-time graphs for the motion. Label all the axes.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/l1I">Click here for the solution.</link>
+</item>
+            <item id="uid117">A bus travels at a constant velocity of <m:math overflow="scroll"><m:mn>12</m:mn> <m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math>for 6 seconds. Draw the displacement-time, velocity-time and acceleration-time graph for the motion. Label all the axes.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/l15">Click here for the solution.</link>
+</item>
+            <item id="uid118">An athlete runs with a constant acceleration of <m:math overflow="scroll"><m:mn>1</m:mn> <m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi><m:mo>·</m:mo><m:mi mathvariant="normal">s</m:mi><m:msup><m:mrow/><m:mrow><m:mo>-</m:mo><m:mn>2</m:mn></m:mrow></m:msup></m:math> for <m:math><m:mn>4</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">s</m:mi></m:math>. Draw the acceleration-time, velocity-time and displacement time graphs for the motion. Accurate values are only needed for the acceleration-time and velocity-time graphs.<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/l1N">Click here for the solution.</link>
+</item>
+            <item id="uid119">The following velocity-time graph describes the motion of a car. Draw the displacement-time graph and the acceleration-time graph and explain the motion of the car according to the three graphs.
+<figure id="id73065"><media id="id73065_media" alt=""><image mime-type="image/png" src="../../media/PG10C2_027.png" id="id73065_onlineimage" width="217"><!-- NOTE: attribute width changes image size online (pixels). original width is 217. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C2_027.eps" id="id73065_printimage"/></media></figure><link class="fullmarks" window="new" url="http://www.fhsst.org/l1R">Click here for the solution.</link></item>
+            <item id="uid120">The following velocity-time graph describes the motion of a truck. Draw the displacement-time graph and the acceleration-time graph and explain the motion of the truck according to the three graphs.
+<figure id="id73089"><media id="id73089_media" alt=""><image mime-type="image/png" src="../../media/PG10C2_028.png" id="id73089_onlineimage" width="211"><!-- NOTE: attribute width changes image size online (pixels). original width is 211. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C2_028.eps" id="id73089_printimage"/></media></figure><link class="fullmarks" window="new" url="http://www.fhsst.org/l1n">Click here for the solution.</link></item>
+          </list>
+          
+</section><para id="eip-842">This simulation allows you the opportunity to plot graphs of motion and to see how the graphs of motion change when you move the man.
+<figure id="id634523"><media id="id634523_media" alt="">
+            <image mime-type="image/png" src="../../media/motion.png" id="id634523_onlineimage" width="300"><!-- NOTE: attribute width changes image size online (pixels). original width is 	149. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/motion.eps" id="id634523_printimage"/>
+            </media>
+            </figure>
+<link class="phetsim" window="new" url="http://phet.colorado.edu/sims/moving-man/moving-man_en.jnlp">run demo</link></para></section>
+
+  </content>
+</document>

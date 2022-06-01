@@ -1,0 +1,206 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Techniques of vector addition</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38815</md:content-id>
+  <md:title>Techniques of vector addition</md:title>
+  <md:abstract/>
+  <md:uuid>09545324-287d-4c19-ae31-1b54d28cdf11</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid8">
+      <title>Techniques of Vector Addition</title>
+      <para id="id189251">Now that you have learned about the mathematical properties of
+vectors, we return to vector addition in more detail. There are a number of
+techniques of vector addition. These techniques fall into two main categories - graphical and algebraic techniques.</para>
+      <section id="uid38">
+        <title>Graphical Techniques</title>
+        <para id="id189266">Graphical techniques involve drawing accurate scale diagrams to denote
+individual vectors and their resultants. We next discuss the two primary
+graphical techniques, the head-to-tail technique and the parallelogram
+method.</para>
+        <section id="uid39">
+          <title>The Head-to-Tail Method</title>
+          <para id="id189280">In describing the mathematical properties of vectors we used
+displacements and the head-to-tail graphical method of vector addition
+as an illustration. The head-to-tail method of graphically adding vectors is a standard method that must be understood.</para>
+          <para id="id189285">
+            <emphasis effect="bold">Method: Head-to-Tail Method of Vector Addition</emphasis>
+          </para>
+          <list id="id189292" display="block" list-type="enumerated">
+            <item id="uid40">Draw a rough sketch of the situation.
+</item>
+            <item id="uid41">Choose a scale and include a reference direction.
+</item>
+            <item id="uid42">Choose any of the vectors and draw it as an arrow in the
+correct direction and of the correct length – remember to put an
+arrowhead on the end to denote its direction.
+</item>
+            <item id="uid43">Take the next vector and draw it as an arrow starting from the
+arrowhead of the first vector in the correct direction and of the
+correct length.
+</item>
+            <item id="uid44">Continue until you have drawn each vector – each time starting
+from the head of the previous vector. In this way, the vectors to be
+added are drawn one after the other head-to-tail.
+</item>
+            <item id="uid45">The resultant is then the vector drawn from the tail of the
+first vector to the head of the last. Its magnitude can be
+determined from the length of its arrow using the scale. Its
+direction too can be determined from the scale diagram.
+</item>
+          </list>
+<exercise id="secfhsst_id738"><title>Head-to-Tail Addition I </title><problem id="probfhsst_id739">
+          <para id="id189392">A ship leaves harbour H and sails 6 km north to port A. From here the ship travels 12 km east to port B, before sailing 5,5 km south-west to port C. Determine the ship's resultant displacement using the head-to-tail technique of vector addition. </para>
+          </problem>
+          <solution id="solfhsst_id742"> <list id="listfhsst_id742" list-type="enumerated" number-style="arabic" class="stepwise">
+          <item> <label> Draw a rough sketch of the situation </label>
+          <para id="id189417">Its easy to understand the problem if we first draw a quick sketch. The rough sketch should include all of the information given in the problem. All of the magnitudes of the displacements are shown and a compass has been included as a reference direction. In a rough sketch one is interested in the approximate shape of the vector diagram.</para>
+          <para id="id189423">
+            <figure id="id189427">
+              <media id="id189427_media" alt="">
+                <image mime-type="image/png" src="../../media/PG11C1_040.png" id="id189427_onlineimage" width="246"><!-- NOTE: attribute width changes image size online (pixels). original width is 246. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_040.eps" id="id189427_printimage"/>
+              </media>
+            </figure>
+          </para>
+          </item> <item> <label> Choose a scale and include a reference direction </label>
+          <para id="id189438">The choice of scale depends on the actual question – you should choose a
+scale such that your vector diagram fits the page.</para>
+          <para id="id189443">It is clear from the rough sketch that choosing a scale where 1 cm represents 2 km (scale: 1 cm = 2 km) would be a good choice in this
+problem. The diagram will then take up a good fraction of an A4 page. We now start the accurate construction.</para>
+          </item> <item> <label> Choose any of the vectors to be summed and draw it as an arrow in the correct direction and of the correct length – remember to put an
+arrowhead on the end to denote its direction </label>
+          <para id="id189458">Starting at the harbour H we draw the first vector 3 cm long in the direction north.</para>
+          <para id="id189462">
+            <figure id="id189466">
+              <media id="id189466_media" alt="">
+                <image mime-type="image/png" src="../../media/PG11C1_041.png" id="id189466_onlineimage" width="29"><!-- NOTE: attribute width changes image size online (pixels). original width is 29. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_041.eps" id="id189466_printimage"/>
+              </media>
+            </figure>
+          </para>
+          </item> <item> <label>Draw the second vector</label>
+<para id="id63422">Take the next vector and draw it as an arrow starting from the
+head of the first vector in the correct direction and of the
+correct length. 
+</para>
+          <para id="id189477">Since the ship is now at port A we draw the second vector 6 cm long starting from point A in the direction east.</para>
+          <para id="id189483">
+            <figure id="id189486">
+              <media id="id189486_media" alt="">
+                <image mime-type="image/png" src="../../media/PG11C1_042.png" id="id189486_onlineimage" width="199"><!-- NOTE: attribute width changes image size online (pixels). original width is 199. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_042.eps" id="id189486_printimage"/>
+              </media>
+            </figure>
+          </para>
+          </item> <item> <label>Draw the third vector</label>
+<para id="id6211">Take the next vector and draw it as an arrow starting from the
+head of the second vector in the correct direction and of the
+correct length. 
+</para>
+          <para id="id189498">Since the ship is now at port B we draw the third vector 2,25 cm long starting from this point in the direction south-west. A protractor is required to measure the angle of 45<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>.</para>
+          <para id="id189518">
+            <figure id="id189521">
+              <media id="id189521_media" alt="">
+                <image mime-type="image/png" src="../../media/PG11C1_043.png" id="id189521_onlineimage" width="210"><!-- NOTE: attribute width changes image size online (pixels). original width is 210. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_043.eps" id="id189521_printimage"/>
+              </media>
+            </figure>
+          </para>
+          </item> <item> <label>Draw the resultant</label>
+<para id="id1342">The resultant is then the vector drawn from the tail of the
+first vector to the head of the last. Its magnitude can be
+determined from the length of its arrow using the scale. Its
+direction too can be determined from the scale diagram.
+</para>
+          <para id="id189533">As a final step we draw the resultant displacement from
+the starting point (the harbour H) to the end point (port C). We use a
+ruler to measure the length of this arrow and a protractor to determine its direction.</para>
+          <para id="id189538">
+            <figure id="id189541">
+              <media id="id189541_media" alt="">
+                <image mime-type="image/png" src="../../media/PG11C1_044.png" id="id189541_onlineimage" width="292"><!-- NOTE: attribute width changes image size online (pixels). original width is 292. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_044.eps" id="id189541_printimage"/>
+              </media>
+            </figure>
+          </para>
+          </item> <item> <label> Apply the scale conversion </label>
+          <para id="id189552">We now use the scale to convert the length of the resultant in the scale diagram to the actual displacement in the problem. Since we have chosen a scale of 1 cm = 2 km in this problem the resultant has a magnitude of 9,2 km. The direction can be specified in terms of the angle measured either as <m:math overflow="scroll"><m:mn>072,3</m:mn><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> east of north or on a bearing of <m:math overflow="scroll"><m:mn>072,3</m:mn><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>.</para>
+          </item> <item> <label> Quote the final answer </label>
+          <para id="id189591">The resultant displacement of the ship is 9,2 km on a bearing of <m:math overflow="scroll"><m:mn>072,3</m:mn><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>. </para>
+          </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id814"><title> Head-to-Tail Graphical Addition II </title>
+          <problem id="probfhsst_id815">
+          <para id="id189632">A man walks 40 m East, then 30 m North.</para>
+          <list id="id189638" display="block" list-type="enumerated">
+            <item id="uid46">What was the total distance he walked?
+</item>
+            <item id="uid47">What is his resultant displacement?
+</item>
+          </list>
+          
+          </problem>
+          <solution id="solfhsst_id825"> <list id="listfhsst_id825" list-type="enumerated" number-style="arabic" class="stepwise">
+          <item> <label> Draw a rough sketch </label>
+          <para id="id189688">
+            <figure id="id189692">
+              <media id="id189692_media" alt="">
+                <image mime-type="image/png" src="../../media/PG11C1_045.png" id="id189692_onlineimage" width="525"><!-- NOTE: attribute width changes image size online (pixels). original width is 525. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_045.eps" id="id189692_printimage"/>
+              </media>
+            </figure>
+          </para>
+          </item> <item> <label> Determine the distance that the man traveled </label>
+          <para id="id189703">In the first part of his journey he traveled 40 m and in the second part he traveled 30 m. This gives us a total distance traveled of 40 m + 30 m = 70 m.</para>
+          </item> <item> <label> Determine his resultant displacement </label>
+          <para id="id189711">The man's resultant displacement is the <emphasis effect="bold">vector</emphasis> from where he started to where he ended. It is the vector sum of his two separate displacements. We will use the head-to-tail method of accurate construction to find this vector.</para>
+          </item> <item> <label> Choose a suitable scale </label>
+          <para id="id189726">A scale of 1 cm represents 10 m (1 cm = 10 m) is a good choice here. Now we can begin the process of construction.</para>
+          </item> <item> <label> Draw the first vector to scale </label>
+          <para id="id189736">We draw the first displacement as an arrow 4 cm long in an eastwards direction.</para>
+          <para id="id189740">
+            <figure id="id189744">
+              <media id="id189744_media" alt="">
+                <image mime-type="image/png" src="../../media/PG11C1_046.png" id="id189744_onlineimage" width="114"><!-- NOTE: attribute width changes image size online (pixels). original width is 114. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_046.eps" id="id189744_printimage"/>
+              </media>
+            </figure>
+          </para>
+          </item> <item> <label> Draw the second vector to scale </label>
+          <para id="id189754">Starting from the head of the first vector we draw the second vector as an arrow 3 cm long in a northerly direction.</para>
+          <para id="id189760">
+            <figure id="id189763">
+              <media id="id189763_media" alt="">
+                <image mime-type="image/png" src="../../media/PG11C1_047.png" id="id189763_onlineimage" width="290"><!-- NOTE: attribute width changes image size online (pixels). original width is 290. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_047.eps" id="id189763_printimage"/>
+              </media>
+            </figure>
+          </para>
+          </item> <item> <label> Determine the resultant vector </label>
+          <para id="id189774">Now we connect the starting point to the end point and
+measure the length and direction of this arrow (the resultant).</para>
+          <para id="id189778">
+            <figure id="id189781">
+              <media id="id189781_media" alt="">
+                <image mime-type="image/png" src="../../media/PG11C1_048.png" id="id189781_onlineimage" width="295"><!-- NOTE: attribute width changes image size online (pixels). original width is 295. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG11C1_048.eps" id="id189781_printimage"/>
+              </media>
+            </figure>
+          </para>
+          </item> <item> <label> Find the direction </label>
+          <para id="id189792">To find the direction you measure the angle between the resultant and the 40 m vector. You should get about 37<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math>.</para>
+          </item> <item> <label> Apply the scale conversion </label>
+          <para id="id189815">Finally we use the scale to convert the length of the resultant in
+the scale diagram to the actual magnitude of the resultant
+displacement. According to the chosen scale 1 cm = 10 m. Therefore 5 cm represents 50 m. The resultant displacement is then 50 m  <m:math overflow="scroll"><m:mn>37</m:mn><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> north of east.
+ </para>
+          </item> </list> </solution>
+</exercise>
+        </section>
+        
+      </section>
+</section>
+  </content>
+</document>

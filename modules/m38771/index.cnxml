@@ -1,0 +1,344 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Introduction and key concepts</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38771</md:content-id>
+  <md:title>Introduction and key concepts</md:title>
+  <md:abstract/>
+  <md:uuid>2daa75c7-8b59-465b-8e41-e9d27d33d83d</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid2">
+      <title>Electric Circuits</title>
+      <para id="id62184">People all over the world depend on electricity to provide power for most appliances in the home and at work. For example, fluorescent lights, electric heating and cooking (on electric stoves), all depend on electricity to work.
+To realise just how big an impact electricity has on our daily lives, just think about what happens when there is a power
+failure or load shedding.</para>
+<section id="secfhsst_id72"><title> Discussion : Uses of electricity </title>
+      <para id="id62198">With a partner, take the following topics and, for each topic, write down at least 5 items/appliances/machines which need
+electricity to work. Try not to use the same item more than once.</para>
+      <list id="id62544" display="block" list-type="bulleted">
+        <item id="uid1">At home
+</item>
+        <item id="uid2">At school
+</item>
+        <item id="uid3">At the hospital
+</item>
+        <item id="uid4">In the city
+</item>
+      </list>
+      <para id="id62592">Once you have finished making your lists, compare with the lists of other people in your class. (Save your lists somewhere safe for later because there will be another activity for which you'll need them.)</para>
+      <para id="id62597">When you start comparing, you should notice that there are many different items which we use in our daily lives which rely on electricity to work!
+ </para>
+</section>
+<note id="notfhsst_id89" type="tip"><emphasis effect="bold">Safety Warning:</emphasis>
+We believe in experimenting and learning about physics at every opportunity, BUT
+playing with electricity and electrical appliances can be <emphasis effect="bold">EXTREMELY DANGEROUS</emphasis>! Do not try to build
+homemade circuits alone. Make sure you have someone with you who knows if what you are doing is safe.
+Normal electrical outlets are dangerous. Treat electricity with respect in your everyday life. Do not touch exposed wires and do not approach downed power lines.</note>
+      <section id="uid5">
+        <title>Closed circuits</title>
+        <para id="id62637">In the following activity we will investigate what is needed to cause charge to flow in an electric circuit.</para>
+<section id="secfhsst_id97"><title>Experiment : Closed circuits </title><para id="id62648">
+          <title>Aim:</title>
+To determine what is required to make electrical charges flow.
+In this experiment, we will use a lightbulb to check whether electrical charge is flowing in the circuit or not. If charge is flowing, the lightbulb should glow. On the other hand, if no charge is flowing, the lightbulb will not glow.</para>
+        <para id="id62665">
+          <title>Apparatus:</title>
+        You will need a small lightbulb which is attached to a metal conductor (e.g. a bulb from a school electrical kit), some connecting wires and a battery.</para>
+        <para id="id62679">
+          <title>Method:</title>
+        Take the apparatus items and try to connect them in a way that you cause the light bulb to glow (i.e. charge flows in the circuit).</para>
+        <para id="id62694">
+          <title>Questions:</title>
+        <list id="id62702" display="block" list-type="enumerated">
+          <item id="uid6">Once you have arranged your circuit elements to make the lightbulb glow, draw your circuit.
+</item>
+          <item id="uid7">What can you say about how the battery is connected? (i.e. does it have one or two connecting leads attached? Where are they attached?)
+</item>
+          <item id="uid8">What can you say about how the light bulb is connected in your circuit? (i.e. does it connect to one or two connecting leads, and where are they attached?)
+</item>
+          <item id="uid9">Are there any items in your circuit which are not attached to something? In other words, are there any gaps in your circuit?
+</item>
+        </list></para>
+        <para id="id62757">Write down your conclusion about what is needed to make an electric circuit work and charge to flow.
+ </para>
+</section>
+        <para id="id62768">In the experiment above, you will have seen that the light bulb only glows when there is a <emphasis effect="italics">closed</emphasis> circuit i.e. there are no gaps in the circuit and all the circuit elements are connected in a <emphasis effect="italics">closed loop</emphasis>. Therefore, in order for charges to flow, a closed circuit and an energy source (in this case the battery) are needed. (Note: you do not have to have a lightbulb in the circuit! We used this as a check that charge was flowing.)</para>
+<definition id="fhsst_id128"><term id="termfhsst_id128"> Electric circuit </term> <meaning id="meaningfhsst_id128">
+        <para id="id62792">An electric circuit is a closed path (with no breaks or gaps) along which electrical charges (electrons) flow powered by an energy source. </para>
+        </meaning></definition>
+      </section>
+      <section id="uid10">
+        <title>Representing electric circuits</title>
+        <section id="uid11">
+          <title>Components of electrical circuits</title>
+          <para id="id62821">Some common elements (components) which can be found in electrical circuits include light bulbs, batteries, connecting leads, switches, resistors, voltmeters and ammeters. You will learn more about these items in later sections, but it is important to know what their symbols are and how to represent them in circuit diagrams. Below is a table with the items and their symbols:</para>
+          <table id="uid12" summary="circuit diagram symbols">
+<tgroup cols="3"><tbody>
+                <row>
+                  <entry>
+                    <emphasis effect="bold">Component</emphasis>
+                  </entry>
+                  <entry>
+                    <emphasis effect="bold">Symbol</emphasis>
+                  </entry>
+                  <entry>
+                    <emphasis effect="bold">Usage</emphasis>
+                  </entry>
+                </row>
+                <row>
+                  <entry>light bulb</entry>
+                  <entry>
+                    <figure id="id62893">
+                      <media id="id62893_media" alt="">
+                        <image mime-type="image/png" src="../../media/PG10C9_001.png" id="id62893_onlineimage" width="42"><!-- NOTE: attribute width changes image size online (pixels). original width is 42. --></image>
+                        <image mime-type="application/postscript" for="pdf" src="../../media/PG10C9_001.eps" id="id62893_printimage"/>
+                      </media>
+                    </figure>
+                  </entry>
+                  <entry>glows when charge moves through it</entry>
+                </row>
+                <row>
+                  <entry>battery</entry>
+                  <entry>
+                    <figure id="id62930"><media id="id62930_media" alt="">
+                        <image mime-type="image/png" src="../../media/PG10C9_002.png" id="id62930_onlineimage" width="42"><!-- NOTE: attribute width changes image size online (pixels). original width is 42. --></image>
+                        <image mime-type="application/postscript" for="pdf" src="../../media/PG10C9_002.eps" id="id62930_printimage"/>
+                      </media>
+                    <caption>The longer line shows the positive (+) side of the battery, the shorter line shows the (-) side of the battery.</caption></figure>
+                  </entry>
+                  <entry>provides energy for charge to move - conventional current flow from positive to negative through a circuit</entry>
+                </row>
+                <row>
+                  <entry>switch</entry>
+                  <entry>
+                    <figure id="id62966">
+                      <media id="id62966_media" alt="">
+                        <image mime-type="image/png" src="../../media/PG10C9_003.png" id="id62966_onlineimage" width="42"><!-- NOTE: attribute width changes image size online (pixels). original width is 42. --></image>
+                        <image mime-type="application/postscript" for="pdf" src="../../media/PG10C9_003.eps" id="id62966_printimage"/>
+                      </media>
+                    </figure>
+                  </entry>
+                  <entry>allows a circuit to be open or closed</entry>
+                </row>
+                <row>
+                  <entry>resistor</entry>
+                  <entry>
+                    <figure id="id63001">
+                      <media id="id63001_media" alt="">
+                        <image mime-type="image/png" src="../../media/PG10C9_004.png" id="id63001_onlineimage" width="42"><!-- NOTE: attribute width changes image size online (pixels). original width is 42. --></image>
+                        <image mime-type="application/postscript" for="pdf" src="../../media/PG10C9_004.eps" id="id63001_printimage"/>
+                      </media>
+                    </figure>
+                  </entry>
+                  <entry>resists the flow of charge</entry>
+                </row>
+                <row>
+                  <entry/>
+                  <entry>OR</entry>
+                  <entry/>
+                </row>
+                <row>
+                  <entry/>
+                  <entry>
+                    <figure id="id63056">
+                      <media id="id63056_media" alt="">
+                        <image mime-type="image/png" src="../../media/PG10C9_005.png" id="id63056_onlineimage" width="42"><!-- NOTE: attribute width changes image size online (pixels). original width is 42. --></image>
+                        <image mime-type="application/postscript" for="pdf" src="../../media/PG10C9_005.eps" id="id63056_printimage"/>
+                      </media>
+                    </figure>
+                  </entry>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>voltmeter</entry>
+                  <entry>
+                    <figure id="id63089">
+                      <media id="id63089_media" alt="">
+                        <image mime-type="image/png" src="../../media/PG10C9_006.png" id="id63089_onlineimage" width="42"><!-- NOTE: attribute width changes image size online (pixels). original width is 42. --></image>
+                        <image mime-type="application/postscript" for="pdf" src="../../media/PG10C9_006.eps" id="id63089_printimage"/>
+                      </media>
+                    </figure>
+                  </entry>
+                  <entry>measures potential difference</entry>
+                </row>
+                <row>
+                  <entry>ammeter</entry>
+                  <entry>
+                    <figure id="id63126">
+                      <media id="id63126_media" alt="">
+                        <image mime-type="image/png" src="../../media/PG10C9_007.png" id="id63126_onlineimage" width="42"><!-- NOTE: attribute width changes image size online (pixels). original width is 42. --></image>
+                        <image mime-type="application/postscript" for="pdf" src="../../media/PG10C9_007.eps" id="id63126_printimage"/>
+                      </media>
+                    </figure>
+                  </entry>
+                  <entry>measures current in a circuit</entry>
+                </row>
+                <row>
+                  <entry>connecting lead</entry>
+                  <entry>
+                    <figure id="id63163"><media id="id63163_media" alt="">
+                        <image mime-type="image/png" src="../../media/PG10C9_008.png" id="id63163_onlineimage" width="42"><!-- NOTE: attribute width changes image size online (pixels). original width is 42. --></image>
+                        <image mime-type="application/postscript" for="pdf" src="../../media/PG10C9_008.eps" id="id63163_printimage"/>
+                      </media>
+                    </figure>
+                  </entry>
+                  <entry>connects circuit elements together</entry>
+                </row>
+              </tbody>
+
+</tgroup>
+</table>
+        </section>
+        <section id="uid13">
+          <title>Circuit diagrams</title>
+<definition id="fhsst_id258"><term id="termfhsst_id258"> Representing circuits </term> <meaning id="meaningfhsst_id258">
+          <para id="id63196">A <emphasis effect="bold">physical circuit</emphasis> is the electric circuit you create with real components.</para>
+          <para id="id63206">A <emphasis effect="bold">circuit diagram</emphasis> is a drawing which uses symbols to represent the different components in the physical circuit.
+ </para>
+          </meaning></definition>
+          <para id="id63223">We use circuit diagrams to represent circuits because they are much simpler and more general than drawing the physical circuit because they only show the workings of the electrical components. You can see this in the two pictures below. The first picture shows the <emphasis effect="italics">physical circuit</emphasis> for an electric torch. You can see the light bulb, the batteries, the switch and the outside plastic casing of the torch. The picture is actually a <emphasis effect="italics">cross-section</emphasis> of the torch so that we can see inside it.</para>
+          <figure id="uid14"><media id="uid14_media" alt="">
+              <image mime-type="image/png" src="../../media/PG10C9_009.png" id="uid14_onlineimage" width="306"><!-- NOTE: attribute width changes image size online (pixels). original width is 206. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG10C9_009.eps" id="uid14_printimage"/>
+            </media>
+            
+          <caption>Physical components of an electric torch. The dotted line shows the path of the electrical circuit.</caption></figure>
+          <para id="id63252">Below is the <emphasis effect="italics">circuit diagram</emphasis> for the electric torch. Now the light bulb is represented by its symbol, as are the batteries, the switch and the connecting wires. It is not necessary to show the plastic casing of the torch since it has nothing to do with the electric workings of the torch. You can see that the circuit diagram is much simpler than the physical circuit drawing!</para>
+          <figure id="uid15"><media id="uid15_media" alt="">
+              <image mime-type="image/png" src="../../media/PG10C9_010.png" id="uid15_onlineimage" width="306"><!-- NOTE: attribute width changes image size online (pixels). original width is 206. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/PG10C9_010.eps" id="uid15_printimage"/>
+            </media>
+            
+          <caption>Circuit diagram of an electric torch.</caption></figure>
+        </section>
+        <section id="uid16">
+          <title>Series and parallel circuits</title>
+          <para id="id63292">There are two ways to connect electrical components in a circuit: <emphasis effect="bold">in series</emphasis> or <emphasis effect="bold">in parallel</emphasis>.</para>
+<definition id="fhsst_id283"><term id="termfhsst_id283"> Series circuit </term> <meaning id="meaningfhsst_id283">
+          <para id="id63313">In a series circuit, the charge flowing from the battery can only flow along a <emphasis effect="bold">single</emphasis> path to return to the battery. </para>
+          </meaning></definition>
+<definition id="fhsst_id286"><term id="termfhsst_id286"> Parallel circuit </term> <meaning id="meaningfhsst_id286">
+          <para id="id63335">In a parallel circuit, the charge flowing from the battery can flow along <emphasis effect="bold">multiple</emphasis> paths to return to the battery. </para>
+          </meaning></definition>
+          <para id="id63352">The picture below shows a circuit with two resistors connected <emphasis effect="italics">in series</emphasis> on the left and a circuit with two resistors connected <emphasis effect="italics">in parallel</emphasis> on the right. In the series circiut, the charge path from the battery goes through every component before returning to the battery. In the parallel circuit, there is more than one path for the charge to flow from the battery through one of the components and back to the battery.</para>
+          <para id="id63369">
+            <figure id="id63372"><media id="id63372_media" alt="">
+                <image mime-type="image/png" src="../../media/PG11C9_006.png" id="id63372_onlineimage" width="428"><!-- NOTE: attribute width changes image size online (pixels). original width is 328. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG11C9_006.eps" id="id63372_printimage"/>
+              </media>
+            </figure>
+          </para>
+
+<para id="fs-id5490818">This simulation allows you to experiment with building circuits.
+<figure id="id63458211"><media id="id6345821_media" alt="">
+            <image mime-type="image/png" src="../../media/circuit-kit.png" id="id6345821_onlineimage" width="200"><!-- NOTE: attribute width changes image size online (pixels). original width is 	149. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/circuit-kit.eps" id="id6345821_printimage"/>
+            </media>
+            </figure>
+
+<link class="phetsim" window="new" url="http://phet.colorado.edu/sims/circuit-construction-kit/circuit-construction-kit-dc_en.jnlp">run demo</link></para>
+
+<exercise id="secfhsst_id298"><title> Drawing circuits I </title>
+          <problem id="probfhsst_id299">
+          <para id="id63390">Draw the circuit diagram for a circuit which has the following components:</para>
+          <list id="id63396" display="block" list-type="enumerated">
+            <item id="uid17">1 battery
+</item>
+            <item id="uid18">1 lightbulb connected in series
+</item>
+            <item id="uid19">2 resistors connected in parallel
+</item>
+          </list>
+          
+          </problem>
+          <solution id="solfhsst_id311"> <list id="listfhsst_id311" list-type="enumerated" number-style="arabic" class="stepwise">
+          <item> <label> Identify the components and their symbols and draw according to the instructions: </label>
+          <para id="id63455">
+            <figure id="id63458"><media id="id63458_media" alt="">
+                <image mime-type="image/png" src="../../media/PG10C9_012.png" id="id63458_onlineimage" width="249"><!-- NOTE: attribute width changes image size online (pixels). original width is 149. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG10C9_012.eps" id="id63458_printimage"/>
+              </media>
+            </figure>
+          </para>
+          
+          </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id324"><title> Drawing circuits II </title>
+          <problem id="probfhsst_id325">
+          <para id="id63490">Draw the circuit diagram for a circuit which has the following components:</para>
+          <list id="id63497" display="block" list-type="enumerated">
+            <item id="uid20">3 batteries in series
+</item>
+            <item id="uid21">1 lightbulb connected in parallel with 1 resistor
+</item>
+            <item id="uid22">a switch in series with the batteries
+</item>
+          </list>
+          
+          </problem>
+          <solution id="solfhsst_id337"> <list id="listfhsst_id337" list-type="enumerated" number-style="arabic" class="stepwise">
+          <item> <label> Identify the symbol for each component and draw according to the instructions: </label>
+          <para id="id63560">
+            <figure id="id63563"><media id="id63563_media" alt="">
+                <image mime-type="image/png" src="../../media/PG10C9_013.png" id="id63563_onlineimage" width="255"><!-- NOTE: attribute width changes image size online (pixels). original width is 155. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/PG10C9_013.eps" id="id63563_printimage"/>
+              </media>
+            </figure>
+          </para>
+          
+          </item> </list> </solution>
+</exercise>
+<section id="secfhsst_id350"><title> Circuits </title>
+          <list id="id63592" display="block" list-type="enumerated"><item id="uid23">Using physical components, set up the physical circuit which is described by the circuit diagram below and then draw the physical circuit:
+<figure id="id63611"><media id="id63611_media" alt=""><image mime-type="image/png" src="../../media/PG10C9_014.png" id="id63611_onlineimage" width="212"><!-- NOTE: attribute width changes image size online (pixels). original width is 112. --></image><image mime-type="application/postscript" for="pdf" src="../../media/PG10C9_014.eps" id="id63611_printimage"/></media></figure> 
+<link url="http://www.fhsst.org/lqZ" window="new">Click here for the solution</link> </item>
+            <item id="uid24">Using physical components, set up a closed circuit which has one battery and a light bulb in series with a resistor.
+<list id="id63631" display="block" list-type="enumerated"><item id="uid25">Draw the physical circuit.
+</item><item id="uid26">Draw the resulting circuit diagram.
+</item><item id="uid27">How do you know that you have built a closed circuit? (What happens to the light bulb?)
+</item><item id="uid28">If you add one more resistor to your circuit (also in series), what do you notice? (What happens to the light from the light bulb?)
+</item><item id="uid29">Draw the new circuit diagram which includes the second resistor.
+</item></list> <link url="http://www.fhsst.org/lqB" window="new">Click here for the solution</link>   </item>
+            <item id="uid30">Draw the circuit diagram for the following circuit: 2 batteries and a switch in series, and 1 lightbulb which is in parallel with two resistors.
+<list id="id63711" display="block" list-type="enumerated"><item id="uid31">Now use physical components to set up the circuit.
+</item><item id="uid32">What happens when you close the switch? What does does this mean about the circuit?
+</item><item id="uid33">Draw the physical circuit.
+</item></list> <link url="http://www.fhsst.org/lbY" window="new">Click here for the solution</link> </item>
+          </list>
+          
+</section>
+<section id="secfhsst_id369"><title>Discussion : Alternative Energy </title><para id="id63771">At the moment, most electric power is produced by burning fossil fuels such as coal and oil. In South Africa, our main
+source of electric power is coal-burning power stations. (We also have one nuclear power plant called Koeberg in the Western Cape). However, burning fossil fuels releases large amounts of pollution into the earth's atmosphere and contributes
+to global warming. Also, the earth's fossil fuel reserves (especially oil) are starting to run low. For these reasons, people all across the world are working to find <emphasis effect="italics">alternative</emphasis>/other sources of energy and on ways to <emphasis effect="italics">conserve</emphasis>/save energy. Other sources of energy include
+wind power, solar power (from the sun), and hydro-electric power (from water, e.g. dammed rivers) among others.</para>
+          <para id="id63794">With a partner, take out the lists you made earlier of the item/appliances/machines which used electricity in the following environments. For each item, try to think of an <emphasis effect="italics">alternative</emphasis> AND a way to <emphasis effect="italics">conserve</emphasis> or save power.</para>
+          <para id="id63812">For example, if you had a flourescent light as an item used in the home, then:</para>
+          <list id="id63819" display="block" list-type="bulleted">
+            <item id="uid34">Alternative: use candles at suppertime to reduce electricity consumption
+</item>
+            <item id="uid35">Conservation: turn off lights when not in a room, or during the day.
+</item>
+          </list>
+          <para id="id63848">
+            <emphasis effect="bold">Topics:</emphasis>
+          </para>
+          <list id="id63857" display="block" list-type="bulleted">
+            <item id="uid36">At home
+</item>
+            <item id="uid37">At school
+</item>
+            <item id="uid38">At the hospital
+</item>
+            <item id="uid39">In the city
+</item>
+          </list>
+          <para id="id63910">Once you have finished making your lists, compare with the lists of other people in your class.
+ </para>
+</section>
+        </section>
+      </section>
+    </section>
+
+  </content>
+</document>

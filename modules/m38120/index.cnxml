@@ -1,0 +1,288 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>The particles that substances are made of</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38120</md:content-id>
+  <md:title>The particles that substances are made of</md:title>
+  <md:abstract/>
+  <md:uuid>cc210b95-14af-4f16-add1-9bd1ec876ccc</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid2">
+      <title>Introduction: The atom as the building block of matter</title>
+      <para id="id307092">We have now seen that different materials have 
+different properties. Some materials are metals and some are non-metals; some 
+are electrical or thermal conductors, while others are not. Depending on the 
+properties of these materials, they can be used in lots of useful applications. 
+But what is it exactly that makes up these materials? In other words, if we were 
+to break down a material into the parts that make it up, what would we find? And 
+how is it that a material's microscopic structure (the small parts that make up 
+the material) is able to give it all these different properties?</para>
+      <para id="id307099">The answer lies in the smallest building block of 
+matter: the <emphasis effect="bold">atom</emphasis>. It is the <emphasis effect="italics">type</emphasis> of atoms, and the way in which they are 
+<emphasis effect="italics">arranged</emphasis> in a material, that affects the 
+properties of that substance. This is similar to building materials. We can use bricks, steel, cement, wood, straw (thatch), mud and many other things to build structures from. In the same way that the choice of building material affects the properties of the structure, so the atoms that make up matter affect the properties of matter.</para>
+      <para id="id307459">It is not often that substances are found in atomic 
+form (just as you seldom find a building or structure made from one building material). Normally, atoms are bonded (joined) to other atoms to form <emphasis effect="bold">compounds</emphasis> or <emphasis effect="bold">molecules</emphasis>. It is only in the <emphasis effect="italics">noble gases</emphasis> (e.g. helium, neon and argon) that atoms 
+are found individually and are not bonded to other atoms. We looked at some of the 
+reasons for this in earlier chapters.</para>
+    </section>
+    <section id="cid3">
+      <title>Compounds</title>
+<definition id="fhsst_id74"><term id="termfhsst_id74"> Compound </term> <meaning id="meaningfhsst_id74">
+      A compound is a group of two or more different atoms that are 
+attracted to each other by relatively strong forces or bonds. 
+      </meaning></definition>
+      <para id="id307508">Almost everything around us is made up of molecules. The only substances that are not made of molecules, but instead are individual atoms are the noble gases.
+<emphasis effect="italics">Water</emphasis> is made up of molecules, each of 
+which has two hydrogen atoms joined to one oxygen atom. <emphasis effect="italics">Oxygen</emphasis> is a molecule that is made up of two oxygen 
+atoms that are joined to one another. Even the food that we eat is made up of 
+molecules that contain atoms of elements such as carbon, hydrogen and oxygen 
+that are joined to one another in different ways. All of these are known as 
+<emphasis effect="bold">small molecules</emphasis> because there are only a few 
+atoms in each molecule. <emphasis effect="bold">Giant molecules</emphasis> are 
+those where there may be millions of atoms per molecule. Examples of giant 
+molecules are <emphasis effect="italics">diamonds</emphasis>, which are made up 
+of millions of carbon atoms bonded to each other and <emphasis effect="italics">metals</emphasis>, which are made up of millions of metal atoms 
+bonded to each other.</para>
+      <para id="eip-819">As we learnt in <link document="m38131"/> atoms can share electrons to form covalent bonds or exchange electrons to form ionic bonds. Covalently bonded substances are known as molecular compounds. Ionically bonded substances are known as ionic compounds. We also learnt about metallic bonding. In a metal the atoms lose their outermost electrons to form positively charged ions that are arranged in a lattice, while the outermost electrons are free to move amongst the spaces of the lattice. </para><para id="eip-394">We can classify covalent molecules into covalent molecular structures and covalent network structures. Covalent molecular structures are simply individual covalent molecules and include water, oxygen, sulphur (<m:math><m:msub><m:mi mathvariant="normal">S</m:mi><m:mn>8</m:mn></m:msub></m:math>) and buckminsterfullerene (<m:math><m:msub><m:mi mathvariant="normal">C</m:mi><m:mn>60</m:mn></m:msub></m:math>). All covalent molecular structures are simple molecules. Covalent network structures are giant lattices of covalently bonded molecules, similar to the ionic lattice. Examples include diamond, graphite and silica (<m:math><m:msub><m:mi mathvariant="normal">SiO</m:mi><m:mn>2</m:mn></m:msub></m:math>). All covalent network structures are giant molecules.</para><para id="eip-860">Examples of ionic substances are sodium chloride (<m:math><m:mi mathvariant="normal">NaCl</m:mi></m:math>) and potassium permanganate (<m:math><m:msub><m:mi mathvariant="normal">KMnO</m:mi><m:mn>4</m:mn></m:msub></m:math>). Examples of metals are copper, zinc, titanium, gold, etc.</para><section id="uid1">
+        <title>Representing molecules</title>
+        <para id="id307557">The structure of a molecule can be shown in many 
+different ways. Sometimes it is easiest to show what a molecule looks like by 
+using different types of <emphasis effect="bold">diagrams</emphasis>, but at 
+other times, we may decide to simply represent a molecule using its <emphasis effect="bold">chemical formula</emphasis> or its written name.</para>
+        <list id="id307573" display="block" list-type="enumerated"><item id="uid2"><emphasis effect="bold">Using formulae to show the structure of a 
+molecule.</emphasis>
+A <emphasis effect="bold">chemical formula</emphasis> is an abbreviated 
+(shortened) way of describing a molecule, or some other chemical substance. In 
+the chapter on classification of matter, we saw how chemical compounds can be 
+represented using element symbols from the Periodic Table. A chemical formula 
+can also tell us the <emphasis effect="italics">number</emphasis> of atoms of 
+each element that are in a molecule and their <emphasis effect="italics">ratio</emphasis> in that molecule.
+For example, the chemical formula for a molecule of carbon dioxide is
+<m:math><m:msub><m:mi mathvariant="normal">CO</m:mi><m:mn>2</m:mn></m:msub></m:math>
+The formula above is called the <emphasis effect="bold">molecular 
+formula</emphasis> of that compound. The formula tells us that in one molecule 
+of carbon dioxide, there is one atom of carbon and two atoms of oxygen. The 
+ratio of carbon atoms to oxygen atoms is 1:2.
+<definition id="fhsst_id87"><term id="termfhsst_id87"> Molecular formula </term> 
+<meaning id="meaningfhsst_id87">
+This is a concise way of expressing information about the atoms that make up a 
+particular chemical compound. The molecular formula gives the exact number of 
+each type of atom in the molecule. 
+</meaning></definition>A molecule of glucose has the molecular formula:
+<m:math><m:msub><m:mi mathvariant="normal">C</m:mi><m:mn>6</m:mn></m:msub><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>12</m:mn></m:msub><m:msub><m:mi mathvariant="normal">O</m:mi><m:mn>6</m:mn></m:msub></m:math>.
+In each glucose molecule, there are six carbon atoms, twelve hydrogen atoms and 
+six oxygen atoms. The ratio of carbon:hydrogen:oxygen is 6:12:6. We can simplify 
+this ratio to write 1:2:1, or if we were to use the element symbols, the formula 
+would be written as <m:math><m:msub><m:mi mathvariant="normal">CH</m:mi><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi></m:math>. This is called the <emphasis effect="bold">empirical formula</emphasis> of the molecule.
+<definition id="fhsst_id93"><term id="termfhsst_id93"> Empirical formula </term> 
+<meaning id="meaningfhsst_id93">
+This is a way of expressing the <emphasis effect="italics">relative</emphasis> 
+number of each type of atom in a chemical compound. In most cases, the empirical 
+formula does not show the exact number of atoms, but rather the simplest 
+<emphasis effect="italics">ratio</emphasis> of the atoms in the compound. 
+</meaning></definition>The empirical formula is useful when we want to write the 
+formula for a <emphasis effect="italics">giant molecule</emphasis>. Since giant 
+molecules may consist of millions of atoms, it is impossible to say exactly how 
+many atoms are in each molecule. It makes sense then to represent these 
+molecules using their empirical formula. So, in the case of a metal such as 
+copper, we would simply write Cu, or if we were to represent a molecule of 
+sodium chloride, we would simply write NaCl.
+Chemical formulae therefore tell us something about the <emphasis effect="italics">types</emphasis> of atoms that are in a molecule and the 
+<emphasis effect="italics">ratio</emphasis> in which these atoms occur in the 
+molecule, but they don't give us any idea of what the molecule actually looks 
+like, in other words its <emphasis effect="italics">shape</emphasis>. To show 
+the shape of molecules we can represent molecules using diagrams.
+Another type of formula that can be used to describe a molecule is its <emphasis effect="bold">structural formula</emphasis>. A structural formula uses a 
+graphical representation to show a molecule's structure                    
+(<link target-id="uid3"/>).
+<figure id="uid3"><media id="uid3_media" alt=""><image mime-type="image/png" src="../../media/CG10C2_001.png" id="uid3_onlineimage" width="298"><!-- NOTE: attribute 
+width changes image size online (pixels). original width is 298. --></image>
+<image mime-type="application/postscript" for="pdf" src="../../media/CG10C2_001.eps" id="uid3_printimage"/></media><caption>Diagram showing (a) the molecular, (b) 
+the empirical and (c) the structural formula of isobutane</caption></figure>
+</item>
+          <item id="uid4"><emphasis effect="bold">Using diagrams to show the 
+structure of a molecule</emphasis>
+Diagrams of molecules are very useful because they help us to picture how the 
+atoms are arranged in the molecule and they help us to see the shape of the 
+molecule. There are two types of diagrams that are commonly used:
+<list id="id307860" display="block" list-type="bulleted"><item id="uid5">
+<emphasis effect="italics">Ball and stick models</emphasis>
+This is a 3-dimensional molecular model that uses 'balls' to represent atoms and 
+'sticks' to represent the bonds between them. The centres of the atoms (the 
+balls) are connected by straight lines which represent the bonds between them. A 
+simplified example is shown in <link target-id="uid6"/>.
+<figure id="uid6"><media id="uid6_media" alt=""><image mime-type="image/png" src="../../media/CG10C2_002.png" id="uid6_onlineimage" width="185"><!-- NOTE: attribute 
+width changes image size online (pixels). original width is 185. --></image>
+<image mime-type="application/postscript" for="pdf" src="../../media/CG10C2_002.eps" id="uid6_printimage"/></media><caption>A ball and stick model of a water 
+molecule</caption></figure></item><item id="uid7"><emphasis effect="italics">Space-filling model</emphasis>
+This is also a 3-dimensional molecular model. The atoms are represented by 
+spheres.
+<link target-id="uid8"/> and <link target-id="uid9"/> are some examples of 
+<emphasis effect="bold">simple molecules</emphasis> that are represented in 
+different ways.
+<figure id="uid8"><media id="uid8_media" alt=""><image mime-type="image/png" src="../../media/CG10C2_003.png" id="uid8_onlineimage" width="629"><!-- NOTE: attribute 
+width changes image size online (pixels). original width is 629. --></image>
+<image mime-type="application/postscript" for="pdf" src="../../media/CG10C2_003.eps" id="uid8_printimage"/></media><caption>A space-filling model and structural 
+formula of a water molecule. Each molecule is made up of two hydrogen atoms that 
+are attached to one oxygen atom. This is a simple molecule.</caption></figure>
+<figure id="uid9"><media id="uid9_media" alt=""><image mime-type="image/png" src="../../media/CG10C2_004-a4cf.png" id="uid9_onlineimage" width="471"><!-- NOTE: attribute 
+width changes image size online (pixels). original width is 471. --></image>
+<image mime-type="application/postscript" for="pdf" src="../../media/CG10C2_004.eps" id="uid9_printimage"/></media><caption>A space-filling model and structural 
+formula of a molecule of ammonia. Each molecule is made up of one nitrogen atom 
+and three hydrogen atoms. This is a simple molecule.</caption></figure></item>
+</list>
+<link target-id="uid10"/> shows the bonds between the carbon atoms in diamond, 
+which is a <emphasis effect="bold">giant molecule</emphasis>. Each carbon atom 
+is joined to four others, and this pattern repeats itself until a complex 
+<emphasis effect="italics">lattice</emphasis> structure is formed. Each black 
+ball in the diagram represents a carbon atom, and each line represents the bond 
+between two carbon atoms. Note that the carbon atoms on the edges are actually 
+bonded to four carbon atoms, but some of these carbon atoms have been omitted.
+<figure id="uid10"><media id="uid10_media" alt=""><image mime-type="image/png" src="../../media/CG10C2_005.png" id="uid10_onlineimage" width="325"><!-- NOTE: attribute 
+width changes image size online (pixels). original width is 325. --></image>
+<image mime-type="application/postscript" for="pdf" src="../../media/CG10C2_005.eps" id="uid10_printimage"/></media><caption>Diagrams showing the microscopic 
+structure of diamond. The diagram on the left shows part of a diamond lattice, 
+made up of numerous carbon atoms. The diagram on the right shows how each carbon 
+atom in the lattice is joined to four others. This forms the basis of the 
+lattice structure. Diamond is a giant molecule.</caption></figure></item>
+        </list>
+<note id="notfhsst_id112"><title>Interesting Fact </title>Diamonds are most often thought of in terms of their use in the 
+jewellery industry. However, about 80% of mined diamonds are unsuitable for use 
+as gemstones and are therefore used in industry because of their strength and 
+hardness. These properties of diamonds are due to the strong covalent bonds 
+(covalent bonding will be explained later) between the carbon atoms in diamond. 
+The most common uses for diamonds in industry are in cutting, drilling, 
+grinding, and polishing.
+</note>
+<para id="uid8310432">This <link url="http://alteredqualia.com/canvasmol/" window="new">website</link> allows you to view several molecules. You do 
+not need to know these molecules, this is simply to allow you to see one way of 
+representing molecules. 
+<figure id="uid10123"><media id="uid101_media" alt=""><image mime-type="image/png" src="../../media/canvasmol.png" id="uid10123_onlineimage" width="300">
+<!-- 
+NOTE: attribute 
+width changes image size online (pixels). original width is 325. --></image>
+<image mime-type="application/postscript" for="pdf" src="../../media/canvasmol.eps" id="uid10123_printimage"/></media><caption>Ball-and-stick view of ethanol from <link url="http://alteredqualia.com/canvasmol/" window="new">http://alteredqualia.com/canvasmol/</link></caption></figure>
+</para>
+<section id="secfhsst_id115"><title>Atoms and molecules         </title><list id="id308039" display="block" list-type="enumerated">
+          <item id="uid11">In each of the following, say whether the chemical 
+substance is made up of single atoms, simple molecules or giant molecules.
+<list id="id308055" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid12">ammonia gas (<m:math><m:msub><m:mi mathvariant="normal">NH</m:mi><m:mn>3</m:mn></m:msub></m:math>)
+</item><item id="uid13">zinc metal (<m:math><m:mi mathvariant="normal">Zn</m:mi></m:math>)
+</item><item id="uid14">graphite (<m:math><m:mi mathvariant="normal">C</m:mi></m:math>)
+</item><item id="uid15">nitric acid (<m:math><m:msub><m:mi mathvariant="normal">HNO</m:mi><m:mn>3</m:mn></m:msub></m:math>)
+</item><item id="uid16">neon gas (<m:math><m:mi mathvariant="normal">He</m:mi></m:math>)
+</item></list><link window="new" class="fullmarks" url="http://www.fhsst.org/li5">Click here for the solution</link>
+</item>
+          <item id="uid17">Refer to the diagram below and then answer the 
+questions that follow:
+<figure id="id308155"><media id="id308155_media" alt="">                   
+<image mime-type="image/png" src="../../media/CG10C2_006.png" id="id308155_onlineimage" width="349"><!-- 
+NOTE: attribute width changes image size online (pixels). original width is 349. 
+--></image><image mime-type="application/postscript" for="pdf" src="../../media/CG10C2_006.eps" id="id308155_printimage"/></media></figure><list id="id308161" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid18">Identify 
+the molecule.
+</item><item id="uid19">Write the molecular formula for the molecule.
+</item><item id="uid20">Is the molecule a simple or giant molecule?
+</item></list><link window="new" class="fullmarks" url="http://www.fhsst.org/liN">Click here for the solution</link>
+</item>
+          <item id="uid21">Represent each of the following molecules using its 
+<emphasis effect="italics">chemical formula</emphasis>, <emphasis effect="italics">structural formula</emphasis> and <emphasis effect="italics">ball and stick model</emphasis>.
+<list id="id308228" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid22">Hydrogen</item><item id="uid23">Ammonia</item><item id="uid24">sulphur dioxide
+</item></list><link window="new" class="fullmarks" url="http://www.fhsst.org/liR">Click here for the solution</link>
+</item>
+        </list>
+        
+</section>
+      </section>
+    </section>
+    <section id="cid7">
+      <title>Summary</title>
+      <list id="id311034" display="block" list-type="bulleted"><item id="uid67">The smallest unit of matter is the <emphasis effect="bold">atom</emphasis>. Atoms can combine to form <emphasis effect="bold">molecules</emphasis>.
+</item>
+        <item id="uid68">A <emphasis effect="bold">compound</emphasis> is a 
+group of two or more atoms that are attracted to each other by chemical bonds.
+</item>
+        <item id="uid69">A <emphasis effect="bold">small molecule</emphasis> 
+consists of a few atoms per molecule. A <emphasis effect="bold">giant 
+molecule</emphasis> consists of millions of atoms per molecule, for example 
+metals and diamonds.
+</item>
+        <item id="uid70">The structure of a molecule can be represented in a 
+number of ways.
+</item>
+        <item id="uid71">The <emphasis effect="bold">chemical formula</emphasis> 
+of a molecule is an abbreviated way of showing a molecule, using the symbols for 
+the elements in the molecule. There are two types of chemical formulae: 
+molecular and empirical formula.
+</item>
+        <item id="uid72">The <emphasis effect="bold">molecular 
+formula</emphasis> of a molecule gives the exact number of atoms of each element 
+that are in the molecule.
+</item>
+        <item id="uid73">The <emphasis effect="bold">empirical 
+formula</emphasis> of a molecule gives the relative number of atoms of each 
+element in the molecule.
+</item>
+        <item id="uid74">Molecules can also be represented using <emphasis effect="bold">diagrams</emphasis>.
+</item>
+        <item id="uid75">A <emphasis effect="bold">ball and stick</emphasis> 
+diagram is a 3-dimensional molecular model that uses 'balls' to represent atoms 
+and 'sticks' to represent the bonds between them.
+</item>
+        <item id="uid76">A <emphasis effect="bold">space-filling 
+model</emphasis> is also a 3-dimensional molecular model. The atoms are 
+represented by spheres.
+</item>
+        <item id="uid77">In a molecule, atoms are held together by <emphasis effect="bold">chemical bonds</emphasis> or <emphasis effect="bold">intramolecular forces</emphasis>. Covalent bonds, ionic bonds and 
+metallic bonds are examples of chemical bonds.
+</item>
+        <item id="uid78">A <emphasis effect="bold">covalent bond</emphasis> 
+exists between non-metal atoms. An <emphasis effect="bold">ionic bond</emphasis> 
+exists between non-metal and metal atoms and a <emphasis effect="bold">metallic 
+bond</emphasis> exists between metal atoms.
+</item>
+        <item id="uid79"><emphasis effect="bold">Intermolecular 
+forces</emphasis> are the bonds that hold <emphasis effect="italics">molecules</emphasis> together.
+</item>
+       
+      </list>
+<section id="secfhsst_id497"><title>End of chapter exercises</title><list id="id311490" display="block" list-type="enumerated"><item id="uid87">Give one word or term for each of the following 
+descriptions.
+<list id="id34411506" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid90">A composition of two or more atoms that act as a unit.
+</item><item id="uid9221">Chemical formula that gives the relative number of atoms 
+of each element that are in a molecule.
+</item></list><link window="new" class="fullmarks" url="http://www.fhsst.org/l2e">Click here for the solution</link>
+</item>
+<item id="uid227">Give a definition for each of the following terms: 
+descriptions.
+<list id="id311506" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid930">molecule
+</item><item id="uid91">Ionic compound
+</item>
+<item>Covalent network structure</item>
+<item>Empirical formula</item>
+<item>Ball-and-stick model</item>
+</list><link window="new" class="fullmarks" url="http://www.fhsst.org/l2M">Click here for the solution</link>
+</item>
+        <item id="uid92">Ammonia, an ingredient in household cleaners, can be broken down to 
+form one part nitrogen (<m:math><m:mi mathvariant="normal">N</m:mi></m:math>) and three parts hydrogen (<m:math><m:mi mathvariant="normal">H</m:mi></m:math>). This means that 
+ammonia...
+<list id="id311590" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid94">is a 
+colourless gas
+</item><item id="uid95">is not a compound
+</item><item id="uid96">cannot be an element
+</item><item id="uid97">has the formula <m:math><m:msub><m:mi mathvariant="normal">N</m:mi><m:mn>3</m:mn></m:msub><m:mi mathvariant="normal">H</m:mi></m:math>
+</item></list>
+<link window="new" class="fullmarks" url="http://www.fhsst.org/liV">Click here for the solution</link></item>
+<item>Represent each of the following molecules using its chemical formula, its structural formula and the ball-and-stick model:
+<list id="id524" display="block" list-type="enumerated" number-style="lower-alpha">
+<item>nitrogen</item>
+<item>carbon dioxide</item>
+<item>methane</item>
+<item>argon</item></list><link window="new" class="fullmarks" url="http://www.fhsst.org/l2L">Click here for the solution</link>
+</item></list>
+
+</section>
+    </section>
+  </content>
+</document>

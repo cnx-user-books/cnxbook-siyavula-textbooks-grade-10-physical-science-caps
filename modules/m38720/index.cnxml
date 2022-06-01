@@ -1,0 +1,361 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Introduction and concepts</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38720</md:content-id>
+  <md:title>Introduction and concepts</md:title>
+  <md:abstract/>
+  <md:uuid>d93c4920-7409-4b4a-a765-656a7afc1bfa</md:uuid>
+</metadata>
+
+<content>
+<section id="eip-56"><title>Introduction</title><para id="eip-869">Many reactions in chemistry and all biological reactions (reactions in living systems) take place in water. We say that these reactions take place in aqueous solution. Water has many unique properties and is plentiful on Earth. For these reasons reactions in aqueous solutions occur frequently. In this chapter we will look at some of these reactions in detail. Almost all the reactions that occur in aqueous solutions involve ions. We will look at three main types of reactions that occur in aqueous solutions, namely precipitation reactions, acid-base reactions and redox reactions. Before we can learn about the types of reactions, we need to first look at ions in aqueous solutions and electrical conductivity.
+</para></section><section id="cid6">
+      <title>Ions in aqueous solution</title>
+      <para id="id335294">Water is seldom pure. Because of the structure of the water molecule, substances can dissolve easily in it. This is very important because if water wasn't able to do this, life would not be able to survive. In rivers and the oceans for example, dissolved oxygen means that organisms (such as fish) are still able to respire (breathe). For plants, dissolved nutrients are also available. In the human body, water is able to carry dissolved substances from one part of the body to another.</para>
+      <para id="id335302">Many of the substances that dissolve are <emphasis effect="italics">ionic</emphasis> and when they dissolve they form ions in solution. We are going to look at how water is able to dissolve ionic compounds, how these ions maintain a balance in the human body, how they affect water hardness and how they cause acid rain.</para>
+      <section id="uid19">
+        <title>Dissociation in water</title>
+        <para id="id335324">Water is a <emphasis effect="bold">polar molecule</emphasis> (<link target-id="uid20"/>). This means that one part of the molecule has a slightly positive charge (positive pole) and the other part has a slightly negative charge (negative pole).</para>
+        <figure id="uid20"><media id="uid20_media" alt="">
+            <image mime-type="image/png" src="../../media/CG10C8_001-4940.png" id="uid20_onlineimage" width="134"><!-- NOTE: attribute width changes image size online (pixels). original width is 114. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG10C8_001-f1d1.eps" id="uid20_printimage"/>
+          </media>
+          
+        <caption>Water is a polar molecule</caption></figure>
+        <para id="id335349">It is the polar nature of water that allows ionic compounds to dissolve in it. In the case of sodium chloride (<m:math><m:mi mathvariant="normal">NaCl</m:mi></m:math>) for example, the positive sodium ions (<m:math><m:msup><m:mi mathvariant="normal">Na</m:mi><m:mo>+</m:mo></m:msup></m:math>) will be attracted to the negative pole of the water molecule, while the negative chloride ions (<m:math><m:msup><m:mi mathvariant="normal">Cl</m:mi><m:mo>-</m:mo></m:msup></m:math>) will be attracted to the positive pole of the water molecule. In the process, the ionic bonds between the sodium and chloride ions are weakened and the water molecules are able to work their way between the individual ions, surrounding them and slowly dissolving the compound. This process is called <emphasis effect="bold">dissociation</emphasis>. A simplified representation of this is shown in <link target-id="uid21"/>. We say that dissolution of a substance has occurred when a substance dissociates or dissolves.</para>
+<definition id="fhsst_id155"><term id="termfhsst_id155"> Dissociation </term> <meaning id="meaningfhsst_id155">
+        Dissociation in chemistry and biochemistry is a general process in which ionic compounds separate or split into smaller molecules or ions, usually in a reversible manner.  
+        </meaning></definition>
+        <figure id="uid21"><media id="uid21_media" alt="">
+            <image mime-type="image/png" src="../../media/CG10C8_002-c86e.png" id="uid21_onlineimage" width="233"><!-- NOTE: attribute width changes image size online (pixels). original width is 173. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG10C8_002-e3ab.eps" id="uid21_printimage"/>
+          </media>
+          
+        <caption>Sodium chloride dissolves in water</caption></figure>
+        <para id="id335421">The dissolution of sodium chloride can be represented by the following equation:</para>
+        <para id="uid3241"><m:math overflow="scroll"><m:mi mathvariant="normal">NaCl(s) </m:mi><m:mo>→</m:mo><m:msup><m:mi mathvariant="normal">
+Na</m:mi><m:mo>+</m:mo></m:msup><m:mi mathvariant="normal">(aq)</m:mi><m:mo>+</m:mo><m:msup><m:mi mathvariant="normal">Cl</m:mi><m:mo>-</m:mo></m:msup><m:mi mathvariant="normal">(aq)</m:mi></m:math>
+        </para>
+        <para id="id333999">The symbols <emphasis effect="bold">s</emphasis> (solid), <emphasis effect="bold">l</emphasis> (liquid), <emphasis effect="bold">g</emphasis> (gas) and <emphasis effect="bold">aq</emphasis> (material is dissolved in water) are written after the chemical formula to show the state or phase of the material. The dissolution of potassium sulphate into potassium and sulphate ions is shown below as another example:</para>
+        <para id="uid971321"><m:math><m:msub><m:mi mathvariant="normal">K</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi mathvariant="normal">SO</m:mi><m:mn>4</m:mn></m:msub><m:mi mathvariant="normal">(s)</m:mi>
+              <m:mo>→</m:mo><m:mn>2</m:mn><m:msup><m:mi mathvariant="normal">K</m:mi><m:mo>+</m:mo></m:msup><m:mi mathvariant="normal">(aq)</m:mi><m:mo>+</m:mo><m:mi mathvariant="normal">SO</m:mi><m:msubsup><m:mrow/><m:mrow><m:mn>4</m:mn></m:mrow><m:mrow><m:mn>2</m:mn><m:mo>-</m:mo></m:mrow></m:msubsup><m:mi mathvariant="normal">(aq)</m:mi></m:math>
+        </para>
+        <para id="id335781">Remember that <emphasis effect="bold">molecular</emphasis> substances (e.g. covalent compounds) may also dissolve, but most will not form ions. One example is sugar.</para>
+        <para id="uid922381"><m:math><m:msub><m:mi mathvariant="normal">C</m:mi><m:mn>6</m:mn></m:msub><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>12</m:mn></m:msub><m:msub><m:mi mathvariant="normal">O</m:mi><m:mn>6</m:mn></m:msub><m:mi mathvariant="normal">(s)</m:mi><m:mo>⇌</m:mo><m:msub><m:mi mathvariant="normal">C</m:mi><m:mn>6</m:mn></m:msub><m:msub><m:mi mathvariant="normal">H</m:mi><m:mn>12</m:mn></m:msub><m:msub><m:mi mathvariant="normal">O</m:mi><m:mn>6</m:mn></m:msub><m:mi mathvariant="normal">(aq)</m:mi></m:math>
+        </para>
+        <para id="id335863">There are exceptions to this and some molecular substances <emphasis effect="italics">will</emphasis> form ions when they dissolve. Hydrogen chloride for example can ionise to form hydrogen and chloride ions.</para>
+        <para id="uid98732"><m:math><m:mi mathvariant="normal">HCl(g)</m:mi><m:mo>→</m:mo><m:msup><m:mi mathvariant="normal">H</m:mi><m:mo>+</m:mo></m:msup><m:mi mathvariant="normal">(aq)</m:mi><m:mo>+</m:mo><m:msup><m:mi mathvariant="normal">Cl</m:mi><m:mo>-</m:mo></m:msup><m:mi mathvariant="normal">(aq)</m:mi></m:math>
+        </para>
+
+<exercise id="eip-687"><title>Dissociation in water</title><problem id="eip-470">
+  <para id="eip-646">
+    Write a balanced equation to show how silver nitrate (<m:math><m:msub><m:mi>AgNO</m:mi><m:mn>3</m:mn></m:msub></m:math>) dissociates in water.
+  </para>
+</problem>
+
+<solution id="eip-172">
+<list id="id7534" list-type="enumerated" number-style="arabic" class="stepwise"><item><label>Write down the cation and the anion</label>The cation is: <m:math><m:msup><m:mi>Ag</m:mi><m:mo>+</m:mo></m:msup></m:math> and the anion is: <m:math><m:msubsup><m:mi>NO</m:mi><m:mn>3</m:mn><m:mo>-</m:mo></m:msubsup></m:math></item>
+<item><label>Write the balanced equation</label>Since we know both the anion and the cation that silver nitrate dissociates into we can write the following equation:
+<equation id="id843"><m:math><m:mrow><m:msub><m:mi>AgNO</m:mi><m:mn>3</m:mn></m:msub><m:mi mathvariant="normal">(s)</m:mi><m:mo>→</m:mo><m:msup><m:mi>Ag</m:mi><m:mo>+</m:mo></m:msup><m:mi mathvariant="normal">(aq)</m:mi><m:mo>+</m:mo><m:msubsup><m:mi>NO</m:mi><m:mn>3</m:mn><m:mo>-</m:mo></m:msubsup><m:mi mathvariant="normal">(aq)</m:mi></m:mrow></m:math>
+</equation></item>
+</list>
+</solution>
+</exercise><section id="secfhsst_id338"><title>Ions in solution         </title><list id="id336094" display="block" list-type="enumerated"><item id="uid22">For each of the following, say whether the substance is ionic or molecular.
+<list id="id336110" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid23">potassium nitrate (<m:math overflow="scroll"><m:mi mathvariant="normal">KNO</m:mi><m:msub><m:mrow/><m:mn>3</m:mn></m:msub></m:math>)
+</item><item id="uid24">ethanol (<m:math overflow="scroll"><m:mi mathvariant="normal">C</m:mi><m:msub><m:mrow/><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">H</m:mi><m:msub><m:mrow/><m:mn>5</m:mn></m:msub><m:mi mathvariant="normal">OH</m:mi></m:math>)
+</item><item id="uid25">sucrose (a type of sugar) (<m:math overflow="scroll"><m:mi mathvariant="normal">C</m:mi><m:msub><m:mrow/><m:mn>12</m:mn></m:msub><m:mi mathvariant="normal">H</m:mi><m:msub><m:mrow/><m:mn>22</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi><m:msub><m:mrow/><m:mn>11</m:mn></m:msub></m:math>)</item><item id="uid26">sodium bromide (<m:math><m:mi mathvariant="normal">NaBr</m:mi></m:math>)
+</item></list><link window="new" class="fullmarks" url="http://www.fhsst.org/l33">Click here for the solution</link>
+
+</item>
+          <item id="uid27">Write a balanced equation to show how each of the following ionic compounds dissociate in water.
+<list id="id336252" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid28">sodium sulphate (<m:math overflow="scroll"><m:mi mathvariant="normal">Na</m:mi><m:msub><m:mrow/><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">SO</m:mi><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math>)
+</item><item id="uid29">potassium bromide (<m:math><m:mi mathvariant="normal">KBr</m:mi></m:math>)
+</item><item id="uid30">potassium permanganate (<m:math overflow="scroll"><m:mi mathvariant="normal">KMnO</m:mi><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math>)
+</item><item id="uid31">sodium phosphate (<m:math overflow="scroll"><m:mi mathvariant="normal">Na</m:mi><m:msub><m:mrow/><m:mn>3</m:mn></m:msub><m:mi mathvariant="normal">PO</m:mi><m:msub><m:mrow/><m:mn>4</m:mn></m:msub></m:math>)
+</item></list><link window="new" class="fullmarks" url="http://www.fhsst.org/l3g">Click here for the solution</link>
+</item>
+        </list>
+        
+</section>
+      </section>
+      <section id="uid32"><title>Applications</title><list id="eip-id1165497780773" list-type="enumerated"><item><label>Water hardness</label>
+<definition id="fhsst_id358"><term id="termfhsst_id358"> Water hardness </term> <meaning id="meaningfhsst_id358">
+        Water hardness is a measure of the mineral content of water. Minerals are substances such as calcite, quartz and mica that occur naturally as a result of geological processes. 
+        </meaning></definition>
+        <para id="id336408"><emphasis effect="bold">Hard water</emphasis> is water that has a high mineral content. Water that has a low mineral content is known as <emphasis effect="bold">soft water</emphasis>. If water has a high mineral content, it usually contains high levels of metal ions, mainly calcium (<m:math><m:mi mathvariant="normal">Ca</m:mi></m:math>) and magnesium (<m:math><m:mi mathvariant="normal">Mg</m:mi></m:math>). The calcium enters the water from either <m:math><m:msub><m:mi mathvariant="normal">CaCO</m:mi><m:mn>3</m:mn></m:msub></m:math> (limestone or chalk) or from mineral deposits of <m:math><m:msub><m:mi mathvariant="normal">CaSO</m:mi><m:mn>4</m:mn></m:msub></m:math>. The main source of magnesium is a sedimentary rock called dolomite, <m:math><m:msub><m:mi mathvariant="normal">CaMg(CO</m:mi><m:mn>3</m:mn></m:msub><m:mi mathvariant="normal">)</m:mi><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>. Hard water may also contain other metals as well as bicarbonates and sulphates.</para>
+<note id="notfhsst_id362"><title> Interesting Fact </title> The simplest way to check whether water is hard or soft is to use the lather/froth test. If the water is very soft, soap will lather more easily when it is rubbed against the skin. With hard water this won't happen. Toothpaste will also not froth well in hard water.</note>
+        <para id="id336486">A <emphasis effect="bold">water softener</emphasis> works on the principle of <emphasis effect="bold">ion exchange</emphasis>. Hard water passes through a media bed, usually made of resin beads that are supersaturated with sodium. As the water passes through the beads, the hardness minerals (e.g. calcium and magnesium) attach themselves to the beads. The sodium that was originally on the beads is released into the water. When the resin becomes saturated with calcium and magnesium, it must be recharged. A salt solution is passed through the resin. The sodium replaces the calcium and magnesium and these ions are released into the waste water and discharged.</para></item>
+<item><label>Acid rain</label><para id="eip-id1164949856187">The acidity of rainwater comes from the natural presence of three substances (<m:math overflow="scroll"><m:mi mathvariant="normal">CO</m:mi><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>, <m:math><m:mi mathvariant="normal">NO</m:mi></m:math>, and <m:math overflow="scroll"><m:mi mathvariant="normal">SO</m:mi><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>) in the lowest layer of the atmosphere. These gases are able to dissolve in water and therefore make rain more acidic than it would otherwise be. Of these gases, carbon dioxide (<m:math overflow="scroll"><m:mi mathvariant="normal">CO</m:mi><m:msub><m:mrow/><m:mn>2</m:mn></m:msub></m:math>) has the highest concentration and therefore contributes the most to the natural acidity of rainwater. </para>
+<definition id="fhsst_id5341"><term id="termfhsst_id5341"> Acid rain </term> <meaning id="meaningfhsst_id5341">
+       Acid rain refers to the deposition of acidic components in rain, snow and dew. Acid rain occurs when sulphur dioxide and nitrogen oxides are emitted into the atmosphere, undergo chemical transformations and are absorbed by water droplets in clouds. The droplets then fall to earth as rain, snow, mist, dry dust, hail, or sleet. This increases the acidity of the soil and affects the chemical balance of lakes and streams. 
+        </meaning></definition>
+<para id="id338300">Although these reactions do take place naturally, human activities can greatly increase the concentration of these gases in the atmosphere, so that rain becomes far more acidic than it would otherwise be. The burning of fossil fuels in industries, vehicles etc is one of the biggest culprits. If the acidity of the rain drops to below 5, it is referred to as <emphasis effect="bold">acid rain</emphasis>.</para>
+        <para id="id338311">Acid rain can have a very damaging effect on the environment. In rivers, dams and lakes, increased acidity can mean that some species of animals and plants will not survive. Acid rain can also degrade soil minerals, producing metal ions that are washed into water systems. Some of these ions may be toxic e.g. <m:math overflow="scroll"><m:msup><m:mi mathvariant="normal">Al</m:mi><m:mrow><m:mn>3</m:mn><m:mo>+</m:mo></m:mrow></m:msup></m:math>. From an economic perspective, altered soil pH can drastically affect agricultural productivity.</para>
+        <para id="id338337">Acid rain can also affect buildings and monuments, many of which are made from marble and limestone. A chemical reaction takes place between <m:math overflow="scroll"><m:msub><m:mi mathvariant="normal">CaCO</m:mi><m:mn>3</m:mn></m:msub></m:math> (limestone) and sulphuric acid to produce aqueous ions which can be easily washed away. The same reaction can occur in the lithosphere where limestone rocks are present e.g. limestone caves can be eroded by acidic rainwater.
+        <equation id="id7435">
+        <m:math overflow="scroll" mode="display">
+            <m:mrow><m:msub>
+              <m:mi mathvariant="normal">H</m:mi><m:mn>2</m:mn></m:msub><m:msub>
+              <m:mi mathvariant="normal">SO</m:mi><m:mn>4</m:mn></m:msub>
+              <m:mo>+</m:mo>
+              <m:msub>
+                <m:mi mathvariant="normal">CaCO</m:mi>
+                <m:mn>3</m:mn>
+              </m:msub>
+              <m:mo>→</m:mo>
+              <m:msub>
+                <m:mi mathvariant="normal">CaSO</m:mi>
+                <m:mn>4</m:mn>
+              </m:msub><m:mo>·</m:mo><m:mi mathvariant="normal">H</m:mi><m:msub><m:mrow/><m:mn>2</m:mn></m:msub><m:mi mathvariant="normal">O</m:mi><m:mo>+</m:mo><m:msub>
+              <m:mi mathvariant="normal">CO</m:mi><m:mn>2</m:mn></m:msub>
+            </m:mrow>
+          </m:math>
+</equation>
+</para>
+</item></list>    </section>
+      
+      
+    </section>
+ 
+    <section id="cid7">
+      <title>Electrolytes, ionisation and conductivity</title>
+      <para id="id338608"><emphasis effect="bold">Conductivity</emphasis> in aqueous solutions, is a measure of the ability of water to conduct an electric current. The more <emphasis effect="bold">ions</emphasis> there are in the solution, the higher its conductivity.</para>
+<definition id="fhsst_id635"><term id="termfhsst_id635"> Conductivity </term> <meaning id="meaningfhsst_id635">
+      Conductivity is a measure of a solution's ability to conduct an electric current.
+      </meaning></definition>
+      <section id="uid52">
+        <title>Electrolytes</title>
+        <para id="id338650">An <emphasis effect="bold">electrolyte</emphasis> is a material that <emphasis effect="italics">increases</emphasis> the conductivity of water when dissolved in it. Electrolytes can be further divided into <emphasis effect="bold">strong electrolytes</emphasis> and <emphasis effect="bold">weak electrolytes</emphasis>.</para>
+<definition id="fhsst_id641"><term id="termfhsst_id641"> Electrolyte </term> <meaning id="meaningfhsst_id641">
+        An electrolyte is a substance that contains free ions and behaves as an electrically conductive medium. Because they generally consist of ions in solution, electrolytes are also known as ionic solutions. 
+        </meaning></definition>
+        <list id="id338697" display="block" list-type="enumerated">
+          <item id="uid53"><emphasis effect="bold">Strong electrolytes</emphasis>
+A strong electrolyte is a material that ionises completely when it is dissolved in water:
+<equation id="id338720"><m:math overflow="scroll" mode="display"><m:mrow><m:mi mathvariant="normal">AB (s, l, g)</m:mi><m:mo>→</m:mo><m:msup><m:mi mathvariant="normal">A</m:mi><m:mo>+</m:mo></m:msup><m:mrow><m:mi>(aq)</m:mi></m:mrow><m:mo>+</m:mo><m:msup><m:mi mathvariant="normal">B</m:mi><m:mo>-</m:mo></m:msup><m:mrow><m:mi>(aq)</m:mi></m:mrow></m:mrow></m:math></equation>
+This is a <emphasis effect="bold">chemical change</emphasis> because the original compound has been split into its component ions and bonds have been broken. In a strong electrolyte, we say that the <emphasis effect="italics">extent of ionisation</emphasis> is high. In other words, the original material dissociates completely so that there is a high concentration of ions in the solution. An example is a solution of potassium nitrate:
+<equation id="id338807"><m:math overflow="scroll" mode="display"><m:mrow><m:msub><m:mi mathvariant="normal">KNO</m:mi><m:mn>3</m:mn></m:msub><m:mrow><m:mi>(s)</m:mi></m:mrow><m:mo>→</m:mo><m:msup><m:mi mathvariant="normal">K</m:mi><m:mo>+</m:mo></m:msup><m:mrow><m:mi>(aq)</m:mi></m:mrow><m:mo>+</m:mo><m:msubsup><m:mi>NO</m:mi><m:mrow><m:mn>3</m:mn></m:mrow><m:mo>-</m:mo></m:msubsup><m:mrow><m:mi>(aq)</m:mi></m:mrow></m:mrow></m:math></equation></item>
+          <item id="uid54"><emphasis effect="bold">Weak electrolytes</emphasis>
+A weak electrolyte is a material that goes into solution and will be surrounded by water molecules when it is added to water. However, not <emphasis effect="italics">all</emphasis> of the molecules will dissociate into ions. The <emphasis effect="italics">extent of ionisation</emphasis> of a weak electrolyte is low and therefore the concentration of ions in the solution is also low.
+<equation id="id338913"><m:math overflow="scroll" mode="display"><m:mrow><m:mi>A</m:mi><m:mi>B</m:mi><m:mrow><m:mo>(</m:mo><m:mi>s</m:mi><m:mo>,</m:mo><m:mi>l</m:mi><m:mo>,</m:mo><m:mi>g</m:mi><m:mo>)</m:mo></m:mrow><m:mo>→</m:mo><m:mi>A</m:mi><m:mi>B</m:mi><m:mrow><m:mo>(</m:mo><m:mi>a</m:mi><m:mi>q</m:mi><m:mo>)</m:mo></m:mrow><m:mo>⇌</m:mo><m:msup><m:mi>A</m:mi><m:mo>+</m:mo></m:msup><m:mrow><m:mo>(</m:mo><m:mi>aq</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:msup><m:mi>B</m:mi><m:mo>-</m:mo></m:msup><m:mrow><m:mo>(</m:mo><m:mi>aq</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math></equation>
+The following example shows that in the final solution of a weak electrolyte, some of the original compound <emphasis effect="italics">plus</emphasis> some dissolved ions are present.
+<equation id="id339008"><m:math overflow="scroll" mode="display"><m:mrow><m:msub><m:mi>C</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi>H</m:mi><m:mn>3</m:mn></m:msub><m:msub><m:mi>O</m:mi><m:mn>2</m:mn></m:msub><m:mi>H</m:mi><m:mrow><m:mo>(</m:mo><m:mi>l</m:mi><m:mo>)</m:mo></m:mrow><m:mo>→</m:mo><m:msub><m:mi>C</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi>H</m:mi><m:mn>3</m:mn></m:msub><m:msub><m:mi>O</m:mi><m:mn>2</m:mn></m:msub><m:mi>H</m:mi><m:mo>⇌</m:mo><m:msub><m:mi>C</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi>H</m:mi><m:mn>3</m:mn></m:msub><m:msubsup><m:mi>O</m:mi><m:mrow><m:mn>2</m:mn></m:mrow><m:mo>-</m:mo></m:msubsup><m:mrow><m:mo>(</m:mo><m:mi>aq</m:mi><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:msup><m:mi>H</m:mi><m:mo>+</m:mo></m:msup><m:mrow><m:mo>(</m:mo><m:mi>aq</m:mi><m:mo>)</m:mo></m:mrow></m:mrow></m:math></equation></item>
+        </list>
+      </section>
+      <section id="uid55">
+        <title>Non-electrolytes</title>
+        <para id="id339146">A <emphasis effect="bold">non-electrolyte</emphasis> is a material that does not increase the conductivity of water when dissolved in it. The substance goes into solution and becomes surrounded by water molecules, so that the molecules of the chemical become separated from each other. However, although the substance does dissolve, it is not changed in any way and no chemical bonds are broken. The change is a <emphasis effect="bold">physical change</emphasis>. In the oxygen example below, the reaction is shown to be reversible because oxygen is only partially soluble in water and comes out of solution very easily.</para>
+        <equation id="id339165">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:msub>
+                <m:mi>C</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:msub>
+                <m:mi>H</m:mi>
+                <m:mn>5</m:mn>
+              </m:msub>
+              <m:mi>OH</m:mi>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mi>l</m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+              <m:mo>→</m:mo>
+              <m:msub>
+                <m:mi>C</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:msub>
+                <m:mi>H</m:mi>
+                <m:mn>5</m:mn>
+              </m:msub>
+              <m:mi>OH</m:mi>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mi>aq</m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <equation id="id339233">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:msub>
+                <m:mi>O</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mi>g</m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+              <m:mo>⇌</m:mo>
+              <m:msub>
+                <m:mi>O</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mi>aq</m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+            </m:mrow>
+          </m:math>
+        </equation>
+      </section>
+      <section id="uid56"><title>Factors that affect the conductivity of water</title><para id="id339287">The conductivity of water is therefore affected by the following factors:</para>
+        <list id="id339291" display="block" list-type="bulleted"><item id="uid57">The <emphasis effect="bold">type of substance</emphasis> that dissolves in water.
+Whether a material is a strong electrolyte (e.g. potassium nitrate, <m:math overflow="scroll"><m:msub><m:mi>KNO</m:mi><m:mn>3</m:mn></m:msub></m:math>), a weak electrolyte (e.g. acetate, <m:math><m:msub><m:mi>CH</m:mi><m:mn>3</m:mn></m:msub><m:mi>COOH</m:mi></m:math>) or a non-electrolyte (e.g. sugar, alcohol, oil) will affect the conductivity of water because the concentration of ions in solution will be different in each case.
+</item>
+          <item id="uid58">The <emphasis effect="bold">concentration of ions</emphasis> in solution.
+The higher the concentration of ions in solution, the higher its conductivity will be.
+</item>
+          <item id="uid59"><emphasis effect="bold">Temperature.</emphasis>
+The warmer the solution, the higher the solubility of the material being dissolved and therefore the higher the conductivity as well.
+</item>
+        </list>
+<section id="secfhsst_id739"><title>Experiment : Electrical conductivity         </title><para id="id339425">
+          <title>Aim:</title><newline/>
+To investigate the electrical conductivities of different substances and solutions.</para>
+        <para id="id339438">
+          <title>Apparatus:</title><newline/>
+        Solid salt (<m:math><m:mi mathvariant="normal">NaCl</m:mi></m:math>) crystals; different liquids such as distilled water, tap water, seawater, benzene and alcohol; solutions of salts e.g. <m:math><m:mi mathvariant="normal">NaCl</m:mi></m:math>, <m:math><m:mi mathvariant="normal">KBr</m:mi></m:math>; a solution of an acid (e.g. <m:math><m:mi mathvariant="normal">HCl</m:mi></m:math>) and a solution of a base (e.g. <m:math><m:mi mathvariant="normal">NaOH</m:mi></m:math>); torch cells; ammeter; conducting wire, crocodile clips and 2 carbon rods.</para>
+        <note id="eip-456" type="warning">Always use benzene in a fume cupboard as it is very toxic. If you don't have access to a fume cupboard then ensure that the work area is well ventilated. </note><para id="id334346">
+          <title>Method:</title><newline/>
+        Set up the experiment by connecting the circuit as shown in the diagram below. In the diagram, 'X' represents the substance or solution that you will be testing. When you are using the solid crystals, the crocodile clips can be attached directly to each end of the crystal. When you are using solutions, two carbon rods are placed into the liquid and the clips are attached to each of the rods. In each case, complete the circuit and allow the current to flow for about 30 seconds. Observe whether the ammeter shows a reading.</para>
+        <para id="id334362">
+          <figure id="id334366"><media id="id334366_media" alt="">
+              <image mime-type="image/png" src="../../media/CG10C8_003-cc7b.png" id="id334366_onlineimage" width="271"><!-- NOTE: attribute width changes image size online (pixels). original width is 251. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/CG10C8_003-2604.eps" id="id334366_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id334372">
+          <title>Results:</title><newline/>
+        Record your observations in a table similar to the one below:
+        <table id="id334385" summary="">
+          <tgroup cols="2">
+            <tbody>
+              <row>
+                <entry>Test substance</entry>
+                <entry>Ammeter reading</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table></para>
+        <!--empty paragraphs get left behind.-->
+        <para id="id339669">What do you notice? Can you explain these observations?</para>
+        <para id="id339672">Remember that for electricity to flow, there needs to be a movement of charged particles e.g. ions. With the solid <m:math><m:mi mathvariant="normal">NaCl</m:mi></m:math> crystals, there was no flow of electricity recorded on the ammeter. Although the solid is made up of ions, they are held together very tightly within the crystal lattice and therefore no current will flow. Distilled water, benzene and alcohol also don't conduct a current because they are <emphasis effect="italics">covalent compounds</emphasis> and therefore do not contain ions.</para>
+        <para id="id339687">The ammeter should have recorded a current when the salt solutions and the acid and base solutions were connected in the circuit. In solution, salts <emphasis effect="italics">dissociate</emphasis> into their ions, so that these are free to move in the solution. Acids and bases behave in a similar way and dissociate to form hydronium and oxonium ions. Look at the following examples:
+        <equation id="id339701">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:mi> KBr </m:mi>
+              <m:mo>→</m:mo>
+              <m:msup>
+                <m:mi mathvariant="normal">K</m:mi>
+                <m:mo>+</m:mo>
+              </m:msup>
+              <m:mo>+</m:mo>
+              <m:msup>
+                <m:mi> Br </m:mi>
+                <m:mo>-</m:mo>
+              </m:msup>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <equation id="id339737">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:mi> NaCl </m:mi>
+              <m:mo>→</m:mo>
+              <m:msup>
+                <m:mi> Na </m:mi>
+                <m:mo>+</m:mo>
+              </m:msup>
+              <m:mo>+</m:mo>
+              <m:msup>
+                <m:mi> Cl </m:mi>
+                <m:mo>-</m:mo>
+              </m:msup>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <equation id="id339770">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:mi> HCl </m:mi>
+              <m:mo>+</m:mo>
+              <m:msub>
+                <m:mi mathvariant="normal">H</m:mi>
+                <m:mn>2</m:mn>
+              </m:msub>
+              <m:mi mathvariant="normal">O</m:mi>
+              <m:mo>→</m:mo>
+              <m:msub>
+                <m:mi mathvariant="normal">H</m:mi>
+                <m:mn>3</m:mn>
+              </m:msub>
+              <m:msup>
+                <m:mi mathvariant="normal">O</m:mi>
+                <m:mo>+</m:mo>
+              </m:msup>
+              <m:mo>+</m:mo>
+              <m:msup>
+                <m:mi> Cl </m:mi>
+                <m:mo>-</m:mo>
+              </m:msup>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <equation id="id339831">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:mi> NaOH </m:mi>
+              <m:mo>→</m:mo>
+              <m:msup>
+                <m:mi> Na </m:mi>
+                <m:mo>+</m:mo>
+              </m:msup>
+              <m:mo>+</m:mo>
+              <m:msup>
+                <m:mi> OH </m:mi>
+                <m:mo>-</m:mo>
+              </m:msup>
+            </m:mrow>
+          </m:math>
+        </equation></para>
+        <para id="id339864">
+          <title>Conclusions:</title><newline/>
+Solutions that contain free-moving ions are able to conduct electricity because of the movement of charged particles. Solutions that do not contain free-moving ions do not conduct electricity.
+ </para>
+</section>
+<note id="notfhsst_id879"><title> Interesting Fact </title> 
+Conductivity in streams and rivers is affected by the geology of the area where the water is flowing through. Streams that run through areas with granite bedrock tend to have lower conductivity because granite is made of materials that do not ionise when washed into the water. On the other hand, streams that run through areas with clay soils tend to have higher conductivity because the materials ionise when they are washed into the water. Pollution can also affect conductivity. A failing sewage system or an inflow of fertiliser runoff would raise the conductivity because of the presence of chloride, phosphate, and nitrate ions, while an oil spill (non-ionic) would lower the conductivity. It is very important that conductivity is kept within a certain acceptable range so that the organisms living in these water systems are able to survive.
+</note>
+      </section>
+    </section>
+    
+</content>
+
+</document>

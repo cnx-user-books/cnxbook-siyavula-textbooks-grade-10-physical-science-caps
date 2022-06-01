@@ -1,0 +1,370 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Displacement and distance</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38788</md:content-id>
+  <md:title>Displacement and distance</md:title>
+  <md:abstract/>
+  <md:uuid>8d476a10-0800-475a-b4b1-6828acbd5e2c</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid4">
+      <title>Displacement and Distance</title>
+<definition id="fhsst_id156"><term id="termfhsst_id156"> Displacement </term> <meaning id="meaningfhsst_id156">
+      <para id="id62992">Displacement is the change in an object's position. </para>
+      </meaning></definition>
+      <para id="id63003">The displacement of an object is defined as its change in position (final position minus initial position). Displacement has a magnitude and direction and is therefore a vector. For example, if the initial position of a car is <m:math overflow="scroll"><m:msub><m:mi>x</m:mi><m:mi>i</m:mi></m:msub></m:math> and it moves to a final position of <m:math overflow="scroll"><m:msub><m:mi>x</m:mi><m:mi>f</m:mi></m:msub></m:math>, then the displacement is:</para>
+      <equation id="id63035">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:msub>
+              <m:mi>x</m:mi>
+              <m:mi>f</m:mi>
+            </m:msub>
+            <m:mo>-</m:mo>
+            <m:msub>
+              <m:mi>x</m:mi>
+              <m:mi>i</m:mi>
+            </m:msub>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id63061">However, subtracting an initial quantity from a final quantity happens often in Physics, so we use the shortcut <m:math overflow="scroll"><m:mi>Δ</m:mi></m:math> to mean <emphasis effect="italics">final - initial</emphasis>. Therefore, displacement can be written:</para>
+      <equation id="id63080">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>Δ</m:mi>
+            <m:mi>x</m:mi>
+            <m:mo>=</m:mo>
+            <m:msub>
+              <m:mi>x</m:mi>
+              <m:mi>f</m:mi>
+            </m:msub>
+            <m:mo>-</m:mo>
+            <m:msub>
+              <m:mi>x</m:mi>
+              <m:mi>i</m:mi>
+            </m:msub>
+          </m:mrow>
+        </m:math>
+      </equation>
+<note id="notfhsst_id194" type="tip">The symbol <m:math overflow="scroll"><m:mi>Δ</m:mi></m:math> is read out as <emphasis effect="italics">delta</emphasis>. <m:math overflow="scroll"><m:mi>Δ</m:mi></m:math> is a letter of the Greek alphabet and is used in Mathematics and Science to indicate a change in a certain quantity, or a final value minus an initial value. For example, <m:math overflow="scroll"><m:mrow><m:mi>Δ</m:mi><m:mi>x</m:mi></m:mrow></m:math> means change in <m:math overflow="scroll"><m:mi>x</m:mi></m:math> while <m:math overflow="scroll"><m:mrow><m:mi>Δ</m:mi><m:mi>t</m:mi></m:mrow></m:math> means change in <m:math overflow="scroll"><m:mi>t</m:mi></m:math>.</note>
+<note id="notfhsst_id195" type="tip">The words <emphasis effect="italics">initial</emphasis> and <emphasis effect="italics">final</emphasis> will be used very often in Physics. <emphasis effect="italics">Initial</emphasis> will always refer to something that happened earlier in time and <emphasis effect="italics">final</emphasis> will always refer to something that happened later in time. It will often happen that the final value is smaller than the initial value, such that the difference is negative. This is ok!</note>
+      <figure id="uid17"><media id="uid17_media" alt="">
+          <image mime-type="image/png" src="../../media/PG10C2_008.png" id="uid17_onlineimage" width="345"><!-- NOTE: attribute width changes image size online (pixels). original width is 145. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/PG10C2_008.eps" id="uid17_printimage"/>
+        </media>
+        
+      <caption>Illustration of displacement</caption></figure>
+      <para id="id63218">Displacement does not depend on the path travelled, but only on the initial and final positions (<link target-id="uid17"/>). We use the word <emphasis effect="italics">distance</emphasis> to describe how far an object travels along a particular path. Distance is the actual distance that was covered. Distance (symbol <m:math overflow="scroll"><m:mi>D</m:mi></m:math>) does not have a direction, so it is a scalar. Displacement is the shortest distance from the starting point to the endpoint – from the school to the shop in the figure. Displacement has direction and is therefore a vector.</para>
+      <para id="id62109"><link target-id="uid7"/> shows the five houses we discussed earlier. Jack walks to school, but instead of walking straight to school, he decided to walk to his friend Joel's house first to fetch him so that they can walk to school together. Jack covers a distance of <m:math><m:mn>400</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi></m:math> to Joel's house and another <m:math><m:mn>500</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi></m:math> to school. He covers a distance of <m:math><m:mn>900</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi></m:math>. His displacement, however, is only <m:math><m:mn>100</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi></m:math> towards the school. This is because displacement only looks at the starting position (his house) and the end position (the school). It does not depend on the path he travelled.</para>
+      <para id="id62121">To calculate his distance and displacement, we need to choose a reference point and a direction. Let's choose Jack's house as the reference point, and towards Joel's house as the positive direction (which means that towards the school is negative). We would do the calculations as follows:</para>
+      <para id="id63444"><equation id="id63450"><m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mi> Distance </m:mi>
+                    <m:mo>(</m:mo>
+                    <m:mi mathvariant="normal">D</m:mi>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mi> path </m:mi>
+                    <m:mspace width="3.33333pt"/>
+                    <m:mi> travelled </m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>400</m:mn>
+                    <m:mspace width="4pt"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                    <m:mo>+</m:mo>
+                    <m:mn>500</m:mn>
+                    <m:mspace width="4pt"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>900</m:mn>
+                    <m:mspace width="4pt"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <!--empty paragraphs get left behind.-->
+        <equation id="id63551">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mi> Displacement </m:mi>
+                    <m:mo>(</m:mo>
+                    <m:mi>Δ</m:mi>
+                    <m:mi mathvariant="normal">x</m:mi>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>x</m:mi>
+                      <m:mi>f</m:mi>
+                    </m:msub>
+                    <m:mspace width="3.33333pt"/>
+                    <m:mo>-</m:mo>
+                    <m:mspace width="3.33333pt"/>
+                    <m:msub>
+                      <m:mi>x</m:mi>
+                      <m:mi>i</m:mi>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mo>-</m:mo>
+                    <m:mn>100</m:mn>
+                    <m:mspace width="4pt"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                    <m:mo>+</m:mo>
+                    <m:mn>0</m:mn>
+                    <m:mspace width="4pt"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mo>-</m:mo>
+                    <m:mn>100</m:mn>
+                    <m:mspace width="4pt"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <!--empty paragraphs get left behind.-->
+      </para>
+      <note id="eip-883">You may also see <m:math><m:mi mathvariant="normal">d</m:mi></m:math> used for distance. We will use <m:math><m:mi mathvariant="normal">D</m:mi></m:math> in this book, but you may see <m:math><m:mi mathvariant="normal">d</m:mi></m:math> used in other books.</note><para id="id63667">Joel walks to school with Jack and after school walks back home. What is Joel's displacement and what distance did he cover?
+For this calculation we use Joel's house as the reference point. Let's take towards the school as the positive direction.</para>
+      <para id="id63672">
+        <equation id="id63676"><m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mi> Distance </m:mi>
+                    <m:mo>(</m:mo>
+                    <m:mi mathvariant="normal">D</m:mi>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mi> path </m:mi>
+                    <m:mspace width="3.33333pt"/>
+                    <m:mi> travelled </m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>500</m:mn>
+                    <m:mspace width="4pt"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                    <m:mo>+</m:mo>
+                    <m:mn>500</m:mn>
+                    <m:mspace width="4pt"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>1000</m:mn>
+                    <m:mspace width="4pt"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <!--empty paragraphs get left behind.-->
+        <equation id="id63774">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mi> Displacement </m:mi>
+                    <m:mo>(</m:mo>
+                    <m:mi>Δ</m:mi>
+                    <m:mi mathvariant="normal">x</m:mi>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>x</m:mi>
+                      <m:mi>f</m:mi>
+                    </m:msub>
+                    <m:mspace width="3.33333pt"/>
+                    <m:mo>-</m:mo>
+                    <m:mspace width="3.33333pt"/>
+                    <m:msub>
+                      <m:mi>x</m:mi>
+                      <m:mi>i</m:mi>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>0</m:mn>
+                    <m:mspace width="4pt"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                    <m:mo>+</m:mo>
+                    <m:mn>0</m:mn>
+                    <m:mspace width="4pt"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>0</m:mn>
+                    <m:mspace width="4pt"/>
+                    <m:mi mathvariant="normal">m</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <!--empty paragraphs get left behind.-->
+      </para>
+      <para id="id63886">It is possible to have a displacement of <m:math><m:mn>0</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi></m:math> and a distance that is not <m:math><m:mn>0</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi></m:math>. This happens when an object completes a round trip back to its original position, like an athlete running around a track.</para>
+      <section id="uid18">
+        <title>Interpreting Direction</title>
+        <para id="id63901">Very often in calculations you will get a negative answer. For example, Jack's displacement in the example above, is calculated as <m:math><m:mo>-</m:mo><m:mn>100</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi></m:math>. The minus sign in front of the answer means that his displacement is <m:math><m:mn>100</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi></m:math> in the opposite direction (opposite to the direction chosen as positive in the beginning of the question). When we start a calculation we choose a frame of reference and a positive direction. In the first example above, the reference point is Jack's house and the positive direction is towards Joel's house. Therefore Jack's displacement is <m:math><m:mn>100</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi></m:math> towards the school. Notice that distance has no direction, but displacement has.</para>
+      </section>
+      <section id="uid19"><title>Differences between Distance and Displacement</title>
+        <para id="id63938">The differences between distance and displacement can be summarised as:</para>
+        <table id="id63941" summary="">
+          <tgroup cols="2">
+            <tbody>
+              <row>
+                <entry>
+                  <emphasis effect="bold"> Distance </emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold"> Displacement </emphasis>
+                </entry>
+              </row>
+              <row>
+                <entry>1. depends on the path</entry>
+                <entry>1. independent of path taken</entry>
+              </row>
+              <row>
+                <entry>2. always positive</entry>
+                <entry>2. can be positive or negative</entry>
+              </row>
+              <row>
+                <entry>3. is a scalar</entry>
+                <entry>3. is a vector</entry>
+              </row>
+              <row>
+                <entry>4. does not have a direction</entry>
+                <entry>4. has a direction</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <!--empty paragraphs get left behind.-->
+<section id="secfhsst_id498"><title> Point of Reference </title>
+        <list id="id64042" display="block" list-type="enumerated"><item id="uid20">Use <link target-id="uid7"/> to answer the following questions.
+<list id="id64060" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid21">Jill walks to Joan's house and then to school, what is her distance and displacement?
+</item><item id="uid22">John walks to Joan's house and then to school, what is his distance and displacement?
+</item><item id="uid23">Jack walks to the shop and then to school, what is his distance and displacement?
+</item><item id="uid24">What reference point did you use for each of the above questions?
+</item></list><link class="fullmarks" window="new" url="http://www.fhsst.org/lao">Click here for the solution</link></item>
+          <item id="uid25">You stand at the front door of your house (displacement, <m:math overflow="scroll"><m:mrow><m:mi>Δ</m:mi><m:mi>x</m:mi></m:mrow><m:mo>=</m:mo><m:mn>0</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi></m:math>). The street is <m:math><m:mn>10</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">m</m:mi></m:math> away from the front door. You walk to the street and back again.
+<list id="id64141" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid26">What is the distance you have walked?
+</item><item id="uid27">What is your final displacement?
+</item><item id="uid28">Is displacement a vector or a scalar? Give a reason for your answer.
+</item></list><link class="fullmarks" window="new" url="http://www.fhsst.org/las">Click here for the solution</link></item>
+        </list>
+        
+</section>
+      </section>
+    </section>
+
+  </content>
+</document>

@@ -1,0 +1,199 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Structure</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38745</md:content-id>
+  <md:title>Structure</md:title>
+  <md:abstract/>
+  <md:uuid>f8809bcb-4fec-476d-afa6-1f10dc108797</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid4">
+      <title>Structure of the atom</title>
+      <para id="id255206">As a result of the work done by previous scientists on atomic models (that we discussed in <link target-id="cid2" window="new">"Models of the Atom"</link>), scientists now have a good idea of what an atom looks like. This knowledge is important because it helps us to understand why materials have different properties and why some materials bond with others. Let us now take a closer look at the microscopic structure of the atom.</para>
+      <para id="id255216">So far, we have discussed that atoms are made up of a positively charged <emphasis effect="bold">nucleus</emphasis> surrounded by
+one or more negatively charged <emphasis effect="bold">electrons</emphasis>. These electrons orbit the nucleus.</para>
+      <para id="eip-577">Before we look at some useful concepts we first need to understand what electrons, protons and neutrons are.</para><section id="uid10">
+        <title>The Electron</title>
+        <para id="id255241">The electron is a very light particle. It has a mass of <m:math overflow="scroll"><m:mn>9</m:mn><m:mo>,</m:mo><m:mn>11</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>31</m:mn></m:mrow></m:msup><m:mspace width="2pt"/><m:mi>kg</m:mi></m:math>.
+Scientists believe that the electron can be treated as a <emphasis effect="bold">point particle</emphasis>
+or <emphasis effect="bold">elementary particle</emphasis>
+meaning that it can't be broken down into anything smaller. The electron also carries one unit
+of <emphasis effect="bold">negative</emphasis> electric charge which is the same as <m:math overflow="scroll"><m:mn>1</m:mn><m:mo>,</m:mo><m:mn>6</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>19</m:mn></m:mrow></m:msup><m:mspace width="2pt"/><m:mi mathvariant="normal">C</m:mi></m:math> (Coulombs).</para><para id="eip-222">The electrons determine the charge on an atom. If the number of electrons is the same as the number of protons then the atom will be neutral. If the number of electrons is greater than the number of protons then the atom will be negatively charged. If the number of electrons is less than the number of protons then the atom will be positively charged. Atoms that are not neutral are called ions. Ions will be covered in more detail in a later chapter. For now all you need to know is that for each electron you remove from an atom you loose <m:math><m:mo>-</m:mo><m:mn>1</m:mn></m:math> of charge and for each electron that you add to an atom you gain <m:math><m:mo>+</m:mo><m:mn>1</m:mn></m:math> of charge. For example, the charge on an atom of sodium after removing one electron is  <m:math><m:mo>-</m:mo><m:mn>1</m:mn></m:math>.</para>
+      </section>
+      <section id="uid11">
+        <title>The Nucleus</title>
+        <para id="id255305">Unlike the electron, the nucleus <emphasis effect="bold">can</emphasis> be broken up into smaller building
+blocks called <emphasis effect="bold">protons</emphasis> and <emphasis effect="bold">neutrons</emphasis>. Together, the protons and
+neutrons are called <emphasis effect="bold">nucleons</emphasis>.</para>
+        <section id="uid12">
+          <title>The Proton</title>
+          <para id="id255338">Each proton carries one unit of <emphasis effect="bold">positive</emphasis> electric charge.
+Since we know that atoms are
+<emphasis effect="bold">electrically neutral</emphasis>, i.e. do not carry any extra charge, then the number
+of protons in an atom has to be the same as the number of electrons to balance
+out the positive and negative charge to zero. The total positive charge of a
+nucleus is equal to the number of protons in the nucleus. The proton is much heavier
+than the electron (10 000 times heavier!) and has a mass of <m:math overflow="scroll"><m:mn>1</m:mn><m:mo>,</m:mo><m:mn>6726</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>27</m:mn></m:mrow></m:msup><m:mspace width="2pt"/><m:mi>kg</m:mi></m:math>. When we talk about the atomic mass of an atom, we are mostly referring to the combined mass of the protons and neutrons, i.e. the nucleons.</para>
+        </section>
+        <section id="uid13">
+          <title>The Neutron</title>
+          <para id="id254468">The neutron is electrically neutral i.e. it carries no charge at all.
+Like the proton, it is much heavier than the electron and its mass is <m:math overflow="scroll"><m:mn>1</m:mn><m:mo>,</m:mo><m:mn>6749</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>27</m:mn></m:mrow></m:msup><m:mspace width="2pt"/><m:mi>kg</m:mi></m:math> (slightly heavier than the proton).</para>
+<note id="notfhsst_id214"><title> Interesting Fact </title>
+          <para id="id254497">Rutherford predicted (in 1920) that another kind of particle must be
+present in the nucleus along with the proton. He predicted this because
+if there were only positively charged protons in the nucleus, then it should break
+into bits because of the repulsive forces between the like-charged protons! Also,
+if protons were the only particles
+in the nucleus, then a helium nucleus (atomic number 2) would have
+two protons and therefore only twice the mass of hydrogen. However,
+it is actually <emphasis effect="bold">four</emphasis> times heavier than hydrogen. This suggested that there
+must be something else inside the nucleus as well as the protons.
+To make sure that the atom stays electrically neutral, this particle would have to be neutral itself. In 1932 James Chadwick discovered the neutron and measured
+its mass.</para>
+</note>
+          <table id="uid14" summary="">
+            <tgroup cols="4">
+              <tbody>
+                <row>
+                  <entry/>
+                  <entry>
+                    <emphasis effect="bold">proton</emphasis>
+                  </entry>
+                  <entry>
+                    <emphasis effect="bold">neutron</emphasis>
+                  </entry>
+                  <entry>
+                    <emphasis effect="bold">electron</emphasis>
+                  </entry>
+                </row>
+                <row>
+                  <entry>
+                    <emphasis effect="bold">Mass (kg)</emphasis>
+                  </entry>
+                  <entry><m:math overflow="scroll"><m:mn>1</m:mn><m:mo>,</m:mo><m:mn>6726</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>27</m:mn></m:mrow></m:msup></m:math></entry>
+                  <entry><m:math overflow="scroll"><m:mn>1</m:mn><m:mo>,</m:mo><m:mn>6749</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>27</m:mn></m:mrow></m:msup></m:math></entry>
+                  <entry><m:math overflow="scroll"><m:mn>9</m:mn><m:mo>,</m:mo><m:mn>11</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>31</m:mn></m:mrow></m:msup></m:math></entry>
+                </row>
+                <row>
+                  <entry>
+                    <emphasis effect="bold">Units of charge</emphasis>
+                  </entry>
+                  <entry><m:math><m:mo>+</m:mo><m:mn>1</m:mn></m:math></entry>
+                  <entry><m:math><m:mn>0</m:mn></m:math></entry>
+                  <entry><m:math><m:mo>-</m:mo><m:mn>1</m:mn></m:math></entry>
+                </row>
+                <row>
+                  <entry>
+                    <emphasis effect="bold">Charge (C)</emphasis>
+                  </entry>
+                  <entry><m:math overflow="scroll"><m:mn>1</m:mn><m:mo>,</m:mo><m:mn>6</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>19</m:mn></m:mrow></m:msup></m:math></entry>
+                  <entry><m:math><m:mn>0</m:mn></m:math></entry>
+                  <entry><m:math overflow="scroll"><m:mo>-</m:mo><m:mn>1</m:mn><m:mo>,</m:mo><m:mn>6</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>19</m:mn></m:mrow></m:msup></m:math></entry>
+                </row>
+              </tbody>
+            </tgroup>
+            <caption>Summary of the particles inside the atom</caption>
+          </table>
+
+        </section>
+      </section>
+    </section>
+    <section id="cid5">
+      <title>Atomic number and atomic mass number</title>
+      <para id="id255805">The chemical properties of an element are determined by the charge of
+its nucleus, i.e. by the <emphasis effect="bold">number of protons</emphasis>. This number is
+called the <emphasis effect="bold">atomic number</emphasis> and is denoted by the letter <emphasis effect="bold">Z</emphasis>.</para>
+<definition id="fhsst_id284"><term id="termfhsst_id284"> Atomic number (Z) </term> <meaning id="meaningfhsst_id284">
+      <para id="id255833">The number of protons in an atom </para>
+      </meaning></definition>
+      <para id="eip-164">You can find the atomic number on the periodic table. The atomic number is an integer and ranges from 1 to about 118.</para><para id="id255845">The mass of an atom depends on how many nucleons its nucleus contains.
+The number of nucleons, i.e. the total number of protons <emphasis effect="bold">plus</emphasis> neutrons,
+is called the
+<emphasis effect="bold">atomic mass number</emphasis> and is denoted by the letter <emphasis effect="bold">A</emphasis>.</para>
+<definition id="fhsst_id291"><term id="termfhsst_id291"> Atomic mass number (A) </term> <meaning id="meaningfhsst_id291">
+      <para id="id255874">The number of protons and neutrons in the nucleus of an atom </para>
+      </meaning></definition>
+      
+      
+      
+      
+      
+<note id="notfhsst_id321" type="tip">Don't confuse the notation we have used above with the way this information appears on the Periodic Table. On the Periodic Table, the atomic number usually appears in the top lefthand corner of the block or immediately above the element's symbol. The number below the element's symbol is its <emphasis effect="bold">relative atomic mass</emphasis>. This is not exactly the same as the atomic mass number. This will be explained in <link target-id="cid6" window="new">"Isotopes"</link>. The example of iron is shown below.
+      <para id="id256180">
+        <figure id="id256183">
+          <media id="id256183_media" alt="">
+            <image mime-type="image/png" src="../../media/CG10C3_004.png" id="id256183_onlineimage" width="58"><!-- NOTE: attribute width changes image size online (pixels). original width is 58. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/CG10C3_004.eps" id="id256183_printimage"/>
+          </media>
+        </figure>
+      </para>
+</note>
+      <para id="id256193">You will notice in the example of iron that the atomic mass number is more or less the same as its atomic mass. Generally, an atom that contains <emphasis effect="italics">n</emphasis> nucleons (protons and neutrons), will have a mass approximately equal to <m:math overflow="scroll"><m:mi>n</m:mi></m:math>u. For example the mass of a <m:math><m:mi mathvariant="normal">C</m:mi><m:mi>-</m:mi><m:mn>12</m:mn></m:math> atom which has 6 protons, 6 neutrons and 6 electrons is 12u, where the protons and neutrons have about the same mass and the electron mass is negligible.</para>
+<exercise id="eip-950"><problem id="eip-686">
+  <para id="eip-509">Use standard notation to represent sodium and give the number of protons, neutrons and electrons in the element.
+  </para>
+</problem>
+
+<solution id="eip-600">
+  <para id="eip-374"><list id="listfhsst_id431" list-type="enumerated" number-style="arabic" class="stepwise"><item><label>Write the element symbol</label>Sodium is given by <m:math><m:mi>Na</m:mi></m:math></item>
+<item><label>Write down the number of protons</label>Sodium has 11 protons, so we have: <m:math><m:msub><m:mrow/><m:mn>11</m:mn></m:msub><m:mi>Na</m:mi></m:math></item>
+<item><label>Write down the number of neutrons</label>Sodium has 12 neutrons.</item>
+<item><label>Work out A</label><m:math><m:mi>A</m:mi><m:mo>=</m:mo><m:mi>N</m:mi><m:mo>+</m:mo><m:mi>Z</m:mi><m:mo>=</m:mo><m:mn>12</m:mn><m:mo>+</m:mo><m:mn>11</m:mn><m:mo>=</m:mo><m:mn>23</m:mn></m:math></item>
+<item><label>Write the answer</label>In standard notation sodium is given by: <m:math><m:msubsup><m:mrow/><m:mn>11</m:mn><m:mn>23</m:mn></m:msubsup><m:mi>Na</m:mi></m:math>. The number of protons is 11, the number of neutrons is 12 and the number of electrons is 11.</item>
+</list>
+  </para>
+</solution>
+</exercise><section id="secfhsst_id332"><title> The structure of the atom
+      </title>
+      <list id="id256225" display="block" list-type="enumerated"><item id="uid15">Explain the meaning of each of the following terms:
+<list id="id256240" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid16">nucleus
+</item><item id="uid17">electron
+</item><item id="uid18">atomic mass
+</item></list><link window="new" class="fullmarks" url=" http://www.fhsst.org/ll0">Click here for the solution</link></item>
+        <item id="uid19">Complete the following table: (Note: You will see that the atomic masses on the Periodic Table are not <emphasis effect="italics">whole numbers</emphasis>. This will be explained later. For now, you can round off to the nearest whole number.)
+<table id="id256298" summary="table of atomic mass and number">
+<tgroup cols="6"><tbody><row><entry><emphasis effect="bold">Element</emphasis></entry><entry><emphasis effect="bold">Atomic mass</emphasis></entry><entry><emphasis effect="bold">Atomic number</emphasis></entry><entry><emphasis effect="bold">Number of protons</emphasis></entry><entry><emphasis effect="bold">Number of electrons</emphasis></entry><entry><emphasis effect="bold">Number of neutrons</emphasis></entry></row><row><entry><m:math><m:mi>Mg</m:mi></m:math></entry><entry>24</entry><entry>12</entry><entry/><entry/><entry/></row><row><entry><m:math><m:mi mathvariant="normal">O</m:mi></m:math></entry><entry/><entry/><entry>8</entry><entry/><entry/></row><row><entry/><entry/><entry>17</entry><entry/><entry/><entry/></row><row><entry><m:math><m:mi>Ni</m:mi></m:math></entry><entry/><entry/><entry/><entry>28</entry><entry/></row><row><entry/><entry>40</entry><entry/><entry/><entry/><entry>20</entry></row><row><entry><m:math><m:mi>Zn</m:mi></m:math></entry><entry/><entry/><entry/><entry/><entry/></row><row><entry/><entry/><entry/><entry/><entry/><entry>0</entry></row><row><entry><m:math><m:mi mathvariant="normal">C</m:mi></m:math></entry><entry>12</entry><entry/><entry/><entry>6</entry><entry/></row></tbody>
+</tgroup>
+</table><link window="new" class="fullmarks" url=" http://www.fhsst.org/ll8">Click here for the solution</link></item>
+        <item id="uid20">Use standard notation to represent the following elements:
+<list id="id256772" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid21">potassium
+</item><item id="uid22">copper
+</item><item id="uid23">chlorine
+</item></list><link window="new" class="fullmarks" url=" http://www.fhsst.org/ll9">Click here for the solution</link></item>
+        <item id="uid24">
+For the element <m:math overflow="scroll"><m:msubsup><m:mrow/><m:mn>17</m:mn><m:mn>35</m:mn></m:msubsup><m:mi>Cl</m:mi></m:math>, give the number of ...
+<list id="id256843" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid25">protons
+</item><item id="uid26">neutrons
+</item><item id="uid27">electrons
+</item></list>
+... in the atom.<newline/><link window="new" class="fullmarks" url=" http://www.fhsst.org/llX">Click here for the solution</link>
+</item>
+        <item id="uid28">Which of the following atoms has 7 electrons?
+<list id="id256898" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid29"><m:math overflow="scroll"><m:msubsup><m:mrow/><m:mn>2</m:mn><m:mn>5</m:mn></m:msubsup><m:mi>He</m:mi></m:math>
+</item><item id="uid30"><m:math overflow="scroll"><m:msubsup><m:mrow/><m:mn>6</m:mn><m:mn>13</m:mn></m:msubsup><m:mi mathvariant="normal">C</m:mi></m:math>
+</item><item id="uid31"><m:math overflow="scroll"><m:msubsup><m:mrow/><m:mn>3</m:mn><m:mn>7</m:mn></m:msubsup><m:mi>Li</m:mi></m:math>
+</item><item id="uid32"><m:math overflow="scroll"><m:msubsup><m:mrow/><m:mn>7</m:mn><m:mn>15</m:mn></m:msubsup><m:mi mathvariant="normal">N</m:mi></m:math>
+</item></list><link window="new" class="fullmarks" url=" http://www.fhsst.org/llk">Click here for the solution</link></item>
+        <item id="uid33">
+In each of the following cases, give the number or the element symbol represented by 'X'.
+<list id="id257023" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid34"><m:math overflow="scroll"><m:msubsup><m:mrow/><m:mn>18</m:mn><m:mn>40</m:mn></m:msubsup><m:mi mathvariant="normal">X</m:mi></m:math>
+</item><item id="uid35"><m:math overflow="scroll"><m:msubsup><m:mrow/><m:mn>20</m:mn><m:mi>x</m:mi></m:msubsup><m:mi mathvariant="normal">Ca</m:mi></m:math>
+</item><item id="uid36"><m:math overflow="scroll"><m:msubsup><m:mrow/><m:mi>x</m:mi><m:mn>31</m:mn></m:msubsup><m:mi mathvariant="normal">P</m:mi></m:math>
+</item></list><link window="new" class="fullmarks" url=" http://www.fhsst.org/llK">Click here for the solution</link></item>
+        <item id="uid37">
+Complete the following table:
+<table id="id257121" summary=""><tgroup cols="4"><tbody><row><entry/><entry><emphasis effect="bold">A</emphasis></entry><entry><emphasis effect="bold">Z</emphasis></entry><entry><emphasis effect="bold">N</emphasis></entry></row><row><entry><m:math overflow="scroll"><m:msubsup><m:mrow/><m:mn>92</m:mn><m:mn>235</m:mn></m:msubsup><m:mi mathvariant="normal">U</m:mi></m:math></entry><entry/><entry/><entry/></row><row><entry><m:math overflow="scroll"><m:msubsup><m:mrow/><m:mn>92</m:mn><m:mn>238</m:mn></m:msubsup><m:mi mathvariant="normal">U</m:mi></m:math></entry><entry/><entry/><entry/></row></tbody></tgroup></table>
+In these two different forms of Uranium...
+<list id="id257277" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid38">What is the <emphasis effect="italics">same</emphasis>?
+</item><item id="uid39">What is <emphasis effect="italics">different</emphasis>?
+</item></list>
+Uranium can occur in different forms, called <emphasis effect="italics">isotopes</emphasis>. You will learn more about isotopes in <link target-id="cid6">"Isotopes"</link>.<newline/><link window="new" class="fullmarks" url=" http://www.fhsst.org/llB">Click here for the solution</link>
+</item>
+      </list>
+      
+</section>
+    </section>
+  </content>
+</document>
